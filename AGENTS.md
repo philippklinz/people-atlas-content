@@ -9,6 +9,8 @@ Read README.md, docs/AUTHORING.md and schemas/1.0.0 before editing.
 - Preserve uncertain, disputed and unknown dates. Civil year zero is invalid. Living status is explicit, never inferred from a missing death date.
 - Category membership can overlap. A parent includes descendants; do not introduce cycles.
 - Original prose must be maintained in English and German for the current complete editions. MO-13 targets all 24 EU languages; do not advertise unfinished translations.
+- Use gender-inclusive German for generic person/group labels (for example Mathematiker:innen), or natural neutral wording. Biographies use appropriate person-specific forms; preserve source titles as published.
+- The women-in-science category explicitly includes mathematicians as well as women in scientific and technical research. Keep their subject categories too; this is an additional cross-disciplinary selection.
 - Portraits are local assets with creator, source, license and accessible descriptions. Do not hotlink images or invent historical portraits.
 - Original prose is GPL-2.0-only. Preserve the individual rights of third-party images and source texts. Summarise sources in original wording.
 - Run python3 tools/check.py after changes. Validate against the JSON Schemas when an editor supports them. Passing checks does not certify historical correctness.

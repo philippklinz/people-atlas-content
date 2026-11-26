@@ -28,6 +28,10 @@ Write concise original summaries. Keep external source titles as published, even
 
 A person can have several category IDs. Scientists includes its descendants automatically, so assigning scientists in addition to mathematicians is unnecessary. All category IDs are data; adding a category must not require engine code changes. Icon choices are part of the schema's visual vocabulary.
 
+The additional women-in-science category explicitly includes mathematicians alongside women in scientific and technical research. Assign it from the documented contributions in a person's sources, while retaining all subject categories. It is a cross-disciplinary selection, not a parent of the subject categories and not an exclusive alternative to them.
+
+Use gender-inclusive German for generic category and group labels, such as Wissenschaftler:innen and Mathematiker:innen. Neutral wording is welcome where natural. Person-specific descriptions retain the appropriate grammatical form, and published source titles remain unchanged.
+
 ## Language maintenance
 
 English is the translation source. Reconcile German text when the English original changes, keeping dates, names, qualifications and evidence intact. The 22 planned EU editions are not published as completed translations. Track source fingerprints and review status honestly.

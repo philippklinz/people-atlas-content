@@ -124,7 +124,8 @@
     "status": "deceased",
     "categories": [
       "mathematicians",
-      "computing"
+      "computing",
+      "women-in-science"
     ],
     "summary": {
       "de": "Erkannte Möglichkeiten programmierbarer Maschinen über das Rechnen hinaus.",
@@ -180,7 +181,8 @@
     },
     "status": "deceased",
     "categories": [
-      "mathematicians"
+      "mathematicians",
+      "women-in-science"
     ],
     "summary": {
       "de": "Nutzte Statistik und Diagramme für Reformen im Gesundheitswesen.",
@@ -330,7 +332,8 @@
     },
     "status": "deceased",
     "categories": [
-      "physicists"
+      "physicists",
+      "women-in-science"
     ],
     "summary": {
       "de": "Erforschte Radioaktivität und entdeckte mit Pierre Curie neue Elemente.",
@@ -436,7 +439,8 @@
     "status": "deceased",
     "categories": [
       "mathematicians",
-      "physicists"
+      "physicists",
+      "women-in-science"
     ],
     "summary": {
       "de": "Prägte die abstrakte Algebra und verband Symmetrien mit Erhaltungsgrößen.",
@@ -552,7 +556,8 @@
     "status": "deceased",
     "categories": [
       "artists",
-      "inventors"
+      "inventors",
+      "women-in-science"
     ],
     "summary": {
       "de": "Verband eine Filmkarriere mit Arbeiten an einem Funksteuerungsverfahren.",
@@ -608,14 +613,15 @@
     },
     "status": "deceased",
     "categories": [
-      "mathematicians"
+      "mathematicians",
+      "women-in-science"
     ],
     "summary": {
       "de": "Berechnete Flugbahnen für die amerikanische Raumfahrt.",
       "en": "Calculated trajectories for the American space programme."
     },
     "biography": {
-      "de": "Johnson arbeitete bei NACA und NASA an Flugbahnen und orbitaler Mechanik. Ihre Berechnungen unterstützten bemannte Raumflüge, darunter die Mission von John Glenn und das Apollo-Programm.",
+      "de": "Johnson arbeitete bei NACA und NASA an Flugbahnen und orbitaler Mechanik. Ihre Berechnungen unterstützten Raumflüge mit Besatzung, darunter die Mission von John Glenn und das Apollo-Programm.",
       "en": "Johnson worked at NACA and NASA on trajectories and orbital mechanics. Her calculations supported crewed spaceflight, including John Glenn’s mission and the Apollo programme."
     },
     "highlights": [
@@ -723,7 +729,8 @@
     "status": "deceased",
     "categories": [
       "naturalists",
-      "politicians"
+      "politicians",
+      "women-in-science"
     ],
     "summary": {
       "de": "Verband Umweltschutz mit Frauenrechten und demokratischem Engagement.",

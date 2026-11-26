@@ -4,7 +4,7 @@
     "parent": null,
     "icon": "science",
     "name": {
-      "de": "Wissenschaftler",
+      "de": "Wissenschaftler:innen",
       "en": "Scientists"
     },
     "description": {
@@ -17,7 +17,7 @@
     "parent": "scientists",
     "icon": "mathematics",
     "name": {
-      "de": "Mathematiker",
+      "de": "Mathematiker:innen",
       "en": "Mathematicians"
     },
     "description": {
@@ -30,7 +30,7 @@
     "parent": "scientists",
     "icon": "physics",
     "name": {
-      "de": "Physiker & Astronomen",
+      "de": "Physiker:innen & Astronom:innen",
       "en": "Physicists & astronomers"
     },
     "description": {
@@ -43,7 +43,7 @@
     "parent": "scientists",
     "icon": "nature",
     "name": {
-      "de": "Naturforscher",
+      "de": "Naturforscher:innen",
       "en": "Natural scientists"
     },
     "description": {
@@ -56,7 +56,7 @@
     "parent": "scientists",
     "icon": "computing",
     "name": {
-      "de": "Informatiker",
+      "de": "Informatiker:innen",
       "en": "Computer scientists"
     },
     "description": {
@@ -65,11 +65,24 @@
     }
   },
   {
+    "id": "women-in-science",
+    "parent": null,
+    "icon": "science",
+    "name": {
+      "de": "Frauen in Wissenschaft und Forschung",
+      "en": "Women in science and research"
+    },
+    "description": {
+      "de": "Frauen und ihre Beiträge zu Mathematik, Naturwissenschaften, Informatik und technischer Forschung.",
+      "en": "Women and their contributions to mathematics, the natural sciences, computing and technical research."
+    }
+  },
+  {
     "id": "philosophers",
     "parent": null,
     "icon": "philosophy",
     "name": {
-      "de": "Philosophen",
+      "de": "Philosoph:innen",
       "en": "Philosophers"
     },
     "description": {
@@ -82,7 +95,7 @@
     "parent": null,
     "icon": "invention",
     "name": {
-      "de": "Erfinder",
+      "de": "Erfinder:innen",
       "en": "Inventors"
     },
     "description": {
@@ -95,7 +108,7 @@
     "parent": null,
     "icon": "politics",
     "name": {
-      "de": "Politiker",
+      "de": "Politiker:innen",
       "en": "Political figures"
     },
     "description": {
@@ -108,7 +121,7 @@
     "parent": null,
     "icon": "art",
     "name": {
-      "de": "Künstler",
+      "de": "Künstler:innen",
       "en": "Artists"
     },
     "description": {
@@ -121,7 +134,7 @@
     "parent": null,
     "icon": "literature",
     "name": {
-      "de": "Schriftsteller",
+      "de": "Schriftsteller:innen",
       "en": "Writers"
     },
     "description": {

@@ -1,6 +1,6 @@
 # People Atlas content
 
-An initial curated collection of 28 people and 10 overlapping categories, from antiquity to the modern era. Each entry includes a short original biography, life dates, categories and external sources. Portraits are included where attribution and reuse terms have been recorded.
+An initial curated collection of 28 people and 11 overlapping categories, from antiquity to the modern era. Each entry includes a short original biography, life dates, categories and external sources. Portraits are included where attribution and reuse terms have been recorded.
 
 The collection is read by [people-atlas-engine](https://github.com/philippklinz/people-atlas-engine), but has no dependency on the engine's rendering code.
 
@@ -19,6 +19,8 @@ There is no content compilation step. Publish the JSON files and images as stati
 ## Editorial scope
 
 This is an introductory selection, not a complete or representative history. It includes multiple fields and some overlapping careers, but coverage is uneven and currently centred on a limited set of well-documented examples. Categories are contemporary navigational aids.
+
+Women in science and research is an additional cross-disciplinary category with eight initial entries, explicitly including mathematicians. Every person also retains their subject categories. German category and group labels use gender-inclusive wording.
 
 Dates are represented at year resolution. Approximate dates are explicitly marked. Individual notes explain important calendar differences. A life overlap does not imply a meeting, collaboration or influence.
 
