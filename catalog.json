@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "people-atlas",
+  "title": {
+    "de": "People Atlas — Menschen und ihre Zeit",
+    "en": "People Atlas — Explore lives through time"
+  },
+  "updated": "2026-11-26",
+  "license": "GPL-2.0-only",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "categories": "categories.json",
+  "collections": [
+    "people/ancient-medieval.json",
+    "people/early-modern.json",
+    "people/modern.json"
+  ],
+  "featured": [
+    "rene-descartes",
+    "isaac-newton",
+    "gottfried-leibniz",
+    "immanuel-kant"
+  ]
+}

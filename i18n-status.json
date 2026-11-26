@@ -1,0 +1,36 @@
+{
+  "sourceLanguage": "en",
+  "complete": [
+    "de",
+    "en"
+  ],
+  "planned": [
+    "bg",
+    "hr",
+    "cs",
+    "da",
+    "nl",
+    "et",
+    "fi",
+    "fr",
+    "el",
+    "hu",
+    "ga",
+    "it",
+    "lv",
+    "lt",
+    "mt",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "es",
+    "sv"
+  ],
+  "sourceSha256": "ab4d45221573abe6f498e549f0196a45fbd5574d6307fe9dadf44367a13b6984",
+  "translationProvenance": "AI-assisted",
+  "independentLanguageReview": "pending",
+  "independentHistoricalReview": "pending",
+  "updated": "2026-11-26"
+}

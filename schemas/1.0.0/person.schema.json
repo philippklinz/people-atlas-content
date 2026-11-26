@@ -1,0 +1,548 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "People Atlas person 1.0.0",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "aliases",
+    "birth",
+    "death",
+    "status",
+    "categories",
+    "summary",
+    "biography",
+    "highlights",
+    "sources"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9-]{1,79}$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "birth": {
+      "oneOf": [
+        {
+          "type": "object",
+          "required": [
+            "precision",
+            "year"
+          ],
+          "properties": {
+            "precision": {
+              "enum": [
+                "year",
+                "approximate"
+              ]
+            },
+            "year": {
+              "type": "integer",
+              "minimum": -10000,
+              "maximum": 2200,
+              "not": {
+                "const": 0
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "required": [
+            "precision",
+            "earliest",
+            "latest"
+          ],
+          "properties": {
+            "precision": {
+              "const": "range"
+            },
+            "earliest": {
+              "type": "integer",
+              "minimum": -10000,
+              "maximum": 2200,
+              "not": {
+                "const": 0
+              }
+            },
+            "latest": {
+              "type": "integer",
+              "minimum": -10000,
+              "maximum": 2200,
+              "not": {
+                "const": 0
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "required": [
+            "precision"
+          ],
+          "properties": {
+            "precision": {
+              "const": "unknown"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    },
+    "death": {
+      "anyOf": [
+        {
+          "oneOf": [
+            {
+              "type": "object",
+              "required": [
+                "precision",
+                "year"
+              ],
+              "properties": {
+                "precision": {
+                  "enum": [
+                    "year",
+                    "approximate"
+                  ]
+                },
+                "year": {
+                  "type": "integer",
+                  "minimum": -10000,
+                  "maximum": 2200,
+                  "not": {
+                    "const": 0
+                  }
+                }
+              },
+              "additionalProperties": false
+            },
+            {
+              "type": "object",
+              "required": [
+                "precision",
+                "earliest",
+                "latest"
+              ],
+              "properties": {
+                "precision": {
+                  "const": "range"
+                },
+                "earliest": {
+                  "type": "integer",
+                  "minimum": -10000,
+                  "maximum": 2200,
+                  "not": {
+                    "const": 0
+                  }
+                },
+                "latest": {
+                  "type": "integer",
+                  "minimum": -10000,
+                  "maximum": 2200,
+                  "not": {
+                    "const": 0
+                  }
+                }
+              },
+              "additionalProperties": false
+            },
+            {
+              "type": "object",
+              "required": [
+                "precision"
+              ],
+              "properties": {
+                "precision": {
+                  "const": "unknown"
+                }
+              },
+              "additionalProperties": false
+            }
+          ]
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "status": {
+      "enum": [
+        "deceased",
+        "living",
+        "unknown"
+      ]
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z][a-z0-9-]{1,79}$"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "summary": {
+      "type": "object",
+      "required": [
+        "de",
+        "en"
+      ],
+      "properties": {
+        "de": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "biography": {
+      "type": "object",
+      "required": [
+        "de",
+        "en"
+      ],
+      "properties": {
+        "de": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "dateNote": {
+      "type": "object",
+      "required": [
+        "de",
+        "en"
+      ],
+      "properties": {
+        "de": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "highlights": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "date",
+          "text"
+        ],
+        "properties": {
+          "date": {
+            "oneOf": [
+              {
+                "type": "object",
+                "required": [
+                  "precision",
+                  "year"
+                ],
+                "properties": {
+                  "precision": {
+                    "enum": [
+                      "year",
+                      "approximate"
+                    ]
+                  },
+                  "year": {
+                    "type": "integer",
+                    "minimum": -10000,
+                    "maximum": 2200,
+                    "not": {
+                      "const": 0
+                    }
+                  }
+                },
+                "additionalProperties": false
+              },
+              {
+                "type": "object",
+                "required": [
+                  "precision",
+                  "earliest",
+                  "latest"
+                ],
+                "properties": {
+                  "precision": {
+                    "const": "range"
+                  },
+                  "earliest": {
+                    "type": "integer",
+                    "minimum": -10000,
+                    "maximum": 2200,
+                    "not": {
+                      "const": 0
+                    }
+                  },
+                  "latest": {
+                    "type": "integer",
+                    "minimum": -10000,
+                    "maximum": 2200,
+                    "not": {
+                      "const": 0
+                    }
+                  }
+                },
+                "additionalProperties": false
+              },
+              {
+                "type": "object",
+                "required": [
+                  "precision"
+                ],
+                "properties": {
+                  "precision": {
+                    "const": "unknown"
+                  }
+                },
+                "additionalProperties": false
+              }
+            ]
+          },
+          "text": {
+            "type": "object",
+            "required": [
+              "de",
+              "en"
+            ],
+            "properties": {
+              "de": {
+                "type": "string",
+                "minLength": 1
+              },
+              "en": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "additionalProperties": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "title",
+          "url"
+        ],
+        "properties": {
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
+          },
+          "accessed": {
+            "type": "string",
+            "format": "date"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "portrait": {
+      "type": "object",
+      "required": [
+        "path",
+        "alt",
+        "credit",
+        "license",
+        "licenseUrl",
+        "source"
+      ],
+      "properties": {
+        "path": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^(?!/)(?!.*(?:\\.\\.|[:\\\\?#%]))[A-Za-z0-9_./-]+$"
+        },
+        "alt": {
+          "type": "object",
+          "required": [
+            "de",
+            "en"
+          ],
+          "properties": {
+            "de": {
+              "type": "string",
+              "minLength": 1
+            },
+            "en": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "additionalProperties": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "credit": {
+          "type": "string",
+          "minLength": 1
+        },
+        "license": {
+          "type": "string",
+          "minLength": 1
+        },
+        "licenseUrl": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://"
+        },
+        "source": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://"
+        },
+        "originalFile": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false,
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "const": "living"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "death": {
+            "type": "null"
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "death": {
+            "oneOf": [
+              {
+                "type": "object",
+                "required": [
+                  "precision",
+                  "year"
+                ],
+                "properties": {
+                  "precision": {
+                    "enum": [
+                      "year",
+                      "approximate"
+                    ]
+                  },
+                  "year": {
+                    "type": "integer",
+                    "minimum": -10000,
+                    "maximum": 2200,
+                    "not": {
+                      "const": 0
+                    }
+                  }
+                },
+                "additionalProperties": false
+              },
+              {
+                "type": "object",
+                "required": [
+                  "precision",
+                  "earliest",
+                  "latest"
+                ],
+                "properties": {
+                  "precision": {
+                    "const": "range"
+                  },
+                  "earliest": {
+                    "type": "integer",
+                    "minimum": -10000,
+                    "maximum": 2200,
+                    "not": {
+                      "const": 0
+                    }
+                  },
+                  "latest": {
+                    "type": "integer",
+                    "minimum": -10000,
+                    "maximum": 2200,
+                    "not": {
+                      "const": 0
+                    }
+                  }
+                },
+                "additionalProperties": false
+              },
+              {
+                "type": "object",
+                "required": [
+                  "precision"
+                ],
+                "properties": {
+                  "precision": {
+                    "const": "unknown"
+                  }
+                },
+                "additionalProperties": false
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

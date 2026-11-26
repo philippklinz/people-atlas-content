@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "People Atlas categories 1.0.0",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "name",
+      "description",
+      "icon"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z][a-z0-9-]{1,79}$"
+      },
+      "parent": {
+        "anyOf": [
+          {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9-]{1,79}$"
+          },
+          {
+            "type": "null"
+          }
+        ]
+      },
+      "name": {
+        "type": "object",
+        "required": [
+          "de",
+          "en"
+        ],
+        "properties": {
+          "de": {
+            "type": "string",
+            "minLength": 1
+          },
+          "en": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "additionalProperties": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "description": {
+        "type": "object",
+        "required": [
+          "de",
+          "en"
+        ],
+        "properties": {
+          "de": {
+            "type": "string",
+            "minLength": 1
+          },
+          "en": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "additionalProperties": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "icon": {
+        "enum": [
+          "science",
+          "mathematics",
+          "physics",
+          "nature",
+          "computing",
+          "philosophy",
+          "invention",
+          "politics",
+          "art",
+          "literature"
+        ]
+      }
+    },
+    "additionalProperties": false
+  }
+}

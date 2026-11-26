@@ -1,0 +1,455 @@
+[
+  {
+    "id": "johannes-gutenberg",
+    "name": "Johannes Gutenberg",
+    "aliases": [],
+    "birth": {
+      "year": 1400,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 1468,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Entwickelte ein europäisches Druckverfahren mit beweglichen Metalllettern.",
+      "en": "Developed a European printing process using movable metal type."
+    },
+    "biography": {
+      "de": "Gutenbergs Arbeit in Mainz verband Metalllettern, Druckfarbe und Presse zu einem wirkungsvollen System. Druck und bewegliche Lettern hatten in Ostasien bereits eine längere Geschichte.",
+      "en": "Gutenberg’s work in Mainz combined metal type, ink and a press into an effective system. Printing and movable type already had a longer history in East Asia."
+    },
+    "highlights": [],
+    "sources": [
+      {
+        "title": "Library of Congress — Johannes Gutenberg",
+        "url": "https://guides.loc.gov/gutenberg/the-printer",
+        "accessed": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "id": "leonardo-da-vinci",
+    "name": "Leonardo da Vinci",
+    "aliases": [],
+    "birth": {
+      "year": 1452,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1519,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Verband Malerei, technische Entwürfe und genaue Naturbeobachtung.",
+      "en": "Combined painting, engineering designs and close observation of nature."
+    },
+    "biography": {
+      "de": "Leonardos Zeichnungen und Notizbücher reichen von Anatomie bis zu Maschinen. Viele seiner technischen Ideen blieben Entwürfe; sie zeigen, wie eng seine künstlerische und untersuchende Arbeit verbunden war.",
+      "en": "Leonardo’s drawings and notebooks range from anatomy to machines. Many technical ideas remained designs, revealing how closely his artistic and investigative work were connected."
+    },
+    "highlights": [],
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art — Leonardo da Vinci",
+        "url": "https://www.metmuseum.org/essays/leonardo-da-vinci-1452-1519",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/leonardo-da-vinci.png",
+      "alt": {
+        "de": "Porträt von Leonardo da Vinci",
+        "en": "Portrait of Leonardo da Vinci"
+      },
+      "credit": "Attributed to Francesco Melzi",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Francesco_Melzi_-_Portrait_of_Leonardo_(colour_correction).png",
+      "originalFile": "Francesco_Melzi_-_Portrait_of_Leonardo_(colour_correction).png"
+    }
+  },
+  {
+    "id": "nicolaus-copernicus",
+    "name": "Nikolaus Kopernikus",
+    "aliases": [
+      "Nicolaus Copernicus",
+      "Mikołaj Kopernik"
+    ],
+    "birth": {
+      "year": 1473,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1543,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Entwickelte ein heliozentrisches Modell der Planetenbewegungen.",
+      "en": "Developed a heliocentric model of planetary motion."
+    },
+    "biography": {
+      "de": "Kopernikus stellte die Erde als beweglichen Planeten dar. Sein Hauptwerk wurde 1543 veröffentlicht und bildete einen wichtigen Ausgangspunkt für spätere Veränderungen der Astronomie.",
+      "en": "Copernicus described Earth as a moving planet. His major work appeared in 1543 and became an important starting point for later changes in astronomy."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1543,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichung von De revolutionibus orbium coelestium.",
+          "en": "Publication of De revolutionibus orbium coelestium."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/nicolaus-copernicus.jpg",
+      "alt": {
+        "de": "Porträt von Nikolaus Kopernikus",
+        "en": "Portrait of Nikolaus Kopernikus"
+      },
+      "credit": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Nikolaus_Kopernikus_MOT.jpg",
+      "originalFile": "Nikolaus_Kopernikus_MOT.jpg"
+    }
+  },
+  {
+    "id": "galileo-galilei",
+    "name": "Galileo Galilei",
+    "aliases": [],
+    "birth": {
+      "year": 1564,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1642,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "mathematicians",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Untersuchte Bewegung und machte das Fernrohr zum Forschungsinstrument.",
+      "en": "Studied motion and made the telescope a research instrument."
+    },
+    "biography": {
+      "de": "Galileis Beobachtungen des Himmels lieferten neue Argumente gegen überlieferte Weltbilder. Seine Experimente und mathematischen Beschreibungen der Bewegung trugen zur Entwicklung der Physik bei.",
+      "en": "Galileo’s observations of the sky supplied new arguments against inherited cosmologies. His experiments and mathematical accounts of motion contributed to the development of physics."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1610,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sidereus Nuncius beschreibt neue Fernrohrbeobachtungen.",
+          "en": "Sidereus Nuncius describes new telescopic observations."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Galileo/",
+        "accessed": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "id": "rene-descartes",
+    "name": "René Descartes",
+    "aliases": [
+      "Rene Descartes"
+    ],
+    "birth": {
+      "year": 1596,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1650,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers",
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Verknüpfte Algebra und Geometrie und fragte nach sicherem Wissen.",
+      "en": "Connected algebra and geometry and asked what makes knowledge certain."
+    },
+    "biography": {
+      "de": "Descartes gehört zu den prägenden Denkern der frühen Neuzeit. In der Mathematik verband er geometrische Probleme mit algebraischen Verfahren; in der Philosophie machte er methodischen Zweifel zum Ausgangspunkt.",
+      "en": "Descartes was an influential early-modern thinker. In mathematics he linked geometrical problems to algebraic methods; in philosophy he made methodical doubt a starting point."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1637,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Discours de la méthode mit dem Anhang La Géométrie.",
+          "en": "Discours de la méthode, with the appendix La Géométrie."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Descartes/",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/rene-descartes.jpg",
+      "alt": {
+        "de": "Porträt von René Descartes",
+        "en": "Portrait of René Descartes"
+      },
+      "credit": "After Frans Hals",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg",
+      "originalFile": "Frans_Hals_-_Portret_van_René_Descartes.jpg"
+    }
+  },
+  {
+    "id": "isaac-newton",
+    "name": "Isaac Newton",
+    "aliases": [],
+    "birth": {
+      "year": 1643,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1727,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists"
+    ],
+    "summary": {
+      "de": "Beschrieb Bewegung und Gravitation in einem mathematischen System.",
+      "en": "Described motion and gravitation within a mathematical system."
+    },
+    "biography": {
+      "de": "Newton arbeitete an Mechanik, Optik und Infinitesimalrechnung. Die Principia verbanden Bewegungen auf der Erde und am Himmel durch gemeinsame mathematische Gesetze.",
+      "en": "Newton worked on mechanics, optics and calculus. The Principia connected motion on Earth and in the heavens through shared mathematical laws."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1687,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichung der Philosophiae Naturalis Principia Mathematica.",
+          "en": "Publication of Philosophiae Naturalis Principia Mathematica."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Newton/",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Geburtsjahr 1643 folgt dem gregorianischen Kalender; im damals englischen julianischen Kalender lautet es 1642.",
+      "en": "The birth year 1643 follows the Gregorian calendar; in the Julian calendar then used in England it is 1642."
+    },
+    "portrait": {
+      "path": "assets/portraits/isaac-newton.jpg",
+      "alt": {
+        "de": "Porträt von Isaac Newton",
+        "en": "Portrait of Isaac Newton"
+      },
+      "credit": "Godfrey Kneller",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg",
+      "originalFile": "Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg"
+    }
+  },
+  {
+    "id": "gottfried-leibniz",
+    "name": "Gottfried Wilhelm Leibniz",
+    "aliases": [],
+    "birth": {
+      "year": 1646,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1716,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "philosophers",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Arbeitete an Infinitesimalrechnung, Logik und Rechenmaschinen.",
+      "en": "Worked on calculus, logic and calculating machines."
+    },
+    "biography": {
+      "de": "Leibniz entwickelte unabhängig von Newton eine Form der Infinitesimalrechnung. Seine vielseitige Arbeit umfasste Philosophie, mathematische Notation und mechanisches Rechnen.",
+      "en": "Leibniz developed a form of calculus independently of Newton. His wide-ranging work included philosophy, mathematical notation and mechanical computation."
+    },
+    "highlights": [],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Leibniz/",
+        "accessed": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "id": "immanuel-kant",
+    "name": "Immanuel Kant",
+    "aliases": [],
+    "birth": {
+      "year": 1724,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1804,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Untersuchte die Bedingungen und Grenzen menschlicher Erkenntnis.",
+      "en": "Examined the conditions and limits of human knowledge."
+    },
+    "biography": {
+      "de": "Kant fragte, wie Erfahrung und Begriffe gemeinsam Erkenntnis ermöglichen. Seine Arbeiten über Vernunft, Ethik und Urteilskraft prägten zahlreiche spätere philosophische Debatten.",
+      "en": "Kant asked how experience and concepts together make knowledge possible. His works on reason, ethics and judgment shaped many later philosophical debates."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1781,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erste Ausgabe der Kritik der reinen Vernunft.",
+          "en": "First edition of the Critique of Pure Reason."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Immanuel Kant",
+        "url": "https://plato.stanford.edu/entries/kant/",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/immanuel-kant.jpg",
+      "alt": {
+        "de": "Porträt von Immanuel Kant",
+        "en": "Portrait of Immanuel Kant"
+      },
+      "credit": "Johann Gottlieb Becker (1720-1782)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg",
+      "originalFile": "Immanuel_Kant_-_Gemaelde_1.jpg"
+    }
+  },
+  {
+    "id": "mary-wollstonecraft",
+    "name": "Mary Wollstonecraft",
+    "aliases": [],
+    "birth": {
+      "year": 1759,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1797,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers",
+      "writers"
+    ],
+    "summary": {
+      "de": "Argumentierte für Bildung und gleiche Rechte von Frauen.",
+      "en": "Argued for women’s education and equal rights."
+    },
+    "biography": {
+      "de": "Wollstonecraft verband moralphilosophische Überlegungen mit einer Kritik gesellschaftlicher Abhängigkeit. Sie schrieb politische Texte, Reiseberichte und Romane.",
+      "en": "Wollstonecraft connected moral philosophy with a critique of social dependency. She wrote political works, travel accounts and novels."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1792,
+          "precision": "year"
+        },
+        "text": {
+          "de": "A Vindication of the Rights of Woman erscheint.",
+          "en": "A Vindication of the Rights of Woman is published."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Mary Wollstonecraft",
+        "url": "https://plato.stanford.edu/entries/wollstonecraft/",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/mary-wollstonecraft.jpg",
+      "alt": {
+        "de": "Porträt von Mary Wollstonecraft",
+        "en": "Portrait of Mary Wollstonecraft"
+      },
+      "credit": "John Opie",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Mary_Wollstonecraft_Portrait.jpg",
+      "originalFile": "Mary_Wollstonecraft_Portrait.jpg"
+    }
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "scientists",
+    "parent": null,
+    "icon": "science",
+    "name": {
+      "de": "Wissenschaftler",
+      "en": "Scientists"
+    },
+    "description": {
+      "de": "Natur, Zahlen und Systeme erforschen. Enthält alle wissenschaftlichen Unterkategorien.",
+      "en": "Investigating nature, numbers and systems. Includes every scientific subcategory."
+    }
+  },
+  {
+    "id": "mathematicians",
+    "parent": "scientists",
+    "icon": "mathematics",
+    "name": {
+      "de": "Mathematiker",
+      "en": "Mathematicians"
+    },
+    "description": {
+      "de": "Von Geometrie und Algebra bis Statistik und Logik.",
+      "en": "From geometry and algebra to statistics and logic."
+    }
+  },
+  {
+    "id": "physicists",
+    "parent": "scientists",
+    "icon": "physics",
+    "name": {
+      "de": "Physiker & Astronomen",
+      "en": "Physicists & astronomers"
+    },
+    "description": {
+      "de": "Materie, Bewegung, Licht und der Blick ins Universum.",
+      "en": "Matter, motion, light and our view of the universe."
+    }
+  },
+  {
+    "id": "naturalists",
+    "parent": "scientists",
+    "icon": "nature",
+    "name": {
+      "de": "Naturforscher",
+      "en": "Natural scientists"
+    },
+    "description": {
+      "de": "Leben, Umwelt und die Vielfalt der natürlichen Welt.",
+      "en": "Life, the environment and the diversity of the natural world."
+    }
+  },
+  {
+    "id": "computing",
+    "parent": "scientists",
+    "icon": "computing",
+    "name": {
+      "de": "Informatiker",
+      "en": "Computer scientists"
+    },
+    "description": {
+      "de": "Berechenbarkeit, Programme und die Anfänge des Computers.",
+      "en": "Computability, programs and the beginnings of the computer."
+    }
+  },
+  {
+    "id": "philosophers",
+    "parent": null,
+    "icon": "philosophy",
+    "name": {
+      "de": "Philosophen",
+      "en": "Philosophers"
+    },
+    "description": {
+      "de": "Fragen nach Wissen, Denken, Ethik und Zusammenleben.",
+      "en": "Questions about knowledge, thought, ethics and society."
+    }
+  },
+  {
+    "id": "inventors",
+    "parent": null,
+    "icon": "invention",
+    "name": {
+      "de": "Erfinder",
+      "en": "Inventors"
+    },
+    "description": {
+      "de": "Ideen werden zu Verfahren, Werkzeugen und Maschinen.",
+      "en": "Ideas become processes, tools and machines."
+    }
+  },
+  {
+    "id": "politicians",
+    "parent": null,
+    "icon": "politics",
+    "name": {
+      "de": "Politiker",
+      "en": "Political figures"
+    },
+    "description": {
+      "de": "Gesellschaft gestalten, Macht ausüben und Wandel bewirken.",
+      "en": "Shaping society, exercising power and bringing about change."
+    }
+  },
+  {
+    "id": "artists",
+    "parent": null,
+    "icon": "art",
+    "name": {
+      "de": "Künstler",
+      "en": "Artists"
+    },
+    "description": {
+      "de": "Die Welt in Bildern, Formen und auf der Bühne.",
+      "en": "The world in images, forms and performance."
+    }
+  },
+  {
+    "id": "writers",
+    "parent": null,
+    "icon": "literature",
+    "name": {
+      "de": "Schriftsteller",
+      "en": "Writers"
+    },
+    "description": {
+      "de": "Literatur, Dichtung und neue gedankliche Welten.",
+      "en": "Literature, poetry and new worlds of thought."
+    }
+  }
+]

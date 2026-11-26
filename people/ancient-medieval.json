@@ -1,0 +1,186 @@
+[
+  {
+    "id": "aristotle",
+    "name": "Aristoteles",
+    "aliases": [
+      "Aristotle",
+      "Aristotélēs"
+    ],
+    "birth": {
+      "year": -384,
+      "precision": "year"
+    },
+    "death": {
+      "year": -322,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers",
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Untersuchte Logik, Ethik und die lebendige Natur.",
+      "en": "Investigated logic, ethics and the living world."
+    },
+    "biography": {
+      "de": "Aristoteles entwickelte systematische Formen des Schlussfolgerns. Seine Arbeiten zur Natur und zum menschlichen Handeln wurden über Jahrhunderte in verschiedenen philosophischen Traditionen diskutiert.",
+      "en": "Aristotle developed systematic forms of reasoning. His studies of nature and human action were debated for centuries across different philosophical traditions."
+    },
+    "highlights": [],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aristotle/",
+        "accessed": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "id": "archimedes",
+    "name": "Archimedes",
+    "aliases": [],
+    "birth": {
+      "year": -287,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": -212,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Verband geometrische Beweise mit Fragen der Mechanik.",
+      "en": "Connected geometric proofs with questions of mechanics."
+    },
+    "biography": {
+      "de": "Archimedes arbeitete in Syrakus über Flächen, Volumina, Hebel und Auftrieb. Seine mathematischen Verfahren beeinflussten spätere Entwicklungen der Analysis; viele Einzelheiten seines Lebens sind nur lückenhaft überliefert.",
+      "en": "Working in Syracuse, Archimedes studied areas, volumes, levers and buoyancy. His mathematical methods influenced later developments in calculus; many details of his life remain poorly documented."
+    },
+    "highlights": [],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Archimedes/",
+        "accessed": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "id": "hypatia",
+    "name": "Hypatia",
+    "aliases": [],
+    "birth": {
+      "year": 370,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 415,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "philosophers",
+      "physicists"
+    ],
+    "summary": {
+      "de": "Lehrte Mathematik und neuplatonische Philosophie in Alexandria.",
+      "en": "Taught mathematics and Neoplatonic philosophy in Alexandria."
+    },
+    "biography": {
+      "de": "Hypatia war eine bedeutende Lehrerin im spätantiken Alexandria. Ihr Wirken ist vor allem durch Berichte anderer und die Briefe ihres Schülers Synesios bekannt; ihre eigenen Schriften sind nicht vollständig erhalten.",
+      "en": "Hypatia was a prominent teacher in late-antique Alexandria. Her work is known mainly through other writers and letters from her student Synesius; her own writings do not survive intact."
+    },
+    "highlights": [],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hypatia/",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Geburtsjahr ist unsicher; hier wird die ungefähre Datierung von MacTutor verwendet.",
+      "en": "Her birth year is uncertain; this entry follows the approximate dating used by MacTutor."
+    }
+  },
+  {
+    "id": "al-khwarizmi",
+    "name": "Al-Chwarizmi",
+    "aliases": [
+      "al-Khwarizmi",
+      "Muhammad ibn Musa al-Khwarizmi"
+    ],
+    "birth": {
+      "year": 780,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 850,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists"
+    ],
+    "summary": {
+      "de": "Schrieb ein einflussreiches Werk über algebraische Rechenverfahren.",
+      "en": "Wrote an influential work on algebraic methods."
+    },
+    "biography": {
+      "de": "Al-Chwarizmi arbeitete im abbasidischen Bagdad an Mathematik, Astronomie und Geografie. Sein Werk über Gleichungen prägte die Algebra; die lateinische Form seines Namens lebt im Wort Algorithmus weiter.",
+      "en": "Al-Khwarizmi worked on mathematics, astronomy and geography in Abbasid Baghdad. His work on equations shaped algebra; a Latin form of his name survives in the word algorithm."
+    },
+    "highlights": [],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/",
+        "accessed": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "id": "ibn-al-haytham",
+    "name": "Ibn al-Haytham",
+    "aliases": [
+      "Alhazen"
+    ],
+    "birth": {
+      "year": 965,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 1040,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists"
+    ],
+    "summary": {
+      "de": "Erforschte Licht, Sehen und geometrische Optik.",
+      "en": "Investigated light, vision and geometrical optics."
+    },
+    "biography": {
+      "de": "Ibn al-Haytham, auch Alhazen genannt, verband mathematische Argumente mit Untersuchungen des Lichts. Seine optischen Schriften beeinflussten spätere Gelehrte in arabisch- und lateinischsprachigen Traditionen.",
+      "en": "Ibn al-Haytham, also known as Alhazen, combined mathematical arguments with investigations of light. His optical writings influenced later scholars in Arabic- and Latin-language traditions."
+    },
+    "highlights": [],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Haytham/",
+        "accessed": "2026-11-26"
+      }
+    ]
+  }
+]

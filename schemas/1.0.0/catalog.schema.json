@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "People Atlas catalog 1.0.0",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "id",
+    "title",
+    "updated",
+    "license",
+    "languages",
+    "categories",
+    "collections"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": "1.0.0"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9-]{1,79}$"
+    },
+    "title": {
+      "type": "object",
+      "required": [
+        "de",
+        "en"
+      ],
+      "properties": {
+        "de": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "updated": {
+      "type": "string",
+      "format": "date"
+    },
+    "license": {
+      "type": "string",
+      "minLength": 1
+    },
+    "languages": {
+      "type": "array",
+      "minItems": 2,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z]{2}$"
+      }
+    },
+    "categories": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^(?!/)(?!.*(?:\\.\\.|[:\\\\?#%]))[A-Za-z0-9_./-]+$"
+    },
+    "collections": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "^(?!/)(?!.*(?:\\.\\.|[:\\\\?#%]))[A-Za-z0-9_./-]+$"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "featured": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z][a-z0-9-]{1,79}$"
+      },
+      "uniqueItems": true
+    }
+  },
+  "additionalProperties": false
+}

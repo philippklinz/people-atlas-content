@@ -1,0 +1,768 @@
+[
+  {
+    "id": "mary-shelley",
+    "name": "Mary Shelley",
+    "aliases": [
+      "Mary Wollstonecraft Shelley"
+    ],
+    "birth": {
+      "year": 1797,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1851,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Erkundete in Frankenstein Schöpfung, Verantwortung und Ausgrenzung.",
+      "en": "Explored creation, responsibility and exclusion in Frankenstein."
+    },
+    "biography": {
+      "de": "Mary Shelley begann Frankenstein als junge Frau. Der Roman verbindet eine erfundene wissenschaftliche Grenzüberschreitung mit Fragen nach Verantwortung und gesellschaftlicher Zugehörigkeit.",
+      "en": "Mary Shelley began Frankenstein as a young woman. The novel connects an imagined scientific transgression with questions of responsibility and social belonging."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1818,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Frankenstein erscheint zunächst anonym.",
+          "en": "Frankenstein is first published anonymously."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "University of Oxford — Frankenstein by Mary Shelley",
+        "url": "https://english.web.ox.ac.uk/node/1278201",
+        "accessed": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "id": "charles-darwin",
+    "name": "Charles Darwin",
+    "aliases": [],
+    "birth": {
+      "year": 1809,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1882,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Entwickelte eine Erklärung evolutionären Wandels durch natürliche Selektion.",
+      "en": "Developed an explanation of evolutionary change through natural selection."
+    },
+    "biography": {
+      "de": "Darwin verband Beobachtungen von Reisen, Züchtung und Naturgeschichte. Seine Theorie entstand in einem breiten Forschungsumfeld; Alfred Russel Wallace entwickelte unabhängig ebenfalls eine Theorie natürlicher Selektion.",
+      "en": "Darwin connected observations from travel, breeding and natural history. His theory emerged within a broad research community; Alfred Russel Wallace independently developed a theory of natural selection too."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1859,
+          "precision": "year"
+        },
+        "text": {
+          "de": "On the Origin of Species wird veröffentlicht.",
+          "en": "On the Origin of Species is published."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Darwin Correspondence Project — About Darwin",
+        "url": "https://www.darwinproject.ac.uk/about-darwin",
+        "accessed": "2026-11-26"
+      },
+      {
+        "title": "The Linnean Society — Charles Darwin",
+        "url": "https://www.linnean.org/the-society/history-of-science/charles-darwin",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/charles-darwin.jpg",
+      "alt": {
+        "de": "Porträt von Charles Darwin",
+        "en": "Portrait of Charles Darwin"
+      },
+      "credit": "Charles_Darwin_seated.jpg : Henry Maull (1829–1914) and John Fox (1832–1907) (Maull & Fox) [ 3 ] derivative work: Bea o",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_seated_crop.jpg",
+      "originalFile": "Charles_Darwin_seated_crop.jpg"
+    }
+  },
+  {
+    "id": "ada-lovelace",
+    "name": "Ada Lovelace",
+    "aliases": [
+      "Augusta Ada King",
+      "Ada Byron"
+    ],
+    "birth": {
+      "year": 1815,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1852,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "computing"
+    ],
+    "summary": {
+      "de": "Erkannte Möglichkeiten programmierbarer Maschinen über das Rechnen hinaus.",
+      "en": "Saw possibilities for programmable machines beyond arithmetic."
+    },
+    "biography": {
+      "de": "Lovelaces Anmerkungen zur Analytical Engine von Charles Babbage enthalten einen Ablauf zur Berechnung von Bernoulli-Zahlen. Sie diskutierte auch, wie eine solche Maschine mit anderen symbolisch darstellbaren Gegenständen umgehen könnte.",
+      "en": "Lovelace’s notes on Charles Babbage’s Analytical Engine include a procedure for calculating Bernoulli numbers. She also discussed how such a machine could work with other symbolically represented objects."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1843,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichung ihrer Anmerkungen zur Analytical Engine.",
+          "en": "Publication of her notes on the Analytical Engine."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lovelace/",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/ada-lovelace.png",
+      "alt": {
+        "de": "Porträt von Ada Lovelace",
+        "en": "Portrait of Ada Lovelace"
+      },
+      "credit": "Antoine Claudet",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png",
+      "originalFile": "Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png"
+    }
+  },
+  {
+    "id": "florence-nightingale",
+    "name": "Florence Nightingale",
+    "aliases": [],
+    "birth": {
+      "year": 1820,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1910,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Nutzte Statistik und Diagramme für Reformen im Gesundheitswesen.",
+      "en": "Used statistics and diagrams to support healthcare reforms."
+    },
+    "biography": {
+      "de": "Nightingale verband Krankenpflege mit systematischer Datenauswertung. Ihre Darstellungen von Sterblichkeit machten gesundheitliche Missstände sichtbar und unterstützten Forderungen nach besseren Bedingungen.",
+      "en": "Nightingale combined nursing with systematic data analysis. Her representations of mortality made health problems visible and supported demands for better conditions."
+    },
+    "highlights": [],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Nightingale/",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/florence-nightingale.jpg",
+      "alt": {
+        "de": "Porträt von Florence Nightingale",
+        "en": "Portrait of Florence Nightingale"
+      },
+      "credit": "Henry Hering (1814-1893)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Florence_Nightingale_(H_Hering_NPG_x82368).jpg",
+      "originalFile": "Florence_Nightingale_(H_Hering_NPG_x82368).jpg"
+    }
+  },
+  {
+    "id": "nikola-tesla",
+    "name": "Nikola Tesla",
+    "aliases": [],
+    "birth": {
+      "year": 1856,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1943,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Entwickelte Elektromotoren und Systeme für mehrphasigen Wechselstrom.",
+      "en": "Developed electric motors and polyphase alternating-current systems."
+    },
+    "biography": {
+      "de": "Tesla arbeitete an elektrischer Energieübertragung und Hochfrequenztechnik. Seine Motoren und Patente waren Teil einer breiteren industriellen Entwicklung elektrischer Netze.",
+      "en": "Tesla worked on electrical power transmission and high-frequency technology. His motors and patents formed part of the broader industrial development of electrical networks."
+    },
+    "highlights": [],
+    "sources": [
+      {
+        "title": "Lemelson-MIT — Nikola Tesla",
+        "url": "https://lemelson.mit.edu/resources/nikola-tesla",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/nikola-tesla.jpg",
+      "alt": {
+        "de": "Porträt von Nikola Tesla",
+        "en": "Portrait of Nikola Tesla"
+      },
+      "credit": "Napoleon Sarony",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Tesla_circa_1890.jpeg",
+      "originalFile": "Tesla_circa_1890.jpeg"
+    }
+  },
+  {
+    "id": "rabindranath-tagore",
+    "name": "Rabindranath Tagore",
+    "aliases": [],
+    "birth": {
+      "year": 1861,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1941,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers",
+      "artists"
+    ],
+    "summary": {
+      "de": "Verband bengalische Dichtung mit Musik, Kunst und Bildungsarbeit.",
+      "en": "Connected Bengali poetry with music, art and education."
+    },
+    "biography": {
+      "de": "Tagores Werk umfasst Gedichte, Lieder, Erzählungen und Malerei. Er entwickelte in Santiniketan eigene Bildungsideen und trat für kulturellen Austausch ein.",
+      "en": "Tagore’s work spans poetry, songs, stories and painting. He developed educational ideas at Santiniketan and advocated cultural exchange."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1913,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Nobelpreis für Literatur.",
+          "en": "Nobel Prize in Literature."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nobel Prize — Rabindranath Tagore, biography",
+        "url": "https://www.nobelprize.org/prizes/literature/1913/tagore/biographical/",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/rabindranath-tagore.jpg",
+      "alt": {
+        "de": "Porträt von Rabindranath Tagore",
+        "en": "Portrait of Rabindranath Tagore"
+      },
+      "credit": "Georges Chevalier",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:1926_Rabindrath_Tagore.jpg",
+      "originalFile": "1926_Rabindrath_Tagore.jpg"
+    }
+  },
+  {
+    "id": "marie-curie",
+    "name": "Marie Skłodowska Curie",
+    "aliases": [
+      "Marie Curie",
+      "Maria Skłodowska"
+    ],
+    "birth": {
+      "year": 1867,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1934,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists"
+    ],
+    "summary": {
+      "de": "Erforschte Radioaktivität und entdeckte mit Pierre Curie neue Elemente.",
+      "en": "Studied radioactivity and discovered new elements with Pierre Curie."
+    },
+    "biography": {
+      "de": "Curie untersuchte radioaktive Stoffe unter schwierigen Arbeitsbedingungen. Sie erhielt Nobelpreise in Physik und Chemie; ihre Forschung verband präzise Messungen mit aufwendiger chemischer Trennung.",
+      "en": "Curie investigated radioactive substances under difficult working conditions. She received Nobel Prizes in physics and chemistry, combining precise measurements with demanding chemical separations."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1911,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Nobelpreis für Chemie nach dem Physikpreis von 1903.",
+          "en": "Nobel Prize in Chemistry, following the 1903 Physics Prize."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nobel Prize — Marie Curie, biography",
+        "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/marie-curie.jpg",
+      "alt": {
+        "de": "Porträt von Marie Skłodowska Curie",
+        "en": "Portrait of Marie Skłodowska Curie"
+      },
+      "credit": "Henri Manuel",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg",
+      "originalFile": "Marie_Curie_c._1920s.jpg"
+    }
+  },
+  {
+    "id": "albert-einstein",
+    "name": "Albert Einstein",
+    "aliases": [],
+    "birth": {
+      "year": 1879,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1955,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists"
+    ],
+    "summary": {
+      "de": "Veränderte das Verständnis von Raum, Zeit und Gravitation.",
+      "en": "Changed the understanding of space, time and gravitation."
+    },
+    "biography": {
+      "de": "Einstein entwickelte die spezielle und allgemeine Relativitätstheorie. Er arbeitete außerdem über Brownsche Bewegung und Lichtquanten; der Nobelpreis würdigte insbesondere seine Erklärung des photoelektrischen Effekts.",
+      "en": "Einstein developed special and general relativity. He also worked on Brownian motion and light quanta; his Nobel Prize particularly recognised his explanation of the photoelectric effect."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1905,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Arbeiten zu Lichtquanten, Brownscher Bewegung und spezieller Relativität.",
+          "en": "Papers on light quanta, Brownian motion and special relativity."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nobel Prize — Albert Einstein, biography",
+        "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+        "accessed": "2026-11-26"
+      },
+      {
+        "title": "Nobel Prize — Albert Einstein, facts",
+        "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/",
+        "accessed": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "id": "emmy-noether",
+    "name": "Emmy Noether",
+    "aliases": [],
+    "birth": {
+      "year": 1882,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1935,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists"
+    ],
+    "summary": {
+      "de": "Prägte die abstrakte Algebra und verband Symmetrien mit Erhaltungsgrößen.",
+      "en": "Shaped abstract algebra and connected symmetries to conserved quantities."
+    },
+    "biography": {
+      "de": "Noethers Arbeit veränderte die Untersuchung algebraischer Strukturen. Ihr Satz über Symmetrien und Erhaltungssätze wurde grundlegend für die theoretische Physik. 1933 musste sie Deutschland verlassen.",
+      "en": "Noether’s work transformed the study of algebraic structures. Her theorem on symmetries and conservation laws became fundamental to theoretical physics. In 1933 she had to leave Germany."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1918,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichung von Invariante Variationsprobleme.",
+          "en": "Publication of Invariante Variationsprobleme."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Noether_Emmy/",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/emmy-noether.jpg",
+      "alt": {
+        "de": "Porträt von Emmy Noether",
+        "en": "Portrait of Emmy Noether"
+      },
+      "credit": "Unknown author Unknown author Publisher: Mathematical Association of America [3] , Brooklyn Museum [4] , Agnes Scott College [5] , [6]",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Emmy_Noether_(3x4_cropped).jpg",
+      "originalFile": "Emmy_Noether_(3x4_cropped).jpg"
+    }
+  },
+  {
+    "id": "alan-turing",
+    "name": "Alan Turing",
+    "aliases": [],
+    "birth": {
+      "year": 1912,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1954,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "computing"
+    ],
+    "summary": {
+      "de": "Formalisierte Berechenbarkeit und arbeitete an frühen Computern.",
+      "en": "Formalised computability and worked on early computers."
+    },
+    "biography": {
+      "de": "Turings abstraktes Maschinenmodell machte die Grenzen algorithmischer Verfahren untersuchbar. Er war außerdem an der britischen Kryptoanalyse im Zweiten Weltkrieg beteiligt und beschäftigte sich später mit mathematischer Biologie.",
+      "en": "Turing’s abstract machine model made the limits of algorithmic procedures open to study. He also contributed to British wartime cryptanalysis and later investigated mathematical biology."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1936,
+          "precision": "year"
+        },
+        "text": {
+          "de": "On Computable Numbers führt das Modell der Turingmaschine ein.",
+          "en": "On Computable Numbers introduces the Turing machine model."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Turing/",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/alan-turing.jpg",
+      "alt": {
+        "de": "Porträt von Alan Turing",
+        "en": "Portrait of Alan Turing"
+      },
+      "credit": "Elliott & Fry",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Alan_turing_header.jpg",
+      "originalFile": "Alan_turing_header.jpg"
+    }
+  },
+  {
+    "id": "hedy-lamarr",
+    "name": "Hedy Lamarr",
+    "aliases": [
+      "Hedwig Eva Maria Kiesler"
+    ],
+    "birth": {
+      "year": 1914,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2000,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Verband eine Filmkarriere mit Arbeiten an einem Funksteuerungsverfahren.",
+      "en": "Combined a film career with work on a radio-control method."
+    },
+    "biography": {
+      "de": "Die in Wien geborene Schauspielerin entwickelte mit George Antheil ein Frequenzsprungverfahren zur Torpedosteuerung. Das gemeinsame Patent wurde 1942 erteilt.",
+      "en": "The Vienna-born actor developed a frequency-hopping method for torpedo control with George Antheil. Their joint patent was granted in 1942."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1942,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gemeinsames Patent mit George Antheil.",
+          "en": "Joint patent with George Antheil."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Women’s History Museum — Hedy Lamarr",
+        "url": "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/hedy-lamarr.jpg",
+      "alt": {
+        "de": "Porträt von Hedy Lamarr",
+        "en": "Portrait of Hedy Lamarr"
+      },
+      "credit": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg",
+      "originalFile": "Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg"
+    }
+  },
+  {
+    "id": "katherine-johnson",
+    "name": "Katherine Johnson",
+    "aliases": [],
+    "birth": {
+      "year": 1918,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2020,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Berechnete Flugbahnen für die amerikanische Raumfahrt.",
+      "en": "Calculated trajectories for the American space programme."
+    },
+    "biography": {
+      "de": "Johnson arbeitete bei NACA und NASA an Flugbahnen und orbitaler Mechanik. Ihre Berechnungen unterstützten bemannte Raumflüge, darunter die Mission von John Glenn und das Apollo-Programm.",
+      "en": "Johnson worked at NACA and NASA on trajectories and orbital mechanics. Her calculations supported crewed spaceflight, including John Glenn’s mission and the Apollo programme."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1962,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Überprüft die Berechnungen für John Glenns Erdumrundung.",
+          "en": "Checks the calculations for John Glenn’s orbital flight."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "NASA — Katherine Johnson Biography",
+        "url": "https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/katherine-johnson.jpg",
+      "alt": {
+        "de": "Porträt von Katherine Johnson",
+        "en": "Portrait of Katherine Johnson"
+      },
+      "credit": "NASA",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Katherine_Johnson_1983.jpg",
+      "originalFile": "Katherine_Johnson_1983.jpg"
+    }
+  },
+  {
+    "id": "nelson-mandela",
+    "name": "Nelson Mandela",
+    "aliases": [
+      "Rolihlahla Mandela"
+    ],
+    "birth": {
+      "year": 1918,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2013,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Bekämpfte die Apartheid und wurde Präsident Südafrikas.",
+      "en": "Fought apartheid and became president of South Africa."
+    },
+    "biography": {
+      "de": "Mandela gehörte zu den führenden Akteuren des südafrikanischen Befreiungskampfes. Nach 27 Jahren Haft wirkte er an Verhandlungen zum Ende der Apartheid mit und wurde 1994 Präsident.",
+      "en": "Mandela was a leading figure in South Africa’s liberation struggle. After 27 years in prison, he helped negotiate the end of apartheid and became president in 1994."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1994,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wahl zum Präsidenten Südafrikas.",
+          "en": "Elected president of South Africa."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nelson Mandela Foundation — Biography",
+        "url": "https://www.nelsonmandela.org/biography",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/nelson-mandela.jpg",
+      "alt": {
+        "de": "Porträt von Nelson Mandela",
+        "en": "Portrait of Nelson Mandela"
+      },
+      "credit": "Kingkongphoto & www.celebrity-photos.com from Laurel",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nelson_Mandela_1994.jpg",
+      "originalFile": "Nelson_Mandela_1994.jpg"
+    }
+  },
+  {
+    "id": "wangari-maathai",
+    "name": "Wangari Maathai",
+    "aliases": [],
+    "birth": {
+      "year": 1940,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2011,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "politicians"
+    ],
+    "summary": {
+      "de": "Verband Umweltschutz mit Frauenrechten und demokratischem Engagement.",
+      "en": "Connected environmental protection with women’s rights and democratic engagement."
+    },
+    "biography": {
+      "de": "Die kenianische Wissenschaftlerin gründete das Green Belt Movement. Das Pflanzen von Bäumen wurde mit gemeinschaftlichem Handeln, Existenzsicherung und politischer Teilhabe verbunden.",
+      "en": "The Kenyan scientist founded the Green Belt Movement. Tree planting became connected with community action, livelihoods and political participation."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 2004,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Nobelpreis für Frieden.",
+          "en": "Nobel Peace Prize."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nobel Prize — Wangari Maathai, biography",
+        "url": "https://www.nobelprize.org/prizes/peace/2004/maathai/biographical/",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/wangari-maathai.jpg",
+      "alt": {
+        "de": "Porträt von Wangari Maathai",
+        "en": "Portrait of Wangari Maathai"
+      },
+      "credit": "Kingkongphoto & www.celebrity-photos.com from Laurel Maryland, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wangari_Maathai_in_2001.jpg",
+      "originalFile": "Wangari_Maathai_in_2001.jpg"
+    }
+  }
+]
