@@ -1,0 +1,1181 @@
+[
+  {
+    "id": "wilhelm-wundt",
+    "name": "Wilhelm Wundt",
+    "aliases": [
+      "Wilhelm Maximilian Wundt"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1832
+    },
+    "death": {
+      "precision": "year",
+      "year": 1920
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists",
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Psychologe und Philosoph der experimentellen Bewusstseinsforschung.",
+      "en": "Psychologist and philosopher who investigated consciousness experimentally."
+    },
+    "biography": {
+      "de": "Wundt verband seine Ausbildung in Medizin und Physiologie mit Fragen nach Wahrnehmung und Bewusstsein. In Leipzig etablierte er experimentelle Forschung und eine internationale Ausbildung in Psychologie. Zugleich untersuchte er Sprache und kulturelle Entwicklung mit historischen Methoden: Für ihn konnte das Labor nicht sämtliche Formen menschlichen Denkens erklären.",
+      "en": "Wundt brought medical and physiological training to questions about perception and consciousness. At Leipzig he established experimental research and an international training programme in psychology. He also investigated language and cultural development through historical methods, maintaining that laboratory experiments alone could not explain every form of human thought."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1874
+        },
+        "text": {
+          "de": "Die Erstausgabe der Grundzüge der physiologischen Psychologie ist abgeschlossen.",
+          "en": "Completes the first edition of Grundzüge der physiologischen Psychologie."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1879
+        },
+        "text": {
+          "de": "Richtet in Leipzig ein Institut für experimentelle Psychologie ein.",
+          "en": "Establishes an institute for experimental psychology in Leipzig."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Wilhelm Maximilian Wundt — Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/wilhelm-wundt/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "william-james",
+    "name": "William James",
+    "aliases": [],
+    "birth": {
+      "precision": "year",
+      "year": 1842
+    },
+    "death": {
+      "precision": "year",
+      "year": 1910
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists",
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Psychologe und Philosoph des Pragmatismus.",
+      "en": "Psychologist and philosopher associated with pragmatism."
+    },
+    "biography": {
+      "de": "James lehrte in Harvard Physiologie, Psychologie und Philosophie. Er beschrieb Bewusstsein als fortlaufenden Prozess und untersuchte Gewohnheiten, Aufmerksamkeit und religiöse Erfahrung. Sein Pragmatismus fragte nach den erfahrbaren Folgen von Begriffen und Überzeugungen. Dabei verband er psychologische Beobachtung mit einer pluralistischen Philosophie, die unterschiedliche Perspektiven ernst nahm.",
+      "en": "James taught physiology, psychology and philosophy at Harvard. He examined consciousness as a continuous process alongside habit, attention and religious experience. His pragmatism asked what observable differences ideas and beliefs make in experience. He linked psychological observation with a pluralistic philosophy that took differing perspectives seriously."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1890
+        },
+        "text": {
+          "de": "Veröffentlicht The Principles of Psychology.",
+          "en": "Publishes The Principles of Psychology."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1907
+        },
+        "text": {
+          "de": "Entfaltet in Pragmatism seine pragmatische Methode.",
+          "en": "Develops his pragmatic method in Pragmatism."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "William James — Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/james/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "ivan-pavlov",
+    "name": "Ivan Pavlov",
+    "aliases": [
+      "Ivan Petrovich Pavlov",
+      "Iwan Petrowitsch Pawlow"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1849
+    },
+    "death": {
+      "precision": "year",
+      "year": 1936
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Physiologe der Verdauung und der bedingten Reflexe.",
+      "en": "Physiologist who studied digestion and conditioned reflexes."
+    },
+    "biography": {
+      "de": "Pavlov erforschte in Sankt Petersburg die Steuerung der Verdauung. Seine Versuche an Hunden verbanden operative Eingriffe mit der Messung von Drüsensekreten. Beobachtungen dabei führten zur Untersuchung erlernter Reaktionen auf zuvor neutrale Signale. Diese Forschung prägte die Lernpsychologie; der Nobelpreis würdigte ausdrücklich seine Arbeiten zur Verdauungsphysiologie.",
+      "en": "Working in St Petersburg, Pavlov investigated the regulation of digestion. His dog experiments combined surgical procedures with measurements of glandular secretions. Observations during this work led him to study learned responses to previously neutral signals. These investigations influenced learning psychology; his Nobel Prize specifically recognised research on digestive physiology."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1897
+        },
+        "text": {
+          "de": "Veröffentlicht eine Monografie über die Arbeit der Verdauungsdrüsen.",
+          "en": "Publishes a monograph on the work of the digestive glands."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1904
+        },
+        "text": {
+          "de": "Erhält den Nobelpreis für seine Forschung zur Verdauungsphysiologie.",
+          "en": "Receives the Nobel Prize for his research on digestive physiology."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ivan Petrovitch Pavlov — Royal College of Physicians",
+        "url": "https://history.rcp.ac.uk/inspiring-physicians/ivan-petrovitch-pavlov",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Ivan Petrovich Pavlov and conditioned reflexes — Nobel Prize",
+        "url": "https://educationalgames-staging.nobelprize.org/educational/medicine/pavlov/readmore.php",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "jean-piaget",
+    "name": "Jean Piaget",
+    "aliases": [],
+    "birth": {
+      "precision": "year",
+      "year": 1896
+    },
+    "death": {
+      "precision": "year",
+      "year": 1980
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists",
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Entwicklungspsychologe und Forscher zur Entstehung von Erkenntnis.",
+      "en": "Developmental psychologist who investigated the formation of knowledge."
+    },
+    "biography": {
+      "de": "Piaget begann mit naturkundlichen Untersuchungen und wandte sich später dem Denken von Kindern zu. In Genf entwickelte er eine Theorie, nach der Kinder Erkenntnis aktiv aufbauen und ihre Denkweisen verändern. Seine genetische Erkenntnistheorie verband psychologische Beobachtung mit Fragen nach der Entstehung logischer und wissenschaftlicher Begriffe.",
+      "en": "Piaget began with natural history research before turning to children’s thinking. Working in Geneva, he developed a theory in which children actively construct knowledge and transform their ways of reasoning. His genetic epistemology connected psychological observation with questions about how logical and scientific concepts develop."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1936
+        },
+        "text": {
+          "de": "La naissance de l’intelligence chez l’enfant untersucht frühe Erkenntnisentwicklung.",
+          "en": "La naissance de l’intelligence chez l’enfant examines early cognitive development."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1955
+        },
+        "text": {
+          "de": "Gründet in Genf das Internationale Zentrum für genetische Erkenntnistheorie.",
+          "en": "Founds the International Centre for Genetic Epistemology in Geneva."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "About Jean Piaget — Jean Piaget Society",
+        "url": "https://piaget.org/about-piaget/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "lev-vygotsky",
+    "name": "Lev Vygotsky",
+    "aliases": [
+      "Lev Semyonovich Vygotsky",
+      "Lew Semjonowitsch Wygotski"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1896
+    },
+    "death": {
+      "precision": "year",
+      "year": 1934
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists"
+    ],
+    "summary": {
+      "de": "Psychologe der kulturellen und sprachlichen Entwicklung des Denkens.",
+      "en": "Psychologist of the cultural and linguistic development of thought."
+    },
+    "biography": {
+      "de": "Vygotsky arbeitete in der Sowjetunion an einer kulturhistorischen Erklärung psychischer Entwicklung. Gemeinsam mit Forschenden um Alexander Luria untersuchte er, wie Sprache und soziale Beziehungen höhere geistige Funktionen prägen. Sein Werk verband Entwicklungspsychologie mit Fragen zu Lernen und Bewusstsein. Sein früher Tod begrenzte die Ausarbeitung dieser Forschungsansätze.",
+      "en": "Vygotsky worked in the Soviet Union on a cultural and historical account of psychological development. With researchers including Alexander Luria, he examined how language and social relationships shape higher mental functions. His work linked developmental psychology with questions about learning and consciousness. His early death curtailed this research programme."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1934
+        },
+        "text": {
+          "de": "Denken und Sprechen erscheint postum und untersucht das Verhältnis beider Prozesse.",
+          "en": "Thinking and Speech appears posthumously, examining the relationship between these processes."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lev Semyonovich Vygotsky — Faculty of Psychology, Moscow State University",
+        "url": "https://psy-msu.ru/en/about/history/scientist/8578/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Lev S. Vygotsky — MIT Press",
+        "url": "https://mitpress.mit.edu/author/lev-s-vygotsky-18589/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "alexander-luria",
+    "name": "Alexander Luria",
+    "aliases": [
+      "Alexander Romanovich Luria",
+      "Alexander Romanowitsch Lurija"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1902
+    },
+    "death": {
+      "precision": "year",
+      "year": 1977
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists"
+    ],
+    "summary": {
+      "de": "Psychologe und Neuropsychologe der Sprache und Hirnfunktionen.",
+      "en": "Psychologist and neuropsychologist of language and brain function."
+    },
+    "biography": {
+      "de": "Luria verband psychologische Forschung mit medizinischer Ausbildung. Aufbauend auf der Zusammenarbeit mit Vygotsky untersuchte er Sprache, Gedächtnis und die Folgen umschriebener Hirnverletzungen. Seine Arbeit mit verletzten Menschen führte zu Verfahren der neuropsychologischen Untersuchung und Rehabilitation. Geistige Leistungen betrachtete er als Zusammenwirken mehrerer funktioneller Systeme des Gehirns.",
+      "en": "Luria combined psychological research with medical training. Building on his collaboration with Vygotsky, he investigated language, memory and the consequences of localised brain injuries. Work with injured patients informed methods of neuropsychological assessment and rehabilitation. He approached mental abilities through interacting functional systems rather than isolated brain centres."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1962
+        },
+        "text": {
+          "de": "Veröffentlicht sein Werk über höhere kortikale Funktionen und deren Störungen.",
+          "en": "Publishes his study of higher cortical functions and their impairments."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1973
+        },
+        "text": {
+          "de": "Veröffentlicht eine systematische Einführung in die Neuropsychologie.",
+          "en": "Publishes Fundamentals of Neuropsychology."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alexander Romanovich Luria — Faculty of Psychology, Moscow State University",
+        "url": "https://psy-msu.ru/en/about/history/scientist/8530/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "donald-hebb",
+    "name": "Donald Hebb",
+    "aliases": [
+      "Donald Olding Hebb",
+      "D. O. Hebb"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1904
+    },
+    "death": {
+      "precision": "year",
+      "year": 1985
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists"
+    ],
+    "summary": {
+      "de": "Psychologe der neuronalen Grundlagen von Lernen und Gedächtnis.",
+      "en": "Psychologist of the neural foundations of learning and memory."
+    },
+    "biography": {
+      "de": "Hebb forschte an der Schnittstelle von Psychologie und Hirnforschung, unter anderem mit neurochirurgischen Patienten und später an der McGill University. Er entwickelte die Vorstellung verknüpfter Zellverbände als Grundlage psychischer Leistungen. Seine Theorie bot einen Ansatz, Lernen und Gedächtnis durch Veränderungen in neuronalen Verbindungen zu erklären.",
+      "en": "Hebb worked across psychology and brain research, including studies with neurosurgical patients and later research at McGill University. He developed the idea of interconnected cell assemblies as a basis for mental activity. His theory offered an approach to explaining learning and memory through changes in connections between neurons."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1949
+        },
+        "text": {
+          "de": "The Organization of Behavior formuliert seine neuropsychologische Theorie.",
+          "en": "The Organization of Behavior sets out his neuropsychological theory."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1958
+        },
+        "text": {
+          "de": "Veröffentlicht A Textbook of Psychology.",
+          "en": "Publishes A Textbook of Psychology."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "About D.O. Hebb — McGill University",
+        "url": "https://www.mcgill.ca/psychology/events-colloquia/hebb-lecture-series/about-do-hebb",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "emile-durkheim",
+    "name": "Émile Durkheim",
+    "aliases": [
+      "Emile Durkheim",
+      "David Émile Durkheim"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1858
+    },
+    "death": {
+      "precision": "year",
+      "year": 1917
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists",
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Soziologe der Institutionen, Solidarität und kollektiven Vorstellungen.",
+      "en": "Sociologist of institutions, solidarity and collective representations."
+    },
+    "biography": {
+      "de": "Durkheim trug zur Institutionalisierung der Soziologie in Frankreich bei und lehrte in Bordeaux und Paris. Er untersuchte Regeln, Institutionen und gemeinsame Vorstellungen als gesellschaftliche Tatsachen mit eigener Erklärungskraft. Seine vergleichenden Studien befassten sich mit Arbeitsteilung, sozialem Zusammenhalt und Religion und sollten gesellschaftliche Muster empirisch erschließen.",
+      "en": "Durkheim helped establish sociology as an academic discipline in France, teaching in Bordeaux and Paris. He studied rules, institutions and shared representations as social facts with explanatory force of their own. His comparative investigations examined the division of labour, social cohesion and religion through an empirical approach to collective life."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1893
+        },
+        "text": {
+          "de": "Die gesellschaftliche Arbeitsteilung untersucht verschiedene Formen sozialer Solidarität.",
+          "en": "The Division of Labour in Society examines forms of social solidarity."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1895
+        },
+        "text": {
+          "de": "Die Regeln der soziologischen Methode erläutert sein Forschungsprogramm.",
+          "en": "The Rules of Sociological Method explains his research programme."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Émile Durkheim — Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/emile-durkheim/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "max-weber",
+    "name": "Max Weber",
+    "aliases": [
+      "Maximilian Carl Emil Weber"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1864
+    },
+    "death": {
+      "precision": "year",
+      "year": 1920
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists"
+    ],
+    "summary": {
+      "de": "Soziologe und Ökonom der Herrschaft und Rationalisierung.",
+      "en": "Sociologist and economist of authority and rationalisation."
+    },
+    "biography": {
+      "de": "Weber kam über Rechtsgeschichte und politische Ökonomie zur vergleichenden Gesellschaftsforschung. Er untersuchte Religion, Herrschaft und die Ausbreitung rationalisierter Organisation. Seine Arbeiten verbanden die Deutung menschlichen Handelns mit historischer Ursachenanalyse. Wissenschaftliche Erklärungen und Werturteile auseinanderzuhalten war dabei ein methodisches Anliegen, keine Behauptung, Forschung sei frei von Perspektiven.",
+      "en": "Weber approached comparative social research through legal history and political economy. He examined religion, authority and the spread of rationalised organisation, connecting interpretation of human action with historical causal analysis. Distinguishing scientific explanations from value judgments was a methodological concern, rather than a claim that research has no perspective."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1905
+        },
+        "text": {
+          "de": "Schließt die Aufsatzfolge Die protestantische Ethik und der Geist des Kapitalismus ab.",
+          "en": "Completes the essays on Protestant ethics and the spirit of capitalism."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1909
+        },
+        "text": {
+          "de": "Gründet die Deutsche Gesellschaft für Soziologie mit.",
+          "en": "Co-founds the German Sociological Association."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Max Weber — Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/weber/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "franz-boas",
+    "name": "Franz Boas",
+    "aliases": [],
+    "birth": {
+      "precision": "year",
+      "year": 1858
+    },
+    "death": {
+      "precision": "year",
+      "year": 1942
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists"
+    ],
+    "summary": {
+      "de": "Anthropologe historischer Kulturforschung und Kritiker rassistischer Erklärungen.",
+      "en": "Anthropologist of cultural history and critic of racial explanations."
+    },
+    "biography": {
+      "de": "Boas gelangte nach einer naturwissenschaftlichen Ausbildung über Feldforschung in Nordamerika zur Anthropologie. An der Columbia University prägte er eine Forschungsrichtung, die Gesellschaften aus ihren jeweiligen Geschichten und Lebensbedingungen verstehen wollte. Er widersprach rassistischen Rangordnungen und der Gleichsetzung von Sprache, Kultur und Abstammung. Zu seinen Schülerinnen gehörten Mead und Benedict.",
+      "en": "Following scientific training and North American fieldwork, Boas developed an anthropological approach centred on particular histories and living conditions. At Columbia University he trained researchers including Mead and Benedict. He challenged racial hierarchies and the assumption that language, culture and ancestry necessarily correspond, influencing historical approaches to cultural difference."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1911
+        },
+        "text": {
+          "de": "The Mind of Primitive Man kritisiert vermeintlich wissenschaftliche Rassenhierarchien.",
+          "en": "The Mind of Primitive Man challenges purportedly scientific racial hierarchies."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1928
+        },
+        "text": {
+          "de": "Veröffentlicht Anthropology and Modern Life.",
+          "en": "Publishes Anthropology and Modern Life."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Franz Boas — Columbia University Digital Knowledge Ventures",
+        "url": "https://c250.columbia.edu/dkv/extracts/0744_boas.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "bronislaw-malinowski",
+    "name": "Bronisław Malinowski",
+    "aliases": [
+      "Bronislaw Malinowski",
+      "Bronisław Kasper Malinowski"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1884
+    },
+    "death": {
+      "precision": "year",
+      "year": 1942
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists"
+    ],
+    "summary": {
+      "de": "Anthropologe des sozialen Austauschs und der teilnehmenden Feldforschung.",
+      "en": "Anthropologist of social exchange and participant fieldwork."
+    },
+    "biography": {
+      "de": "Malinowski untersuchte auf den Trobriand-Inseln, wie Austausch, Verwandtschaft und Alltag zusammenhängen. Seine längerfristige Feldforschung und spätere Lehre an der LSE prägten ethnografische Methoden. Die postum veröffentlichten Tagebücher enthielten rassistische Sprache über die untersuchten Menschen; sie machten den Abstand zwischen seinem Forschungsanspruch und persönlichen Haltungen zum Gegenstand kritischer Diskussion.",
+      "en": "Malinowski studied connections between exchange, kinship and everyday life in the Trobriand Islands. His extended fieldwork and subsequent teaching at LSE influenced ethnographic methods. Posthumously published diaries contained racist language about the people he studied, prompting critical discussion of the distance between his research ideals and personal attitudes."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1922
+        },
+        "text": {
+          "de": "Argonauts of the Western Pacific beschreibt das Kula-Tauschsystem.",
+          "en": "Argonauts of the Western Pacific describes the kula exchange system."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1935
+        },
+        "text": {
+          "de": "Veröffentlicht Coral Gardens and Their Magic über Gartenbau und soziale Praxis.",
+          "en": "Publishes Coral Gardens and Their Magic on cultivation and social practice."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "MALINOWSKI, Bronislaw Kasper, 1884-1942, anthropologist — AIM25 / LSE Library",
+        "url": "https://atom.aim25.com/index.php/malinowski-bronislaw-kasper-1884-1942-anthropologist-2",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Bronislaw Malinowski, pioneer of anthropology — LSE History",
+        "url": "https://blogs.lse.ac.uk/lsehistory/2017/06/13/bronislaw-malinowski-lse-pioneer-of-social-anthropology/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Past exhibitions: Culture Contact — LSE Library",
+        "url": "https://www.lse.ac.uk/library/whats-on/past-exhibitions",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "margaret-mead",
+    "name": "Margaret Mead",
+    "aliases": [],
+    "birth": {
+      "precision": "year",
+      "year": 1901
+    },
+    "death": {
+      "precision": "year",
+      "year": 1978
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Anthropologin der Kindheit, Sozialisation und Geschlechterrollen.",
+      "en": "Anthropologist of childhood, socialisation and gender roles."
+    },
+    "biography": {
+      "de": "Mead verband anthropologische Feldforschung im Pazifik mit psychologischen Fragen nach Erziehung und Persönlichkeit. Ihre Bücher vermittelten einem breiten Publikum, wie kulturelle Erwartungen Lebensläufe prägen. Zugleich wurden ihre Verallgemeinerungen und ihre Darstellung Samoas kritisiert. Ihre erhaltenen Feldunterlagen ermöglichen es, Beobachtungen und Deutungen ihrer Forschung weiter zu prüfen.",
+      "en": "Mead connected Pacific anthropological fieldwork with psychological questions about upbringing and personality. Her books introduced broad audiences to the influence of cultural expectations on people’s lives. Her generalisations and portrayal of Samoa also attracted criticism. The preservation of her field materials allows later researchers to reassess her observations and interpretations."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1928
+        },
+        "text": {
+          "de": "Coming of Age in Samoa untersucht Jugend aus kulturvergleichender Perspektive.",
+          "en": "Coming of Age in Samoa examines adolescence through cultural comparison."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1935
+        },
+        "text": {
+          "de": "Sex and Temperament in Three Primitive Societies untersucht Geschlechterrollen.",
+          "en": "Sex and Temperament in Three Primitive Societies examines gender roles."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Margaret Mead: Human Nature and the Power of Culture — Library of Congress",
+        "url": "https://www.loc.gov/exhibits/mead/mead-preview.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Margaret Mead (1901–1978): Timeline — Library of Congress",
+        "url": "https://www.loc.gov/collections/margaret-mead-papers-and-south-pacific-ethnographic-archives/articles-and-essays/timeline/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Human Nature and the Power of Culture — Library of Congress Information Bulletin",
+        "url": "https://www.loc.gov/loc/lcib/0111/mead.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "ruth-benedict",
+    "name": "Ruth Benedict",
+    "aliases": [
+      "Ruth Fulton Benedict"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1887
+    },
+    "death": {
+      "precision": "year",
+      "year": 1948
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Anthropologin kultureller Muster und Persönlichkeit.",
+      "en": "Anthropologist of cultural patterns and personality."
+    },
+    "biography": {
+      "de": "Benedict wandte sich nach einem Literaturstudium der Anthropologie zu und arbeitete an der Columbia University mit Franz Boas. Feldstudien bei indigenen Gemeinschaften Nordamerikas bildeten eine Grundlage ihrer vergleichenden Kulturforschung. Sie untersuchte das Verhältnis von kulturellen Erwartungen und Persönlichkeit. Im Zweiten Weltkrieg entstanden zudem staatlich beauftragte Studien über andere Gesellschaften.",
+      "en": "After studying literature, Benedict entered anthropology and worked with Franz Boas at Columbia University. Field studies among Indigenous North American communities informed her comparative research. She explored relationships between cultural expectations and personality. During the Second World War she also undertook government-commissioned studies of other societies, including Japan."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1934
+        },
+        "text": {
+          "de": "Patterns of Culture entwickelt ihre vergleichende Deutung kultureller Muster.",
+          "en": "Patterns of Culture develops her comparative interpretation of cultural patterns."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1946
+        },
+        "text": {
+          "de": "Veröffentlicht The Chrysanthemum and the Sword über Japan.",
+          "en": "Publishes The Chrysanthemum and the Sword about Japan."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ruth Benedict ’1909 — Vassar Encyclopedia",
+        "url": "https://vcencyclopedia.vassar.edu/distinguished-alumni/ruth-benedict/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "adam-smith",
+    "name": "Adam Smith",
+    "aliases": [],
+    "birth": {
+      "precision": "approximate",
+      "year": 1723
+    },
+    "death": {
+      "precision": "year",
+      "year": 1790
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists",
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Moralphilosoph und Forscher der politischen Ökonomie.",
+      "en": "Moral philosopher and scholar of political economy."
+    },
+    "biography": {
+      "de": "Smith lehrte in Glasgow und verband Moralphilosophie mit der Untersuchung von Handel und gesellschaftlicher Ordnung. Er erklärte moralisches Urteilen über Mitgefühl und die Perspektive anderer. Seine ökonomischen Arbeiten analysierten Arbeitsteilung und wirtschaftliche Institutionen. Beide Forschungsgebiete gehörten zu einem breiteren Interesse an menschlichem Handeln innerhalb sozialer Beziehungen.",
+      "en": "Smith taught at Glasgow and connected moral philosophy with the study of commerce and social order. He examined moral judgment through sympathy and other people’s perspectives. His economic writings analysed the division of labour and economic institutions. Both fields formed part of a broader inquiry into human conduct within social relationships."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1759
+        },
+        "text": {
+          "de": "Veröffentlicht The Theory of Moral Sentiments.",
+          "en": "Publishes The Theory of Moral Sentiments."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1776
+        },
+        "text": {
+          "de": "Veröffentlicht Der Wohlstand der Nationen.",
+          "en": "Publishes The Wealth of Nations."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Biography of Adam Smith — University of Glasgow",
+        "url": "https://www.gla.ac.uk/explore/adamsmith300/explorelearn/life/biography/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Adam Smith’s Moral and Political Philosophy — Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/smith-moral-political/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das genaue Geburtsdatum ist unbekannt; belegt ist die Taufe 1723.",
+      "en": "The exact birth date is unknown; baptism in 1723 is documented."
+    }
+  },
+  {
+    "id": "john-maynard-keynes",
+    "name": "John Maynard Keynes",
+    "aliases": [
+      "J. M. Keynes"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1883
+    },
+    "death": {
+      "precision": "year",
+      "year": 1946
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists"
+    ],
+    "summary": {
+      "de": "Ökonom der gesamtwirtschaftlichen Nachfrage und Beschäftigung.",
+      "en": "Economist of aggregate demand and employment."
+    },
+    "biography": {
+      "de": "Keynes lehrte in Cambridge und beriet die britische Regierung. Er untersuchte, wie Ausgaben, Investitionen und Erwartungen das Beschäftigungsniveau beeinflussen. Seine Arbeiten veränderten die makroökonomische Debatte über Arbeitslosigkeit und Wirtschaftspolitik. Bereits nach dem Ersten Weltkrieg kritisierte er die wirtschaftlichen Bestimmungen des Friedensvertrags; seine Deutungen blieben Gegenstand wissenschaftlicher Auseinandersetzung.",
+      "en": "Keynes taught at Cambridge and advised the British government. He investigated how spending, investment and expectations influence employment, reshaping macroeconomic debates about unemployment and policy. After the First World War he criticised the peace settlement’s economic provisions. His interpretations of that settlement and of economic coordination continued to generate scholarly debate."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1919
+        },
+        "text": {
+          "de": "The Economic Consequences of the Peace kritisiert den Versailler Friedensschluss.",
+          "en": "The Economic Consequences of the Peace criticises the Versailles settlement."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1936
+        },
+        "text": {
+          "de": "Veröffentlicht The General Theory of Employment, Interest and Money.",
+          "en": "Publishes The General Theory of Employment, Interest and Money."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The General Theory of Employment, Interest, and Money — Springer Nature",
+        "url": "https://link.springer.com/book/10.1007/978-3-319-70344-2",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Economic Consequences of the Peace — Marshall Library, University of Cambridge",
+        "url": "https://www.marshall.econ.cam.ac.uk/archives/economic-consequences-of-the-peace",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "elinor-ostrom",
+    "name": "Elinor Ostrom",
+    "aliases": [],
+    "birth": {
+      "precision": "year",
+      "year": 1933
+    },
+    "death": {
+      "precision": "year",
+      "year": 2012
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Politikwissenschaftlerin der gemeinschaftlichen Ressourcenverwaltung.",
+      "en": "Political scientist of collective resource governance."
+    },
+    "biography": {
+      "de": "Ostrom untersuchte mit Feldstudien, wie Menschen gemeinsam genutzte Ressourcen organisieren. Ihre Arbeiten zeigten, dass Nutzergruppen unter bestimmten institutionellen Bedingungen tragfähige Regeln entwickeln können. Damit erweiterte sie die Diskussion über Märkte, staatliche Steuerung und Selbstorganisation. Als Politikwissenschaftlerin prägte sie auch die Wirtschaftsforschung und erhielt 2009 deren Nobelgedächtnispreis.",
+      "en": "Ostrom used field studies to investigate how people organise shared resources. Her work showed that user groups can develop workable rules under particular institutional conditions, broadening debates about markets, government and self-organisation. A political scientist, she also influenced economics and received its Nobel Memorial Prize in 2009."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1990
+        },
+        "text": {
+          "de": "Governing the Commons untersucht Institutionen gemeinschaftlicher Ressourcenverwaltung.",
+          "en": "Governing the Commons examines institutions for managing shared resources."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 2009
+        },
+        "text": {
+          "de": "Erhält gemeinsam mit Oliver Williamson den Nobelgedächtnispreis für Wirtschaftswissenschaften.",
+          "en": "Shares the Nobel Memorial Prize in Economic Sciences with Oliver Williamson."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nobel Prize in Economic Sciences — Ostrom Workshop, Indiana University",
+        "url": "https://www.ostrom.indiana.edu/about/ostroms-history/nobel-prize/index.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Prize in Economic Sciences 2009 — Royal Swedish Academy of Sciences",
+        "url": "https://www.kva.se/en/news/ekonomipriset-2009-2/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "w-e-b-du-bois",
+    "name": "W. E. B. Du Bois",
+    "aliases": [
+      "William Edward Burghardt Du Bois",
+      "W.E.B. Du Bois"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1868
+    },
+    "death": {
+      "precision": "year",
+      "year": 1963
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists",
+      "philosophers",
+      "writers"
+    ],
+    "summary": {
+      "de": "Soziologe, Schriftsteller und Denker der Schwarzen Bürgerrechtsbewegung.",
+      "en": "Sociologist, writer and thinker of the Black civil rights movement."
+    },
+    "biography": {
+      "de": "Du Bois verband empirische Sozialforschung mit philosophischer Reflexion und politischem Engagement gegen Rassismus. Nach Studien in den USA und Berlin untersuchte er die Lebensbedingungen Schwarzer Menschen in Philadelphia und arbeitete an der Atlanta University. Bücher, Datenvisualisierungen und redaktionelle Arbeit machten seine Analysen einem breiten Publikum zugänglich.",
+      "en": "Du Bois combined empirical social research with philosophical reflection and activism against racism. After studying in the United States and Berlin, he investigated Black life in Philadelphia and worked at Atlanta University. Books, data visualisations and editorial work brought his analyses to wider audiences and linked scholarship with public action."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1899
+        },
+        "text": {
+          "de": "The Philadelphia Negro veröffentlicht seine Sozialstudie über Philadelphia.",
+          "en": "The Philadelphia Negro presents his social study of Philadelphia."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1903
+        },
+        "text": {
+          "de": "Veröffentlicht die Essaysammlung The Souls of Black Folk.",
+          "en": "Publishes the essay collection The Souls of Black Folk."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "About W. E. B. Du Bois — UMass Amherst Libraries",
+        "url": "https://www.library.umass.edu/about-w-e-b-du-bois/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Philadelphia Negro: a social study — Library of Congress",
+        "url": "https://www.loc.gov/item/05033530/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "b-f-skinner",
+    "name": "B. F. Skinner",
+    "aliases": [
+      "Burrhus Frederic Skinner"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1904
+    },
+    "death": {
+      "precision": "year",
+      "year": 1990
+    },
+    "status": "deceased",
+    "categories": [
+      "scientists",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Psychologe der operanten Konditionierung und Verhaltensanalyse.",
+      "en": "Psychologist of operant conditioning and behaviour analysis."
+    },
+    "biography": {
+      "de": "Skinner untersuchte experimentell, wie die Folgen einer Handlung deren spätere Häufigkeit verändern. Er entwickelte Apparaturen zur Beobachtung von Ratten und Tauben sowie Lehrmaschinen für programmiertes Lernen. Seine Verhaltensanalyse konzentrierte sich auf Umweltbedingungen und Verstärkung. Aus dieser Forschung leitete er auch weitreichende Vorstellungen über die Gestaltung menschlicher Gesellschaften ab.",
+      "en": "Skinner experimentally investigated how the consequences of actions change their subsequent frequency. He developed apparatus for observing rats and pigeons, alongside teaching machines for programmed learning. His behavioural analysis concentrated on environmental conditions and reinforcement. He also extended this research into far-reaching proposals for organising human society."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1938
+        },
+        "text": {
+          "de": "The Behavior of Organisms stellt seine experimentelle Verhaltensanalyse vor.",
+          "en": "The Behavior of Organisms presents his experimental analysis of behaviour."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1957
+        },
+        "text": {
+          "de": "Veröffentlicht Schedules of Reinforcement gemeinsam mit Charles Ferster.",
+          "en": "Publishes Schedules of Reinforcement with Charles Ferster."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B. F. Skinner — Harvard Department of Psychology",
+        "url": "https://psychology.fas.harvard.edu/people/b-f-skinner",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Books — B. F. Skinner Foundation",
+        "url": "https://www.bfskinner.org/publications/books",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "charles-spearman",
+    "name": "Charles Spearman",
+    "aliases": [
+      "Charles Edward Spearman"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1863
+    },
+    "death": {
+      "precision": "year",
+      "year": 1945
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Psychologe und Statistiker der Faktorenanalyse und Psychometrie.",
+      "en": "Psychologist and statistician of factor analysis and psychometrics."
+    },
+    "biography": {
+      "de": "Spearman verband experimentelle Psychologie mit statistischer Untersuchung kognitiver Leistungen. An der UCL entwickelte er eine Forschungsrichtung um Faktorenanalyse und einen postulierten allgemeinen Intelligenzfaktor. Seine Testforschung war zugleich mit schulischer Leistungsmessung verbunden. In diesem institutionellen Umfeld beeinflussten eugenische Annahmen auch Entscheidungen über die Verteilung von Bildungschancen.",
+      "en": "Spearman combined experimental psychology with statistical investigation of cognitive performance. At UCL he developed a research programme around factor analysis and a proposed general intelligence factor. His testing research was also connected to school assessment within an institutional environment where eugenic assumptions influenced decisions about educational opportunities."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1904
+        },
+        "text": {
+          "de": "Veröffentlicht seine Untersuchung eines allgemeinen Intelligenzfaktors.",
+          "en": "Publishes his investigation of a general intelligence factor."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1927
+        },
+        "text": {
+          "de": "Veröffentlicht The Abilities of Man.",
+          "en": "Publishes The Abilities of Man."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Spearman, Charles (1863–1945) — William Revelle, The Encyclopedia of Clinical Psychology",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/9781118625392.wbecp551",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "History of Eugenics Inside UCL — University College London",
+        "url": "https://www.ucl.ac.uk/engage/prejudice-in-power/digital-showcase/history-eugenics-inside-ucl",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "ernst-mach",
+    "name": "Ernst Mach",
+    "aliases": [],
+    "birth": {
+      "precision": "year",
+      "year": 1838
+    },
+    "death": {
+      "precision": "year",
+      "year": 1916
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Physiker und Philosoph der Wahrnehmung und Wissenschaft.",
+      "en": "Physicist and philosopher of perception and science."
+    },
+    "biography": {
+      "de": "Mach verband Experimente zu Schall, Stoßwellen und Sinneswahrnehmung mit der historischen Kritik wissenschaftlicher Begriffe. Nach Lehrtätigkeiten in Graz und Prag wechselte er nach Wien. Er untersuchte, wie physikalische Modelle Erfahrung ordnen, und hinterfragte Newtons absoluten Raum. Seine Überlegungen beeinflussten spätere Debatten über Relativität und wissenschaftliche Erkenntnis.",
+      "en": "Mach combined experiments on sound, shock waves and sensory perception with historical criticism of scientific concepts. After teaching in Graz and Prague, he moved to Vienna. He examined how physical models organise experience and questioned Newton’s absolute space, influencing later debates about relativity and the nature of scientific knowledge."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1883
+        },
+        "text": {
+          "de": "Veröffentlicht Die Mechanik in ihrer Entwickelung.",
+          "en": "Publishes his historical and critical study of mechanics."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1887
+        },
+        "text": {
+          "de": "Untersucht mit Peter Salcher fotografisch Stoßwellen an Überschallgeschossen.",
+          "en": "Studies shock waves around supersonic projectiles photographically with Peter Salcher."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ernst Mach — Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/ernst-mach/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  }
+]

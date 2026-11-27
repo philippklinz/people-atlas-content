@@ -1,0 +1,1661 @@
+[
+  {
+    "id": "hippocrates",
+    "name": "Hippokrates",
+    "aliases": [
+      "Hippocrates",
+      "Hippokrates von Kos"
+    ],
+    "birth": {
+      "year": -460,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": -370,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Steht für eine einflussreiche Tradition griechischer Medizin und ärztlicher Ethik.",
+      "en": "Associated with an influential tradition of Greek medicine and medical ethics."
+    },
+    "biography": {
+      "de": "Hippokrates von Kos wurde schon in der Antike zum Vorbild ärztlichen Handelns. Die unter seinem Namen überlieferte Sammlung medizinischer Schriften entstand jedoch durch mehrere Autor:innen. Ihre Beobachtungen von Krankheiten, Prognosen und Behandlungen prägten spätere griechische, arabische und lateinische Medizin; einzelne Texte lassen sich ihm nicht sicher zuschreiben.",
+      "en": "Hippocrates of Kos became an ancient model of medical practice. The medical writings transmitted under his name, however, were composed by several authors. Their observations of illness, prognosis and treatment shaped later Greek, Arabic and Latin medicine; individual surviving texts cannot securely be assigned to him."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Das Corpus Hippocraticum überliefert medizinische Lehren verschiedener Autor:innen unter seinem Namen.",
+          "en": "The Hippocratic Corpus preserves medical teachings by different authors under his name."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hippocrates — Encyclopaedia Iranica",
+        "url": "https://www.iranicaonline.org/articles/hippocrates/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Medieval Medical Knowledge — National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/hmd/topics/medieval/index.html",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Die Lebensdaten um 460–370 v. u. Z. folgen einer späteren, unsicheren biografischen Tradition.",
+      "en": "The conventional lifespan of about 460–370 BCE comes from a later, uncertain biographical tradition."
+    }
+  },
+  {
+    "id": "galen",
+    "name": "Galen",
+    "aliases": [
+      "Galenos",
+      "Galen of Pergamon"
+    ],
+    "birth": {
+      "year": 129,
+      "precision": "year"
+    },
+    "death": {
+      "year": 200,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Verband Anatomie, medizinische Theorie und philosophische Argumentation.",
+      "en": "Combined anatomy, medical theory and philosophical argument."
+    },
+    "biography": {
+      "de": "Galen stammte aus Pergamon und arbeitete später in Rom, auch als kaiserlicher Arzt. Seine anatomischen Untersuchungen und umfangreichen Schriften verbanden Beobachtung mit philosophischen Erklärungen des Körpers. Über griechische, syrische, arabische und lateinische Überlieferungen blieben seine Vorstellungen über viele Jahrhunderte ein wichtiger Bezugspunkt medizinischer Diskussionen.",
+      "en": "Born in Pergamon, Galen later worked in Rome, including as an imperial physician. His anatomical investigations and extensive writings combined observation with philosophical explanations of the body. Transmitted in Greek, Syriac, Arabic and Latin, his ideas remained an important point of reference for medical debate over many centuries."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 170,
+          "precision": "approximate"
+        },
+        "text": {
+          "de": "Verfasst in Rom zahlreiche medizinische und philosophische Werke, darunter Untersuchungen zu den Körperfunktionen.",
+          "en": "Writes numerous medical and philosophical works in Rome, including studies of bodily functions."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galen — Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/galen/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Chronology — Oxford Academic",
+        "url": "https://academic.oup.com/edited-volume/57517/chapter/467334321",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Todesjahr ist unsicher. Die Darstellung folgt der ungefähren Datierung um 200; andere Überlieferungen nennen 216.",
+      "en": "The death year is uncertain. This display follows the approximate dating around 200; other traditions give 216."
+    }
+  },
+  {
+    "id": "ibn-sina",
+    "name": "Ibn Sina",
+    "aliases": [
+      "Avicenna",
+      "Abu Ali al-Husayn ibn Abd Allah ibn Sina"
+    ],
+    "birth": {
+      "year": 980,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 1037,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Ordnete medizinisches und philosophisches Wissen in einflussreichen systematischen Werken.",
+      "en": "Organised medical and philosophical knowledge into influential systematic works."
+    },
+    "biography": {
+      "de": "Ibn Sina, im lateinischen Europa Avicenna genannt, wirkte in Zentralasien und Persien als Arzt und Philosoph. Sein Kanon der Medizin ordnete Krankheitslehre, Arzneimittel und Behandlung. Übersetzungen machten das Werk über die islamische Welt hinaus zu einem langlebigen Lehrbuch; seine philosophischen Schriften behandelten unter anderem Logik und Metaphysik.",
+      "en": "Known in Latin Europe as Avicenna, Ibn Sina worked in Central Asia and Persia as a physician and philosopher. His Canon of Medicine organised knowledge of diseases, medicines and treatment. Translations made it a lasting textbook beyond the Islamic world; his philosophical writings also addressed logic and metaphysics."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Der Kanon der Medizin bündelt medizinisches Wissen und wird später ins Lateinische übersetzt.",
+          "en": "The Canon of Medicine organises medical knowledge and is later translated into Latin."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Canon of Medicine — Library of Congress",
+        "url": "https://www.loc.gov/item/2021667332/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Ibn Sina [Avicenna] — Stanford Encyclopedia of Philosophy, Fall 2023 archive",
+        "url": "https://plato.stanford.edu/archives/fall2023/entries/ibn-sina/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das häufig genannte Geburtsjahr um 980 ist unsicher; die Stanford Encyclopedia diskutiert eine Geburt um 970 oder früher.",
+      "en": "The commonly cited birth date around 980 is uncertain; the Stanford Encyclopedia discusses a birth around 970 or earlier."
+    }
+  },
+  {
+    "id": "ibn-al-nafis",
+    "name": "Ibn al-Nafis",
+    "aliases": [
+      "Ala al-Din Ali ibn Abi al-Hazm al-Qarshi al-Dimashqi"
+    ],
+    "birth": {
+      "year": 1213,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 1288,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Beschrieb den Blutweg durch die Lunge und widersprach einer galenischen Annahme.",
+      "en": "Described the passage of blood through the lungs, challenging a Galenic assumption."
+    },
+    "biography": {
+      "de": "Ibn al-Nafis wurde in Damaskus medizinisch ausgebildet und verbrachte einen großen Teil seiner Laufbahn in Kairo. In seinem Kommentar zu Ibn Sinas Anatomie erklärte er, dass Blut durch die Lunge gelangen müsse. Damit widersprach er angenommenen Poren in der Herzscheidewand und entwickelte eine wichtige Beschreibung des Lungenkreislaufs.",
+      "en": "Ibn al-Nafis trained in medicine in Damascus and spent much of his career in Cairo. Commenting on Ibn Sina’s anatomy, he argued that blood must pass through the lungs. He thereby challenged supposed pores in the wall separating the ventricles and developed an important account of pulmonary circulation."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1242,
+          "precision": "approximate"
+        },
+        "text": {
+          "de": "Beschreibt den Lungenkreislauf im Kommentar zur Anatomie von Ibn Sinas Kanon.",
+          "en": "Describes pulmonary circulation in his commentary on the anatomy of Ibn Sina’s Canon."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Epitome of Medicine — Library of Congress",
+        "url": "https://www.loc.gov/item/2021667365/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Ibn al-Nafis, the pulmonary circulation, and the Islamic Golden Age — PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18845773/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Geburtsjahr wird unterschiedlich angegeben: 1213 in der historischen Studie von West, 1210 oder 1211 im Katalog der Library of Congress.",
+      "en": "Birth dates differ: West’s historical study gives 1213, while the Library of Congress catalogue gives 1210 or 1211."
+    }
+  },
+  {
+    "id": "paracelsus",
+    "name": "Paracelsus",
+    "aliases": [
+      "Theophrastus von Hohenheim",
+      "Philippus Aureolus Theophrastus Bombastus von Hohenheim"
+    ],
+    "birth": {
+      "year": 1493,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 1541,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Hinterfragte überlieferte Medizin und untersuchte chemische Mittel zur Behandlung.",
+      "en": "Questioned inherited medicine and investigated chemical approaches to treatment."
+    },
+    "biography": {
+      "de": "Paracelsus verband als Arzt und Autor medizinische Beobachtungen mit Alchemie, Astrologie und religiösen Naturvorstellungen. Er griff die traditionelle Säftelehre an und suchte Ursachen von Krankheiten auch außerhalb des Körpers. Seine Schriften förderten den Einsatz chemischer Stoffe in der Medizin, blieben aber deutlich in den Denkweisen seiner Zeit verankert.",
+      "en": "As a physician and author, Paracelsus combined medical observation with alchemy, astrology and religious ideas about nature. He attacked traditional humoral medicine and sought causes of illness outside the body. His writings encouraged chemical approaches to treatment while remaining deeply embedded in the intellectual assumptions of his own period."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1536,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Große Wundarznei behandelt chirurgische Praxis und die Versorgung von Wunden.",
+          "en": "The Great Surgery discusses surgical practice and the treatment of wounds."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Art and Science of Healing: Paracelsus — University of Michigan",
+        "url": "https://exhibitions.kelsey.lsa.umich.edu/art-science-healing/surgery2.php",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "william-harvey",
+    "name": "William Harvey",
+    "aliases": [],
+    "birth": {
+      "year": 1578,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1657,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Begründete experimentell die Zirkulation des Blutes durch den Körper.",
+      "en": "Established an experimental account of blood circulating through the body."
+    },
+    "biography": {
+      "de": "Der englische Arzt William Harvey untersuchte die Bewegung des Herzens durch Beobachtung und Experimente an Tieren. Er erklärte den Blutstrom als fortlaufenden Kreislauf, in dem das Herz als Pumpe wirkt. Seine Veröffentlichung stellte etablierte medizinische Vorstellungen infrage und machte experimentelle Prüfung zu einem zentralen Bestandteil physiologischer Forschung.",
+      "en": "The English physician William Harvey studied the movement of the heart through observation and animal experiments. He explained blood flow as a continuous circulation driven by the heart as a pump. His publication challenged established medical explanations and made experimental testing central to a new understanding of physiology."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1628,
+          "precision": "year"
+        },
+        "text": {
+          "de": "De motu cordis erläutert die Bewegung des Herzens und den Kreislauf des Blutes.",
+          "en": "De motu cordis explains the movement of the heart and the circulation of blood."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ceaseless motion: William Harvey’s experimentations in circulation — RCP Museum",
+        "url": "https://history.rcp.ac.uk/exhibitions/past-exhibitions/ceaseless-motion-experimentations-circulation",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "antonie-van-leeuwenhoek",
+    "name": "Antonie van Leeuwenhoek",
+    "aliases": [
+      "Antoni van Leeuwenhoek",
+      "Antony van Leeuwenhoek"
+    ],
+    "birth": {
+      "year": 1632,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1723,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Erschloss mit Mikroskopen die Welt winziger lebender Organismen.",
+      "en": "Used microscopes to reveal a world of minute living organisms."
+    },
+    "biography": {
+      "de": "Antonie van Leeuwenhoek war ein niederländischer Unternehmer und selbstständiger Naturforscher. Mit seinen mikroskopischen Beobachtungen beschrieb er unter anderem Bakterien und andere einzellige Organismen. Berichte und Zeichnungen, die er an die Royal Society schickte, machten diese schwer zugängliche Welt überprüfbar und trugen zur Entstehung der Mikrobiologie bei.",
+      "en": "Antonie van Leeuwenhoek was a Dutch entrepreneur and independent investigator of nature. His microscopic observations described bacteria and other single-celled organisms. Reports and drawings sent to the Royal Society made this difficult-to-observe world available for scrutiny and contributed to the emergence of microbiology as a field of investigation."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1676,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Berichtet der Royal Society von kleinen Organismen in Wasser und Pflanzenaufgüssen.",
+          "en": "Reports small organisms in water and plant infusions to the Royal Society."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Antonie van Leeuwenhoek (1632–1723): Master of Fleas and Father of Microbiology — PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37630554/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Translated extract of a letter, from Antoni van Leeuwenhoek to Henry Oldenburg — Royal Society",
+        "url": "https://makingscience.royalsociety.org/items/el_l1_23/translated-extract-of-a-letter-from-antoni-van-leeuwenhoek-to-henry-oldenburg",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "maria-sibylla-merian",
+    "name": "Maria Sibylla Merian",
+    "aliases": [
+      "Anna Maria Sibylla Merian"
+    ],
+    "birth": {
+      "year": 1647,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1717,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science",
+      "artists"
+    ],
+    "summary": {
+      "de": "Dokumentierte Insektenentwicklung durch genaue Beobachtung und wissenschaftliche Illustration.",
+      "en": "Documented insect development through close observation and scientific illustration."
+    },
+    "biography": {
+      "de": "Maria Sibylla Merian verband künstlerische Ausbildung mit systematischer Naturbeobachtung. Sie zeichnete Entwicklungsstadien von Insekten zusammen mit ihren Nahrungspflanzen. Eine Reise mit ihrer Tochter Dorothea in die niederländische Kolonie Suriname führte zu einem aufwendig illustrierten Buch, das tropische Lebensformen und ihre Beziehungen einem europäischen Publikum vorstellte.",
+      "en": "Maria Sibylla Merian combined artistic training with systematic observation of nature. She depicted developmental stages of insects together with their food plants. A journey with her daughter Dorothea to the Dutch colony of Suriname led to an extensively illustrated book introducing tropical organisms and their relationships to European readers."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1699,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Reist mit Dorothea Merian nach Suriname, um Pflanzen und Insekten zu untersuchen.",
+          "en": "Travels with Dorothea Merian to Suriname to study plants and insects."
+        }
+      },
+      {
+        "date": {
+          "year": 1705,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Metamorphosis insectorum Surinamensium veröffentlicht ihre Beobachtungen und Illustrationen.",
+          "en": "Metamorphosis insectorum Surinamensium publishes her observations and illustrations."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Maria Sibylla Merian: Metamorphosis unmasked by art and science — Natural History Museum",
+        "url": "https://www.nhm.ac.uk/discover/maria-sibylla-merian-metamorphosis-art-and-science.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "carl-linnaeus",
+    "name": "Carl von Linné",
+    "aliases": [
+      "Carl Linnaeus",
+      "Carolus Linnaeus",
+      "Carl von Linne"
+    ],
+    "birth": {
+      "year": 1707,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1778,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Systematisierte die Benennung und Klassifikation von Pflanzen und Tieren.",
+      "en": "Systematised the naming and classification of plants and animals."
+    },
+    "biography": {
+      "de": "Der schwedische Arzt und Botaniker Carl von Linné ordnete bekannte Lebewesen in übersichtlichen Klassifikationen. Seine standardisierten zweiteiligen Artnamen erleichterten den Austausch zwischen Forschenden. Die Systeme wurden vielfach überarbeitet; ihre historische Bedeutung liegt besonders in der gemeinsamen Sprache, mit der Arten beschrieben, verglichen und anhand von Belegen identifiziert werden konnten.",
+      "en": "The Swedish physician and botanist Carl Linnaeus organised known organisms into structured classifications. His standardised two-part species names helped researchers communicate. These systems underwent many revisions; their historical importance lies especially in the shared language through which species could be described, compared and identified using specimens and illustrations."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1735,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die erste Ausgabe von Systema naturae ordnet die damals unterschiedenen Naturreiche.",
+          "en": "The first edition of Systema naturae organises the then-recognised kingdoms of nature."
+        }
+      },
+      {
+        "date": {
+          "year": 1753,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Species plantarum etabliert zweiteilige Namen in der botanischen Beschreibung.",
+          "en": "Species plantarum establishes two-part names in botanical description."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Naming Nature — The Linnean Society",
+        "url": "https://www.linnean.org/research-collections/on-display/staircase/naming-nature",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "georges-louis-leclerc-buffon",
+    "name": "Georges-Louis Leclerc de Buffon",
+    "aliases": [
+      "Comte de Buffon",
+      "Buffon"
+    ],
+    "birth": {
+      "year": 1707,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1788,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Entwarf eine umfassende Naturgeschichte von Erde, Tieren und Mineralien.",
+      "en": "Developed an extensive natural history of Earth, animals and minerals."
+    },
+    "biography": {
+      "de": "Buffon leitete den Jardin du roi in Paris und entwickelte mit Mitarbeitenden ein umfangreiches Programm naturkundlicher Beschreibung. Seine Histoire naturelle verband Tierbeschreibungen, vergleichende Anatomie und Fragen zur Geschichte der Erde. Sammlungen, Abbildungen und publizierte Beobachtungen machten die Naturforschung dabei einem größeren Publikum zugänglich.",
+      "en": "Buffon directed the Jardin du roi in Paris and developed an extensive programme of natural description with collaborators. His Histoire naturelle brought together accounts of animals, comparative anatomy and questions about Earth’s history. Collections, illustrations and published observations helped communicate natural history to a wider reading public."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1749,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die ersten Bände der Histoire naturelle erscheinen.",
+          "en": "The first volumes of Histoire naturelle appear."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Des simples à l’histoire naturelle (1719–1792) — Muséum national d’Histoire naturelle",
+        "url": "https://www.mnhn.fr/fr/des-simples-a-l-histoire-naturelle-1719-1792",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "james-hutton",
+    "name": "James Hutton",
+    "aliases": [],
+    "birth": {
+      "year": 1726,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1797,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Erklärte geologische Kreisläufe über sehr lange Zeiträume.",
+      "en": "Explained geological cycles operating over immense spans of time."
+    },
+    "biography": {
+      "de": "James Hutton war als Arzt ausgebildet, arbeitete aber auch als Landwirt und Naturforscher. Beobachtungen von Erosion, Ablagerung und Gesteinsbildung führten ihn zu einer zyklischen Vorstellung der Erdgeschichte. Seine Felduntersuchungen an geologischen Diskordanzen lieferten Argumente dafür, dass die Entstehung von Landschaften sehr lange Zeiträume voraussetzt.",
+      "en": "James Hutton trained as a physician but also worked as a farmer and natural investigator. Observations of erosion, deposition and rock formation led him to a cyclical account of Earth’s history. His field studies of geological unconformities supplied evidence that the formation of landscapes requires immense spans of time."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1785,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Seine Theorie der Erde wird der Royal Society of Edinburgh vorgestellt.",
+          "en": "His theory of the Earth is presented to the Royal Society of Edinburgh."
+        }
+      },
+      {
+        "date": {
+          "year": 1795,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Theory of the Earth erscheint in einer erweiterten zweibändigen Fassung.",
+          "en": "Theory of the Earth appears in an expanded two-volume version."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "James Hutton (1726–1797) — Edinburgh Geological Society",
+        "url": "https://edinburghgeolsoc.org/edinburghs-geology/geological-pioneers/james-hutton/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "antoine-lavoisier",
+    "name": "Antoine Lavoisier",
+    "aliases": [
+      "Antoine-Laurent Lavoisier"
+    ],
+    "birth": {
+      "year": 1743,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1794,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Verband genaue Stoffmessungen mit einer neuen Erklärung chemischer Reaktionen.",
+      "en": "Connected precise measurement of substances with a new account of chemical reactions."
+    },
+    "biography": {
+      "de": "Antoine Lavoisier untersuchte Verbrennung und Atmung und half, die Phlogistontheorie durch Erklärungen mit Sauerstoff zu ersetzen. Gemeinsam mit Marie-Anne Paulze Lavoisier entwickelte er ein sorgfältig dokumentiertes Forschungsprogramm. Er wirkte außerdem an chemischer Fachsprache und Maßeinheiten mit; während der Französischen Revolution wurde er als früherer Steuerpächter hingerichtet.",
+      "en": "Antoine Lavoisier studied combustion and respiration, helping replace phlogiston theory with explanations involving oxygen. With Marie-Anne Paulze Lavoisier he developed a carefully documented research programme. He also contributed to chemical terminology and measurement standards; during the French Revolution he was executed because of his involvement in tax farming."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1789,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Traité élémentaire de chimie stellt die neue Chemie systematisch dar, mit Abbildungen von Marie-Anne Lavoisier.",
+          "en": "Traité élémentaire de chimie systematically presents the new chemistry, with illustrations by Marie-Anne Lavoisier."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Antoine-Laurent Lavoisier — Science History Institute",
+        "url": "https://www.sciencehistory.org/education/scientific-biographies/antoine-laurent-lavoisier/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Traité Élémentaire de Chimie — Science History Institute Digital Collections",
+        "url": "https://digital.sciencehistory.org/works/v979v4270",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "alexander-von-humboldt",
+    "name": "Alexander von Humboldt",
+    "aliases": [],
+    "birth": {
+      "year": 1769,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1859,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Untersuchte Zusammenhänge zwischen Klima, Landschaft und lebender Natur.",
+      "en": "Investigated connections between climate, landscapes and living nature."
+    },
+    "biography": {
+      "de": "Alexander von Humboldt verband auf Forschungsreisen genaue Messungen mit vergleichender Naturbeobachtung. Gemeinsam mit Aimé Bonpland bereiste er Teile Amerikas und untersuchte Pflanzen, Gesteine und klimatische Bedingungen. Seine umfangreichen Veröffentlichungen und das spätere Werk Kosmos vermittelten Natur als ein Geflecht miteinander verbundener Erscheinungen.",
+      "en": "Alexander von Humboldt combined precise measurements with comparative observation during his research travels. With Aimé Bonpland he visited parts of the Americas, studying plants, rocks and climatic conditions. His extensive publications and later work Cosmos presented nature as an interconnected set of phenomena rather than a collection of isolated observations."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1799,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Beginnt mit Aimé Bonpland die amerikanische Forschungsreise, die bis 1804 dauert.",
+          "en": "Begins the American research journey with Aimé Bonpland, continuing until 1804."
+        }
+      },
+      {
+        "date": {
+          "year": 1845,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der erste Band von Kosmos erscheint.",
+          "en": "The first volume of Cosmos is published."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Life — Alexander von Humboldt Portal, Staatsbibliothek zu Berlin",
+        "url": "https://humboldt.staatsbibliothek-berlin.de/life/?lang=en",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "charles-lyell",
+    "name": "Charles Lyell",
+    "aliases": [
+      "Sir Charles Lyell"
+    ],
+    "birth": {
+      "year": 1797,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1875,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Nutzte beobachtbare geologische Prozesse zur Erklärung der Erdgeschichte.",
+      "en": "Used observable geological processes to explain Earth’s history."
+    },
+    "biography": {
+      "de": "Charles Lyell gab seine juristische Laufbahn für die Geologie auf. Aufbauend auf James Hutton erklärte er vergangene Veränderungen durch Prozesse, die sich auch in der Gegenwart beobachten lassen. Seine Feldarbeit, bei der ihn Mary Horner Lyell unterstützte, und seine verständlichen Bücher verbreiteten diese Sicht der Erdgeschichte.",
+      "en": "Charles Lyell left a legal career to pursue geology. Building on James Hutton’s work, he explained past changes through processes still observable in the present. His field research, supported by Mary Horner Lyell, and his accessible books helped spread this approach to understanding Earth’s history."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1830,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der erste Band der Principles of Geology erscheint; zwei weitere folgen bis 1833.",
+          "en": "The first volume of Principles of Geology appears, followed by two more by 1833."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "About Charles Lyell — University of Edinburgh",
+        "url": "https://lyell.ed.ac.uk/about",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Charles Lyell — Oxford University Museum of Natural History",
+        "url": "https://www.oumnh.ox.ac.uk/charles-lyell",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "mary-anning",
+    "name": "Mary Anning",
+    "aliases": [],
+    "birth": {
+      "year": 1799,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1847,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Erschloss mit Fossilfunden wichtige Zeugnisse ausgestorbener Meeresreptilien.",
+      "en": "Recovered fossil evidence central to the study of extinct marine reptiles."
+    },
+    "biography": {
+      "de": "Mary Anning sammelte, präparierte und verkaufte Fossilien an der Küste von Lyme Regis. Ihre Funde von Ichthyosauriern, Plesiosauriern und anderen Tieren versorgten gelehrte Sammlungen mit wichtigen Vergleichsstücken. Sie trugen zur Diskussion über ausgestorbene Lebensformen bei, obwohl Anning selbst trotz ihrer Fachkenntnis lange wirtschaftlich unsicher lebte.",
+      "en": "Mary Anning collected, prepared and sold fossils along the coast at Lyme Regis. Her finds of ichthyosaurs, plesiosaurs and other animals supplied scholarly collections with important specimens. They contributed to debates about extinct forms of life, although Anning herself experienced lasting financial insecurity despite her considerable expertise."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1823,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Entdeckt ein vollständiges Plesiosaurierskelett bei Lyme Regis.",
+          "en": "Discovers a complete plesiosaur skeleton near Lyme Regis."
+        }
+      },
+      {
+        "date": {
+          "year": 1828,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Findet ein bedeutendes Flugsaurierfossil an der englischen Südküste.",
+          "en": "Finds an important pterosaur fossil on England’s south coast."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mary Anning: The unsung hero of fossil discovery — Natural History Museum",
+        "url": "https://www.nhm.ac.uk/discover/mary-anning-unsung-hero.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Anning; Mary (1799–1847); Fossil hunter — Natural History Museum Archives",
+        "url": "https://www.nhm.ac.uk/CalmView/Record.aspx?id=PX685&pos=3&src=CalmView.Persons",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "rudolf-virchow",
+    "name": "Rudolf Virchow",
+    "aliases": [],
+    "birth": {
+      "year": 1821,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1902,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "politicians"
+    ],
+    "summary": {
+      "de": "Erklärte Krankheiten auf der Ebene von Zellen und Geweben.",
+      "en": "Explained disease at the level of cells and tissues."
+    },
+    "biography": {
+      "de": "Rudolf Virchow machte die Zelle zu einem zentralen Gegenstand der Krankheitslehre. Mikroskopische Untersuchungen verband er mit klinischen Fragen und entwickelte damit die Histopathologie weiter. Neben seiner Arbeit als Arzt, Hochschullehrer und Herausgeber beschäftigte er sich mit Anthropologie und Archäologie und engagierte sich als liberaler Politiker.",
+      "en": "Rudolf Virchow made the cell central to the study of disease. He connected microscopic investigation with clinical questions, helping develop histopathology. Alongside his work as a physician, university teacher and editor, he pursued anthropology and archaeology and participated in public life as a liberal politician."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1858,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Cellularpathologie stellt seine zelluläre Erklärung von Krankheitsprozessen dar.",
+          "en": "Cellular Pathology presents his cellular explanation of disease processes."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rudolf Virchow (1821–1902) and Die Cellularpathologie (1858) — PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11908520/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "gregor-mendel",
+    "name": "Gregor Mendel",
+    "aliases": [
+      "Gregor Johann Mendel",
+      "Johann Mendel"
+    ],
+    "birth": {
+      "year": 1822,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1884,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Untersuchte mit Kreuzungsversuchen regelhafte Muster der Vererbung.",
+      "en": "Used breeding experiments to investigate regular patterns of inheritance."
+    },
+    "biography": {
+      "de": "Gregor Mendel war Augustiner im Kloster St. Thomas in Brünn. Durch kontrollierte Kreuzungen von Erbsen und die Auswertung vieler Nachkommen untersuchte er, wie Merkmale zwischen Generationen weitergegeben werden. Seine zunächst wenig beachteten Ergebnisse wurden später zu einer Grundlage der Genetik; daneben beschäftigte er sich mit Meteorologie und Pflanzenzucht.",
+      "en": "Gregor Mendel was an Augustinian friar at St Thomas’s Abbey in Brno. Through controlled pea crosses and the examination of many offspring, he investigated how traits pass between generations. His initially little-noticed findings later became a foundation of genetics; he also worked on meteorology and plant breeding."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1865,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Stellt seine Erbsenversuche in zwei Vorträgen in Brünn vor.",
+          "en": "Presents his pea experiments in two lectures in Brno."
+        }
+      },
+      {
+        "date": {
+          "year": 1866,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Versuche über Pflanzen-Hybriden veröffentlicht die Ergebnisse seiner Kreuzungen.",
+          "en": "Experiments on Plant Hybridization publishes the results of his crosses."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Gregor Johann Mendel — Mendel Museum, Masaryk University",
+        "url": "https://mendelmuseum.muni.cz/en/about-the-museum/gregor-johann-mendel",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Gregor Johann Mendel and the development of modern evolutionary biology — PNAS",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9335310/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "louis-pasteur",
+    "name": "Louis Pasteur",
+    "aliases": [],
+    "birth": {
+      "year": 1822,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1895,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Untersuchte Mikroorganismen, Gärung und Möglichkeiten der Infektionsvorbeugung.",
+      "en": "Investigated microorganisms, fermentation and ways to prevent infection."
+    },
+    "biography": {
+      "de": "Louis Pasteur arbeitete zunächst als Chemiker und wandte sich dann Gärungsprozessen und Infektionskrankheiten zu. Seine Untersuchungen stärkten die Auffassung, dass Mikroorganismen bestimmte Veränderungen und Krankheiten verursachen. Gemeinsam mit seinem Forschungsteam entwickelte er Verfahren zur Haltbarmachung und Impfungen; das nach ihm benannte Institut führte diese Forschung weiter.",
+      "en": "Louis Pasteur began as a chemist before turning to fermentation and infectious disease. His investigations strengthened explanations linking microorganisms to particular changes and illnesses. Working with his research team, he developed preservation methods and vaccines; the institute named after him continued research on microorganisms, disease and prevention."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1885,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sein Team wendet eine Tollwutimpfung nach einer möglichen Ansteckung beim Menschen an.",
+          "en": "His team administers a rabies vaccination to a human after suspected exposure."
+        }
+      },
+      {
+        "date": {
+          "year": 1888,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Das Institut Pasteur wird als Zentrum mikrobiologischer Forschung eröffnet.",
+          "en": "The Institut Pasteur opens as a centre for microbiological research."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Louis Pasteur — Science Museum Group",
+        "url": "https://collection.sciencemuseumgroup.org.uk/people/cp78620/louis-pasteur",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Louis Pasteur’s biography — The Pasteur Galaxy",
+        "url": "https://pasteur.net/headings/louis-pasteur/the-life-and-work-of-louis-pasteur/louis-pasteurs-biography/?lang=en",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "alfred-russel-wallace",
+    "name": "Alfred Russel Wallace",
+    "aliases": [],
+    "birth": {
+      "year": 1823,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1913,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Entwickelte unabhängig eine Erklärung der Evolution durch natürliche Selektion.",
+      "en": "Independently developed an explanation of evolution through natural selection."
+    },
+    "biography": {
+      "de": "Alfred Russel Wallace sammelte Tiere und beobachtete ihre Verbreitung im Amazonasgebiet und im malaiischen Archipel. Daraus entwickelte er eine Theorie natürlicher Selektion, die gemeinsam mit Darwins Überlegungen vorgestellt wurde. Seine Reisen und Schriften prägten außerdem die Biogeografie; lokale Mitarbeitende wie Ali unterstützten seine Forschungsarbeit wesentlich.",
+      "en": "Alfred Russel Wallace collected animals and studied their distribution in Amazonia and the Malay Archipelago. He developed an account of natural selection that was presented alongside Darwin’s ideas. His travels and writings also shaped biogeography; local collaborators, including Ali, played important roles in his research and collecting work."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1858,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wallaces und Darwins Texte zur natürlichen Selektion werden der Linnean Society vorgestellt.",
+          "en": "Wallace’s and Darwin’s writings on natural selection are presented to the Linnean Society."
+        }
+      },
+      {
+        "date": {
+          "year": 1869,
+          "precision": "year"
+        },
+        "text": {
+          "de": "The Malay Archipelago verbindet Reisebeobachtungen mit naturgeschichtlichen Untersuchungen.",
+          "en": "The Malay Archipelago combines travel observations with natural-history research."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alfred Russel Wallace (1823–1913) — The Linnean Society",
+        "url": "https://www.linnean.org/the-society/history-of-science/alfred-russel-wallace",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Who was Alfred Russel Wallace? — Natural History Museum",
+        "url": "https://www.nhm.ac.uk/discover/who-was-alfred-russel-wallace.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "joseph-lister",
+    "name": "Joseph Lister",
+    "aliases": [
+      "Joseph Lister, 1st Baron Lister"
+    ],
+    "birth": {
+      "year": 1827,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1912,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Entwickelte antiseptische Verfahren zur Verringerung von Wundinfektionen.",
+      "en": "Developed antiseptic procedures to reduce wound infections."
+    },
+    "biography": {
+      "de": "Der britische Chirurg Joseph Lister übertrug Anregungen aus Pasteurs Forschung auf die Behandlung von Operationswunden. Er erprobte Karbolsäure, veränderte Verbände und die Reinigung von Händen und Instrumenten. Seine veröffentlichten Erfahrungen halfen, Infektionen als vermeidbares Risiko der Chirurgie zu behandeln und entsprechende Arbeitsweisen weiterzuentwickeln.",
+      "en": "The British surgeon Joseph Lister applied ideas from Pasteur’s research to the treatment of surgical wounds. He experimented with carbolic acid, dressings and the cleaning of hands and instruments. His published experience helped establish infections as a preventable surgical risk and encouraged the development of new operating practices."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1867,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht in The Lancet eine Artikelserie über antiseptische Wundbehandlung.",
+          "en": "Publishes a series in The Lancet on antiseptic treatment of wounds."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lord Joseph Lister of Lyme Regis (1827–1912): the father of modern surgery — Royal College of Surgeons",
+        "url": "https://www.rcseng.ac.uk/library-and-publications/library/blog/lord-lister-of-lyme-regis/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "dmitri-mendeleev",
+    "name": "Dmitri Mendelejew",
+    "aliases": [
+      "Dmitri Mendeleev",
+      "Dmitry Ivanovich Mendeleyev",
+      "Dmitrij Iwanowitsch Mendelejew"
+    ],
+    "birth": {
+      "year": 1834,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1907,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Ordnete chemische Elemente in ein Periodensystem mit begründeten Lücken.",
+      "en": "Organised chemical elements into a periodic system with reasoned gaps."
+    },
+    "biography": {
+      "de": "Dmitri Mendelejew entwickelte sein Periodensystem bei der Arbeit an einem Chemielehrbuch. Er verglich Atomgewichte und wiederkehrende Eigenschaften und ließ Plätze für noch unbekannte Elemente frei. Das System verband Ordnung mit überprüfbaren Vorhersagen. Spätere Forschung änderte seine Grundlage zur Ordnungszahl, behielt aber das Prinzip periodischer Zusammenhänge bei.",
+      "en": "Dmitri Mendeleev developed his periodic system while working on a chemistry textbook. He compared atomic weights and recurring properties, leaving spaces for unknown elements. The system connected classification with testable predictions. Later research changed its organising basis to atomic number while retaining the principle of periodic relationships."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1869,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht sein Periodensystem der chemischen Elemente.",
+          "en": "Publishes his periodic system of chemical elements."
+        }
+      },
+      {
+        "date": {
+          "year": 1871,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Eine überarbeitete Tabelle erscheint in der zweiten Auflage seines Chemielehrbuchs.",
+          "en": "A revised table appears in the second edition of his chemistry textbook."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Development of the periodic table — Royal Society of Chemistry",
+        "url": "https://periodic-table.rsc.org/history/about",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Mendeleyev’s Periodic Table of the Elements — Science History Institute Digital Collections",
+        "url": "https://digital.sciencehistory.org/works/9c67wp122",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "robert-koch",
+    "name": "Robert Koch",
+    "aliases": [],
+    "birth": {
+      "year": 1843,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1910,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Entwickelte Methoden zur Untersuchung von Bakterien als Krankheitserregern.",
+      "en": "Developed methods for investigating bacteria as causes of disease."
+    },
+    "biography": {
+      "de": "Robert Koch verband ärztliche Praxis mit experimenteller Bakteriologie. Er arbeitete an Verfahren, mit denen Mikroorganismen gefärbt, kultiviert und mit bestimmten Krankheiten in Verbindung gebracht werden konnten. Seine Untersuchungen zur Tuberkulose machten die Identifikation eines Erregers zu einem nachvollziehbaren experimentellen Forschungsprogramm und prägten medizinische Laborarbeit.",
+      "en": "Robert Koch combined medical practice with experimental bacteriology. He worked on methods for staining and cultivating microorganisms and connecting them with particular diseases. His tuberculosis research turned identification of a pathogen into a reproducible experimental programme and strongly influenced the organisation and practice of medical laboratory research."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1882,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Stellt seine Untersuchungen zum Tuberkulosebakterium öffentlich vor.",
+          "en": "Publicly presents his investigations identifying the tuberculosis bacterium."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Robert Koch’s Curriculum Vitae, Activities and Expeditions — Robert Koch Institute",
+        "url": "https://www.rki.de/EN/Institute/The-RKI/History/Robert-Koch/rk_cv_en.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Robert Koch and Tuberculosis — Nobel Prize educational resources",
+        "url": "https://educationalgames.nobelprize.org/educational/medicine/tuberculosis/readmore.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "santiago-ramon-y-cajal",
+    "name": "Santiago Ramón y Cajal",
+    "aliases": [
+      "Santiago Ramon y Cajal",
+      "Ramón y Cajal"
+    ],
+    "birth": {
+      "year": 1852,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1934,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Untersuchte das Nervensystem als Netzwerk einzelner Nervenzellen.",
+      "en": "Investigated the nervous system as a network of individual nerve cells."
+    },
+    "biography": {
+      "de": "Santiago Ramón y Cajal verband mikroskopische Forschung mit außergewöhnlich genauen anatomischen Zeichnungen. Durch die Untersuchung gefärbter Nervengewebe entwickelte er Belege dafür, dass das Nervensystem aus einzelnen Zellen besteht. Seine Arbeiten zu Aufbau und Verbindungen dieser Zellen wurden zu einer Grundlage der modernen Neurowissenschaft.",
+      "en": "Santiago Ramón y Cajal combined microscopic research with exceptionally detailed anatomical drawings. By studying stained nervous tissue, he developed evidence that the nervous system consists of individual cells. His investigations of the organisation and connections of these cells became a foundation for modern neuroscience."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1888,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erarbeitet wichtige Beobachtungen zur Eigenständigkeit und Anordnung von Nervenzellen.",
+          "en": "Develops important observations on the individuality and arrangement of nerve cells."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Santiago Ramón y Cajal — Biblioteca de la Facultad de Medicina, Universidad Complutense de Madrid",
+        "url": "https://biblioteca.ucm.es/med/ramon-y-cajal",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "El Legado de Santiago Ramón y Cajal — Ministerio de Cultura",
+        "url": "https://www.cultura.gob.es/cultura/archivos/difusion/registro-memoria-unesco/2017/archivo-cajal.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "alexander-fleming",
+    "name": "Alexander Fleming",
+    "aliases": [
+      "Sir Alexander Fleming"
+    ],
+    "birth": {
+      "year": 1881,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1955,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Beobachtete die antibakterielle Wirkung eines Schimmelpilzes und beschrieb Penicillin.",
+      "en": "Observed the antibacterial action of a mould and described penicillin."
+    },
+    "biography": {
+      "de": "Alexander Fleming arbeitete als Bakteriologe in London. Als er bemerkte, dass ein Schimmelpilz das Wachstum von Bakterien hemmte, untersuchte er die verantwortliche Substanz und nannte sie Penicillin. Die Entwicklung zu einem breit einsetzbaren Arzneimittel erforderte später weitere Forschung, insbesondere durch Howard Florey, Ernst Chain und ihre Mitarbeitenden.",
+      "en": "Alexander Fleming worked as a bacteriologist in London. After noticing that a mould inhibited bacterial growth, he investigated the responsible substance and named it penicillin. Turning this observation into a widely usable medicine required further research, particularly by Howard Florey, Ernst Chain and their collaborators."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1928,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Beobachtet die Hemmung von Bakterien durch einen Penicillium-Schimmelpilz.",
+          "en": "Observes bacterial growth being inhibited by a Penicillium mould."
+        }
+      },
+      {
+        "date": {
+          "year": 1945,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Teilt den Medizin-Nobelpreis mit Ernst Chain und Howard Florey für die Penicillinforschung.",
+          "en": "Shares the medicine Nobel Prize with Ernst Chain and Howard Florey for penicillin research."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alexander Fleming — Science History Institute",
+        "url": "https://www.sciencehistory.org/education/scientific-biographies/alexander-fleming/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Alexander Fleming (1881–1955): Discoverer of penicillin — Singapore Medical Journal",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4520913/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "janaki-ammal",
+    "name": "Janaki Ammal",
+    "aliases": [
+      "Edavaleth Kakkat Janaki Ammal",
+      "E. K. Janaki Ammal"
+    ],
+    "birth": {
+      "year": 1897,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1984,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Untersuchte Pflanzenchromosomen und ihre Bedeutung für Züchtung und Evolution.",
+      "en": "Studied plant chromosomes and their significance for breeding and evolution."
+    },
+    "biography": {
+      "de": "Die indische Botanikerin Janaki Ammal verband Zytogenetik mit praktischen Fragen der Pflanzenzüchtung. Sie untersuchte unter anderem Zuckerrohr und zahlreiche Kulturpflanzen, arbeitete in Indien und Großbritannien und beteiligte sich am Aufbau botanischer Forschung in Indien. Später bezog sie auch ethnobotanisches Wissen in ihre Untersuchungen ein.",
+      "en": "The Indian botanist Janaki Ammal connected cytogenetics with practical questions of plant breeding. She investigated sugarcane and many other cultivated plants, worked in India and Britain, and helped organise botanical research in India. Her later interests also included ethnobotanical knowledge and the relationships between people and plants."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1945,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht mit Cyril Darlington den Chromosome Atlas of Cultivated Plants.",
+          "en": "Publishes the Chromosome Atlas of Cultivated Plants with Cyril Darlington."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Professor EK Janaki Ammal — Indian National Science Academy",
+        "url": "https://insaindia.res.in/07062023_no.php?id=N57-0341",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Janaki Ammal and her horticultural legacy — Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/education-learning/libraries-at-rhs/articles/janaki-ammal",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "linus-pauling",
+    "name": "Linus Pauling",
+    "aliases": [
+      "Linus Carl Pauling"
+    ],
+    "birth": {
+      "year": 1901,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1994,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Erklärte chemische Bindungen und Molekülstrukturen mithilfe physikalischer Theorie.",
+      "en": "Explained chemical bonds and molecular structures using physical theory."
+    },
+    "biography": {
+      "de": "Linus Pauling verband Quantenmechanik, Kristallstrukturen und Chemie zu einem einflussreichen Verständnis chemischer Bindungen. Seine Forschung reichte von Mineralien bis zu biologischen Molekülen. Neben seiner wissenschaftlichen Arbeit engagierte er sich gegen Atomwaffentests. Sein Buch über chemische Bindungen führte diese Forschungsansätze für Lehre und Wissenschaft zusammen.",
+      "en": "Linus Pauling connected quantum mechanics, crystal structures and chemistry in an influential account of chemical bonding. His research ranged from minerals to biological molecules. Alongside his scientific work, he campaigned against nuclear weapons testing. His book on chemical bonds brought these approaches together for researchers and students."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1939,
+          "precision": "year"
+        },
+        "text": {
+          "de": "The Nature of the Chemical Bond fasst seine Arbeiten zur chemischen Bindung zusammen.",
+          "en": "The Nature of the Chemical Bond brings together his work on chemical bonding."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Linus Carl Pauling — Science History Institute",
+        "url": "https://www.sciencehistory.org/education/scientific-biographies/linus-carl-pauling/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Linus Pauling Biographical Timeline — Oregon State University",
+        "url": "https://lpi.oregonstate.edu/about/linus-pauling-biographical-timeline",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "barbara-mcclintock",
+    "name": "Barbara McClintock",
+    "aliases": [],
+    "birth": {
+      "year": 1902,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1992,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Zeigte, dass bestimmte Erbabschnitte ihre Position im Genom verändern können.",
+      "en": "Showed that certain genetic elements can change their position in the genome."
+    },
+    "biography": {
+      "de": "Barbara McClintock erforschte die Vererbung beim Mais, indem sie sichtbare Merkmale mit mikroskopisch untersuchten Chromosomen verband. Ihre Arbeit zeigte, dass genetische Elemente beweglich sind und die Aktivität anderer Gene beeinflussen können. Die in Cold Spring Harbor fortgesetzten Untersuchungen veränderten das Bild vom Genom als starrer Anordnung von Erbanlagen.",
+      "en": "Barbara McClintock studied inheritance in maize by connecting visible traits with chromosomes examined under the microscope. Her work showed that genetic elements can move and influence the activity of other genes. Continued at Cold Spring Harbor, these investigations changed the picture of the genome as a fixed arrangement of hereditary units."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1950,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht ihre Ergebnisse zu veränderlichen Genorten beim Mais, einer Grundlage der Transpositionsforschung.",
+          "en": "Publishes findings on mutable loci in maize, foundational work on genetic transposition."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Barbara McClintock (1902–1992) — Embryo Project Encyclopedia, Arizona State University",
+        "url": "https://embryo.asu.edu/pages/barbara-mcclintock-1902-1992",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "rachel-carson",
+    "name": "Rachel Carson",
+    "aliases": [],
+    "birth": {
+      "year": 1907,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1964,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science",
+      "writers"
+    ],
+    "summary": {
+      "de": "Verband Meeresbiologie mit Literatur und öffentlicher Umweltaufklärung.",
+      "en": "Connected marine biology with literature and public environmental education."
+    },
+    "biography": {
+      "de": "Rachel Carson arbeitete als Biologin und Autorin für die US-Fischerei- und Naturschutzverwaltung. Ihre Bücher machten ökologische Zusammenhänge einem breiten Publikum verständlich. In Silent Spring untersuchte sie die Folgen verbreiteter Pestizide für Lebensgemeinschaften und verband wissenschaftliche Recherche mit eindringlicher Sprache; das Buch löste eine weitreichende öffentliche Debatte aus.",
+      "en": "Rachel Carson worked as a biologist and writer for U.S. fisheries and wildlife agencies. Her books made ecological relationships accessible to a broad readership. In Silent Spring she investigated the effects of widely used pesticides on living communities, combining scientific research with compelling prose and prompting extensive public debate."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1951,
+          "precision": "year"
+        },
+        "text": {
+          "de": "The Sea Around Us vermittelt die Naturgeschichte der Meere.",
+          "en": "The Sea Around Us communicates the natural history of the oceans."
+        }
+      },
+      {
+        "date": {
+          "year": 1962,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Silent Spring untersucht ökologische Folgen des Pestizideinsatzes.",
+          "en": "Silent Spring examines ecological consequences of pesticide use."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rachel Carson (1907–1964), Author of the Modern Environmental Movement — U.S. Fish and Wildlife Service",
+        "url": "https://www.fws.gov/staff-profile/rachel-carson-1907-1964-author-modern-environmental-movement",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "dorothy-hodgkin",
+    "name": "Dorothy Hodgkin",
+    "aliases": [
+      "Dorothy Crowfoot Hodgkin",
+      "Dorothy Mary Crowfoot Hodgkin"
+    ],
+    "birth": {
+      "year": 1910,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1994,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Bestimmte die räumliche Struktur komplexer biologisch wichtiger Moleküle.",
+      "en": "Determined the spatial structures of complex, biologically important molecules."
+    },
+    "biography": {
+      "de": "Dorothy Hodgkin nutzte Röntgenkristallografie, um aus Beugungsmustern den Aufbau von Molekülen zu erschließen. In Oxford untersuchte sie unter anderem Penicillin, Vitamin B12 und Insulin. Ihre langwierigen Strukturbestimmungen verbanden experimentelle Genauigkeit mit rechnerischer Auswertung und eröffneten neue Möglichkeiten, die chemischen Eigenschaften biologisch wirksamer Stoffe zu verstehen.",
+      "en": "Dorothy Hodgkin used X-ray crystallography to infer molecular structures from diffraction patterns. Working at Oxford, she studied penicillin, vitamin B12 and insulin, among other substances. Her painstaking structure determinations combined precise experiments with calculation and opened new ways to understand the chemical properties of biologically active molecules."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1969,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Bestimmt mit ihrem Team nach jahrzehntelanger Arbeit die Struktur von Insulin.",
+          "en": "Determines the structure of insulin with her team after decades of work."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dorothy Mary Crowfoot Hodgkin — RCP Museum",
+        "url": "https://history.rcp.ac.uk/inspiring-physicians/dorothy-mary-crowfoot-hodgkin",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Dorothy Hodgkin FRS — Royal Society",
+        "url": "https://royalsociety.org/about-us/who-we-are/diversity-inclusion/case-studies/scientists-with-disabilities/dorothy-hodgkin/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "asima-chatterjee",
+    "name": "Asima Chatterjee",
+    "aliases": [],
+    "birth": {
+      "year": 1917,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2006,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science",
+      "politicians"
+    ],
+    "summary": {
+      "de": "Erforschte die Struktur pflanzlicher Naturstoffe und ihre pharmakologischen Möglichkeiten.",
+      "en": "Investigated plant-derived compounds and their pharmacological possibilities."
+    },
+    "biography": {
+      "de": "Asima Chatterjee baute in Kalkutta eine Forschungsrichtung zur Chemie pflanzlicher Naturstoffe auf. Sie untersuchte besonders Alkaloide und Cumarine und verband Isolierung, Strukturanalyse und Synthese. Als Hochschullehrerin förderte sie wissenschaftlichen Nachwuchs; neben ihrer chemischen Forschung gehörte sie später als ernanntes Mitglied dem indischen Oberhaus Rajya Sabha an.",
+      "en": "Asima Chatterjee built a research school in the chemistry of plant-derived natural products in Calcutta. She investigated alkaloids and coumarins, linking isolation, structural analysis and synthesis. As a university teacher she trained younger researchers; alongside her chemistry career, she later served as a nominated member of India’s Rajya Sabha."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1961,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erhält den Shanti Swarup Bhatnagar Prize für ihre Arbeiten zur Chemie der Naturstoffe.",
+          "en": "Receives the Shanti Swarup Bhatnagar Prize for her research on natural-product chemistry."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Women Scientists in India: Asima Chatterjee — National Book Trust, India",
+        "url": "https://www.nbtindia.gov.in/writereaddata/freebooks/pdf/Women%20Scientists%20in%20India.pdf",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Dr Asima Chatterjee — Shanti Swarup Bhatnagar Prize",
+        "url": "https://ssbprize.gov.in/content/Detail.aspx?AID=285",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "rosalind-franklin",
+    "name": "Rosalind Franklin",
+    "aliases": [],
+    "birth": {
+      "year": 1920,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1958,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Lieferte entscheidende Röntgendaten zur DNA-Struktur und erforschte Viren.",
+      "en": "Provided crucial X-ray data on DNA structure and investigated viruses."
+    },
+    "biography": {
+      "de": "Die Chemikerin Rosalind Franklin untersuchte Molekülstrukturen mit Röntgenbeugung. Am King’s College London arbeitete sie mit Raymond Gosling an DNA; ihre Messungen waren wesentlich für die Entwicklung des Doppelhelixmodells. Später leitete sie am Birkbeck College Forschungen zur Struktur von Viren und trug zur Entstehung der Strukturvirologie bei.",
+      "en": "The chemist Rosalind Franklin investigated molecular structures using X-ray diffraction. At King’s College London she worked with Raymond Gosling on DNA; their measurements were crucial to the development of the double-helix model. She later led research on virus structures at Birkbeck College, contributing to the emergence of structural virology."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1952,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Franklin und Raymond Gosling erstellen die als Photo 51 bekannte DNA-Beugungsaufnahme.",
+          "en": "Franklin and Raymond Gosling produce the DNA diffraction image known as Photo 51."
+        }
+      },
+      {
+        "date": {
+          "year": 1953,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Beginnt am Birkbeck College ein Forschungsprogramm zur Struktur von Viren.",
+          "en": "Begins a research programme on virus structures at Birkbeck College."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rosalind Franklin — King’s College London",
+        "url": "https://www.kcl.ac.uk/people/rosalind-franklin",
+        "accessed": "2026-11-27"
+      }
+    ]
+  }
+]

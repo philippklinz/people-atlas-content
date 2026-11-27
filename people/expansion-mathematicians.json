@@ -1,0 +1,1740 @@
+[
+  {
+    "id": "euclid",
+    "name": "Euklid",
+    "aliases": [
+      "Euclid",
+      "Euclid of Alexandria"
+    ],
+    "birth": {
+      "year": -325,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": -265,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Ordnete Geometrie und Zahlentheorie zu einem langlebigen Lehrwerk.",
+      "en": "Organised geometry and number theory into an enduring textbook."
+    },
+    "biography": {
+      "de": "Euklid wird mit dem hellenistischen Alexandria verbunden. Seine Elemente führen von Definitionen und Grundannahmen zu geometrischen Beweisen und Aussagen über Zahlen. Er bündelte dabei auch ältere Ergebnisse. Das Werk prägte über viele Jahrhunderte, wie Mathematik gelehrt und ein schlüssiger Beweis aufgebaut wurde.",
+      "en": "Euclid is associated with Hellenistic Alexandria. His Elements proceed from definitions and assumptions to geometrical proofs and statements about numbers, incorporating earlier discoveries. For many centuries the work shaped mathematical education and expectations of how a convincing proof should be organised."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die Elemente verbinden ebene und räumliche Geometrie mit Zahlentheorie.",
+          "en": "The Elements connect plane and solid geometry with number theory."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Euclid (325 BC - 265 BC) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Euclid/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Lebensdaten sind ungefähre Rekonstruktionen; verlässliche biografische Einzelheiten fehlen.",
+      "en": "Life dates are approximate reconstructions; reliable biographical details are scarce."
+    }
+  },
+  {
+    "id": "pythagoras",
+    "name": "Pythagoras",
+    "aliases": [
+      "Pythagoras of Samos"
+    ],
+    "birth": {
+      "year": -570,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": -490,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Begründete eine Gemeinschaft, die Zahlen mit Lebensführung und Weltordnung verband.",
+      "en": "Founded a community linking numbers, ways of life and cosmic order."
+    },
+    "biography": {
+      "de": "Pythagoras stammte von Samos und wirkte später in Süditalien. Die nach ihm benannte Gemeinschaft verband religiöse Lebensregeln mit Vorstellungen über Zahlen und Harmonie. Spätere Überlieferungen schrieben ihm zahlreiche Entdeckungen zu. Ein eigener Beweis des nach ihm benannten Satzes ist jedoch historisch nicht gesichert.",
+      "en": "Pythagoras came from Samos and later worked in southern Italy. His community connected religious practices with ideas about numbers and harmony. Later traditions attributed numerous discoveries to him. His personal mathematical contributions are difficult to separate from those of his followers, and a proof of his namesake theorem is not established."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die pythagoreische Tradition untersucht Zusammenhänge zwischen Zahlen und Harmonie.",
+          "en": "The Pythagorean tradition explores relationships between numbers and harmony."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pythagoras (570 BC - 490 BC) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Pythagoras/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Pythagoras — Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/pythagoras/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Die Lebensjahre sind ungefähr; viele Erzählungen entstanden erst lange nach seinem Tod.",
+      "en": "Life dates are approximate; many accounts were written long after his death."
+    }
+  },
+  {
+    "id": "apollonius-of-perga",
+    "name": "Apollonios von Perge",
+    "aliases": [
+      "Apollonius of Perga",
+      "Apollonius"
+    ],
+    "birth": {
+      "year": -262,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": -190,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Untersuchte die geometrischen Eigenschaften der Kegelschnitte.",
+      "en": "Investigated the geometrical properties of conic sections."
+    },
+    "biography": {
+      "de": "Apollonios arbeitete in der mathematischen Tradition Alexandrias und hatte Verbindungen nach Pergamon. Seine Kegelschnitte behandeln Kurven, die beim Schnitt einer Ebene mit einem Kegel entstehen. Das Werk prägte die Begriffe Ellipse, Parabel und Hyperbel. Teile seiner Überlieferung sind auf Griechisch, andere durch arabische Fassungen erhalten.",
+      "en": "Apollonius worked in the mathematical tradition of Alexandria and maintained connections with Pergamum. His Conics examine curves produced by cutting a cone with a plane and helped establish the terminology of ellipses, parabolas and hyperbolas. Parts survive in Greek, while Arabic versions preserve additional books."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die Kegelschnitte systematisieren Eigenschaften von Ellipsen, Parabeln und Hyperbeln.",
+          "en": "Conics systematises properties of ellipses, parabolas and hyperbolas."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Apollonius (262 BC - 190 BC) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Apollonius/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Geburts- und Todesjahr sind nur näherungsweise bekannt.",
+      "en": "Birth and death years are known only approximately."
+    }
+  },
+  {
+    "id": "diophantus",
+    "name": "Diophantos von Alexandria",
+    "aliases": [
+      "Diophantus",
+      "Diophantus of Alexandria"
+    ],
+    "birth": {
+      "year": 200,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 284,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Entwickelte Verfahren zum Lösen algebraischer Zahlenprobleme.",
+      "en": "Developed methods for solving algebraic problems about numbers."
+    },
+    "biography": {
+      "de": "Diophantos ist vor allem durch die Arithmetika bekannt. Er behandelte Gleichungen und suchte Lösungen in rationalen Zahlen, häufig anhand geschickt gewählter Beispiele. Seine Verfahren beeinflussten die spätere Zahlentheorie. Über sein Leben ist fast nichts sicher bekannt; selbst seine Einordnung in das dritte Jahrhundert bleibt eine historische Rekonstruktion.",
+      "en": "Diophantus is known chiefly through the Arithmetica, which investigates equations and rational-number solutions through carefully constructed problems. His methods influenced later number theory. Almost nothing is securely known about his life, and even his conventional placement in the third century rests on historical reconstruction."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 250,
+          "precision": "approximate"
+        },
+        "text": {
+          "de": "Die Arithmetika behandeln algebraische Gleichungen und rationale Lösungen.",
+          "en": "The Arithmetica investigate algebraic equations and rational solutions."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Diophantus (200 - 284) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Diophantus/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Die Datierung um 200–284 folgt MacTutor; die zeitliche Einordnung ist umstritten.",
+      "en": "The approximate dates 200–284 follow MacTutor; his chronology is disputed."
+    }
+  },
+  {
+    "id": "liu-hui",
+    "name": "Liu Hui",
+    "aliases": [],
+    "birth": {
+      "year": 220,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 280,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Erklärte Rechenverfahren durch geometrische Argumente und Näherungen.",
+      "en": "Explained computational procedures through geometry and approximation."
+    },
+    "biography": {
+      "de": "Liu Hui wirkte im chinesischen Reich Wei. Sein Kommentar zu den Neun Kapiteln der mathematischen Kunst erläutert, warum Rechenverfahren funktionieren, statt nur Ergebnisse anzugeben. Er beschäftigte sich unter anderem mit Flächen, Volumina und Näherungen für die Kreiszahl. Ein weiteres Werk behandelt geometrische Vermessungsaufgaben.",
+      "en": "Liu Hui worked in the Chinese state of Wei. His commentary on the Nine Chapters on the Mathematical Art explains why computational procedures work rather than merely presenting answers. It discusses areas, volumes and approximations to pi. A separate work applies geometrical reasoning to surveying problems."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 263,
+          "precision": "approximate"
+        },
+        "text": {
+          "de": "Verfasst einen erklärenden Kommentar zu den Neun Kapiteln.",
+          "en": "Writes an explanatory commentary on the Nine Chapters."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Liu Hui (220 - 280) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Liu_Hui/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Lebensdaten sind ungefähr; auch das überlieferte Kommentarjahr 263 ist nicht unabhängig gesichert.",
+      "en": "Life dates are approximate; the transmitted commentary date of 263 is not independently secure."
+    }
+  },
+  {
+    "id": "zu-chongzhi",
+    "name": "Zu Chongzhi",
+    "aliases": [
+      "Tsu Ch'ung Chi"
+    ],
+    "birth": {
+      "year": 429,
+      "precision": "year"
+    },
+    "death": {
+      "year": 501,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists"
+    ],
+    "summary": {
+      "de": "Verband genaue Kreiszahl-Näherungen mit astronomischer Kalenderrechnung.",
+      "en": "Connected accurate approximations to pi with astronomical calendar calculations."
+    },
+    "biography": {
+      "de": "Zu Chongzhi entstammte einer chinesischen Familie mit Hof- und Astronomietradition. Aufbauend auf älteren mathematischen Verfahren bestimmte er die Kreiszahl sehr genau und verwendete den Bruch 355/113 als Näherung. Seine astronomischen Berechnungen dienten außerdem einer Kalenderreform. Teile seines mathematischen Werks sind nur durch spätere Berichte bekannt.",
+      "en": "Zu Chongzhi came from a Chinese family of court officials and astronomers. Building on earlier mathematical methods, he calculated pi with considerable precision and used the approximation 355/113. His astronomical calculations also supported calendar reform. Parts of his mathematical work are known only through later accounts."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 462,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Schlägt einen verbesserten Kalender auf Grundlage astronomischer Berechnungen vor.",
+          "en": "Proposes an improved calendar based on astronomical calculations."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Zu Chongzhi (429 - 501) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Zu_Chongzhi/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "aryabhata",
+    "name": "Aryabhata",
+    "aliases": [
+      "Aryabhata I",
+      "Aryabhata the Elder"
+    ],
+    "birth": {
+      "year": 476,
+      "precision": "year"
+    },
+    "death": {
+      "year": 550,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists"
+    ],
+    "summary": {
+      "de": "Verknüpfte Rechenverfahren, Trigonometrie und mathematische Astronomie.",
+      "en": "Connected calculation, trigonometry and mathematical astronomy."
+    },
+    "biography": {
+      "de": "Aryabhata arbeitete in der indischen Tradition mathematischer Astronomie. Sein Aryabhatiya verdichtet Rechenregeln, geometrische Verfahren und astronomische Modelle in Verse. Es enthält Näherungen und Methoden für praktische Berechnungen. Die tägliche scheinbare Bewegung des Himmels erklärte er durch eine Drehung der Erde; spätere Kommentare diskutierten seine Aussagen ausführlich.",
+      "en": "Aryabhata worked within the Indian tradition of mathematical astronomy. His Aryabhatiya compresses arithmetic rules, geometrical procedures and astronomical models into verse. It includes approximations and methods for practical calculation. He explained the apparent daily motion of the heavens through Earth's rotation, a view debated by later commentators."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 499,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Vollendet den Aryabhatiya über Mathematik und Astronomie.",
+          "en": "Completes the Aryabhatiya on mathematics and astronomy."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Aryabhata (476 - 550) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aryabhata_I/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Geburtsjahr ergibt sich aus einer Altersangabe im Aryabhatiya; das Todesjahr ist unsicher.",
+      "en": "The birth year follows an age statement in the Aryabhatiya; the death year is uncertain."
+    }
+  },
+  {
+    "id": "brahmagupta",
+    "name": "Brahmagupta",
+    "aliases": [],
+    "birth": {
+      "year": 598,
+      "precision": "year"
+    },
+    "death": {
+      "year": 670,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists"
+    ],
+    "summary": {
+      "de": "Formulierte Rechenregeln für Null, negative Zahlen und Gleichungen.",
+      "en": "Formulated rules for zero, negative numbers and equations."
+    },
+    "biography": {
+      "de": "Brahmagupta schrieb in Bhillamala und leitete später das astronomische Zentrum in Ujjain. Seine Werke verbinden Himmelsberechnungen mit Algebra und Geometrie. Besonders bekannt sind seine Regeln für das Rechnen mit positiven und negativen Zahlen sowie mit Null. Diese historischen Regeln entsprechen allerdings nicht in jedem Punkt heutigen Definitionen.",
+      "en": "Brahmagupta wrote at Bhillamala and later headed the astronomical centre at Ujjain. His works combine celestial calculations with algebra and geometry. He is particularly associated with rules for positive and negative numbers and zero, although not all of those historical rules agree with present-day definitions."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 628,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Schreibt den Brahmasphutasiddhanta mit arithmetischen und astronomischen Regeln.",
+          "en": "Writes the Brahmasphutasiddhanta with arithmetical and astronomical rules."
+        }
+      },
+      {
+        "date": {
+          "year": 665,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Verfasst das astronomische Rechenwerk Khandakhadyaka.",
+          "en": "Composes the astronomical calculation manual Khandakhadyaka."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Brahmagupta (598 - 670) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahmagupta/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das übliche Todesjahr 670 ist als ungefähre Angabe geführt.",
+      "en": "The conventional death year 670 is treated as approximate."
+    }
+  },
+  {
+    "id": "bhaskara-ii",
+    "name": "Bhaskara II",
+    "aliases": [
+      "Bhaskaracharya",
+      "Bhāskara II"
+    ],
+    "birth": {
+      "year": 1114,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1185,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists"
+    ],
+    "summary": {
+      "de": "Entwickelte algebraische Verfahren und mathematische Astronomie weiter.",
+      "en": "Advanced algebraic methods and mathematical astronomy."
+    },
+    "biography": {
+      "de": "Bhaskara II stand in der mathematisch-astronomischen Tradition Ujjains und knüpfte an Brahmagupta an. Seine Lehrwerke behandeln Rechenaufgaben, Gleichungen und astronomische Modelle. In der Lilavati erscheinen praktische Probleme in kunstvoller Form; die Bijaganita untersucht algebraische Verfahren. Dabei behandelte er auch Gleichungen, deren Lösungen ganze Zahlen sein sollen.",
+      "en": "Bhaskara II worked in Ujjain's mathematical and astronomical tradition, building on Brahmagupta. His teaching texts discuss arithmetic problems, equations and astronomical models. The Lilavati presents practical questions in an elaborate literary form, while the Bijaganita develops algebraic methods, including equations whose solutions are required to be integers."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die Lilavati behandelt Arithmetik und geometrische Aufgaben.",
+          "en": "The Lilavati treats arithmetic and geometrical problems."
+        }
+      },
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die Bijaganita untersucht algebraische Gleichungen und Lösungsverfahren.",
+          "en": "The Bijaganita investigates algebraic equations and solution methods."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bhaskara II (1114 - 1185) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bhaskara_II/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Todesjahr ist eine ungefähre historische Einordnung.",
+      "en": "The death year is an approximate historical placement."
+    }
+  },
+  {
+    "id": "madhava",
+    "name": "Madhava von Sangamagrama",
+    "aliases": [
+      "Madhava",
+      "Madhava of Sangamagrama"
+    ],
+    "birth": {
+      "year": 1350,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 1425,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists"
+    ],
+    "summary": {
+      "de": "Entwickelte unendliche Reihen für trigonometrische Berechnungen.",
+      "en": "Developed infinite series for trigonometric calculations."
+    },
+    "biography": {
+      "de": "Madhava wirkte in Kerala im Süden Indiens. Spätere mathematische Texte schreiben ihm Reihenentwicklungen für Sinus, Kosinus und Arkustangens zu, die genaue Berechnungen ermöglichten. Seine eigenen mathematischen Schriften sind verloren. Deshalb muss sein Beitrag aus der Überlieferung späterer Gelehrter erschlossen und von deren eigenen Erweiterungen unterschieden werden.",
+      "en": "Madhava worked in Kerala in southern India. Later mathematical texts attribute to him series expansions for sine, cosine and arctangent that enabled accurate calculation. His own mathematical writings are lost, so his contributions must be reconstructed from later scholars and distinguished from their further developments."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1400,
+          "precision": "approximate"
+        },
+        "text": {
+          "de": "Entwickelt Reihen für trigonometrische Funktionen, überliefert durch spätere Texte.",
+          "en": "Develops trigonometric series preserved through later mathematical texts."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Madhava (1350 - 1425) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Madhava/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Lebens- und Werkdaten sind ungefähre Rekonstruktionen aus späterer Überlieferung.",
+      "en": "Life and work dates are approximate reconstructions from later transmission."
+    }
+  },
+  {
+    "id": "omar-khayyam",
+    "name": "Omar Khayyam",
+    "aliases": [
+      "Omar Chajjam",
+      "Umar Khayyam"
+    ],
+    "birth": {
+      "year": 1048,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1131,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists",
+      "writers"
+    ],
+    "summary": {
+      "de": "Untersuchte kubische Gleichungen und arbeitete an einer Kalenderreform.",
+      "en": "Studied cubic equations and contributed to calendar reform."
+    },
+    "biography": {
+      "de": "Omar Khayyam war ein persischer Gelehrter, dessen Arbeit Mathematik, Astronomie und Dichtung verbindet. In seiner Algebra ordnete er kubische Gleichungen nach ihren Formen und löste sie geometrisch mit Kegelschnitten. Am Hof in Isfahan beteiligte er sich an astronomischen Berechnungen und der Reform des Kalenders.",
+      "en": "Omar Khayyam was a Persian scholar whose activities connected mathematics, astronomy and poetry. His algebra classified cubic equations and solved them geometrically using conic sections. At the court in Isfahan he also participated in astronomical calculations and calendar reform, linking abstract mathematical questions with practical timekeeping."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1070,
+          "precision": "approximate"
+        },
+        "text": {
+          "de": "Untersucht in seiner Algebra kubische Gleichungen durch Kegelschnitte.",
+          "en": "Investigates cubic equations through conic sections in his algebra."
+        }
+      },
+      {
+        "date": {
+          "year": 1079,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wirkt an der Einführung des reformierten Dschalali-Kalenders mit.",
+          "en": "Contributes to the introduction of the reformed Jalali calendar."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Omar Khayyam (1048 - 1131) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Khayyam/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "fibonacci",
+    "name": "Fibonacci",
+    "aliases": [
+      "Leonardo von Pisa",
+      "Leonardo Pisano",
+      "Leonardo of Pisa"
+    ],
+    "birth": {
+      "year": 1170,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 1250,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Vermittelte Rechenverfahren aus dem Mittelmeerraum an ein lateinisches Publikum.",
+      "en": "Introduced Mediterranean computational methods to a Latin-reading audience."
+    },
+    "biography": {
+      "de": "Leonardo von Pisa lernte als Sohn eines Handelsvertreters in Nordafrika verschiedene Rechenverfahren kennen. Sein Liber abaci erläutert das dezimale Stellenwertsystem und nutzt Aufgaben aus Handel und Geldwechsel. Daneben arbeitete er an Geometrie und Zahlentheorie. Die heute nach ihm benannte Folge erscheint in einem seiner Aufgabenbeispiele.",
+      "en": "Leonardo of Pisa learned computational methods in North Africa through his father's commercial connections. His Liber abaci explains decimal place-value calculation using problems from trade and currency exchange. He also worked on geometry and number theory; the sequence now bearing his name appears in one of his examples."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1202,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der Liber abaci erläutert dezimales Rechnen und Handelsaufgaben.",
+          "en": "Liber abaci explains decimal calculation and commercial problems."
+        }
+      },
+      {
+        "date": {
+          "year": 1225,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der Liber quadratorum untersucht Quadratzahlen und zahlentheoretische Probleme.",
+          "en": "Liber quadratorum investigates squares and number-theoretic problems."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fibonacci (1170 - 1250) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fibonacci/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Geburt und Tod sind nur ungefähr bekannt; ein Dokument von 1240 belegt seine späte Tätigkeit.",
+      "en": "Birth and death are approximate; a document from 1240 attests his later activity."
+    }
+  },
+  {
+    "id": "pierre-de-fermat",
+    "name": "Pierre de Fermat",
+    "aliases": [
+      "Pierre Fermat"
+    ],
+    "birth": {
+      "earliest": 1601,
+      "latest": 1608,
+      "precision": "range"
+    },
+    "death": {
+      "year": 1665,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Verband Zahlentheorie, geometrische Methoden und Fragen des Zufalls.",
+      "en": "Connected number theory, geometrical methods and questions of chance."
+    },
+    "biography": {
+      "de": "Fermat arbeitete als Jurist in Toulouse und betrieb daneben mathematische Forschung. Viele seiner Ergebnisse verbreitete er in Briefen statt in systematischen Lehrbüchern. Er untersuchte Eigenschaften ganzer Zahlen, Extremwertprobleme und die Verbindung von Algebra und Geometrie. Sein Austausch mit Pascal trug zur Entstehung der mathematischen Wahrscheinlichkeitstheorie bei.",
+      "en": "Fermat worked as a lawyer in Toulouse while pursuing mathematics alongside his profession. He circulated many results through correspondence rather than systematic textbooks. His research covered integers, extrema and connections between algebra and geometry. His exchange with Pascal contributed to the emergence of mathematical probability theory."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1654,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Diskutiert mit Pascal die gerechte Aufteilung von Einsätzen bei abgebrochenen Spielen.",
+          "en": "Discusses with Pascal the fair division of stakes in interrupted games."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pierre de Fermat (1601 - 1665) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fermat/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Pierre de Fermat — Heinz Klaus Strick",
+        "url": "https://mathshistory.st-andrews.ac.uk/Strick/Fermat.pdf",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "MacTutor nennt traditionell 1601; neuere archivalische Deutungen sprechen für 1607/1608. Die Spanne bildet diesen Quellenkonflikt ab.",
+      "en": "MacTutor retains the traditional 1601 date; newer archival interpretations indicate 1607/1608. The range represents this source disagreement."
+    }
+  },
+  {
+    "id": "blaise-pascal",
+    "name": "Blaise Pascal",
+    "aliases": [],
+    "birth": {
+      "year": 1623,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1662,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists",
+      "philosophers",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Untersuchte Geometrie und Zufall und entwickelte eine Rechenmaschine.",
+      "en": "Investigated geometry and chance and developed a calculating machine."
+    },
+    "biography": {
+      "de": "Pascal verband mathematische Forschung mit technischen Experimenten und philosophischen Fragen. Schon früh arbeitete er über Kegelschnitte; später konstruierte er mechanische Rechenmaschinen. Im Briefwechsel mit Fermat untersuchte er Glücksspielprobleme, aus denen Verfahren der Wahrscheinlichkeitstheorie hervorgingen. Seine religiösen und philosophischen Schriften bilden einen weiteren Teil seines Werks.",
+      "en": "Pascal combined mathematics with technical experiments and philosophical questions. He worked on conic sections early in life and later built mechanical calculating machines. His correspondence with Fermat examined gambling problems that helped develop probability theory. Religious and philosophical writings form another substantial part of his work."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1640,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht einen frühen Text über Kegelschnitte.",
+          "en": "Publishes an early work on conic sections."
+        }
+      },
+      {
+        "date": {
+          "year": 1642,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Beginnt die Entwicklung der mechanischen Rechenmaschine Pascaline.",
+          "en": "Begins developing the Pascaline mechanical calculator."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Blaise Pascal (1623 - 1662) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Pascal/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "leonhard-euler",
+    "name": "Leonhard Euler",
+    "aliases": [],
+    "birth": {
+      "year": 1707,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1783,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists"
+    ],
+    "summary": {
+      "de": "Prägte Analysis, Zahlentheorie und die mathematische Beschreibung der Mechanik.",
+      "en": "Shaped analysis, number theory and mathematical descriptions of mechanics."
+    },
+    "biography": {
+      "de": "Euler wurde in Basel ausgebildet und arbeitete an den Akademien in Sankt Petersburg und Berlin. Er untersuchte Funktionen, unendliche Reihen, geometrische Probleme und physikalische Bewegungen. Seine umfangreichen Veröffentlichungen verbanden neue Ergebnisse mit systematischen Darstellungen. Auch nach dem weitgehenden Verlust seines Sehvermögens setzte er seine mathematische Arbeit fort.",
+      "en": "Educated in Basel, Euler worked at the academies in Saint Petersburg and Berlin. He investigated functions, infinite series, geometrical problems and physical motion. His extensive publications combined new results with systematic exposition. He continued mathematical work even after losing most of his sight later in life."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1748,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Introductio in analysin infinitorum stellt Funktionen ins Zentrum der Analysis.",
+          "en": "Introductio in analysin infinitorum places functions at the centre of analysis."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Leonhard Euler (1707 - 1783) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Euler/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "carl-friedrich-gauss",
+    "name": "Carl Friedrich Gauß",
+    "aliases": [
+      "Carl Friedrich Gauss",
+      "Johann Carl Friedrich Gauss"
+    ],
+    "birth": {
+      "year": 1777,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1855,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists"
+    ],
+    "summary": {
+      "de": "Verband Zahlentheorie mit Astronomie, Vermessung und Physik.",
+      "en": "Connected number theory with astronomy, surveying and physics."
+    },
+    "biography": {
+      "de": "Gauß arbeitete über sehr unterschiedliche mathematische und naturwissenschaftliche Probleme. Seine Zahlentheorie ordnete Verfahren zum Rechnen mit Kongruenzen; astronomische Bahnberechnungen machten ihn weithin bekannt. In Göttingen verband er theoretische Forschung mit Beobachtung und Vermessung. Seine Arbeiten zeigen, wie abstrakte Begriffe und genaue Messverfahren einander voranbringen können.",
+      "en": "Gauss investigated a wide range of mathematical and scientific problems. His number theory organised calculations with congruences, while astronomical orbit calculations brought wider recognition. At Göttingen he connected theoretical research with observation and surveying, showing how abstract ideas and precise measurement could advance one another."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1801,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht die Disquisitiones Arithmeticae zur Zahlentheorie.",
+          "en": "Publishes Disquisitiones Arithmeticae on number theory."
+        }
+      },
+      {
+        "date": {
+          "year": 1801,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Berechnet eine Bahnvorhersage, die zur Wiederauffindung von Ceres beiträgt.",
+          "en": "Calculates an orbital prediction that helps recover Ceres."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Carl Friedrich Gauss (1777 - 1855) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Gauss/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "nikolai-lobachevsky",
+    "name": "Nikolai Lobatschewski",
+    "aliases": [
+      "Nikolai Lobachevsky",
+      "Nikolai Ivanovich Lobachevsky"
+    ],
+    "birth": {
+      "year": 1792,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1856,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Entwickelte eine Geometrie mit einer anderen Parallelentheorie.",
+      "en": "Developed a geometry with a different theory of parallels."
+    },
+    "biography": {
+      "de": "Lobatschewski lehrte an der Universität Kasan und übernahm dort auch Leitungsaufgaben. Er untersuchte, was geschieht, wenn Euklids Parallelenannahme ersetzt wird, und entwickelte eine nichteuklidische Geometrie. Seine Veröffentlichungen fanden zunächst wenig Zustimmung. Daneben beschäftigte er sich mit numerischen Verfahren, mit denen sich Lösungen algebraischer Gleichungen annähern lassen.",
+      "en": "Lobachevsky taught at Kazan University and also held administrative responsibilities there. By replacing Euclid's parallel assumption, he developed a non-Euclidean geometry that initially received little support. His mathematical interests also included numerical methods for approximating solutions of algebraic equations, connecting foundational questions with practical calculation."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1829,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht seine Untersuchungen zur nichteuklidischen Geometrie.",
+          "en": "Publishes his investigations of non-Euclidean geometry."
+        }
+      },
+      {
+        "date": {
+          "year": 1834,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Entwickelt ein numerisches Verfahren für Nullstellen algebraischer Gleichungen.",
+          "en": "Develops a numerical method for roots of algebraic equations."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nikolai Ivanovich Lobachevsky (1792 - 1856) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lobachevsky/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "bernhard-riemann",
+    "name": "Bernhard Riemann",
+    "aliases": [
+      "Georg Friedrich Bernhard Riemann"
+    ],
+    "birth": {
+      "year": 1826,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1866,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Erweiterte Vorstellungen von Raum, Funktionen und Primzahlen.",
+      "en": "Expanded ideas about space, functions and prime numbers."
+    },
+    "biography": {
+      "de": "Riemann arbeitete in Göttingen und veröffentlichte vergleichsweise wenige, aber weitreichende Untersuchungen. Er entwickelte neue Begriffe für mehrdimensionale Räume und komplexe Funktionen. Seine Untersuchung der Zetafunktion verband Analysis mit der Verteilung der Primzahlen. Die von ihm formulierten Fragen beschäftigten spätere Generationen in Mathematik und theoretischer Physik.",
+      "en": "Working at Göttingen, Riemann published relatively few but far-reaching investigations. He developed new concepts for multidimensional spaces and complex functions. His study of the zeta function linked analysis with the distribution of prime numbers, posing questions that shaped later generations of mathematics and theoretical physics."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1854,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Hält seinen grundlegenden Vortrag über die Voraussetzungen der Geometrie.",
+          "en": "Delivers his foundational lecture on the assumptions of geometry."
+        }
+      },
+      {
+        "date": {
+          "year": 1859,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Untersucht die Zetafunktion im Zusammenhang mit der Verteilung der Primzahlen.",
+          "en": "Investigates the zeta function in relation to the distribution of primes."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bernhard Riemann (1826 - 1866) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Riemann/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "georg-cantor",
+    "name": "Georg Cantor",
+    "aliases": [],
+    "birth": {
+      "year": 1845,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1918,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Untersuchte Mengen und unterschiedliche Größen unendlicher Gesamtheiten.",
+      "en": "Investigated sets and different sizes of infinite collections."
+    },
+    "biography": {
+      "de": "Cantor entwickelte seine Mengenlehre aus Untersuchungen trigonometrischer Reihen. Er zeigte, dass unendliche Mengen nicht alle dieselbe Größe besitzen, und machte Zuordnungen zwischen Mengen zu einem grundlegenden Werkzeug. Seine Ideen wurden kontrovers diskutiert. Sie veränderten die Grundlagen der Mathematik und die präzise Sprache, in der über Unendlichkeit gesprochen wird.",
+      "en": "Cantor developed set theory from investigations of trigonometric series. He showed that infinite sets need not have the same size and made correspondences between sets a fundamental tool. His ideas provoked debate while transforming mathematical foundations and the precise language used to discuss infinity."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1874,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht einen Beweis für die Nichtabzählbarkeit der reellen Zahlen.",
+          "en": "Publishes a proof that the real numbers are uncountable."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Georg Cantor (1845 - 1918) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Cantor/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "henri-poincare",
+    "name": "Henri Poincaré",
+    "aliases": [
+      "Henri Poincare",
+      "Jules Henri Poincaré"
+    ],
+    "birth": {
+      "year": 1854,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1912,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists",
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Verknüpfte Topologie, dynamische Systeme und Himmelsmechanik.",
+      "en": "Connected topology, dynamical systems and celestial mechanics."
+    },
+    "biography": {
+      "de": "Poincaré arbeitete in vielen Bereichen zwischen reiner Mathematik und Physik. Er untersuchte qualitative Eigenschaften von Differentialgleichungen und die Bewegung mehrerer Himmelskörper. Seine topologischen Arbeiten fragen nach Eigenschaften, die bei stetigen Verformungen erhalten bleiben. Zugleich schrieb er über wissenschaftliche Begriffe, mathematische Entdeckung und die Rolle von Konventionen.",
+      "en": "Poincaré worked across pure mathematics and physics, studying qualitative properties of differential equations and the motion of interacting celestial bodies. His topology investigated properties preserved by continuous deformation. He also wrote about scientific concepts, mathematical discovery and the role of conventions in organising knowledge."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1895,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Analysis situs entwickelt Methoden zur Untersuchung topologischer Räume.",
+          "en": "Analysis situs develops methods for investigating topological spaces."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Henri Poincaré (1854 - 1912) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Poincare/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "david-hilbert",
+    "name": "David Hilbert",
+    "aliases": [],
+    "birth": {
+      "year": 1862,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1943,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists"
+    ],
+    "summary": {
+      "de": "Prägte axiomatische Methoden und stellte wegweisende mathematische Probleme.",
+      "en": "Shaped axiomatic methods and posed influential mathematical problems."
+    },
+    "biography": {
+      "de": "Hilbert lehrte zunächst in Königsberg und später in Göttingen. Seine Forschung reichte von Algebra und Zahlentheorie bis zu Integralgleichungen und mathematischer Physik. Besonders einflussreich war sein Ansatz, Voraussetzungen ausdrücklich als Axiome zu ordnen. Seine Problemstellungen und sein Grundlagenprogramm regten Debatten über Beweisbarkeit und die Reichweite mathematischer Verfahren an.",
+      "en": "Hilbert taught first at Königsberg and later at Göttingen. His research ranged from algebra and number theory to integral equations and mathematical physics. He strongly influenced the explicit organisation of assumptions into axioms. His problems and foundational programme stimulated debates about proof and the reach of mathematical methods."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1899,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Grundlagen der Geometrie ordnen geometrische Axiome systematisch.",
+          "en": "Grundlagen der Geometrie systematically organises geometrical axioms."
+        }
+      },
+      {
+        "date": {
+          "year": 1900,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Stellt auf dem Internationalen Mathematikerkongress ein Programm mathematischer Probleme vor.",
+          "en": "Presents a programme of mathematical problems at the International Congress."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "David Hilbert (1862 - 1943) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hilbert/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "David Hilbert: Mathematical Problems — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Extras/Hilbert_Problems_speech/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "srinivasa-ramanujan",
+    "name": "Srinivasa Ramanujan",
+    "aliases": [],
+    "birth": {
+      "year": 1887,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1920,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Entdeckte Beziehungen zwischen Zahlen, Reihen und Partitionen.",
+      "en": "Discovered relationships among numbers, series and partitions."
+    },
+    "biography": {
+      "de": "Ramanujan entwickelte einen großen Teil seiner Mathematik außerhalb einer regulären Universitätsausbildung in Indien. Über Briefe kam er mit G. H. Hardy in Kontakt und arbeitete später in Cambridge. Seine Formeln betreffen unter anderem Reihen, Kettenbrüche und Zahlpartitionen. Viele Ergebnisse aus seinen Notizbüchern wurden erst nach seinem Tod systematisch untersucht.",
+      "en": "Ramanujan developed much of his mathematics outside formal university training in India. Correspondence brought him into contact with G. H. Hardy, and he later worked at Cambridge. His formulas concern series, continued fractions and integer partitions. Many results in his notebooks were investigated systematically only after his death."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1914,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Beginnt in Cambridge die Zusammenarbeit mit G. H. Hardy.",
+          "en": "Begins collaborating with G. H. Hardy at Cambridge."
+        }
+      },
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Entwickelt mit Hardy eine asymptotische Formel für die Anzahl von Zahlpartitionen.",
+          "en": "Develops with Hardy an asymptotic formula for the number of integer partitions."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Srinivasa Ramanujan (1887 - 1920) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ramanujan/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "stefan-banach",
+    "name": "Stefan Banach",
+    "aliases": [],
+    "birth": {
+      "year": 1892,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1945,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Entwickelte die Funktionalanalysis als Untersuchung abstrakter Räume.",
+      "en": "Developed functional analysis through the study of abstract spaces."
+    },
+    "biography": {
+      "de": "Banach gehörte zum mathematischen Umfeld von Lwów, dem heutigen Lwiw. Er untersuchte Räume, deren Elemente etwa Funktionen sein können, und die darauf wirkenden Abbildungen. Die nach ihm benannten Banachräume verbinden lineare Struktur mit einem vollständigen Abstandsbegriff. Seine Darstellung linearer Operationen wurde zu einem grundlegenden Werk der Funktionalanalysis.",
+      "en": "Banach belonged to the mathematical community of Lwów, now Lviv. He studied spaces whose elements may be functions and the mappings acting on them. Banach spaces combine linear structure with a complete notion of distance. His exposition of linear operations became a foundational work of functional analysis."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1932,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht Théorie des opérations linéaires.",
+          "en": "Publishes Théorie des opérations linéaires."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stefan Banach (1892 - 1945) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Banach/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "john-von-neumann",
+    "name": "John von Neumann",
+    "aliases": [
+      "János Neumann",
+      "Johann von Neumann"
+    ],
+    "birth": {
+      "year": 1903,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1957,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists",
+      "computing"
+    ],
+    "summary": {
+      "de": "Verband mathematische Grundlagen mit Quantenphysik, Spieltheorie und Computern.",
+      "en": "Connected mathematical foundations with quantum physics, game theory and computers."
+    },
+    "biography": {
+      "de": "Von Neumann wurde in Budapest geboren und arbeitete später in den USA. Er entwickelte mathematische Strukturen für Quantenmechanik und untersuchte strategische Entscheidungen in der Spieltheorie. Außerdem beteiligte er sich an der Entwicklung elektronischer Rechner. Seine Karriere verband abstrakte Forschung mit staatlichen und militärischen Projekten, darunter dem Manhattan-Projekt.",
+      "en": "Born in Budapest, von Neumann later worked in the United States. He developed mathematical structures for quantum mechanics and studied strategic decision-making through game theory. He also participated in electronic computing. His career connected abstract research with government and military projects, including the Manhattan Project."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1932,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht die Mathematischen Grundlagen der Quantenmechanik.",
+          "en": "Publishes Mathematische Grundlagen der Quantenmechanik."
+        }
+      },
+      {
+        "date": {
+          "year": 1944,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht mit Oskar Morgenstern ein grundlegendes Werk zur Spieltheorie.",
+          "en": "Publishes a foundational work on game theory with Oskar Morgenstern."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "John von Neumann (1903 - 1957) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Von_Neumann/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "John von Neumann — Institute for Advanced Study",
+        "url": "https://www.ias.edu/scholars/john-von-neumann",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "sophie-germain",
+    "name": "Sophie Germain",
+    "aliases": [
+      "Marie-Sophie Germain"
+    ],
+    "birth": {
+      "year": 1776,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1831,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Arbeitete über Zahlentheorie und die Schwingung elastischer Flächen.",
+      "en": "Worked on number theory and the vibration of elastic surfaces."
+    },
+    "biography": {
+      "de": "Germain eignete sich höhere Mathematik weitgehend selbst an, da Frauen der Zugang zur École Polytechnique verwehrt war. Unter einem männlichen Namen nahm sie Kontakt zu etablierten Fachleuten auf. Ihre Forschung verband Untersuchungen zum großen Fermatschen Satz mit Problemen der Elastizität. Dabei verfolgte sie eigene Programme trotz eingeschränkter institutioneller Unterstützung.",
+      "en": "Germain largely taught herself advanced mathematics because women were excluded from the École Polytechnique. Using a male name, she established contact with recognised mathematicians. Her research connected investigations of Fermat's Last Theorem with problems of elasticity, pursuing independent programmes despite limited access to institutional support."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1819,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erläutert Gauss ihr Forschungsprogramm zum großen Fermatschen Satz.",
+          "en": "Explains to Gauss her research programme on Fermat's Last Theorem."
+        }
+      },
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Untersucht mathematische Modelle für schwingende elastische Flächen.",
+          "en": "Investigates mathematical models of vibrating elastic surfaces."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sophie Germain (1776 - 1831) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Germain/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "sofia-kovalevskaya",
+    "name": "Sofia Kowalewskaja",
+    "aliases": [
+      "Sofia Kovalevskaya",
+      "Sofya Kovalevskaya",
+      "Sophie Kowalevski"
+    ],
+    "birth": {
+      "year": 1850,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1891,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists",
+      "writers",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Leistete Beiträge zu Differentialgleichungen und zur Bewegung starrer Körper.",
+      "en": "Contributed to differential equations and the motion of rigid bodies."
+    },
+    "biography": {
+      "de": "Kowalewskaja musste sich wissenschaftliche Ausbildung gegen institutionelle Ausschlüsse erkämpfen. Sie studierte privat bei Karl Weierstraß und promovierte in Göttingen. Später lehrte sie in Stockholm. Ihre Arbeiten behandeln unter anderem partielle Differentialgleichungen und die Rotation starrer Körper; daneben schrieb sie literarische Texte über Erfahrungen und gesellschaftliche Erwartungen.",
+      "en": "Kovalevskaya pursued scientific training despite institutional exclusions, studying privately with Karl Weierstrass before receiving a doctorate at Göttingen. She later taught in Stockholm. Her research includes partial differential equations and the rotation of rigid bodies; she also wrote literary works about experience and social expectations."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1875,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Ihre Arbeit über partielle Differentialgleichungen erscheint in Crelles Journal.",
+          "en": "Her paper on partial differential equations appears in Crelle's Journal."
+        }
+      },
+      {
+        "date": {
+          "year": 1889,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erhält eine ordentliche Professur in Stockholm.",
+          "en": "Receives a full professorship in Stockholm."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sofia Kovalevskaya (1850 - 1891) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kovalevskaya/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "julia-robinson",
+    "name": "Julia Robinson",
+    "aliases": [
+      "Julia Bowman Robinson"
+    ],
+    "birth": {
+      "year": 1919,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1985,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "computing",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Untersuchte die Grenzen algorithmischer Verfahren in der Zahlentheorie.",
+      "en": "Investigated the limits of algorithmic methods in number theory."
+    },
+    "biography": {
+      "de": "Robinson arbeitete in Berkeley über mathematische Logik und Entscheidungsprobleme. Im Mittelpunkt stand die Frage, ob sich ein allgemeines Verfahren zur Lösung ganzzahliger Gleichungen angeben lässt. Ihre Ergebnisse waren wesentliche Bausteine der negativen Lösung von Hilberts zehntem Problem. Der Erfolg entstand durch Beiträge mehrerer Forschender über viele Jahre.",
+      "en": "At Berkeley, Robinson studied mathematical logic and decision problems. A central question was whether a general procedure could solve integer equations. Her results supplied essential components of the negative solution to Hilbert's tenth problem, an achievement built through the contributions of several researchers over many years."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1970,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die negative Lösung von Hilberts zehntem Problem baut auf ihren Vorarbeiten auf.",
+          "en": "The negative solution of Hilbert's tenth problem builds on her earlier work."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Julia Bowman Robinson (1919 - 1985) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Robinson_Julia/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "mary-cartwright",
+    "name": "Mary Cartwright",
+    "aliases": [
+      "Dame Mary Lucy Cartwright"
+    ],
+    "birth": {
+      "year": 1900,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1998,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Untersuchte Funktionen und das Verhalten nichtlinearer Schwingungen.",
+      "en": "Studied functions and the behaviour of nonlinear oscillations."
+    },
+    "biography": {
+      "de": "Cartwright forschte zunächst über Funktionen einer komplexen Variablen. Technische Fragen aus der Funkforschung führten sie zur Untersuchung nichtlinearer Differentialgleichungen. Gemeinsam mit J. E. Littlewood entdeckte sie komplizierte Verhaltensweisen ihrer Lösungen. Diese Arbeiten beeinflussten die spätere Theorie dynamischer Systeme; zugleich übernahm sie Lehr- und Leitungsaufgaben in Cambridge.",
+      "en": "Cartwright initially researched functions of a complex variable. Technical questions from radio research led her to nonlinear differential equations. Working with J. E. Littlewood, she uncovered intricate behaviour in their solutions that influenced the later theory of dynamical systems, alongside teaching and leadership responsibilities at Cambridge."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1938,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Beginnt Untersuchungen zu Differentialgleichungen aus der Funkforschung.",
+          "en": "Begins investigating differential equations arising from radio research."
+        }
+      },
+      {
+        "date": {
+          "year": 1947,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wird für ihre mathematischen Arbeiten in die Royal Society gewählt.",
+          "en": "Is elected to the Royal Society for her mathematical work."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mary Cartwright (1900 - 1998) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Cartwright/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "maryam-mirzakhani",
+    "name": "Maryam Mirzakhani",
+    "aliases": [],
+    "birth": {
+      "year": 1977,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2017,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Erforschte die Geometrie und Dynamik gekrümmter Flächen.",
+      "en": "Explored the geometry and dynamics of curved surfaces."
+    },
+    "biography": {
+      "de": "Mirzakhani wuchs in Teheran auf und arbeitete später in den USA. Sie untersuchte Riemannsche Flächen, geschlossene Kurven und Räume geometrischer Formen. Dabei verband sie geometrische, topologische und dynamische Methoden. Ihre Arbeiten eröffneten neue Wege, solche Räume zu vermessen und das Verhalten von Bewegungen auf ihnen zu verstehen.",
+      "en": "Mirzakhani grew up in Tehran and later worked in the United States. She investigated Riemann surfaces, closed curves and spaces of geometrical structures. By combining geometrical, topological and dynamical methods, her research opened new ways to measure these spaces and understand the behaviour of flows on them."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 2007,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht Arbeiten über Geodäten und Volumina von Modulräumen.",
+          "en": "Publishes work on geodesics and volumes of moduli spaces."
+        }
+      },
+      {
+        "date": {
+          "year": 2014,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erhält als erste Frau eine Fields-Medaille.",
+          "en": "Becomes the first woman to receive a Fields Medal."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Maryam Mirzakhani (1977 - 2017) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Mirzakhani/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "emilie-du-chatelet",
+    "name": "Émilie du Châtelet",
+    "aliases": [
+      "Emilie du Chatelet",
+      "Gabrielle Émilie Le Tonnelier de Breteuil"
+    ],
+    "birth": {
+      "year": 1706,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1749,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists",
+      "philosophers",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Verband Mathematik und Naturphilosophie mit der Vermittlung Newtons.",
+      "en": "Connected mathematics and natural philosophy with the exposition of Newton."
+    },
+    "biography": {
+      "de": "Du Châtelet studierte Mathematik und Naturphilosophie außerhalb der üblichen männlich geprägten Bildungswege. In ihren Schriften setzte sie sich mit Newton, Leibniz und weiteren Denkern auseinander. Ihre französische Übersetzung von Newtons Principia wurde durch eigene Erläuterungen und mathematische Kommentare ergänzt. Die vollständige Ausgabe erschien erst nach ihrem Tod.",
+      "en": "Du Châtelet studied mathematics and natural philosophy outside the usual male-dominated educational paths. Her writings engaged with Newton, Leibniz and other thinkers. She supplemented her French translation of Newton's Principia with explanations and mathematical commentary; the complete edition appeared only after her death."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1740,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht die Institutions de physique.",
+          "en": "Publishes Institutions de physique."
+        }
+      },
+      {
+        "date": {
+          "year": 1759,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Ihre kommentierte Principia-Übersetzung erscheint vollständig nach ihrem Tod.",
+          "en": "Her annotated Principia translation appears in full after her death."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Émilie du Châtelet (1706 - 1749) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Chatelet/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "marjorie-lee-browne",
+    "name": "Marjorie Lee Browne",
+    "aliases": [],
+    "birth": {
+      "year": 1914,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1979,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Verband topologische Forschung mit mathematischer Hochschulbildung.",
+      "en": "Connected topological research with university mathematics education."
+    },
+    "biography": {
+      "de": "Browne forschte über Topologie und prägte die mathematische Ausbildung am North Carolina College, der heutigen North Carolina Central University. Sie leitete den Fachbereich und unterstützte Studierende auch finanziell. Ihre Arbeit verband Forschung, Förderung des wissenschaftlichen Nachwuchses und den Aufbau von Möglichkeiten für akademisches Rechnen mit Computern.",
+      "en": "Browne researched topology and shaped mathematics education at North Carolina College, now North Carolina Central University. She headed the department and also supported students financially. Her work connected research, the encouragement of emerging scholars and the development of opportunities for academic computing."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1955,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht eine Untersuchung topologischer Eigenschaften klassischer Gruppen.",
+          "en": "Publishes a study of topological properties of classical groups."
+        }
+      },
+      {
+        "date": {
+          "year": 1960,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wirkt maßgeblich an einem erfolgreichen Antrag für einen akademischen Computer mit.",
+          "en": "Plays a leading role in a successful proposal for an academic computer."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Marjorie Lee Browne (1914 - 1979) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Browne/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "euphemia-lofton-haynes",
+    "name": "Euphemia Lofton Haynes",
+    "aliases": [
+      "Martha Euphemia Lofton Haynes"
+    ],
+    "birth": {
+      "year": 1890,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1980,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Verband mathematische Ausbildung mit dem Einsatz gegen Bildungsbarrieren.",
+      "en": "Connected mathematics education with efforts against educational barriers."
+    },
+    "biography": {
+      "de": "Haynes unterrichtete auf unterschiedlichen Stufen des öffentlichen Bildungssystems in Washington. Sie baute am Miner Teachers College einen mathematischen Fachbereich auf und promovierte später über algebraische Korrespondenzen. In der Schulverwaltung setzte sie sich gegen diskriminierende Einstufungen und für bessere Bildungschancen ein. Forschung und gesellschaftliches Engagement gehörten für sie zusammen.",
+      "en": "Haynes taught at several levels of Washington's public education system. She established a mathematics department at Miner Teachers College and later completed doctoral research on algebraic correspondences. In educational administration she opposed discriminatory tracking and advocated better opportunities, connecting mathematical education with sustained civic engagement."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1930,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Baut den mathematischen Fachbereich am Miner Teachers College auf.",
+          "en": "Establishes the mathematics department at Miner Teachers College."
+        }
+      },
+      {
+        "date": {
+          "year": 1943,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Promoviert an der Catholic University of America über symmetrische Korrespondenzen.",
+          "en": "Completes a doctorate at the Catholic University of America on symmetric correspondences."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Euphemia Lofton Haynes (1890 - 1980) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Haynes/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  }
+]

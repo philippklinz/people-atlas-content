@@ -20,15 +20,32 @@
       "en": "Developed a European printing process using movable metal type."
     },
     "biography": {
-      "de": "Gutenbergs Arbeit in Mainz verband Metalllettern, Druckfarbe und Presse zu einem wirkungsvollen System. Druck und bewegliche Lettern hatten in Ostasien bereits eine längere Geschichte.",
-      "en": "Gutenberg’s work in Mainz combined metal type, ink and a press into an effective system. Printing and movable type already had a longer history in East Asia."
+      "de": "Gutenbergs Werkstatt in Mainz verband bewegliche Metalllettern, Druckfarbe und Presse zu einem Verfahren für die wiederholte Herstellung von Texten. Mit finanzieller Unterstützung Johannes Fusts entstand die 42-zeilige Bibel. Die gedruckten Exemplare wurden anschließend von Hand ausgestaltet. Druck und bewegliche Lettern hatten in Ostasien bereits eine längere Geschichte.",
+      "en": "Gutenberg’s workshop in Mainz combined movable metal type, ink and a press into a system for producing repeated copies of texts. Financial support from Johannes Fust helped enable the 42-line Bible. Printed copies were subsequently decorated by hand. Printing and movable type already had a longer history in East Asia."
     },
-    "highlights": [],
+    "highlights": [
+      {
+        "date": {
+          "earliest": 1454,
+          "latest": 1455,
+          "precision": "range"
+        },
+        "text": {
+          "de": "Die 42-zeilige Gutenberg-Bibel wird in Mainz gedruckt.",
+          "en": "The 42-line Gutenberg Bible is printed in Mainz."
+        }
+      }
+    ],
     "sources": [
       {
         "title": "Library of Congress — Johannes Gutenberg",
         "url": "https://guides.loc.gov/gutenberg/the-printer",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Library of Congress — The Gutenberg Bible: Introduction",
+        "url": "https://guides.loc.gov/gutenberg",
+        "accessed": "2026-11-27"
       }
     ]
   },
@@ -54,15 +71,26 @@
       "en": "Combined painting, engineering designs and close observation of nature."
     },
     "biography": {
-      "de": "Leonardos Zeichnungen und Notizbücher reichen von Anatomie bis zu Maschinen. Viele seiner technischen Ideen blieben Entwürfe; sie zeigen, wie eng seine künstlerische und untersuchende Arbeit verbunden war.",
-      "en": "Leonardo’s drawings and notebooks range from anatomy to machines. Many technical ideas remained designs, revealing how closely his artistic and investigative work were connected."
+      "de": "Leonardo da Vinci verband Malerei mit genauer Naturbeobachtung. Zeichnungen und Notizbücher dokumentieren Untersuchungen von Anatomie, Wasserbewegung, Flug und Maschinen. In Gemälden wie dem Abendmahl erprobte er die Darstellung von Raum und menschlichem Ausdruck. Viele technische Ideen blieben Entwürfe; ihre Überlieferung zeigt die enge Verbindung seiner künstlerischen und untersuchenden Arbeit.",
+      "en": "Leonardo da Vinci connected painting with close observation of nature. His drawings and notebooks record investigations of anatomy, moving water, flight and machines. Paintings such as the Last Supper explore spatial composition and human expression. Many technical ideas remained designs, showing the close relationship between his artistic practice and his investigations."
     },
-    "highlights": [],
+    "highlights": [
+      {
+        "date": {
+          "year": 1498,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Vollendet das Abendmahl für Santa Maria delle Grazie in Mailand.",
+          "en": "Completes the Last Supper for Santa Maria delle Grazie in Milan."
+        }
+      }
+    ],
     "sources": [
       {
         "title": "The Metropolitan Museum of Art — Leonardo da Vinci",
         "url": "https://www.metmuseum.org/essays/leonardo-da-vinci-1452-1519",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {
@@ -103,10 +131,20 @@
       "en": "Developed a heliocentric model of planetary motion."
     },
     "biography": {
-      "de": "Kopernikus stellte die Erde als beweglichen Planeten dar. Sein Hauptwerk wurde 1543 veröffentlicht und bildete einen wichtigen Ausgangspunkt für spätere Veränderungen der Astronomie.",
-      "en": "Copernicus described Earth as a moving planet. His major work appeared in 1543 and became an important starting point for later changes in astronomy."
+      "de": "Kopernikus arbeitete als Domherr und beschäftigte sich mit mathematischer Astronomie. Sein heliozentrisches Modell erklärte die scheinbaren Planetenbewegungen mithilfe der jährlichen Bewegung der Erde um die Sonne und ihrer täglichen Drehung. Zunächst zirkulierten seine Ideen handschriftlich. Das 1543 veröffentlichte Hauptwerk wurde zu einem Ausgangspunkt späterer astronomischer Debatten.",
+      "en": "Copernicus served as a cathedral canon while pursuing mathematical astronomy. His heliocentric model explained apparent planetary motions through Earth’s annual movement around the Sun and its daily rotation. His ideas initially circulated in manuscript. The major work published in 1543 became a starting point for later astronomical debate and revision."
     },
     "highlights": [
+      {
+        "date": {
+          "year": 1514,
+          "precision": "approximate"
+        },
+        "text": {
+          "de": "Der handschriftliche Commentariolus skizziert die Grundlagen seines heliozentrischen Modells.",
+          "en": "The manuscript Commentariolus outlines the foundations of his heliocentric model."
+        }
+      },
       {
         "date": {
           "year": 1543,
@@ -122,7 +160,7 @@
       {
         "title": "MacTutor History of Mathematics — University of St Andrews",
         "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {
@@ -161,8 +199,8 @@
       "en": "Studied motion and made the telescope a research instrument."
     },
     "biography": {
-      "de": "Galileis Beobachtungen des Himmels lieferten neue Argumente gegen überlieferte Weltbilder. Seine Experimente und mathematischen Beschreibungen der Bewegung trugen zur Entwicklung der Physik bei.",
-      "en": "Galileo’s observations of the sky supplied new arguments against inherited cosmologies. His experiments and mathematical accounts of motion contributed to the development of physics."
+      "de": "Galilei nutzte verbesserte Fernrohre, um unter anderem die Mondoberfläche und die Jupitermonde zu untersuchen. Diese Beobachtungen stellten überlieferte Vorstellungen vom Himmel infrage. Seine Untersuchungen zur Bewegung verbanden Experimente mit mathematischen Beschreibungen. In Dialogform diskutierte er konkurrierende Weltsysteme und unterstützte das kopernikanische Modell, was zum Konflikt mit kirchlichen Autoritäten führte.",
+      "en": "Galileo used improved telescopes to investigate the Moon’s surface and Jupiter’s satellites, among other objects. These observations challenged inherited ideas about the heavens. His studies of motion connected experiments with mathematical descriptions. Writing in dialogue form, he discussed competing world systems and supported the Copernican model, bringing him into conflict with church authorities."
     },
     "highlights": [
       {
@@ -174,13 +212,23 @@
           "de": "Sidereus Nuncius beschreibt neue Fernrohrbeobachtungen.",
           "en": "Sidereus Nuncius describes new telescopic observations."
         }
+      },
+      {
+        "date": {
+          "year": 1632,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der Dialog über die zwei hauptsächlichen Weltsysteme vergleicht geozentrische und heliozentrische Modelle.",
+          "en": "The Dialogue Concerning the Two Chief World Systems compares geocentric and heliocentric models."
+        }
       }
     ],
     "sources": [
       {
         "title": "MacTutor History of Mathematics — University of St Andrews",
         "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Galileo/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ]
   },
@@ -208,8 +256,8 @@
       "en": "Connected algebra and geometry and asked what makes knowledge certain."
     },
     "biography": {
-      "de": "Descartes prägte das Denken der frühen Neuzeit. In der Mathematik verband er geometrische Probleme mit algebraischen Verfahren; in der Philosophie machte er methodischen Zweifel zum Ausgangspunkt.",
-      "en": "Descartes was an influential early-modern thinker. In mathematics he linked geometrical problems to algebraic methods; in philosophy he made methodical doubt a starting point."
+      "de": "Descartes suchte nach verlässlichen Grundlagen des Wissens und machte methodischen Zweifel zum Ausgangspunkt seiner Philosophie. Er unterschied zwischen denkendem Geist und ausgedehnter Materie. In der Mathematik übersetzte er geometrische Aufgaben in algebraische Beziehungen. Seine Schriften über Methode, Optik und Naturphilosophie verbanden diese unterschiedlichen Untersuchungen zu einem umfassenden Forschungsprogramm.",
+      "en": "Descartes sought reliable foundations for knowledge, making methodical doubt a starting point for philosophy. He distinguished the thinking mind from extended matter. In mathematics, he translated geometrical problems into algebraic relationships. His writings on method, optics and natural philosophy connected these investigations within a broad programme for understanding the world."
     },
     "highlights": [
       {
@@ -221,13 +269,23 @@
           "de": "Discours de la méthode mit dem Anhang La Géométrie.",
           "en": "Discours de la méthode, with the appendix La Géométrie."
         }
+      },
+      {
+        "date": {
+          "year": 1641,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Meditationes de prima philosophia untersuchen Zweifel, Erkenntnis und das Verhältnis von Geist und Körper.",
+          "en": "Meditations on First Philosophy examines doubt, knowledge and the relationship between mind and body."
+        }
       }
     ],
     "sources": [
       {
         "title": "MacTutor History of Mathematics — University of St Andrews",
         "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Descartes/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {
@@ -265,8 +323,8 @@
       "en": "Described motion and gravitation within a mathematical system."
     },
     "biography": {
-      "de": "Newton arbeitete an Mechanik, Optik und Infinitesimalrechnung. Die Principia verbanden Bewegungen auf der Erde und am Himmel durch gemeinsame mathematische Gesetze.",
-      "en": "Newton worked on mechanics, optics and calculus. The Principia connected motion on Earth and in the heavens through shared mathematical laws."
+      "de": "Newton arbeitete an Mechanik, Optik und Infinitesimalrechnung. Die Principia erklärten Bewegungen auf der Erde und am Himmel durch gemeinsame mathematische Gesetze. Mit Prismen untersuchte er die Zusammensetzung weißen Lichts. Seine unabhängig von Leibniz entwickelte Infinitesimalrechnung lieferte Verfahren, um Veränderung zu beschreiben und geometrische Probleme zu lösen.",
+      "en": "Newton worked on mechanics, optics and calculus. The Principia explained motion on Earth and in the heavens through shared mathematical laws. Using prisms, he investigated the composition of white light. His calculus, developed independently of Leibniz’s, provided methods for describing change and solving geometrical problems through a new mathematical framework."
     },
     "highlights": [
       {
@@ -278,13 +336,23 @@
           "de": "Veröffentlichung der Philosophiae Naturalis Principia Mathematica.",
           "en": "Publication of Philosophiae Naturalis Principia Mathematica."
         }
+      },
+      {
+        "date": {
+          "year": 1704,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Opticks veröffentlicht seine Untersuchungen über Licht, Farben und optische Erscheinungen.",
+          "en": "Opticks presents his investigations of light, colour and optical phenomena."
+        }
       }
     ],
     "sources": [
       {
         "title": "MacTutor History of Mathematics — University of St Andrews",
         "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Newton/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ],
     "dateNote": {
@@ -327,15 +395,36 @@
       "en": "Worked on calculus, logic and calculating machines."
     },
     "biography": {
-      "de": "Leibniz entwickelte unabhängig von Newton eine Form der Infinitesimalrechnung. Seine vielseitige Arbeit umfasste Philosophie, mathematische Notation und mechanisches Rechnen.",
-      "en": "Leibniz developed a form of calculus independently of Newton. His wide-ranging work included philosophy, mathematical notation and mechanical computation."
+      "de": "Leibniz entwickelte unabhängig von Newton eine Form der Infinitesimalrechnung und führte eine bis heute gebräuchliche mathematische Schreibweise ein. Er entwarf Rechenmaschinen und untersuchte das binäre Zahlensystem. Zugleich arbeitete er als Philosoph, Diplomat und Historiker. Seine Überlegungen zur Logik zielten darauf, Teile des Schlussfolgerns durch regelgeleitete Zeichenoperationen darzustellen.",
+      "en": "Leibniz developed calculus independently of Newton and introduced mathematical notation that remains in use. He designed calculating machines and investigated binary arithmetic. He also worked as a philosopher, diplomat and historian. His studies of logic explored how parts of reasoning might be represented through operations on symbols governed by explicit rules."
     },
-    "highlights": [],
+    "highlights": [
+      {
+        "date": {
+          "year": 1684,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Nova Methodus pro Maximis et Minimis veröffentlicht Regeln der Differentialrechnung.",
+          "en": "Nova Methodus pro Maximis et Minimis publishes rules of differential calculus."
+        }
+      },
+      {
+        "date": {
+          "year": 1686,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Verfasst den Discours de métaphysique über grundlegende Fragen seiner Philosophie.",
+          "en": "Writes the Discourse on Metaphysics, addressing foundational questions in his philosophy."
+        }
+      }
+    ],
     "sources": [
       {
         "title": "MacTutor History of Mathematics — University of St Andrews",
         "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Leibniz/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ]
   },
@@ -360,8 +449,8 @@
       "en": "Examined the conditions and limits of human knowledge."
     },
     "biography": {
-      "de": "Kant fragte, wie Erfahrung und Begriffe gemeinsam Erkenntnis ermöglichen. Seine Arbeiten über Vernunft, Ethik und Urteilskraft prägten zahlreiche spätere philosophische Debatten.",
-      "en": "Kant asked how experience and concepts together make knowledge possible. His works on reason, ethics and judgment shaped many later philosophical debates."
+      "de": "Kant untersuchte, wie Erfahrung und Begriffe gemeinsam Erkenntnis ermöglichen und wo die Grenzen menschlicher Vernunft liegen. In seiner Ethik betonte er Autonomie und die Verpflichtung auf verallgemeinerbare moralische Regeln. Weitere Arbeiten behandelten ästhetische Urteile und die Erklärung der Natur. Seine drei Kritiken wurden Bezugspunkte für anhaltende philosophische Auseinandersetzungen.",
+      "en": "Kant examined how experience and concepts together make knowledge possible, and where human reason reaches its limits. His ethics emphasised autonomy and commitment to moral rules that could hold universally. Other work addressed aesthetic judgment and the explanation of nature. His three Critiques became reference points for continuing philosophical debate."
     },
     "highlights": [
       {
@@ -373,13 +462,33 @@
           "de": "Erste Ausgabe der Kritik der reinen Vernunft.",
           "en": "First edition of the Critique of Pure Reason."
         }
+      },
+      {
+        "date": {
+          "year": 1788,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Kritik der praktischen Vernunft untersucht die Grundlagen moralischen Handelns.",
+          "en": "The Critique of Practical Reason examines the foundations of moral action."
+        }
+      },
+      {
+        "date": {
+          "year": 1790,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Kritik der Urteilskraft behandelt ästhetische und teleologische Urteile.",
+          "en": "The Critique of Judgment considers aesthetic and teleological judgments."
+        }
       }
     ],
     "sources": [
       {
         "title": "Stanford Encyclopedia of Philosophy — Immanuel Kant",
         "url": "https://plato.stanford.edu/entries/kant/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {
@@ -417,10 +526,20 @@
       "en": "Argued for women’s education and equal rights."
     },
     "biography": {
-      "de": "Wollstonecraft verband moralphilosophische Überlegungen mit einer Kritik gesellschaftlicher Abhängigkeit. Sie schrieb politische Texte, Reiseberichte und Romane.",
-      "en": "Wollstonecraft connected moral philosophy with a critique of social dependency. She wrote political works, travel accounts and novels."
+      "de": "Wollstonecraft verband moralphilosophische Überlegungen mit einer Kritik gesellschaftlicher Abhängigkeit. Sie argumentierte, dass Frauen ihre Vernunft durch Bildung entwickeln und wirtschaftlich selbstständiger werden sollten. Ihre politischen Schriften griffen Debatten der Französischen Revolution auf. Auch in Romanen und Reiseberichten untersuchte sie, wie Erziehung, soziale Verhältnisse und Macht das menschliche Handeln prägen.",
+      "en": "Wollstonecraft connected moral philosophy with a critique of social dependency. She argued that education should enable women to develop their reason and become more economically independent. Her political writings engaged with debates surrounding the French Revolution. Novels and travel writing also examined how education, social conditions and power shape human conduct."
     },
     "highlights": [
+      {
+        "date": {
+          "year": 1790,
+          "precision": "year"
+        },
+        "text": {
+          "de": "A Vindication of the Rights of Men antwortet auf Edmund Burkes Kritik der Französischen Revolution.",
+          "en": "A Vindication of the Rights of Men responds to Edmund Burke’s criticism of the French Revolution."
+        }
+      },
       {
         "date": {
           "year": 1792,
@@ -436,7 +555,7 @@
       {
         "title": "Stanford Encyclopedia of Philosophy — Mary Wollstonecraft",
         "url": "https://plato.stanford.edu/entries/wollstonecraft/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {

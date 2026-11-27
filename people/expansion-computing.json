@@ -1,0 +1,1683 @@
+[
+  {
+    "id": "charles-babbage",
+    "name": "Charles Babbage",
+    "aliases": [],
+    "birth": {
+      "year": 1791,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1871,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "computing",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Mathematiker, der mechanische Rechenmaschinen und einen programmierbaren Rechner entwarf.",
+      "en": "Mathematician who designed mechanical calculating engines and a programmable computer."
+    },
+    "biography": {
+      "de": "Babbage wollte fehleranfällige Zahlentafeln durch maschinelle Berechnungen ersetzen. Seine Difference Engine berechnete Tabellenwerte; die weitergehende Analytical Engine verband Speicher, Rechenwerk und Programmsteuerung. Er arbeitete zugleich an mathematischer Lehre und technischen Produktionsfragen. Die großen Maschinen blieben zu seinen Lebzeiten unvollendet, ihre Entwürfe wurden jedoch wichtige Bezugspunkte der Computergeschichte.",
+      "en": "Babbage sought to replace error-prone numerical tables with mechanical calculation. His Difference Engine computed tabular values, while the more ambitious Analytical Engine combined storage, arithmetic and program control. He also worked on mathematical education and industrial production. The large machines remained unfinished during his lifetime, but their designs became important references in computing history."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1822,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Stellte eine kleine Difference Engine und deren Prinzip zur Tabellenberechnung vor.",
+          "en": "Presented a small Difference Engine and its principle for calculating tables."
+        }
+      },
+      {
+        "date": {
+          "year": 1834,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Entwarf erste Pläne für die programmierbare Analytical Engine.",
+          "en": "Produced early plans for the programmable Analytical Engine."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Charles Babbage (1791 - 1871) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Babbage/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "george-boole",
+    "name": "George Boole",
+    "aliases": [],
+    "birth": {
+      "year": 1815,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1864,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "computing"
+    ],
+    "summary": {
+      "de": "Mathematiker, dessen algebraische Logik später für digitale Schaltungen wichtig wurde.",
+      "en": "Mathematician whose algebraic logic later became important for digital circuits."
+    },
+    "biography": {
+      "de": "Boole erarbeitete sich einen großen Teil seiner mathematischen Kenntnisse selbst und wurde Professor in Cork. Er untersuchte Differentialgleichungen, Wahrscheinlichkeit und logisches Schließen. Seine symbolische Behandlung logischer Beziehungen erlaubte es, Aussagen mit algebraischen Verfahren zu bearbeiten. Erst spätere Forschende übertrugen diese Ideen auf Schaltkreise und die technische Verarbeitung von Informationen.",
+      "en": "Largely self-educated in mathematics, Boole became a professor in Cork. He investigated differential equations, probability and logical reasoning. His symbolic treatment of logical relationships made it possible to manipulate statements using algebraic methods. Later researchers applied these ideas to switching circuits and the technological processing of information."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1844,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte eine allgemeine analytische Methode zur Behandlung von Differentialgleichungen.",
+          "en": "Published a general analytical method for treating differential equations."
+        }
+      },
+      {
+        "date": {
+          "year": 1854,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte seine grundlegende Untersuchung zur algebraischen Behandlung des Denkens.",
+          "en": "Developed his algebraic logic in An Investigation of the Laws of Thought."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "George Boole (1815 - 1864) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boole/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "kurt-godel",
+    "name": "Kurt Gödel",
+    "aliases": [
+      "Kurt Godel"
+    ],
+    "birth": {
+      "year": 1906,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1978,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "computing"
+    ],
+    "summary": {
+      "de": "Logiker, der grundlegende Möglichkeiten und Grenzen formaler Beweissysteme untersuchte.",
+      "en": "Logician who investigated the capabilities and limits of formal proof systems."
+    },
+    "biography": {
+      "de": "Gödel studierte in Wien und arbeitete später in Princeton. Seine Untersuchungen unterschieden zwischen der Vollständigkeit logischer Schlussregeln und den Grenzen bestimmter axiomatischer Theorien. Für hinreichend starke, konsistente und effektiv axiomatisierte Systeme zeigte er die Unvermeidbarkeit unbeweisbarer Aussagen. Diese Ergebnisse prägten die Grundlagenforschung in Mathematik und theoretischer Informatik.",
+      "en": "Gödel studied in Vienna and later worked in Princeton. His research distinguished the completeness of logical inference rules from limitations of particular axiomatic theories. For sufficiently strong, consistent and effectively axiomatized systems, he established the existence of unprovable statements. These results shaped foundational research in mathematics and theoretical computer science."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1929,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Behandelte in seiner Dissertation die Vollständigkeit der Logik erster Stufe.",
+          "en": "Addressed completeness of first-order logic in his dissertation."
+        }
+      },
+      {
+        "date": {
+          "year": 1931,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte seine Unvollständigkeitssätze über ausreichend starke formale arithmetische Systeme.",
+          "en": "Published his incompleteness theorems for sufficiently strong formal arithmetical systems."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Kurt Gödel (1906 - 1978) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Godel/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "alonzo-church",
+    "name": "Alonzo Church",
+    "aliases": [],
+    "birth": {
+      "year": 1903,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1995,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "computing"
+    ],
+    "summary": {
+      "de": "Mathematischer Logiker, der Berechenbarkeit und den Lambda-Kalkül erforschte.",
+      "en": "Mathematical logician who investigated computability and the lambda calculus."
+    },
+    "biography": {
+      "de": "Church lehrte in Princeton und später in Los Angeles. Er entwickelte formale Werkzeuge, um Funktionen, Berechnungen und logische Beweise zu untersuchen. Mit dem Lambda-Kalkül und seinen Arbeiten zur Unentscheidbarkeit trug er zur theoretischen Informatik bei. Seine Schule verband präzise mathematische Modelle mit Fragen nach den Grenzen mechanischer Verfahren.",
+      "en": "Church taught at Princeton and later in Los Angeles. He developed formal tools for investigating functions, computations and logical proofs. His lambda calculus and research on undecidability contributed to theoretical computer science. His school connected precise mathematical models with questions about the limits of mechanical procedures."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1936,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Zeigte, dass das allgemeine Entscheidungsproblem der Logik erster Stufe unlösbar ist.",
+          "en": "Showed that the general decision problem for first-order logic is unsolvable."
+        }
+      },
+      {
+        "date": {
+          "year": 1941,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte The Calculi of Lambda-Conversion.",
+          "en": "Published The Calculi of Lambda-Conversion."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alonzo Church (1903 - 1995) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Church/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "emil-post",
+    "name": "Emil Leon Post",
+    "aliases": [
+      "Emil Post"
+    ],
+    "birth": {
+      "year": 1897,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1954,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "computing"
+    ],
+    "summary": {
+      "de": "Logiker, der formale Rechenverfahren und unentscheidbare Probleme untersuchte.",
+      "en": "Logician who studied formal computation and undecidable problems."
+    },
+    "biography": {
+      "de": "Post kam als Kind aus dem Russischen Reich in die USA und arbeitete überwiegend in New York. Seine Forschung behandelte Aussagenlogik, symbolische Verfahren und die Grenzen algorithmischer Entscheidungen. Er entwickelte eigenständige Modelle mechanischer Berechnung und verband abstrakte Logik mit konkreten Problemen über Zeichenfolgen und algebraische Strukturen.",
+      "en": "Post moved from the Russian Empire to the United States as a child and worked mainly in New York. His research addressed propositional logic, symbolic procedures and the limits of algorithmic decisions. He developed independent models of mechanical computation and connected abstract logic with concrete problems involving strings and algebraic structures."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1936,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Beschrieb ein formales Modell schrittweiser symbolischer Berechnung.",
+          "en": "Described a formal model of step-by-step symbolic computation."
+        }
+      },
+      {
+        "date": {
+          "year": 1947,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Bewies die Unentscheidbarkeit eines Wortproblems für Halbgruppen.",
+          "en": "Proved the undecidability of a word problem for semigroups."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Emil Post (1897 - 1954) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Post/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "herman-hollerith",
+    "name": "Herman Hollerith",
+    "aliases": [],
+    "birth": {
+      "year": 1860,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1929,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Erfinder elektrischer Lochkartentabulierung für die Verarbeitung großer Datenbestände.",
+      "en": "Inventor of electrical punched-card tabulation for processing large datasets."
+    },
+    "biography": {
+      "de": "Hollerith entwickelte ein Verfahren, mit dem gelochte Karten Informationen für elektrische Zählmaschinen speicherten. Die Volkszählung stellte dafür eine besonders große praktische Aufgabe dar. Seine Geräte beschleunigten die Auswertung und wurden auch außerhalb der Statistik eingesetzt. Aus seiner unternehmerischen Arbeit entstand ein wichtiger Teil der späteren Industrie für maschinelle Datenverarbeitung.",
+      "en": "Hollerith developed a method in which punched cards stored information for electrical counting machines. Census work provided a particularly demanding practical application. His equipment accelerated tabulation and found uses beyond population statistics. His commercial activities became an important part of the emerging industry for mechanized data processing."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1890,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sein elektrisches Tabuliersystem wurde für die US-Volkszählung eingesetzt.",
+          "en": "His electrical tabulating system was used for the United States census."
+        }
+      },
+      {
+        "date": {
+          "year": 1896,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gründete die Tabulating Machine Company zur Vermarktung seiner Datenverarbeitungstechnik.",
+          "en": "Founded the Tabulating Machine Company to market his data-processing equipment."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Herman Hollerith (1860 - 1929) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hollerith/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "konrad-zuse",
+    "name": "Konrad Zuse",
+    "aliases": [],
+    "birth": {
+      "year": 1910,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1995,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Ingenieur, der programmgesteuerte Rechner und die Sprache Plankalkül entwickelte.",
+      "en": "Engineer who developed program-controlled computers and the language Plankalkül."
+    },
+    "biography": {
+      "de": "Zuse suchte nach Möglichkeiten, aufwendige technische Berechnungen zu automatisieren. In Berlin baute er mechanische und elektromechanische Rechner; ein Teil seiner Kriegsarbeit erhielt Unterstützung aus der deutschen Luftfahrtforschung. Nach dem Krieg entwickelte er kommerzielle Rechensysteme. Seine Arbeit umfasste sowohl die Konstruktion von Maschinen als auch Überlegungen zur Formulierung ihrer Programme.",
+      "en": "Zuse sought ways to automate laborious engineering calculations. In Berlin he built mechanical and electromechanical computers; part of his wartime work received support from German aviation research. After the war he developed commercial computing systems. His work encompassed both machine construction and ways of expressing programs for those machines."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1941,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Stellte den elektromechanischen, programmgesteuerten Rechner Z3 fertig.",
+          "en": "Completed the electromechanical, program-controlled Z3 computer."
+        }
+      },
+      {
+        "date": {
+          "year": 1945,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Entwickelte den Plankalkül als Entwurf einer höheren Programmiersprache.",
+          "en": "Developed Plankalkül as a design for a higher-level programming language."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Konrad Zuse (1910 - 1995) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Zuse/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Konrad Zuse",
+        "url": "https://computerhistory.org/profile/konrad-zuse/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "john-atanasoff",
+    "name": "John Vincent Atanasoff",
+    "aliases": [
+      "John Atanasoff"
+    ],
+    "birth": {
+      "year": 1903,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1995,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "mathematicians",
+      "physicists",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Physiker und Rechnerentwickler, der mit Clifford Berry den ABC konstruierte.",
+      "en": "Physicist and computer developer who built the ABC with Clifford Berry."
+    },
+    "biography": {
+      "de": "Atanasoff arbeitete am Iowa State College an mathematischen und physikalischen Problemen, deren Berechnung viel Zeit beanspruchte. Mit Clifford Berry entwickelte er deshalb einen elektronischen Rechner für lineare Gleichungssysteme. Das Gerät verband binäre Darstellung mit elektronischer Verarbeitung und besonderer Speichertechnik. Es war auf diese Aufgabe zugeschnitten und kein frei programmierbarer Universalrechner.",
+      "en": "Atanasoff worked at Iowa State College on mathematical and physical problems requiring lengthy calculations. With Clifford Berry, he developed an electronic machine for systems of linear equations. It combined binary representation with electronic processing and a distinctive memory system. The machine served a specialized task rather than functioning as a freely programmable general-purpose computer."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1939,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Begann mit Clifford Berry den Bau des Atanasoff-Berry Computer.",
+          "en": "Began constructing the Atanasoff-Berry Computer with Clifford Berry."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "John Vincent Atanasoff Biography",
+        "url": "https://jva.cs.iastate.edu/jvabio.php",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "1942 | Timeline of Computer History",
+        "url": "https://www.computerhistory.org/timeline/1942/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "john-mauchly",
+    "name": "John William Mauchly",
+    "aliases": [
+      "John Mauchly"
+    ],
+    "birth": {
+      "year": 1907,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1980,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "physicists",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Physiker und Mitentwickler der elektronischen Rechner ENIAC und UNIVAC.",
+      "en": "Physicist and co-developer of the electronic computers ENIAC and UNIVAC."
+    },
+    "biography": {
+      "de": "Mauchlys Interesse an umfangreichen Wetterberechnungen führte ihn zur elektronischen Rechentechnik. An der Moore School entwickelte er mit J. Presper Eckert und einem größeren Team den ENIAC. Anschließend gründeten beide ein Unternehmen für kommerzielle Computer. Konstruktion und Nutzung dieser Maschinen beruhten ebenso auf der Arbeit ihrer Ingenieur:innen und Programmierer:innen.",
+      "en": "Mauchly’s interest in extensive weather calculations led him toward electronic computing. At the Moore School, he developed ENIAC with J. Presper Eckert and a larger team. The two subsequently founded a commercial computer business. Building and using these machines also depended on the work of their engineers and programmers."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1946,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der gemeinsam mit Eckert und einem Team entwickelte ENIAC wurde öffentlich vorgestellt.",
+          "en": "ENIAC, developed with Eckert and a team, was publicly presented."
+        }
+      },
+      {
+        "date": {
+          "year": 1946,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gründete mit Eckert die Electronic Control Company für kommerzielle Rechnerentwicklung.",
+          "en": "Founded the Electronic Control Company with Eckert for commercial computer development."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "John Mauchly (1907 - 1980) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Mauchly/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "j-presper-eckert",
+    "name": "J. Presper Eckert",
+    "aliases": [
+      "John Presper Eckert",
+      "Presper Eckert"
+    ],
+    "birth": {
+      "year": 1919,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1995,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Elektroingenieur, der die technische Entwicklung von ENIAC und UNIVAC mitprägte.",
+      "en": "Electrical engineer who helped shape the development of ENIAC and UNIVAC."
+    },
+    "biography": {
+      "de": "Eckert entwickelte an der University of Pennsylvania mit John Mauchly elektronische Rechner. Als leitender Ingenieur des ENIAC arbeitete er an Schaltungen und zuverlässigem Betrieb zahlreicher Elektronenröhren. Die anschließende gemeinsame Firmengründung führte zur Entwicklung kommerzieller Systeme. Seine Laufbahn verbindet die experimentelle Großrechnertechnik des Krieges mit der frühen Computerindustrie.",
+      "en": "Eckert developed electronic computers with John Mauchly at the University of Pennsylvania. As ENIAC’s chief engineer, he worked on circuits and the reliable operation of many vacuum tubes. Their subsequent business venture produced commercial systems. His career connects wartime experimental computing with the development of the early computer industry."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1943,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Übernahm die leitende technische Arbeit am ENIAC-Projekt.",
+          "en": "Took the leading engineering role in the ENIAC project."
+        }
+      },
+      {
+        "date": {
+          "year": 1946,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gründete mit Mauchly ein Unternehmen zur Entwicklung kommerzieller Computer.",
+          "en": "Founded a company with Mauchly to develop commercial computers."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "John Presper Eckert (1919 - 1995) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Eckert_John/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "claude-shannon",
+    "name": "Claude Elwood Shannon",
+    "aliases": [
+      "Claude Shannon"
+    ],
+    "birth": {
+      "year": 1916,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2001,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "computing"
+    ],
+    "summary": {
+      "de": "Mathematiker und Ingenieur, der die mathematische Informationstheorie begründete.",
+      "en": "Mathematician and engineer who established mathematical information theory."
+    },
+    "biography": {
+      "de": "Shannon verband mathematische Abstraktion mit technischen Kommunikationsproblemen. Er zeigte, wie Boolesche Algebra zur Beschreibung elektrischer Schaltkreise dienen kann. Bei Bell Labs untersuchte er anschließend, wie Information messbar wird und trotz Störungen übertragen werden kann. Seine Forschung unterschied dabei technische Übertragungsfragen von der Bedeutung einer Nachricht.",
+      "en": "Shannon connected mathematical abstraction with engineering problems in communication. He showed how Boolean algebra could describe electrical switching circuits. At Bell Labs, he then investigated how to measure information and transmit it despite noise. His research distinguished technical questions of transmission from the meaning carried by a message."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1948,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte A Mathematical Theory of Communication über Information und Übertragung.",
+          "en": "Published A Mathematical Theory of Communication on information and transmission."
+        }
+      },
+      {
+        "date": {
+          "year": 1949,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte Communication Theory of Secrecy Systems zur mathematischen Kryptografie.",
+          "en": "Published Communication Theory of Secrecy Systems on mathematical cryptography."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Claude Shannon (1916 - 2001) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Shannon/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Claude E. Shannon",
+        "url": "https://www.itsoc.org/about/shannon",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "edsger-dijkstra",
+    "name": "Edsger Wybe Dijkstra",
+    "aliases": [
+      "Edsger Dijkstra"
+    ],
+    "birth": {
+      "year": 1930,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2002,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Informatiker, der Algorithmen und die überprüfbare Konstruktion von Programmen erforschte.",
+      "en": "Computer scientist who studied algorithms and the verifiable construction of programs."
+    },
+    "biography": {
+      "de": "Dijkstra begann als Programmierer am Mathematischen Zentrum in Amsterdam und lehrte später in Eindhoven und Austin. Er arbeitete an Übersetzungsprogrammen, Betriebssystemen und grundlegenden Algorithmen. Dabei behandelte er Programmierung zunehmend als mathematische Tätigkeit: Verständliche Struktur und begründete Korrektheit sollten bereits den Entwurf bestimmen und nicht erst nachträglich geprüft werden.",
+      "en": "Dijkstra began as a programmer at Amsterdam’s Mathematical Centre and later taught in Eindhoven and Austin. He worked on compilers, operating systems and fundamental algorithms. He increasingly treated programming as a mathematical activity: clear structure and justified correctness should guide the design itself rather than only being checked afterward."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1959,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte einen Algorithmus zur Bestimmung kürzester Wege in Graphen.",
+          "en": "Published an algorithm for finding shortest paths in graphs."
+        }
+      },
+      {
+        "date": {
+          "year": 1960,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Entwickelte mit Jaap Zonneveld einen frühen Compiler für ALGOL 60.",
+          "en": "Developed an early ALGOL 60 compiler with Jaap Zonneveld."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Edsger Dijkstra (1930 - 2002) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Dijkstra/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "john-mccarthy",
+    "name": "John McCarthy",
+    "aliases": [],
+    "birth": {
+      "year": 1927,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2011,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Informatiker, der LISP entwickelte und die frühe KI-Forschung mitorganisierte.",
+      "en": "Computer scientist who developed LISP and helped organize early AI research."
+    },
+    "biography": {
+      "de": "McCarthy verband mathematische Logik mit der Frage, wie Computer intelligent handeln könnten. Er arbeitete unter anderem am MIT und in Stanford, entwickelte Programmiersprachen und unterstützte gemeinsam nutzbare Rechenanlagen. Seine Forschung zur künstlichen Intelligenz betonte formale Wissensdarstellung und Schlussfolgerungen. Zugleich prägte er Institutionen und Begriffe dieses Forschungsfeldes.",
+      "en": "McCarthy connected mathematical logic with the question of how computers might act intelligently. Working at institutions including MIT and Stanford, he developed programming languages and supported shared computing facilities. His artificial intelligence research emphasized formal knowledge representation and reasoning. He also helped shape the institutions and terminology of the field."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1955,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Verwendete artificial intelligence im Vorschlag für das Dartmouth-Forschungsprojekt.",
+          "en": "Used artificial intelligence in the proposal for the Dartmouth research project."
+        }
+      },
+      {
+        "date": {
+          "year": 1958,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Entwickelte LISP zur symbolischen Verarbeitung und KI-Programmierung.",
+          "en": "Developed LISP for symbolic processing and artificial intelligence programming."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford’s John McCarthy, seminal figure of artificial intelligence, dies at 84",
+        "url": "https://news.stanford.edu/stories/2011/10/stanfords-john-mccarthy-seminal-figure-artificial-intelligence-dies-84",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "John McCarthy",
+        "url": "https://computerhistory.org/profile/john-mccarthy/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "marvin-minsky",
+    "name": "Marvin Minsky",
+    "aliases": [
+      "Marvin Lee Minsky"
+    ],
+    "birth": {
+      "year": 1927,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2016,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "KI-Forscher, der maschinelles Lernen und Modelle menschlicher Denkprozesse untersuchte.",
+      "en": "AI researcher who investigated machine learning and models of human thought."
+    },
+    "biography": {
+      "de": "Minsky arbeitete am MIT an künstlicher Intelligenz, Robotik und Modellen des Geistes. Seine frühen Experimente umfassten neuronale Netze; später beschrieb er Denken als Zusammenarbeit vieler spezialisierter Prozesse. Er verband technische Systeme mit psychologischen Fragen. Seine Modelle waren Forschungsansätze zur Erklärung von Kognition, keine abschließend bestätigte Theorie menschlichen Denkens.",
+      "en": "Minsky worked at MIT on artificial intelligence, robotics and models of mind. His early experiments included neural networks; he later described thought as cooperation among many specialized processes. He connected technical systems with psychological questions. His models were research approaches to cognition rather than a conclusively established theory of human thinking."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1951,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Baute eine frühe Maschine zur Simulation eines lernenden neuronalen Netzes.",
+          "en": "Built an early machine simulating a learning neural network."
+        }
+      },
+      {
+        "date": {
+          "year": 2006,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte The Emotion Machine über Emotion, Denken und mentale Prozesse.",
+          "en": "Published The Emotion Machine on emotion, thought and mental processes."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Marvin Minsky, “father of artificial intelligence,” dies at 88",
+        "url": "https://news.mit.edu/2016/marvin-minsky-obituary-0125",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "allen-newell",
+    "name": "Allen Newell",
+    "aliases": [],
+    "birth": {
+      "year": 1927,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1992,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing"
+    ],
+    "summary": {
+      "de": "Informatiker und Kognitionsforscher, der Problemlösen durch Computerprogramme modellierte.",
+      "en": "Computer scientist and cognitive researcher who modeled problem-solving with programs."
+    },
+    "biography": {
+      "de": "Newell untersuchte zunächst bei RAND und später an der Carnegie Mellon University, wie Menschen und Maschinen Probleme bearbeiten. Mit Herbert Simon entwickelte er Programme und Theorien symbolischer Informationsverarbeitung. Seine spätere Arbeit am System Soar zielte auf zusammenhängende Modelle verschiedener geistiger Fähigkeiten. Informatik und experimentelle Psychologie waren dabei eng verbunden.",
+      "en": "Newell studied how people and machines solve problems, first at RAND and later at Carnegie Mellon University. With Herbert Simon, he developed programs and theories of symbolic information processing. His later work on Soar sought integrated models of different mental abilities. Computing and experimental psychology remained closely connected in this research."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1972,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte mit Herbert Simon Human Problem Solving.",
+          "en": "Published Human Problem Solving with Herbert Simon."
+        }
+      },
+      {
+        "date": {
+          "year": 1990,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Bündelte seine kognitionswissenschaftlichen Ansätze in Unified Theories of Cognition.",
+          "en": "Brought together his cognitive research in Unified Theories of Cognition."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Allen Newell",
+        "url": "https://digitalcollections.library.cmu.edu/cmu-collection/allen-newell",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "herbert-simon",
+    "name": "Herbert Alexander Simon",
+    "aliases": [
+      "Herbert Simon"
+    ],
+    "birth": {
+      "year": 1916,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2001,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing"
+    ],
+    "summary": {
+      "de": "Sozialwissenschaftler und KI-Forscher, der Entscheidungen unter begrenztem Wissen untersuchte.",
+      "en": "Social scientist and AI researcher who studied decision-making under limited knowledge."
+    },
+    "biography": {
+      "de": "Simon verband Organisationsforschung, Ökonomie, Psychologie und Informatik. Er untersuchte, wie Menschen mit begrenzten Informationen und begrenzter Rechenfähigkeit Entscheidungen treffen. Gemeinsam mit Allen Newell erforschte er symbolisches Problemlösen durch Computer. Seine Arbeiten machten menschliche Denkprozesse zu einem Gegenstand programmierbarer Modelle, deren Verhalten mit Beobachtungen verglichen werden konnte.",
+      "en": "Simon connected organizational research, economics, psychology and computing. He investigated how people make decisions with limited information and limited computational capacity. With Allen Newell, he explored symbolic problem-solving by computer. His work made human thought processes a subject for programmable models whose behavior could be compared with observations."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1956,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Entwickelte mit Allen Newell und Cliff Shaw den Logic Theorist.",
+          "en": "Developed the Logic Theorist with Allen Newell and Cliff Shaw."
+        }
+      },
+      {
+        "date": {
+          "year": 1972,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte mit Newell Human Problem Solving.",
+          "en": "Published Human Problem Solving with Newell."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Simon, Herbert A.",
+        "url": "https://www.informs.org/Explore/History-of-O.R.-Excellence/Biographical-Profiles/Simon-Herbert-A",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "History - Simon Initiative",
+        "url": "https://www.cmu.edu/simon/what-is-simon/history.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Allen Newell",
+        "url": "https://digitalcollections.library.cmu.edu/cmu-collection/allen-newell",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "douglas-engelbart",
+    "name": "Douglas Engelbart",
+    "aliases": [
+      "Doug Engelbart",
+      "Douglas Carl Engelbart"
+    ],
+    "birth": {
+      "year": 1925,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2013,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Ingenieur, der interaktive Computersysteme für gemeinsames Wissensarbeiten entwickelte.",
+      "en": "Engineer who developed interactive computer systems for collaborative knowledge work."
+    },
+    "biography": {
+      "de": "Engelbart verstand Computer als Werkzeuge, die menschliche Fähigkeiten zur Bearbeitung komplexer Probleme erweitern sollten. Am Stanford Research Institute leitete er die Entwicklung eines interaktiven Systems mit verknüpften Dokumenten und gemeinsamer Bildschirmarbeit. Die Maus war ein Bestandteil dieses umfassenderen Projekts. Seine Vorführungen verbanden technische Neuerungen mit einer Vision kooperativer Arbeitsweisen.",
+      "en": "Engelbart saw computers as tools for expanding human abilities to address complex problems. At Stanford Research Institute, he led development of an interactive system with linked documents and shared screen work. The mouse was one component of this broader project. His demonstrations combined technical innovations with a vision of collaborative working methods."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1968,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Demonstrierte mit seinem Team NLS, einschließlich Maus, Hypertext und Bildschirmzusammenarbeit.",
+          "en": "Demonstrated NLS with his team, including the mouse, hypertext and shared-screen collaboration."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Doug Engelbart",
+        "url": "https://computerhistory.org/profile/doug-engelbart/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "dennis-ritchie",
+    "name": "Dennis MacAlistair Ritchie",
+    "aliases": [
+      "Dennis Ritchie",
+      "dmr"
+    ],
+    "birth": {
+      "year": 1941,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2011,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing"
+    ],
+    "summary": {
+      "de": "Informatiker, der C entwickelte und mit Ken Thompson an Unix arbeitete.",
+      "en": "Computer scientist who developed C and worked with Ken Thompson on Unix."
+    },
+    "biography": {
+      "de": "Ritchie arbeitete bei Bell Labs an Programmiersprachen und Betriebssystemen. Mit Ken Thompson entwickelte er Unix, dessen Gestaltung viele spätere Systeme beeinflusste. Die Sprache C verband hardwarenahe Kontrolle mit einer übertragbaren Form der Systemprogrammierung. Seine Beiträge entstanden in einem kollegialen Forschungsumfeld und wirkten durch veröffentlichte Software, Dokumentation und weitere Implementierungen.",
+      "en": "Ritchie worked at Bell Labs on programming languages and operating systems. With Ken Thompson, he developed Unix, whose design influenced many later systems. C combined close control of hardware with a portable approach to systems programming. His contributions emerged from a collaborative research environment and spread through software, documentation and further implementations."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1972,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Entwickelte die Programmiersprache C für die Systemprogrammierung.",
+          "en": "Developed the C programming language for systems programming."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dennis Ritchie",
+        "url": "https://computerhistory.org/profile/dennis-ritchie/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Dennis Ritchie",
+        "url": "https://www.invent.org/inductees/dennis-ritchie",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "grace-hopper",
+    "name": "Grace Murray Hopper",
+    "aliases": [
+      "Grace Hopper",
+      "Grace Brewster Murray Hopper"
+    ],
+    "birth": {
+      "year": 1906,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1992,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "mathematicians",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Mathematikerin und Informatikerin, die Compiler und verständlichere Programmiersprachen voranbrachte.",
+      "en": "Mathematician and computer scientist who advanced compilers and more accessible programming languages."
+    },
+    "biography": {
+      "de": "Hopper wechselte von der mathematischen Hochschullehre in die Computerarbeit der US-Marine. Sie wirkte an frühen elektronischen Rechensystemen mit und entwickelte Verfahren, die Programmierung von einzelnen Maschinenbefehlen unabhängiger machten. Später unterstützte sie die Entstehung von COBOL. Dabei verband sie technische Entwicklungsarbeit mit Ausbildung und der Vermittlung neuer Programmiermethoden.",
+      "en": "Hopper moved from teaching mathematics into computing work for the United States Navy. She contributed to early electronic computing systems and developed methods that made programming less dependent on individual machine instructions. Later she supported the creation of COBOL, combining technical development with education and the communication of new programming methods."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1959,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wirkte an der Entwicklung von COBOL als gemeinsamer Sprache für Geschäftsanwendungen mit.",
+          "en": "Contributed to developing COBOL as a shared language for business applications."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Grace Murray Hopper",
+        "url": "https://computerhistory.org/profile/grace-murray-hopper/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "jean-bartik",
+    "name": "Jean Jennings Bartik",
+    "aliases": [
+      "Jean Bartik",
+      "Betty Jean Jennings"
+    ],
+    "birth": {
+      "year": 1924,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2011,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "mathematicians",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Mathematikerin und ENIAC-Programmiererin, die später an BINAC und UNIVAC mitarbeitete.",
+      "en": "Mathematician and ENIAC programmer who later worked on BINAC and UNIVAC."
+    },
+    "biography": {
+      "de": "Bartik kam aus der mathematischen Berechnung ballistischer Tabellen zur Programmierung des ENIAC. Mit fünf weiteren Frauen erschloss sie die Arbeitsweise der Maschine und übersetzte Rechenaufgaben in ausführbare Abläufe. Später wirkte sie an Veränderungen der Programmsteuerung und kommerziellen Rechnern mit. Die Bedeutung dieser frühen Programmierarbeit wurde lange nur unzureichend öffentlich anerkannt.",
+      "en": "Bartik moved from mathematical calculation of ballistic tables to programming ENIAC. With five other women, she learned the machine’s operation and translated computational tasks into executable procedures. She later contributed to changes in program control and to commercial computers. The importance of this early programming work received inadequate public recognition for many years."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1945,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wurde Mitglied des Teams der sechs ursprünglichen ENIAC-Programmiererinnen.",
+          "en": "Joined the team of ENIAC’s six original women programmers."
+        }
+      },
+      {
+        "date": {
+          "year": 1947,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wirkte an der Umstellung des ENIAC auf gespeicherte Programmsteuerung mit.",
+          "en": "Helped adapt ENIAC to stored-program control."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Jean Jennings Bartik",
+        "url": "https://computerhistory.org/profile/jean-jennings-bartik/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "betty-holberton",
+    "name": "Betty Holberton",
+    "aliases": [
+      "Frances Elizabeth Snyder Holberton",
+      "Betty Snyder"
+    ],
+    "birth": {
+      "year": 1917,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2001,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "mathematicians",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Programmiererin, die ENIAC und frühe Verfahren automatisierter Programmierung mitentwickelte.",
+      "en": "Programmer who contributed to ENIAC and early methods of automatic programming."
+    },
+    "biography": {
+      "de": "Holberton gehörte zum ursprünglichen Programmierteam des ENIAC und arbeitete später an UNIVAC. Sie entwickelte Hilfsprogramme, die wiederkehrende Aufgaben der Datenverarbeitung vereinfachten. Ihr Sortier- und Mischprogramm verband praktische Anforderungen mit einer stärker automatisierten Programmierung. Später wirkte sie an Standards für Programmiersprachen mit, damit Software zuverlässiger zwischen Systemen verwendet werden konnte.",
+      "en": "Holberton belonged to ENIAC’s original programming team and later worked on UNIVAC. She developed tools that simplified recurring data-processing tasks. Her sort-merge generator connected practical requirements with more automated programming. She subsequently contributed to programming-language standards intended to make software usable more reliably across different systems."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1951,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Begann die Entwicklung eines Sort-Merge-Generators für UNIVAC I, fortgeführt 1952.",
+          "en": "Began developing a sort-merge generator for UNIVAC I, continuing in 1952."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Frances Elizabeth (Betty) Snyder Holberton",
+        "url": "https://history.computer.org/holberton.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Betty Holberton",
+        "url": "https://ethw.org/Betty_Holberton",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "kathleen-antonelli",
+    "name": "Kathleen McNulty Antonelli",
+    "aliases": [
+      "Kathleen Rita McNulty",
+      "Kay McNulty",
+      "Kay Mauchly"
+    ],
+    "birth": {
+      "year": 1921,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2006,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "mathematicians",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Mathematikerin und Programmiererin, die Rechenverfahren für ENIAC entwickelte.",
+      "en": "Mathematician and programmer who developed computational procedures for ENIAC."
+    },
+    "biography": {
+      "de": "Die in Irland geborene McNulty wuchs in den USA auf und arbeitete nach ihrem Mathematikstudium an ballistischen Berechnungen. Als eine von sechs ursprünglichen ENIAC-Programmiererinnen zerlegte sie Differentialgleichungen in ausführbare Rechenschritte. Später unterstützte sie BINAC- und UNIVAC-Projekte. Ihre technischen Leistungen wurden zunächst häufig hinter der Arbeit männlicher Projektleiter unsichtbar gemacht.",
+      "en": "Born in Ireland, McNulty grew up in the United States and worked on ballistics after studying mathematics. As one of ENIAC’s six original women programmers, she broke differential equations into executable computational steps. She later supported BINAC and UNIVAC projects. Her technical contributions were initially often obscured by attention to male project leaders."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1946,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Programmierte auf dem fertiggestellten ENIAC numerische Verfahren für Differentialgleichungen.",
+          "en": "Programmed numerical procedures for differential equations on the completed ENIAC."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Kathleen McNulty Antonelli (1921 - 2006) - Biography - MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Antonelli/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "mary-kenneth-keller",
+    "name": "Mary Kenneth Keller",
+    "aliases": [
+      "Sister Mary Kenneth Keller"
+    ],
+    "birth": {
+      "year": 1913,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1985,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "mathematicians",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Informatikerin und Ordensschwester, die Forschung mit breitem Zugang zur Computerbildung verband.",
+      "en": "Computer scientist and religious sister who connected research with wider access to computing education."
+    },
+    "biography": {
+      "de": "Keller studierte Mathematik und promovierte in Informatik an der University of Wisconsin–Madison. Ihre Forschung untersuchte computergenerierte symbolische Ausdrücke. Anschließend baute sie an der heutigen Clarke University ein Informatikstudium auf. Sie setzte sich dafür ein, Computer in unterschiedlichen Bildungsbereichen einzusetzen und Frauen den Zugang zu diesem neuen Fach zu erleichtern.",
+      "en": "Keller studied mathematics and earned a computer science doctorate at the University of Wisconsin–Madison. Her research examined computer-generated symbolic expressions. She subsequently established computing education at what is now Clarke University. She advocated using computers across different educational settings and improving women’s access to this emerging field."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1965,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Schloss ihre Dissertation zur induktiven Auswertung computergenerierter Muster ab.",
+          "en": "Completed the dissertation Inductive Inference on Computer Generated Patterns."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sister Mary Kenneth Keller (PhD, 1965): The first PhD in computer science in the US",
+        "url": "https://www.cs.wisc.edu/2019/03/18/2759/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "About Mary Kenneth Keller",
+        "url": "https://www.computer.org/volunteering/awards/cse-undergrad-teaching/about-mary-kenneth-keller",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "frances-allen",
+    "name": "Frances Elizabeth Allen",
+    "aliases": [
+      "Frances Allen",
+      "Fran Allen"
+    ],
+    "birth": {
+      "year": 1932,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2020,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Informatikerin, die Methoden zur Optimierung und Parallelisierung von Programmen entwickelte.",
+      "en": "Computer scientist who developed methods for optimizing and parallelizing programs."
+    },
+    "biography": {
+      "de": "Allen wechselte aus dem Mathematikunterricht zu IBM und arbeitete dort über Jahrzehnte an Compilern. Sie erforschte, wie Programme systematisch analysiert und in effizientere Abläufe überführt werden können. Spätere Projekte behandelten ihre automatische parallele Ausführung. Neben ihrer technischen Arbeit förderte sie Nachwuchsforschende und unterstützte Frauen in der Informatik.",
+      "en": "Allen moved from teaching mathematics to IBM, where she worked on compilers for decades. She investigated systematic ways to analyze programs and transform them into more efficient procedures. Later projects addressed automatic parallel execution. Alongside her technical work, she mentored younger researchers and supported women in computing."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1966,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Beschrieb in Program Optimization Verfahren zur systematischen Programmanalyse und Optimierung.",
+          "en": "Described methods for systematic program analysis and optimization in Program Optimization."
+        }
+      },
+      {
+        "date": {
+          "year": 1970,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte Control Flow Analysis über die Struktur von Programmabläufen.",
+          "en": "Published Control Flow Analysis on the structure of program execution."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Remembering Frances E. Allen",
+        "url": "https://research.ibm.com/blog/remembering-frances-allen",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Frances E. Allen",
+        "url": "https://www.computer.org/profiles/frances-allen",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "evelyn-berezin",
+    "name": "Evelyn Berezin",
+    "aliases": [],
+    "birth": {
+      "year": 1925,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2018,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "inventors",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Computerentwicklerin und Unternehmerin, die elektronische Textverarbeitung für Büros voranbrachte.",
+      "en": "Computer designer and entrepreneur who advanced electronic word processing for offices."
+    },
+    "biography": {
+      "de": "Berezin studierte Physik und entwickelte anschließend Computer für praktische Aufgaben in Unternehmen. Ihre Arbeit reichte von Reservierungssystemen bis zur Verarbeitung geschäftlicher Dokumente. Mit Redactron brachte sie elektronische Textverarbeitung in Büros, deren Arbeitsabläufe zuvor stark von Schreibmaschinen geprägt waren. Technische Konstruktion und unternehmerische Verantwortung gehörten dabei gleichermaßen zu ihrer Laufbahn.",
+      "en": "Berezin studied physics and subsequently designed computers for practical business tasks. Her work ranged from reservation systems to processing business documents. Through Redactron, she brought electronic word processing into offices whose routines had relied heavily on typewriters. Technical design and entrepreneurial responsibility were equally important parts of her career."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1969,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gründete Redactron zur Entwicklung elektronischer Textverarbeitungssysteme.",
+          "en": "Founded Redactron to develop electronic word-processing systems."
+        }
+      },
+      {
+        "date": {
+          "year": 1971,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Redactron lieferte seine ersten Textverarbeitungssysteme aus.",
+          "en": "Redactron delivered its first word-processing systems."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Evelyn Berezin",
+        "url": "https://computerhistory.org/profile/evelyn-berezin/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Remembering CHM Fellow Evelyn Berezin",
+        "url": "https://computerhistory.org/blog/remembering-chm-fellow-evelyn-berezin/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "wang-an",
+    "name": "An Wang",
+    "aliases": [
+      "Wang An"
+    ],
+    "birth": {
+      "year": 1920,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1990,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Ingenieur und Unternehmer, der Magnetspeicher und kommerzielle Computersysteme entwickelte.",
+      "en": "Engineer and entrepreneur who developed magnetic memory and commercial computing systems."
+    },
+    "biography": {
+      "de": "Wang studierte in China und setzte seine Ausbildung nach dem Zweiten Weltkrieg in Harvard fort. Dort arbeitete er an magnetischen Speichern und dem Wiederherstellen von Daten nach dem Auslesen. Mit Wang Laboratories entwickelte er später Produkte für Unternehmen. Seine Laufbahn verband chinesische Ingenieurausbildung mit der wachsenden amerikanischen Computerindustrie.",
+      "en": "Wang studied in China and continued his education at Harvard after the Second World War. There he worked on magnetic memory and restoring data after reading it. Through Wang Laboratories, he later developed products for business users. His career linked Chinese engineering education with the expanding American computing industry."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1948,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Entwickelte in Harvard ein Verfahren zum Lesen und Wiederherstellen magnetisch gespeicherter Daten.",
+          "en": "Developed a method at Harvard for reading and restoring magnetically stored data."
+        }
+      },
+      {
+        "date": {
+          "year": 1951,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gründete Wang Laboratories, zunächst als Hersteller magnetischer Speicherelemente.",
+          "en": "Founded Wang Laboratories, initially producing magnetic memory elements."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "An Wang",
+        "url": "https://www.mocanyc.org/collections/stories/an-wang/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "raj-reddy",
+    "name": "Raj Reddy",
+    "aliases": [
+      "Dabbala Rajagopal Reddy"
+    ],
+    "birth": {
+      "year": 1937,
+      "precision": "year"
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "computing"
+    ],
+    "summary": {
+      "de": "Informatiker, der Spracherkennung, Robotik und zugängliche Informationstechnik erforscht.",
+      "en": "Computer scientist whose research spans speech recognition, robotics and accessible information technology."
+    },
+    "biography": {
+      "de": "Reddy wurde in Indien ausgebildet und studierte später in Australien und den USA. An der Carnegie Mellon University entwickelte er Forschungsprogramme zur maschinellen Verarbeitung gesprochener Sprache. Er verband die Arbeit an KI-Systemen mit dem Aufbau von Forschungsinstitutionen. Ein weiterer Schwerpunkt wurde der Zugang zu digitalen Informationen und Bildung.",
+      "en": "Reddy was educated in India and later studied in Australia and the United States. At Carnegie Mellon University, he developed research programs in machine processing of spoken language. He combined work on AI systems with building research institutions. Access to digital information and education became another focus of his work."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1979,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wurde Gründungsdirektor des Robotics Institute an der Carnegie Mellon University.",
+          "en": "Became founding director of the Robotics Institute at Carnegie Mellon University."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Raj Reddy",
+        "url": "https://scholars.cmu.edu/4250-raj-reddy/about",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Raj Reddy",
+        "url": "https://computerhistory.org/profile/raj-reddy/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Reddy, D. Raj (Dabbala Raj), 1937-",
+        "url": "https://findingaids.library.cmu.edu/agents/people/312",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "margaret-hamilton",
+    "name": "Margaret Hamilton",
+    "aliases": [],
+    "birth": {
+      "year": 1936,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2026,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Softwareentwicklerin, die ein Team für die Flugsoftware der Apollo-Missionen leitete.",
+      "en": "Software developer who led a team working on flight software for the Apollo missions."
+    },
+    "biography": {
+      "de": "Hamilton arbeitete zunächst an Wetterberechnungen und am Luftverteidigungssystem SAGE. Am MIT leitete sie später ein Team für Apollo-Flugsoftware. Dabei standen zuverlässige Ausführung, Fehlerbehandlung und die Koordination wichtiger Aufgaben unter knappen Ressourcen im Mittelpunkt. Ihre anschließende Forschung und Unternehmensarbeit beschäftigten sich mit systematischen Methoden zur Entwicklung verlässlicher Software.",
+      "en": "Hamilton initially worked on weather calculations and the SAGE air-defense system. At MIT, she later led an Apollo flight-software team. Reliable execution, error handling and coordination of important tasks under limited resources were central concerns. Her subsequent research and business work addressed systematic methods for developing dependable software."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1969,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die von ihrem Team mitentwickelte Flugsoftware unterstützte die Apollo-11-Mission.",
+          "en": "Flight software developed with her team supported the Apollo 11 mission."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+        "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "radia-perlman",
+    "name": "Radia Perlman",
+    "aliases": [],
+    "birth": {
+      "year": 1951,
+      "precision": "year"
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "computing",
+      "inventors",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Informatikerin, die robuste Netzwerkprotokolle und den Spanning-Tree-Algorithmus entwickelte.",
+      "en": "Computer scientist who developed robust network protocols and the spanning-tree algorithm."
+    },
+    "biography": {
+      "de": "Perlman untersucht, wie Computernetze auch bei komplexen Verbindungen zuverlässig funktionieren können. Ihr Spanning-Tree-Verfahren erlaubt Netzwerkbrücken, selbstständig eine schleifenfreie Verbindungsstruktur auszuwählen. Ihre weitere Arbeit behandelt Routing und Sicherheit verteilter Systeme. Sie verbindet dabei mathematische Verfahren mit dem Ziel, Netzwerke einfacher zu betreiben und weniger anfällig für Fehler zu machen.",
+      "en": "Perlman investigates how computer networks can operate reliably despite complex interconnections. Her spanning-tree method lets network bridges select a loop-free connection structure automatically. Her wider work addresses routing and security in distributed systems. She connects mathematical methods with making networks easier to operate and less vulnerable to errors."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1985,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte einen verteilten Algorithmus zur Bildung eines Spannbaums in lokalen Netzen.",
+          "en": "Published a distributed algorithm for constructing a spanning tree in local networks."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Radia Perlman",
+        "url": "https://www.invent.org/inductees/radia-perlman",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "An Algorithm for Distributed Computation of a Spanning Tree in an Extended LAN",
+        "url": "https://prl.khoury.northeastern.edu/img/p-sigcomm-1985.pdf",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "xia-peisu",
+    "name": "Xia Peisu",
+    "aliases": [
+      "Pei-su Hsia",
+      "夏培肃"
+    ],
+    "birth": {
+      "year": 1923,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2014,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "computing",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Informatikerin, die Rechnerentwicklung und Informatikausbildung in China mit aufbaute.",
+      "en": "Computer scientist who helped establish computer development and computing education in China."
+    },
+    "biography": {
+      "de": "Xia studierte Elektrotechnik in China und promovierte in Edinburgh. Nach ihrer Rückkehr arbeitete sie an der Chinesischen Akademie der Wissenschaften, wo sie die Entwicklung des Rechners 107 leitete. Neben Forschung an Rechnerarchitekturen bildete sie zahlreiche Fachkräfte aus und verfasste Lehrmaterial. Ihre Arbeit verband technische Entwicklung mit dem Aufbau wissenschaftlicher Institutionen.",
+      "en": "Xia studied electrical engineering in China and earned her doctorate in Edinburgh. Returning to China, she worked at the Chinese Academy of Sciences and led development of computer 107. Alongside research on computer architectures, she trained specialists and wrote teaching materials. Her work connected technical development with building scientific institutions."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1956,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wirkte am Aufbau des Institute of Computing Technology und seiner Ausbildungsprogramme mit.",
+          "en": "Helped establish the Institute of Computing Technology and its training programs."
+        }
+      },
+      {
+        "date": {
+          "year": 1960,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der unter ihrer Leitung entwickelte Universalrechner 107 wurde erfolgreich gebaut.",
+          "en": "The general-purpose computer 107, developed under her leadership, was successfully built."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Obituary of Academician XIA Peisu (1923-2014)",
+        "url": "https://english.ict.cas.cn/ns/es/201408/t20140830_127073.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Two ICT Academicians Win 1st CCF Lifetime Achievement Award",
+        "url": "https://english.ict.cas.cn/ns/es/201102/t20110217_65174.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Xia Peisu (夏培肃) (1923 – 2014)",
+        "url": "https://interactive-content.is.ed.ac.uk/xia-peisu-%E5%A4%8F%E5%9F%B9%E8%82%83-1923-2014/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  }
+]

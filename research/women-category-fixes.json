@@ -1,0 +1,24 @@
+[
+  {
+    "id": "rosa-luxemburg",
+    "addCategories": [
+      "scientists",
+      "women-in-science"
+    ],
+    "reason": "Economic research: doctorate on industrial development in Poland (1897) and The Accumulation of Capital (1913), documented by a university research-history exhibition. Keep politicians membership.",
+    "sourceUrl": "https://www.h-brs.de/en/zwt/exhibition-visionary-female-researchers-rosa-luxemburg",
+    "status": "applied",
+    "applied": "2026-11-27"
+  },
+  {
+    "id": "margaret-thatcher",
+    "addCategories": [
+      "naturalists",
+      "women-in-science"
+    ],
+    "reason": "Documented professional research in industrial chemistry before her political career, rather than a degree alone; supported by the Royal Society memoir deposited at UCL. Keep politicians membership.",
+    "sourceUrl": "https://discovery.ucl.ac.uk/id/eprint/10160154/",
+    "status": "applied",
+    "applied": "2026-11-27"
+  }
+]

@@ -1,0 +1,2219 @@
+[
+  {
+    "id": "michelangelo",
+    "name": "Michelangelo",
+    "aliases": [
+      "Michelangelo Buonarroti"
+    ],
+    "birth": {
+      "year": 1475,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1564,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Verband in Skulptur, Malerei und Architektur körperlichen Ausdruck mit monumentalen Formen.",
+      "en": "Explored bodily expression and monumental form in sculpture, painting and architecture."
+    },
+    "biography": {
+      "de": "Michelangelo lernte in Florenz zunächst Malerei und arbeitete anschließend als Bildhauer im Umfeld der Medici. In Rom übernahm er umfangreiche päpstliche Aufträge. Seine Fresken für die Sixtinische Kapelle verbinden biblische Erzählungen mit bewegten Körpern; auch Architektur und Sonette gehören zu seinem Werk.",
+      "en": "Michelangelo trained as a painter in Florence before developing his sculpture under Medici patronage. In Rome he undertook extensive papal commissions. His Sistine Chapel frescoes combine biblical narratives with twisting, expressive bodies. Architecture and sonnets also formed part of a career shaped by demanding patrons and ambitious projects."
+    },
+    "highlights": [
+      {
+        "date": {
+          "earliest": 1508,
+          "latest": 1512,
+          "precision": "range"
+        },
+        "text": {
+          "de": "Malt die Decke der Sixtinischen Kapelle mit Szenen von der Schöpfung bis zur Geschichte Noahs.",
+          "en": "Paints the Sistine Chapel ceiling with scenes from Creation to the story of Noah."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Gallery: Michelangelo (1475–1564)",
+        "url": "https://www.nationalgallery.org.uk/artists/michelangelo",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "raphael",
+    "name": "Raffael",
+    "aliases": [
+      "Raphael",
+      "Raffaello Santi"
+    ],
+    "birth": {
+      "year": 1483,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1520,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Malte Porträts, Madonnen und groß angelegte Historienbilder der italienischen Renaissance.",
+      "en": "Painted portraits, Madonnas and ambitious historical scenes during the Italian Renaissance."
+    },
+    "biography": {
+      "de": "Raffael wuchs in Urbino als Sohn eines Hofmalers auf und arbeitete später vor allem in Florenz und Rom. Seine Madonnen und Porträts machten ihn früh bekannt. Für Julius II. gestaltete er päpstliche Gemächer; später übernahm er auch architektonische Aufgaben am Petersdom.",
+      "en": "Raphael grew up in Urbino, the son of a court painter, and later worked especially in Florence and Rome. His Madonnas and portraits established his reputation. He helped decorate the papal apartments for Julius II and subsequently took on architectural responsibilities for Saint Peter’s in Rome."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1508,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wird nach Rom berufen, um an der Ausmalung der päpstlichen Gemächer mitzuarbeiten.",
+          "en": "Is called to Rome to help decorate the papal apartments."
+        }
+      },
+      {
+        "date": {
+          "year": 1514,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Übernimmt nach Bramantes Tod die architektonische Leitung am Petersdom.",
+          "en": "Succeeds Bramante as architect in charge of Saint Peter’s."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Gallery: Raphael (1483–1520)",
+        "url": "https://www.nationalgallery.org.uk/artists/raphael",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "albrecht-durer",
+    "name": "Albrecht Dürer",
+    "aliases": [
+      "Albrecht Durer"
+    ],
+    "birth": {
+      "year": 1471,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1528,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Entwickelte Holzschnitt und Kupferstich zu eigenständigen künstlerischen Ausdrucksformen.",
+      "en": "Expanded the expressive possibilities of woodcut and engraving."
+    },
+    "biography": {
+      "de": "Der Nürnberger Maler und Druckgrafiker Albrecht Dürer beschäftigte sich mit italienischer Kunst, Proportion und künstlerischer Theorie. Seine Reisen förderten den Austausch über die Alpen. In Holzschnitten und Kupferstichen verband er genaue Beobachtung mit religiösen und gelehrten Bildthemen; gedruckte Folgen verbreiteten seine Arbeiten weit über den lokalen Markt hinaus.",
+      "en": "The Nuremberg painter and printmaker Albrecht Dürer studied Italian art, proportion and artistic theory. His travels encouraged exchange across the Alps. His woodcuts and engravings combined close observation with religious and learned subjects, while printed series allowed his work to circulate well beyond a local market."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1498,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht die Holzschnittfolge „Apokalypse“.",
+          "en": "Publishes the Apocalypse woodcut series."
+        }
+      },
+      {
+        "date": {
+          "year": 1514,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Schafft den Kupferstich „Melencolia I“ mit seinen mathematischen und handwerklichen Bildmotiven.",
+          "en": "Creates Melencolia I, an engraving incorporating mathematical and craft imagery."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art: Albrecht Dürer (1471–1528)",
+        "url": "https://www.metmuseum.org/de/essays/albrecht-durer-1471-1528",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Metropolitan Museum of Art: Melencolia I",
+        "url": "https://www.metmuseum.org/art/collection/search/336228",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "artemisia-gentileschi",
+    "name": "Artemisia Gentileschi",
+    "aliases": [],
+    "birth": {
+      "year": 1593,
+      "precision": "year"
+    },
+    "death": {
+      "precision": "unknown"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Malte großformatige Historienbilder und führte eine erfolgreiche Werkstatt in Neapel.",
+      "en": "Painted large historical scenes and ran a successful workshop in Naples."
+    },
+    "biography": {
+      "de": "Artemisia Gentileschi wurde in Rom von ihrem Vater Orazio ausgebildet. Sie arbeitete später unter anderem in Florenz, Venedig, Neapel und London. Ihre religiösen und historischen Gemälde zeigen häufig handelnde Frauen. Beruflicher Erfolg und internationale Aufträge entstanden trotz der eingeschränkten Ausbildungsmöglichkeiten und gesellschaftlichen Handlungsspielräume für Künstlerinnen.",
+      "en": "Artemisia Gentileschi trained in Rome with her father Orazio and later worked in Florence, Venice, Naples and London. Women frequently take active roles in her religious and historical paintings. She built an international career and secured major commissions despite the restricted training and professional opportunities available to women artists."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1610,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Datiert und signiert „Susanna und die Alten“, ihr frühestes bekanntes datiertes Gemälde.",
+          "en": "Signs and dates Susanna and the Elders, her earliest known dated painting."
+        }
+      },
+      {
+        "date": {
+          "year": 1616,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wird Mitglied der Florentiner Accademia del Disegno.",
+          "en": "Becomes a member of Florence’s Accademia del Disegno."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Gallery: Artemisia Gentileschi (1593–1654 or later)",
+        "url": "https://www.nationalgallery.org.uk/artists/artemisia-gentileschi",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Todesjahr ist unbekannt. Artemisia Gentileschi ist im August 1654 in Neapel noch belegt.",
+      "en": "Her year of death is unknown. Artemisia Gentileschi is still documented in Naples in August 1654."
+    }
+  },
+  {
+    "id": "rembrandt",
+    "name": "Rembrandt",
+    "aliases": [
+      "Rembrandt van Rijn",
+      "Rembrandt Harmenszoon van Rijn"
+    ],
+    "birth": {
+      "year": 1606,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1669,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Nutzte Licht, Farbe und Druckgrafik für vielschichtige Porträts und erzählende Bilder.",
+      "en": "Used light, paint and printmaking to create layered portraits and narrative images."
+    },
+    "biography": {
+      "de": "Rembrandt wurde in Leiden ausgebildet und baute in Amsterdam eine Laufbahn als Porträt- und Historienmaler auf. Licht und Schatten strukturieren seine Figuren und Erzählungen. Zahlreiche Selbstbildnisse begleiten sein Werk. Seine späte Malerei verwendet einen zunehmend offenen Farbauftrag; wirtschaftliche Schwierigkeiten führten zugleich zur Insolvenz.",
+      "en": "Rembrandt trained in Leiden and established a career in Amsterdam as a portrait and history painter. Light and shadow organize his figures and narratives, while numerous self-portraits run through his work. His later painting uses increasingly broad brushwork, alongside a career also marked by financial difficulties and insolvency."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1642,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Vollendet das später „Nachtwache“ genannte Gruppenbild einer Amsterdamer Bürgerwehr.",
+          "en": "Completes the Amsterdam civic-guard group portrait later known as The Night Watch."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Gallery: Rembrandt (1606–1669)",
+        "url": "https://www.nationalgallery.org.uk/artists/rembrandt",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Rijksmuseum: 10 things about Rembrandt’s Night Watch",
+        "url": "https://www.rijksmuseum.nl/en/stories/10-things/story/10-things-about-rembrandt-s-night-watch",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "johannes-vermeer",
+    "name": "Johannes Vermeer",
+    "aliases": [
+      "Jan Vermeer"
+    ],
+    "birth": {
+      "year": 1632,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1675,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Gestaltete ruhige Innenräume durch sorgfältige Lichtführung und räumliche Ordnung.",
+      "en": "Shaped quiet interiors through carefully observed light and spatial arrangement."
+    },
+    "biography": {
+      "de": "Johannes Vermeer arbeitete in Delft und hinterließ ein vergleichsweise kleines Gemäldewerk. Bekannt sind vor allem seine häuslichen Innenräume, in denen Figuren, Gegenstände und Licht präzise aufeinander bezogen sind. Seine Bildräume verbinden Beobachtung mit bewusster Konstruktion. Trotz seiner Stellung in der örtlichen Malergilde starb er verschuldet.",
+      "en": "Johannes Vermeer worked in Delft and left a comparatively small body of paintings. He is particularly associated with domestic interiors in which figures, objects and light are carefully related. His spaces combine observation with deliberate pictorial construction. Despite his position within the local painters’ guild, he died in debt."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1656,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Malt „Bei der Kupplerin“, ein frühes erzählendes Figurenbild.",
+          "en": "Paints The Procuress, an early narrative figure painting."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Gallery: Johannes Vermeer (1632–1675)",
+        "url": "https://www.nationalgallery.org.uk/artists/johannes-vermeer",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Metropolitan Museum of Art: Johannes Vermeer (1632–1675)",
+        "url": "https://www.metmuseum.org/de/essays/johannes-vermeer-1632-1675",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "diego-velazquez",
+    "name": "Diego Velázquez",
+    "aliases": [
+      "Diego Rodríguez de Silva y Velázquez"
+    ],
+    "birth": {
+      "year": 1599,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1660,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Entwickelte am spanischen Hof eine Malerei von Porträt, Alltag und höfischer Repräsentation.",
+      "en": "Explored portraiture, everyday life and royal representation at the Spanish court."
+    },
+    "biography": {
+      "de": "Diego Velázquez lernte in Sevilla bei Francisco Pacheco und wurde anschließend Maler am Hof Philipps IV. in Madrid. Reisen nach Italien erweiterten seine Auseinandersetzung mit venezianischer Malerei. Neben königlichen Porträts entstanden Alltagsszenen und religiöse Bilder; hohe Hofämter verbanden seine künstlerische Arbeit mit administrativen Aufgaben.",
+      "en": "Diego Velázquez trained with Francisco Pacheco in Seville before becoming a painter at Philip IV’s court in Madrid. Visits to Italy deepened his engagement with Venetian painting. Alongside royal portraits he produced everyday and religious scenes, while senior court appointments combined his artistic practice with administrative duties."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1656,
+          "precision": "approximate"
+        },
+        "text": {
+          "de": "Malt um 1656 das Porträt „Philipp IV. von Spanien“, heute in der National Gallery.",
+          "en": "Paints the portrait Philip IV of Spain, now in the National Gallery, around 1656."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Gallery: Diego Velázquez (1599–1660)",
+        "url": "https://www.nationalgallery.org.uk/artists/diego-velazquez",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "National Gallery: Philip IV of Spain",
+        "url": "https://www.nationalgallery.org.uk/paintings/diego-velazquez-philip-iv-of-spain",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "francisco-goya",
+    "name": "Francisco de Goya",
+    "aliases": [
+      "Francisco José de Goya y Lucientes",
+      "Francisco Goya"
+    ],
+    "birth": {
+      "year": 1746,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1828,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Verband höfische Malerei mit Druckgrafik über gesellschaftliche Widersprüche und menschliche Ängste.",
+      "en": "Combined court painting with prints exploring social contradictions and human fears."
+    },
+    "biography": {
+      "de": "Francisco de Goya arbeitete für den spanischen Hof und entwickelte zugleich eine eigenständige Druckgrafik. Nach einer Erkrankung verlor er sein Gehör. In den „Caprichos“ verknüpfte er alltägliches Verhalten, Fantasie und gesellschaftliche Kritik. Seine Stellung als Hofmaler und seine kritischen Bilder gehören zu derselben vielschichtigen Laufbahn.",
+      "en": "Francisco de Goya worked for the Spanish court while developing an independent practice in printmaking. He lost his hearing after an illness. In the Caprichos he connected everyday behaviour, fantasy and social criticism. His court position and critical imagery formed interconnected parts of a varied artistic career."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1799,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht „Los Caprichos“, eine Folge von 80 Radierungen mit gesellschaftskritischen und fantastischen Motiven.",
+          "en": "Publishes Los Caprichos, a series of 80 etchings combining social criticism and fantastic imagery."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art: Francisco de Goya (1746–1828) and the Spanish Enlightenment",
+        "url": "https://www.metmuseum.org/ja/essays/francisco-de-goya-1746-1828-and-the-spanish-enlightenment",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "katsushika-hokusai",
+    "name": "Katsushika Hokusai",
+    "aliases": [
+      "Hokusai"
+    ],
+    "birth": {
+      "year": 1760,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1849,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Erkundete Landschaft, Bewegung und Farbe in japanischen Holzschnitten der Edo-Zeit.",
+      "en": "Explored landscape, movement and colour in Japanese woodblock prints of the Edo period."
+    },
+    "biography": {
+      "de": "Hokusai arbeitete in der japanischen Druckkultur der Edo-Zeit. Seine Landschaften verbinden beobachtete Orte mit zugespitzten Bildkompositionen. In den „36 Ansichten des Fuji“ erscheint der Berg zwischen Alltag, Wetter und Wasser. Neue Pigmente wie Preußischblau erweiterten die Farbwirkung der gemeinsam mit Verlagen und Druckwerkstätten hergestellten Blätter.",
+      "en": "Hokusai worked within the print culture of Japan’s Edo period. His landscapes combine observed places with striking pictorial arrangements. In Thirty-six Views of Mount Fuji, the mountain appears amid everyday activity, weather and water. Pigments such as Prussian blue expanded the colour effects of prints produced with publishers and workshops."
+    },
+    "highlights": [
+      {
+        "date": {
+          "earliest": 1830,
+          "latest": 1832,
+          "precision": "range"
+        },
+        "text": {
+          "de": "Entwirft um 1830–1832 „Unter der Welle vor Kanagawa“, bekannt als „Die große Welle“, für die Fuji-Serie.",
+          "en": "Designs Under the Wave off Kanagawa, known as The Great Wave, around 1830–1832 for the Fuji series."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art: Under the Wave off Kanagawa",
+        "url": "https://www.metmuseum.org/art/collection/search/36491?searchField=All&showOnly=openAccess",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Metropolitan Museum of Art: Hokusai’s Great Wave",
+        "url": "https://www.metmuseum.org/ja/essays/hokusai-great-wave",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "utagawa-hiroshige",
+    "name": "Utagawa Hiroshige",
+    "aliases": [
+      "Hiroshige",
+      "Andō Hiroshige"
+    ],
+    "birth": {
+      "year": 1797,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1858,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Machte Wetter, Reisewege und städtische Ansichten zu Themen japanischer Farbholzschnitte.",
+      "en": "Made weather, travel routes and urban views central subjects of Japanese colour woodcuts."
+    },
+    "biography": {
+      "de": "Hiroshiges Landschaftsserien zeigen Straßen, Brücken und Berge im Wechsel von Wetter und Jahreszeiten. Seine Ansichten von Edo verbinden alltägliche Wege mit ungewöhnlichen Blickwinkeln. Dichte Regenlinien oder große Schneeflächen tragen die Stimmung. Als Farbholzschnitte entstanden diese Bilder in einem arbeitsteiligen Zusammenhang von Entwurf, Verlag, Schnitt und Druck.",
+      "en": "Hiroshige’s landscape series depict roads, bridges and mountains through changing weather and seasons. His views of Edo combine everyday routes with unusual viewpoints. Dense rain lines or broad expanses of snow establish atmosphere. These colour woodcuts emerged from a collaborative production process involving design, publishing, block cutting and printing."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1857,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gestaltet „Plötzlicher Regenschauer über der Shin-Ōhashi-Brücke und Atake“ für „Hundert berühmte Ansichten von Edo“.",
+          "en": "Designs Sudden Shower over Shin-Ōhashi Bridge and Atake for One Hundred Famous Views of Edo."
+        }
+      },
+      {
+        "date": {
+          "year": 1857,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Entwirft das Triptychon „Die Kiso-Berge im Schnee“.",
+          "en": "Designs the triptych The Kiso Mountains in Snow."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art: Sudden Shower over Shin-Ōhashi Bridge and Atake",
+        "url": "https://www.metmuseum.org/art/collection/search/55433?searchField=All&showOnly=openAccess",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Metropolitan Museum of Art: The Kiso Mountains in Snow",
+        "url": "https://www.metmuseum.org/art/collection/search/36545",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "shen-zhou",
+    "name": "Shen Zhou",
+    "aliases": [
+      "沈周"
+    ],
+    "birth": {
+      "year": 1427,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1509,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Verband in der chinesischen Gelehrtenmalerei Landschaft, Kalligrafie und persönliche Erfahrung.",
+      "en": "Connected landscape, calligraphy and personal experience in Chinese literati painting."
+    },
+    "biography": {
+      "de": "Shen Zhou lebte während der Ming-Dynastie im Raum Suzhou und gehörte zur Wu-Schule. Er verzichtete auf eine Beamtenlaufbahn und widmete sich Malerei und Dichtung. Frühere Meister boten ihm Anregungen für eine persönliche Pinselsprache. Seine Landschaften können konkrete Erlebnisse mit Gedichten und kunstgeschichtlichen Bezügen verbinden.",
+      "en": "Shen Zhou lived around Suzhou during the Ming dynasty and belonged to the Wu school. He chose painting and poetry rather than an official career. Earlier masters provided starting points for a personal brush language. His landscapes could connect particular experiences with poems and references to the history of painting."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1477,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Schafft „Ankerplatz in einer regnerischen Nacht“ und verbindet Landschaft mit einem Gedicht über eine Bootsfahrt.",
+          "en": "Creates Anchorage on a Rainy Night, combining landscape with a poem about a boat journey."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art: Anchorage on a Rainy Night",
+        "url": "https://www.metmuseum.org/art/collection/search/49549",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Metropolitan Museum of Art: Joint Landscape",
+        "url": "https://www.metmuseum.org/art/collection/search/39556",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "zhao-mengfu",
+    "name": "Zhao Mengfu",
+    "aliases": [
+      "趙孟頫",
+      "赵孟頫"
+    ],
+    "birth": {
+      "year": 1254,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1322,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Erneuerte chinesische Landschaftsmalerei durch den Bezug auf ältere Vorbilder und kalligrafische Formen.",
+      "en": "Reshaped Chinese landscape painting through earlier models and calligraphic forms."
+    },
+    "biography": {
+      "de": "Zhao Mengfu arbeitete während der Yuan-Dynastie als Maler und Kalligraf. Er griff bewusst auf ältere Bildtraditionen zurück und machte die sichtbare Pinselführung zum Ausdrucksmittel. Landschaft sollte dabei mehr vermitteln als räumliche Illusion. In seinen Bildern verbinden sich die Erinnerung an frühere Kunst und persönliche Gestaltung.",
+      "en": "Zhao Mengfu worked as a painter and calligrapher during the Yuan dynasty. He deliberately revisited earlier pictorial traditions and made visible brushwork an expressive resource. Landscape could convey more than spatial illusion. His paintings connect a recollection of earlier art with an individual approach to form and mark making."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1310,
+          "precision": "approximate"
+        },
+        "text": {
+          "de": "Malt um 1310 „Zwei Kiefern, ebene Ferne“ mit betont kalligrafischer Pinselführung.",
+          "en": "Paints Twin Pines, Level Distance around 1310, emphasizing calligraphic brushwork."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art: Twin Pines, Level Distance",
+        "url": "https://www.metmuseum.org/art/collection/search/40508",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "claude-monet",
+    "name": "Claude Monet",
+    "aliases": [],
+    "birth": {
+      "year": 1840,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1926,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Untersuchte Landschaft und wechselndes Licht in Freilichtmalerei und Bildserien.",
+      "en": "Investigated landscape and changing light through outdoor painting and series."
+    },
+    "biography": {
+      "de": "Claude Monet wuchs in Le Havre auf und lernte durch Eugène Boudin die Freilichtmalerei kennen. In Paris arbeitete er im Austausch mit anderen späteren Impressionist:innen. Wiederholte Ansichten derselben Motive untersuchten wechselnde Lichtverhältnisse. Sein Garten in Giverny wurde zu einem wichtigen Arbeitsort und Bildthema.",
+      "en": "Claude Monet grew up in Le Havre and encountered outdoor painting through Eugène Boudin. In Paris he worked alongside other future Impressionists. Repeated views of the same subjects explored changing light conditions. His garden at Giverny became an important place of work and a continuing source of pictorial subjects."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1869,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Malt „Badende in La Grenouillère“ während der gemeinsamen Arbeit mit Renoir an diesem Ausflugsort.",
+          "en": "Paints Bathers at La Grenouillère while working alongside Renoir at the riverside resort."
+        }
+      },
+      {
+        "date": {
+          "year": 1874,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Beteiligt sich an der ersten Ausstellung der später Impressionist:innen genannten Gruppe.",
+          "en": "Participates in the first exhibition of the group subsequently known as the Impressionists."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Gallery: Claude Monet (1840–1926)",
+        "url": "https://www.nationalgallery.org.uk/artists/claude-monet",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "vincent-van-gogh",
+    "name": "Vincent van Gogh",
+    "aliases": [],
+    "birth": {
+      "year": 1853,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1890,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Entwickelte eine ausdrucksstarke Malerei mit intensiver Farbe und sichtbaren Pinselspuren.",
+      "en": "Developed expressive painting through intense colour and visible brushwork."
+    },
+    "biography": {
+      "de": "Vincent van Gogh begann erst als Erwachsener, sich konsequent der Kunst zu widmen. In Paris veränderte sich seine Malerei hin zu helleren Farben; im Süden Frankreichs entstanden zahlreiche Landschaften und Blumenbilder. Zeichnungen, Selbstporträts und Briefe dokumentieren seine Arbeit. Der Austausch mit seinem Bruder Theo begleitete seine Laufbahn.",
+      "en": "Vincent van Gogh committed himself to art as an adult. In Paris his painting shifted towards brighter colours; in southern France he produced many landscapes and flower paintings. Drawings, self-portraits and letters document his practice. Exchanges with his brother Theo remained an important part of his artistic life."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1888,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Malt in Arles die „Sonnenblumen“, die heute zur Sammlung der National Gallery gehören.",
+          "en": "Paints in Arles the Sunflowers now held by the National Gallery."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Van Gogh Museum: Vincent van Gogh",
+        "url": "https://www.vangoghmuseum.nl/en/art-and-stories/art/vincent-van-gogh",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "National Gallery: Sunflowers",
+        "url": "https://www.nationalgallery.org.uk/paintings/vincent-van-gogh-sunflowers",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "paul-cezanne",
+    "name": "Paul Cézanne",
+    "aliases": [
+      "Paul Cezanne"
+    ],
+    "birth": {
+      "year": 1839,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1906,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Untersuchte, wie Farbe Gegenstände und Raum auf der Bildfläche aufbaut.",
+      "en": "Investigated how colour constructs objects and space on a painted surface."
+    },
+    "biography": {
+      "de": "Paul Cézanne stammte aus Aix-en-Provence und arbeitete auch in Paris. In Stillleben, Landschaften und Figurenbildern untersuchte er das Verhältnis von Farbe und Form. Seine Kompositionen weichen häufig von einer einheitlichen Perspektive ab. Diese Möglichkeiten der Bildkonstruktion wurden später von Künstler:innen des Kubismus und Fauvismus aufgegriffen.",
+      "en": "Paul Cézanne came from Aix-en-Provence and also worked in Paris. His still lifes, landscapes and figure paintings investigated relationships between colour and form. Their compositions often depart from a single consistent perspective. Later artists associated with Cubism and Fauvism took up possibilities opened by this approach to pictorial construction."
+    },
+    "highlights": [
+      {
+        "date": {
+          "earliest": 1890,
+          "latest": 1892,
+          "precision": "range"
+        },
+        "text": {
+          "de": "Malt die Fassung der „Kartenspieler“, die heute im Metropolitan Museum aufbewahrt wird.",
+          "en": "Paints the version of The Card Players now held by the Metropolitan Museum."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art: Paul Cézanne (1839–1906)",
+        "url": "https://www.metmuseum.org/pt/essays/paul-cezanne-1839-1906",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Metropolitan Museum of Art: The Card Players",
+        "url": "https://www.metmuseum.org/art/collection/search/435868",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "henri-matisse",
+    "name": "Henri Matisse",
+    "aliases": [],
+    "birth": {
+      "year": 1869,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1954,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Erprobte das Zusammenspiel von Farbe, Fläche und Rhythmus in Malerei und Scherenschnitten.",
+      "en": "Explored colour, flat form and rhythm through painting and paper cut-outs."
+    },
+    "biography": {
+      "de": "Henri Matisse gehörte zum Umfeld des Fauvismus und arbeitete in Malerei, Zeichnung, Skulptur und Druckgrafik. Seine Bilder können Körper und Räume auf wenige ausdrucksstarke Formen reduzieren. Später arrangierte er ausgeschnittene, bemalte Papiere. Für das Buch „Jazz“ wurden solche Entwürfe in einem farbtreuen Schablonendruckverfahren umgesetzt.",
+      "en": "Henri Matisse was associated with Fauvism and worked across painting, drawing, sculpture and printmaking. His pictures could reduce bodies and spaces to a few expressive forms. Later he arranged shapes cut from painted paper. For the book Jazz, these designs were translated into stencil prints that preserved their vivid colours."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1909,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Malt „Tanz I“ als Studie für einen Auftrag des Sammlers Sergei Schtschukin.",
+          "en": "Paints Dance I as a study for a commission from collector Sergei Shchukin."
+        }
+      },
+      {
+        "date": {
+          "year": 1947,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht mit Tériade das Künstlerbuch „Jazz“ mit Drucken nach seinen Scherenschnitten.",
+          "en": "Publishes the illustrated book Jazz with Tériade, using prints based on his cut-outs."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "MoMA: Henri Matisse",
+        "url": "https://www.moma.org/artists/3832-henri-matisse",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "MoMA: Dance (I)",
+        "url": "https://www.moma.org/collection/works/79124/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "MoMA: Forms (Formes) from Jazz",
+        "url": "https://www.moma.org/collection/works/105387",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "pablo-picasso",
+    "name": "Pablo Picasso",
+    "aliases": [],
+    "birth": {
+      "year": 1881,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1973,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Erprobte fragmentierte Körper und Räume in Malerei und Skulptur des Kubismus.",
+      "en": "Explored fragmented bodies and spaces in painting and Cubist sculpture."
+    },
+    "biography": {
+      "de": "Der spanische Künstler Pablo Picasso arbeitete unter anderem in Paris und wurde zu einer zentralen Figur des Kubismus. Seine Malerei und Skulptur veränderten vertraute Darstellungsformen. In „Les Demoiselles d’Avignon“ treffen gebrochene Körperformen auf Anregungen aus iberischer und afrikanischer Kunst, die auch durch koloniale Sammlungswege nach Europa gelangte.",
+      "en": "The Spanish artist Pablo Picasso worked in Paris and became a central figure in Cubism. His painting and sculpture transformed familiar modes of representation. In Les Demoiselles d’Avignon, fractured bodies meet references to Iberian and African art, including objects brought to Europe through colonial collecting and trade."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1907,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Schafft in Paris „Les Demoiselles d’Avignon“ mit stark zerlegten Figuren und verdichtetem Raum.",
+          "en": "Creates Les Demoiselles d’Avignon in Paris, using sharply fractured figures and compressed space."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "MoMA: Pablo Picasso",
+        "url": "https://www.moma.org/artists/4609-pablo-picasso",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "MoMA: Les Demoiselles d’Avignon",
+        "url": "https://www.moma.org/collection/works/79766?package_id=PS&page=1&sov_referrer=package",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "MoMA: 502 — Picasso’s Les Demoiselles d’Avignon",
+        "url": "https://www.moma.org/calendar/galleries/5696",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "wassily-kandinsky",
+    "name": "Wassily Kandinsky",
+    "aliases": [
+      "Vasily Kandinsky",
+      "Wassily Kandinski"
+    ],
+    "birth": {
+      "year": 1866,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1944,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Entwickelte abstrakte Bildsprachen aus Beziehungen zwischen Farbe, Form und Musik.",
+      "en": "Developed abstract visual languages through relationships between colour, form and music."
+    },
+    "biography": {
+      "de": "Wassily Kandinsky wurde in Moskau geboren und gab eine juristische Laufbahn zugunsten der Kunst in München auf. Er verband Vorstellungen musikalischen Ausdrucks mit der Wirkung von Farben und Formen. Im Umfeld des „Blauen Reiters“ und in späteren geometrischen Kompositionen untersuchte er Möglichkeiten einer zunehmend ungegenständlichen Malerei.",
+      "en": "Born in Moscow, Wassily Kandinsky left a legal career to study art in Munich. He connected ideas about musical expression with the effects of colours and forms. Through the Blue Rider circle and later geometric compositions, he explored the possibilities of painting that increasingly moved away from recognizable objects."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1911,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gründet mit Franz Marc den Künstlerkreis „Der Blaue Reiter“.",
+          "en": "Forms the Blue Rider artists’ circle with Franz Marc."
+        }
+      },
+      {
+        "date": {
+          "year": 1923,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Malt „Komposition 8“ mit Kreisen, Linien und geometrischen Formen.",
+          "en": "Paints Composition 8 using circles, lines and geometric shapes."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Solomon R. Guggenheim Museum: Vasily Kandinsky (1866–1944), Composition 8",
+        "url": "https://www.guggenheim.org/teaching-materials/selections-from-the-permanent-collection/vasily-kandinsky-1866-1944-composition-8-komposition-8",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "piet-mondrian",
+    "name": "Piet Mondrian",
+    "aliases": [
+      "Pieter Cornelis Mondriaan"
+    ],
+    "birth": {
+      "year": 1872,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1944,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Suchte in geometrischer Abstraktion nach Gleichgewicht, Bewegung und Rhythmus.",
+      "en": "Pursued balance, movement and rhythm through geometric abstraction."
+    },
+    "biography": {
+      "de": "Der niederländische Maler Piet Mondrian entwickelte eine abstrakte Bildsprache aus begrenzten Farben und geometrischen Beziehungen. Während des Zweiten Weltkriegs ging er nach New York. Die Stadt und ihre Musik wurden zu Bezugspunkten seiner späten Arbeit. In „Broadway Boogie Woogie“ verbinden sich rechtwinklige Strukturen mit rhythmisch wechselnden Farbflächen.",
+      "en": "The Dutch painter Piet Mondrian developed an abstract language of restricted colours and geometric relationships. During the Second World War he moved to New York. The city and its music became reference points for his late work. Broadway Boogie Woogie connects rectilinear structures with rhythmically alternating blocks of colour."
+    },
+    "highlights": [
+      {
+        "date": {
+          "earliest": 1942,
+          "latest": 1943,
+          "precision": "range"
+        },
+        "text": {
+          "de": "Malt „Broadway Boogie Woogie“, angeregt durch New York und den Rhythmus der Musik.",
+          "en": "Paints Broadway Boogie Woogie, responding to New York and musical rhythm."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "MoMA: Broadway Boogie Woogie",
+        "url": "https://www.moma.org/collection/works/78682",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "MoMA: Piet Mondrian, Broadway Boogie Woogie",
+        "url": "https://www.moma.org/slideshows/207/2604",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "gustav-klimt",
+    "name": "Gustav Klimt",
+    "aliases": [],
+    "birth": {
+      "year": 1862,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1918,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Verband figurative Malerei mit Ornament und metallisch glänzenden Bildflächen.",
+      "en": "Combined figurative painting with ornament and metallic surfaces."
+    },
+    "biography": {
+      "de": "Gustav Klimt gehörte zur Wiener Moderne und entwickelte eine Malerei, in der Figuren mit dekorativen Flächen verschmelzen. Besonders die Arbeiten seiner sogenannten goldenen Periode verbinden Körper, Muster und kostbare Materialien. „Der Kuss“ zeigt diese Bildsprache als Darstellung eines Paares, dessen Umrisse in ein dichtes Ornament übergehen.",
+      "en": "Gustav Klimt was part of Viennese modernism and developed paintings in which figures merge with decorative surfaces. Works from his so-called golden period combine bodies, patterns and precious materials. The Kiss exemplifies this visual language through a couple whose outlines dissolve into densely ornamented clothing and surrounding space."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1908,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Stellt „Der Kuss“ unter dem Titel „Liebespaar“ in der Wiener Kunstschau aus.",
+          "en": "Exhibits The Kiss under the title Lovers at Vienna’s Kunstschau."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Belvedere: Who was Gustav Klimt?",
+        "url": "https://www.belvedere.at/en/stories/who-was-gustav-klimt",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Belvedere: The Kiss (Lovers)",
+        "url": "https://sammlung.belvedere.at/objects/6678/der-kuss-liebespaar",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "frida-kahlo",
+    "name": "Frida Kahlo",
+    "aliases": [],
+    "birth": {
+      "year": 1907,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1954,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Untersuchte Körper, Identität und persönliche Erfahrung in eigenständigen Selbstporträts.",
+      "en": "Explored the body, identity and personal experience through distinctive self-portraits."
+    },
+    "biography": {
+      "de": "Frida Kahlo begann nach einem schweren Busunfall intensiv zu malen. In ihren oft kleinformatigen Bildern verband sie körperliche Erfahrungen mit Fragen nach Identität und Zugehörigkeit. Ihre Selbstporträts arbeiten mit Tieren, Kleidung und persönlichen Symbolen. Obwohl ihre Werke mit dem Surrealismus verbunden wurden, widersprach sie dieser Einordnung.",
+      "en": "Frida Kahlo began painting intensively after a serious bus accident. Her often small-scale pictures connect bodily experience with questions of identity and belonging. Animals, clothing and personal symbols recur in her self-portraits. Although others associated her work with Surrealism, she resisted that interpretation of her painting."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1937,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Malt „Fulang-Chang und ich“; die spätere Präsentation verbindet das Selbstporträt mit einem Spiegel.",
+          "en": "Paints Fulang-Chang and I; its later presentation pairs the self-portrait with a mirror."
+        }
+      },
+      {
+        "date": {
+          "year": 1940,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Malt „Selbstbildnis mit abgeschnittenem Haar“ und stellt damit Kleidung, Körper und Geschlechterrollen zur Diskussion.",
+          "en": "Paints Self-Portrait with Cropped Hair, exploring clothing, the body and gender roles."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "MoMA: Frida Kahlo",
+        "url": "https://www.moma.org/collection/artists/2963",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "MoMA: Fulang-Chang and I",
+        "url": "https://www.moma.org/collection/works/79374?page=1",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "diego-rivera",
+    "name": "Diego Rivera",
+    "aliases": [
+      "Diego M. Rivera"
+    ],
+    "birth": {
+      "year": 1886,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1957,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Gestaltete monumentale Wandbilder über Arbeit, Technik und gesellschaftliche Zusammenhänge.",
+      "en": "Created monumental murals exploring labour, technology and social relationships."
+    },
+    "biography": {
+      "de": "Der mexikanische Maler Diego Rivera arbeitete mit groß angelegten Fresken für öffentliche Räume. Für die „Detroit Industry Murals“ studierte er die Automobilproduktion im River-Rouge-Werk. Die Wandbilder verknüpfen Arbeiter:innen und Maschinen mit Naturprozessen. Sie stellen industrielle Möglichkeiten und die widersprüchlichen Folgen technischer Entwicklung nebeneinander.",
+      "en": "The Mexican painter Diego Rivera created large frescoes for public spaces. For the Detroit Industry Murals he studied automobile production at the River Rouge plant. The paintings connect workers and machines with natural processes, placing industrial possibilities alongside the contradictory consequences of technological development for human life."
+    },
+    "highlights": [
+      {
+        "date": {
+          "earliest": 1932,
+          "latest": 1933,
+          "precision": "range"
+        },
+        "text": {
+          "de": "Malt die „Detroit Industry Murals“ im Innenhof des Detroit Institute of Arts.",
+          "en": "Paints the Detroit Industry Murals in the courtyard of the Detroit Institute of Arts."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Detroit Institute of Arts: Detroit Industry Murals",
+        "url": "https://dia.org/collection/detroit-industry-murals/58537",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Detroit Institute of Arts: Rivera Court",
+        "url": "https://dia.org/riveracourt",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "georgia-okeeffe",
+    "name": "Georgia O’Keeffe",
+    "aliases": [
+      "Georgia O'Keeffe"
+    ],
+    "birth": {
+      "year": 1887,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1986,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Entwickelte eine moderne Bildsprache zwischen Naturbeobachtung und Abstraktion.",
+      "en": "Developed a modern visual language between observation of nature and abstraction."
+    },
+    "biography": {
+      "de": "Georgia O’Keeffe arbeitete zunächst mit abstrakten Zeichnungen und wurde durch Ausstellungen im Umfeld Alfred Stieglitz’ bekannt. Ihre Malerei untersucht Naturformen in stark vereinfachten oder vergrößerten Ansichten. Blumen, Knochen und Landschaften New Mexicos wurden wiederkehrende Motive. Sie verband genaue Betrachtung mit einer persönlichen Gestaltung von Farbe und Raum.",
+      "en": "Georgia O’Keeffe initially worked with abstract drawings and became known through exhibitions associated with Alfred Stieglitz. Her paintings examine natural forms through enlarged or simplified views. Flowers, bones and New Mexico landscapes became recurring subjects. She combined close looking with a personal construction of colour and space."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1932,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Malt „Jimson Weed“ und rückt die Formen einer Blüte in den Mittelpunkt.",
+          "en": "Paints Jimson Weed, concentrating attention on the forms of a flower."
+        }
+      },
+      {
+        "date": {
+          "year": 1936,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Malt „Summer Days“ mit Schädel, Blumen und Landschaft.",
+          "en": "Paints Summer Days, bringing together a skull, flowers and landscape."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Whitney Museum of American Art: Georgia O’Keeffe",
+        "url": "https://whitney.org/artists/962",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Georgia O’Keeffe Museum: Jimson Weed",
+        "url": "https://access-ok.okeeffemuseum.org/object/1/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "kathe-kollwitz",
+    "name": "Käthe Kollwitz",
+    "aliases": [
+      "Kathe Kollwitz"
+    ],
+    "birth": {
+      "year": 1867,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1945,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Machte Armut, Krieg und Trauer zu Themen einer eindringlichen Druckgrafik.",
+      "en": "Made poverty, war and grief central subjects of forceful printmaking."
+    },
+    "biography": {
+      "de": "Käthe Kollwitz beschäftigte sich mit dem Leben der arbeitenden Bevölkerung und mit Erfahrungen von Verlust. In Berlin entwickelte sie eine Druckgrafik, die gesellschaftliche Konflikte über Körperhaltungen und Gesten vermittelt. Historische Aufstände wurden zu Bildthemen. Später prägten Krieg und die Trauer um ihren gefallenen Sohn ihre Arbeit.",
+      "en": "Käthe Kollwitz explored working-class life and experiences of loss. In Berlin she developed prints that communicate social conflict through bodily posture and gesture. Historical uprisings provided subjects for major series. War and grief over her son’s death subsequently became important forces within her artistic practice."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1908,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht den Radierzyklus „Bauernkrieg“, an dem sie seit 1901 gearbeitet hatte.",
+          "en": "Publishes the Peasants’ War etching cycle, developed since 1901."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Allen Memorial Art Museum: Käthe Kollwitz",
+        "url": "https://allenartcollection.oberlin.edu/people/4037/kathe-kollwitz/objects",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Kollwitz Museum Köln: The »Peasants’ War« Cycle, 1901–1908",
+        "url": "https://kollwitz.de/collection/peasants-war",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "berthe-morisot",
+    "name": "Berthe Morisot",
+    "aliases": [],
+    "birth": {
+      "year": 1841,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1895,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Erforschte familiäre Beziehungen und alltägliche Situationen in impressionistischer Malerei.",
+      "en": "Explored family relationships and everyday situations through Impressionist painting."
+    },
+    "biography": {
+      "de": "Berthe Morisot wurde in Bourges geboren und erhielt künstlerischen Unterricht, unter anderem bei Joseph Guichard. Sie stand Camille Corot nahe und beteiligte sich an der impressionistischen Bewegung. In häuslichen Szenen untersuchte sie Blicke, Gesten und räumliche Nähe. Ihre berufliche Entwicklung war zugleich von geschlechtsspezifischen Erwartungen an Künstlerinnen geprägt.",
+      "en": "Berthe Morisot was born in Bourges and received artistic training, including lessons with Joseph Guichard. She was close to Camille Corot and participated in the Impressionist movement. Her domestic scenes investigate looks, gestures and physical proximity. Gendered expectations of women artists also shaped the conditions of her professional career."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1872,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Malt „Die Wiege“ mit ihrer Schwester Edma und deren Tochter Blanche.",
+          "en": "Paints The Cradle, depicting her sister Edma and Edma’s daughter Blanche."
+        }
+      },
+      {
+        "date": {
+          "year": 1874,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Zeigt „Die Wiege“ in der ersten impressionistischen Gruppenausstellung.",
+          "en": "Shows The Cradle in the first Impressionist group exhibition."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Musée d’Orsay: Berthe Morisot",
+        "url": "https://www.musee-orsay.fr/fr/ressources/repertoire-artistes-personnalites/berthe-morisot-18682",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Musée d’Orsay: Le berceau",
+        "url": "https://www.musee-orsay.fr/fr/oeuvres/le-berceau-1132",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Ministère de la Culture: Morisot Berthe",
+        "url": "https://www.culture.gouv.fr/thematiques/musees/Les-musees-en-France/les-collections-des-musees-de-france/decouvrir-les-collections/les-femmes-artistes-sortent-de-leur-reserve/icones/Morisot-Berthe",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "hilma-af-klint",
+    "name": "Hilma af Klint",
+    "aliases": [],
+    "birth": {
+      "year": 1862,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1944,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Entwickelte abstrakte Bildserien im Zusammenhang mit spirituellen Vorstellungen und symbolischen Systemen.",
+      "en": "Developed abstract painting series in relation to spiritual beliefs and symbolic systems."
+    },
+    "biography": {
+      "de": "Hilma af Klint studierte an der Stockholmer Kunstakademie und arbeitete zunächst mit Landschaften und Porträts. Ihre späteren abstrakten Serien entstanden im Zusammenhang mit Spiritualismus und Theosophie. Sie verstand einen Teil dieser Arbeit als spirituell angeleitet. Große Formate, Farbbeziehungen und wiederkehrende Zeichen strukturieren ihre Bilder.",
+      "en": "Hilma af Klint studied at Stockholm’s art academy and initially worked with landscapes and portraits. Her later abstract series developed in relation to spiritualism and Theosophy. She understood part of this practice as spiritually guided. Large formats, relationships between colours and recurring signs organize her paintings."
+    },
+    "highlights": [
+      {
+        "date": {
+          "earliest": 1906,
+          "latest": 1915,
+          "precision": "range"
+        },
+        "text": {
+          "de": "Arbeitet an der umfangreichen Serie „Die Gemälde für den Tempel“.",
+          "en": "Works on the extensive Paintings for the Temple series."
+        }
+      },
+      {
+        "date": {
+          "year": 1907,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Schafft mit Unterstützung „Die zehn Größten“, eine Serie über verschiedene Lebensalter.",
+          "en": "Creates The Ten Largest with assistance, a series addressing different stages of life."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Moderna Museet: Hilma af Klint",
+        "url": "https://guide.modernamuseet.se/stockholm/en/collection/hilma-af-klint/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Solomon R. Guggenheim Museum: Hilma af Klint — Paintings for the Future",
+        "url": "https://www.guggenheim.org/exhibition/hilma-af-klint?mod=article_inline",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Guggenheim Bilbao: The Ten Largest, 1907",
+        "url": "https://www.guggenheim-bilbao.eus/en/exhibition/the-ten-largest-1907",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "amrita-sher-gil",
+    "name": "Amrita Sher-Gil",
+    "aliases": [
+      "Amrita Shergil"
+    ],
+    "birth": {
+      "year": 1913,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1941,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Verband künstlerische Erfahrungen aus Paris und Indien in Porträts und Alltagsszenen.",
+      "en": "Connected artistic experiences in Paris and India through portraits and everyday scenes."
+    },
+    "biography": {
+      "de": "Amrita Sher-Gil wurde in Budapest als Tochter eines indischen Vaters und einer ungarischen Mutter geboren. Nach ihrer Kunstausbildung in Paris kehrte sie nach Indien zurück. Reisen und die Auseinandersetzung mit dortigen Lebenswelten veränderten ihre Malerei. Frauen und ländliche Alltagsszenen wurden zu wichtigen Themen ihres kurzen Schaffens.",
+      "en": "Amrita Sher-Gil was born in Budapest to an Indian father and a Hungarian mother. After artistic training in Paris, she returned to India. Travel and engagement with local lives changed her painting. Women and scenes of rural everyday life became important subjects during her brief career."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1938,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Malt „Red Verandah“ als Teil ihrer Auseinandersetzung mit Figuren und Lebensräumen in Indien.",
+          "en": "Paints Red Verandah as part of her engagement with figures and living spaces in India."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Gallery of Modern Art Mumbai: Amrita Sher-Gil",
+        "url": "https://ngmaindia.gov.in/ngma_mumbai_vg-amritasher-gil.asp",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "National Gallery of Modern Art: Virtual Tour of Amrita Sher-Gil",
+        "url": "https://ngmaindia.gov.in/virtual-tour-of-amrita-sher-gil.asp",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "raja-ravi-varma",
+    "name": "Raja Ravi Varma",
+    "aliases": [
+      "Ravi Varma"
+    ],
+    "birth": {
+      "year": 1848,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1906,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Verband europäische Ölmalerei mit indischen Bildthemen und verbreitete Werke als Farbdrucke.",
+      "en": "Combined European oil-painting techniques with Indian subjects and circulated images as colour prints."
+    },
+    "biography": {
+      "de": "Raja Ravi Varma stammte aus einer aristokratischen Familie in Kerala und arbeitete als Porträt- und Historienmaler. Er verband europäisch geprägten Naturalismus mit hinduistischen Erzählungen. Eine eigene Druckerei ermöglichte preiswerte Reproduktionen für ein breiteres Publikum. Seine Bildwelt beeinflusste die populäre visuelle Kultur und die frühe indische Filmgestaltung.",
+      "en": "Raja Ravi Varma came from an aristocratic family in Kerala and worked in portrait and history painting. He combined European naturalism with Hindu narratives. A printing press enabled inexpensive reproductions for a wider audience. His imagery influenced popular visual culture and the development of early Indian cinema."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1896,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Das Oleografiebild „Vasantsena“ ist für 1896 in der Sammlung der NGMA dokumentiert.",
+          "en": "The oleograph Vasantsena is documented as dating to 1896 in the NGMA collection."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Gallery of Modern Art: Virtual Tour of Raja Ravi Varma",
+        "url": "https://www.ngmaindia.gov.in/virtual-tour-of-raja-ravi-varma.asp",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "augusta-savage",
+    "name": "Augusta Savage",
+    "aliases": [
+      "Augusta Christine Fells",
+      "Augusta Christine Savage"
+    ],
+    "birth": {
+      "year": 1892,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1962,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Verband Bildhauerei mit Kunstunterricht und dem Einsatz für Schwarze Künstler:innen.",
+      "en": "Combined sculpture with art education and advocacy for Black artists."
+    },
+    "biography": {
+      "de": "Augusta Savage arbeitete als Bildhauerin und Lehrerin im Umfeld der Harlem Renaissance. Sie schuf Porträtbüsten und baute Ausbildungsangebote für Schwarze Künstler:innen auf. Ihre Arbeit begegnete rassistischen und finanziellen Hindernissen. Die Förderung jüngerer Talente und gemeinschaftlicher Kunsträume bildete einen wesentlichen Teil ihrer Tätigkeit neben eigenen Skulpturen.",
+      "en": "Augusta Savage worked as a sculptor and teacher within the Harlem Renaissance. She made portrait busts and developed educational opportunities for Black artists. Her career encountered racist and financial barriers. Supporting younger talent and community art spaces formed a substantial part of her work alongside her own sculpture."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1929,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Modelliert „Gamin“, das Porträt eines Schwarzen Jungen.",
+          "en": "Models Gamin, a portrait of a Black boy."
+        }
+      },
+      {
+        "date": {
+          "year": 1939,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Schafft „Lift Every Voice and Sing“, auch „The Harp“, für die New Yorker Weltausstellung.",
+          "en": "Creates Lift Every Voice and Sing, also called The Harp, for the New York World’s Fair."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Smithsonian American Art Museum: Augusta Savage",
+        "url": "https://americanart.si.edu/artist/augusta-savage-4269",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Smithsonian American Art Museum: Oh Freedom! Augusta Savage",
+        "url": "https://americanart.si.edu/education/oh-freedom/augusta-savage",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Smithsonian Institution: Augusta Savage’s Lift Every Voice and Sing",
+        "url": "https://www.si.edu/object/nmaahc_2010.66.112",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "lygia-clark",
+    "name": "Lygia Clark",
+    "aliases": [],
+    "birth": {
+      "year": 1920,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1988,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Entwickelte aus geometrischer Kunst Arbeiten, die körperliche Beteiligung und Veränderung einbeziehen.",
+      "en": "Developed geometric art into works involving bodily participation and transformation."
+    },
+    "biography": {
+      "de": "Die brasilianische Künstlerin Lygia Clark arbeitete zunächst mit geometrischen Bildern und wurde Teil der neokonkreten Bewegung. Ihre späteren Objekte beziehen die Betrachter:innen als Handelnde ein. Bewegliche Metallflächen verändern sich durch Berührung und Umordnung. Damit verlagerte sie künstlerische Erfahrung vom festgelegten Gegenstand auf eine Beziehung zwischen Werk und Körper.",
+      "en": "The Brazilian artist Lygia Clark began with geometric pictures and became part of the Neo-Concrete movement. Her subsequent objects involve viewers as active participants. Hinged metal surfaces change through touch and rearrangement. She shifted artistic experience from a fixed object towards a relationship between the work and the body."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1959,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Unterzeichnet das Neokonkrete Manifest.",
+          "en": "Co-signs the Neo-Concrete Manifesto."
+        }
+      },
+      {
+        "date": {
+          "year": 1960,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Schafft „Bicho Linear“, ein bewegliches Metallobjekt, dessen Form durch Beteiligung verändert werden kann.",
+          "en": "Creates Bicho Linear, a hinged metal object whose form can be changed through participation."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "MoMA: Lygia Clark",
+        "url": "https://www.moma.org/collection/artists/27445",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "MoMA: Lygia Clark, Bicho Linear, 1960",
+        "url": "https://www.moma.org/audio/playlist/181/2403",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "mary-cassatt",
+    "name": "Mary Cassatt",
+    "aliases": [
+      "Mary Stevenson Cassatt"
+    ],
+    "birth": {
+      "year": 1844,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1926,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Gestaltete Alltag und Beziehungen zwischen Frauen und Kindern in Malerei und Druckgrafik.",
+      "en": "Explored everyday life and relationships between women and children in painting and prints."
+    },
+    "biography": {
+      "de": "Mary Cassatt wurde in Pennsylvania geboren, studierte Kunst und arbeitete später in Paris. Der Austausch mit Edgar Degas förderte ihre Beschäftigung mit Druckgrafik. Sie entwickelte Figurenbilder, darunter zahlreiche Darstellungen von Müttern und Kindern. Auch als Beraterin amerikanischer Sammler:innen trug sie zur Vermittlung französischer Kunst bei.",
+      "en": "Mary Cassatt was born in Pennsylvania, studied art and later worked in Paris. Exchanges with Edgar Degas encouraged her printmaking. She developed figure compositions, including many depictions of mothers and children. Through advising American collectors, she also helped introduce French art to audiences and collections across the Atlantic."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1868,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Ihr Gemälde „Die Mandolinenspielerin“ wird im Pariser Salon angenommen.",
+          "en": "Her painting The Mandolin Player is accepted at the Paris Salon."
+        }
+      },
+      {
+        "date": {
+          "year": 1893,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gestaltet „Modern Woman“ für die Weltausstellung in Chicago mit weiblichen kulturellen und intellektuellen Leistungen als Thema.",
+          "en": "Creates Modern Woman for Chicago’s world’s fair, addressing women’s cultural and intellectual achievements."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art: Mary Stevenson Cassatt (1844–1926)",
+        "url": "https://www.metmuseum.org/it/essays/mary-stevenson-cassatt-1844-1926",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "MoMA: Mary Cassatt",
+        "url": "https://www.moma.org/collection/artists/1016",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "johann-sebastian-bach",
+    "name": "Johann Sebastian Bach",
+    "aliases": [
+      "J. S. Bach"
+    ],
+    "birth": {
+      "year": 1685,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1750,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Verband kontrapunktische Komposition mit den Anforderungen von Kirche, Hof und Unterricht.",
+      "en": "Combined contrapuntal composition with the needs of church, court and musical education."
+    },
+    "biography": {
+      "de": "Johann Sebastian Bach wuchs in einer Musikerfamilie auf und arbeitete als Organist, Hofkapellmeister und später Thomaskantor in Leipzig. Seine Aufgaben umfassten Aufführung, Komposition und Unterricht. Kirchliche Vokalmusik steht in seinem Werk neben Instrumentalkonzerten und Tastenmusik. Lehrstücke und komplexe kontrapunktische Formen waren eng mit seiner praktischen Tätigkeit verbunden.",
+      "en": "Johann Sebastian Bach grew up in a musical family and worked as an organist, court music director and later Thomaskantor in Leipzig. His duties combined performance, composition and teaching. Sacred vocal music stands alongside instrumental concertos and keyboard works, with educational pieces and complex counterpoint closely connected to practical music making."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1721,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Stellt die Widmungspartitur der sechs später „Brandenburgische Konzerte“ genannten Werke zusammen.",
+          "en": "Prepares the dedication score of the six works later called the Brandenburg Concertos."
+        }
+      },
+      {
+        "date": {
+          "year": 1723,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Übernimmt das Thomaskantorat und die städtische Musikleitung in Leipzig.",
+          "en": "Becomes Thomaskantor and municipal music director in Leipzig."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Deutsche Biographie: Bach, Johann Sebastian",
+        "url": "https://www.deutsche-biographie.de/pnd11850553X.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Bibliothèque nationale de France: Brandenburgische Konzerte, BWV 1046–1051",
+        "url": "https://catalogue.bnf.fr/ark%3A/12148/cb13909433c",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "wolfgang-amadeus-mozart",
+    "name": "Wolfgang Amadeus Mozart",
+    "aliases": [
+      "Wolfgang Amadé Mozart"
+    ],
+    "birth": {
+      "year": 1756,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1791,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Arbeitete als Komponist und Instrumentalist zwischen familiärer Ausbildung, Konzertreisen und Musiktheater.",
+      "en": "Worked as a composer and instrumentalist across family training, concert touring and musical theatre."
+    },
+    "biography": {
+      "de": "Wolfgang Amadeus Mozart erhielt wie seine Schwester Maria Anna früh Musikunterricht vom Vater Leopold. Gemeinsame Konzertreisen führten die Kinder durch Europa und eröffneten Begegnungen mit unterschiedlichen musikalischen Umgebungen. Später komponierte er für die Wiener Bühne. Seine Opern entstanden in Zusammenarbeit mit Textautor:innen, Sänger:innen und Theaterbetrieben.",
+      "en": "Wolfgang Amadeus Mozart and his sister Maria Anna received early musical training from their father Leopold. Family concert tours took the children across Europe and exposed them to different musical environments. He later composed for the Viennese stage, working with librettists, singers and theatrical institutions to bring operas to performance."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1791,
+          "precision": "year"
+        },
+        "text": {
+          "de": "„Die Zauberflöte“ nach einem Text von Emanuel Schikaneder wird am 30. September in Wien uraufgeführt.",
+          "en": "The Magic Flute, with a libretto by Emanuel Schikaneder, premieres in Vienna on 30 September."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stiftung Mozarteum: Wolfgang Amadé Mozart",
+        "url": "https://mozarteum.at/wolfgang-amade-mozart",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Köchel-Verzeichnis: KV 620 — Die Zauberflöte",
+        "url": "https://kv.mozarteum.at/de/work/die-zauberflote-7137",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Mozart-Libretti — Online-Katalog: Die Zauberflöte, Originalausgabe 1791",
+        "url": "https://dme.mozarteum.at/DME/libretti-catalog/liste.php?id=896",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "ludwig-van-beethoven",
+    "name": "Ludwig van Beethoven",
+    "aliases": [],
+    "birth": {
+      "year": 1770,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1827,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Erweiterte musikalische Formen in Klaviersonaten, Streichquartetten und Sinfonien.",
+      "en": "Expanded musical forms through piano sonatas, string quartets and symphonies."
+    },
+    "biography": {
+      "de": "Ludwig van Beethoven wuchs in Bonn auf und ging zur weiteren Ausbildung nach Wien. Dort arbeitete er als Pianist und Komponist. Ein fortschreitender Hörverlust veränderte seine Kommunikation und berufliche Praxis. Seine späten Sonaten, Quartette und die neunte Sinfonie entstanden innerhalb einer durch diese Einschränkungen geprägten Lebenssituation.",
+      "en": "Ludwig van Beethoven grew up in Bonn and moved to Vienna for further training. There he worked as a pianist and composer. Progressive hearing loss changed his communication and professional practice. His late sonatas, quartets and Ninth Symphony emerged within a life increasingly shaped by those limitations."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1824,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die neunte Sinfonie wird am 7. Mai in Wien uraufgeführt.",
+          "en": "The Ninth Symphony premieres in Vienna on 7 May."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Beethoven-Haus Bonn: Beethoven — Biographie",
+        "url": "https://www.beethoven.de/de/de/beethoven",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Beethoven-Haus Bonn: Zeittafel Beethoven in Wien",
+        "url": "https://www.beethoven.de/de/g/zeittafel-beethoven-in-wien",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Beethoven-Haus Bonn: Zeittafel Beethoven in Bonn",
+        "url": "https://www.beethoven.de/de/g/zeittafel-beethoven-in-bonn",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "clara-schumann",
+    "name": "Clara Schumann",
+    "aliases": [
+      "Clara Wieck"
+    ],
+    "birth": {
+      "year": 1819,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1896,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Verband eine internationale Laufbahn als Pianistin mit eigener Komposition.",
+      "en": "Combined an international career as a pianist with her own compositions."
+    },
+    "biography": {
+      "de": "Clara Schumann wurde in Leipzig von ihrem Vater Friedrich Wieck als Pianistin ausgebildet und trat bereits als Kind öffentlich auf. Konzertreisen und eigene Werke begründeten ihre Laufbahn. Die Ehe mit Robert Schumann brachte zugleich künstlerischen Austausch und Einschränkungen ihrer Arbeit. Als Interpretin entwickelte sie ein weitreichendes öffentliches Wirken.",
+      "en": "Clara Schumann trained as a pianist with her father Friedrich Wieck in Leipzig and performed publicly as a child. Concert tours and original compositions established her career. Her marriage to Robert Schumann involved both artistic exchange and restrictions on her work. As a performer she developed an extensive public presence."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1835,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Spielt bei der Uraufführung ihres Klavierkonzerts a-Moll op. 7 im Leipziger Gewandhaus selbst den Solopart.",
+          "en": "Performs the solo part at the premiere of her Piano Concerto in A minor, Op. 7, at Leipzig’s Gewandhaus."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Deutsche Biographie: Schumann, Clara",
+        "url": "https://www.deutsche-biographie.de/gnd11861164X.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Breitkopf & Härtel: Clara Schumann — Klavierkonzert a-Moll op. 7",
+        "url": "https://www.breitkopf.com/work/20680/klavierkonzert-a-moll-op.-7",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "fanny-hensel",
+    "name": "Fanny Hensel",
+    "aliases": [
+      "Fanny Mendelssohn",
+      "Fanny Mendelssohn Bartholdy"
+    ],
+    "birth": {
+      "year": 1805,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1847,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Komponierte Lieder, Klavier- und Ensemblewerke und gestaltete das Berliner Musikleben mit.",
+      "en": "Composed songs, piano and ensemble works and helped shape musical life in Berlin."
+    },
+    "biography": {
+      "de": "Fanny Hensel erhielt eine umfassende musikalische Ausbildung, doch ihre Familie begrenzte den Spielraum für eine öffentliche Berufslaufbahn. In Berlin leitete sie anspruchsvolle Sonntagsmusiken und brachte eigene sowie fremde Werke zur Aufführung. Ihr erhaltenes Œuvre umfasst mehr als 450 Kompositionen. Erst spät veröffentlichte sie mehrere Sammlungen unter eigenem Namen.",
+      "en": "Fanny Hensel received extensive musical training, but her family restricted opportunities for a public professional career. In Berlin she directed ambitious Sunday concerts presenting her own and other composers’ works. More than 450 compositions survive. Only late in her life did she publish several collections under her own name."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1841,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Komponiert „Das Jahr“, einen Klavierzyklus mit zwölf Charakterstücken.",
+          "en": "Composes The Year, a piano cycle comprising twelve character pieces."
+        }
+      },
+      {
+        "date": {
+          "earliest": 1846,
+          "latest": 1847,
+          "precision": "range"
+        },
+        "text": {
+          "de": "Veröffentlicht mehrere Hefte mit Liedern und Klavierstücken unter ihrem eigenen Namen.",
+          "en": "Publishes several volumes of songs and piano pieces under her own name."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mendelssohn-Gesellschaft: Fanny Hensel",
+        "url": "https://www.mendelssohn-gesellschaft.de/mendelssohns/biografien/fanny-hensel",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Mendelssohn-Haus Leipzig: Mit Fanny Hensel durch das Jahr",
+        "url": "https://www.mendelssohn-stiftung.de/de/fannyjahr",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "billie-holiday",
+    "name": "Billie Holiday",
+    "aliases": [
+      "Lady Day"
+    ],
+    "birth": {
+      "year": 1915,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1959,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Prägte den Jazzgesang durch rhythmische Gestaltung und ausdrucksstarke Liedinterpretation.",
+      "en": "Shaped jazz singing through rhythmic phrasing and expressive song interpretation."
+    },
+    "biography": {
+      "de": "Billie Holiday entwickelte nach einer von Armut geprägten Kindheit eine Laufbahn als Jazzsängerin. Sie arbeitete mit zahlreichen Musiker:innen der amerikanischen Jazzszene. Ihre Interpretation konnte vertraute Liedformen mit besonderer emotionaler Wirkung versehen. Mit „Strange Fruit“ brachte sie ein Lied gegen rassistische Lynchmorde in Clubs und auf den kommerziellen Plattenmarkt.",
+      "en": "Billie Holiday developed a career as a jazz singer after a childhood marked by poverty. She worked with many musicians in American jazz. Her interpretations could give familiar song forms a distinctive emotional force. With Strange Fruit she brought a song condemning racist lynching to clubs and the commercial recording market."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1939,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Interpretiert „Strange Fruit“ im Café Society und nimmt das Lied auf.",
+          "en": "Performs Strange Fruit at Café Society and records the song."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Smithsonian Music: Billie Holiday’s Strange Fruit (1939)",
+        "url": "https://music.si.edu/object-day/billie-holidays-strange-fruit-1939",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Library of Congress: African Americans on the Recording Registry — Strange Fruit",
+        "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/descriptions-and-essays/african-americans-on-the-recording-registry/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "nina-simone",
+    "name": "Nina Simone",
+    "aliases": [
+      "Eunice Waymon"
+    ],
+    "birth": {
+      "year": 1933,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2003,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Verband Klavierspiel und Gesang mit musikalischen Beiträgen zur Bürgerrechtsbewegung.",
+      "en": "Connected piano playing and singing with musical contributions to the civil-rights movement."
+    },
+    "biography": {
+      "de": "Nina Simone wurde als Eunice Waymon in North Carolina geboren und erhielt früh Klavierunterricht. Aus Auftritten als Pianistin und Sängerin entwickelte sich eine Plattenkarriere. Rassistische Gewalt und die Bürgerrechtsbewegung prägten ihre Musik. Ihre Protestlieder verbinden persönliche Ausdruckskraft mit öffentlicher Kritik an Diskriminierung und gesellschaftlichen Machtverhältnissen.",
+      "en": "Born Eunice Waymon in North Carolina, Nina Simone began piano training in childhood. Performances as a pianist and singer developed into a recording career. Racist violence and the civil-rights movement shaped her music. Her protest songs connect personal expression with public criticism of discrimination and unequal social power."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1964,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht „Mississippi Goddam“, ein Protestlied gegen rassistische Gewalt und Unterdrückung.",
+          "en": "Releases Mississippi Goddam, a protest song against racist violence and oppression."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Museum of African American History and Culture: Nina Simone",
+        "url": "https://nmaahc.si.edu/nina-simone",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "National Museum of African American History and Culture: Mississippi Goddam / Sea Lion Woman",
+        "url": "https://nmaahc.si.edu/object/nmaahc_2011.132.9ab?destination=%2Fexplore%2Fcollection%2Fsearch%3Fedan_fq%255B0%255D%3Dset_name%253A%2522Musical%2520Crossroads%2522%26page%3D1",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "martha-graham",
+    "name": "Martha Graham",
+    "aliases": [],
+    "birth": {
+      "year": 1894,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1991,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Entwickelte als Tänzerin und Choreografin eine eigenständige Sprache des modernen Tanzes.",
+      "en": "Developed a distinctive language of modern dance as a dancer and choreographer."
+    },
+    "biography": {
+      "de": "Martha Graham gründete eine eigene Tanzkompanie und entwickelte ein umfangreiches choreografisches Werk. Ihre Bewegungssprache wurde zu einer eigenständigen Tanztechnik. Sie arbeitete mit Komponist:innen und Bühnenkünstler:innen zusammen. „Appalachian Spring“ verbindet ihre Choreografie mit Musik von Aaron Copland und einem Bühnenbild von Isamu Noguchi zu einer Erzählung über gemeinschaftlichen Neubeginn.",
+      "en": "Martha Graham founded her own dance company and developed an extensive choreographic repertoire. Her movement language became a distinct dance technique. She collaborated with composers and stage artists. Appalachian Spring joins her choreography with Aaron Copland’s music and Isamu Noguchi’s set in a story about a community’s new beginning."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1926,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gründet die Martha Graham Dance Company.",
+          "en": "Founds the Martha Graham Dance Company."
+        }
+      },
+      {
+        "date": {
+          "year": 1944,
+          "precision": "year"
+        },
+        "text": {
+          "de": "„Appalachian Spring“ wird am 30. Oktober in der Library of Congress uraufgeführt.",
+          "en": "Appalachian Spring premieres at the Library of Congress on 30 October."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Martha Graham Dance Company: Electronic Press Kit",
+        "url": "https://marthagraham.org/epk/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Martha Graham Dance Company: 2021 Joyce Season Program",
+        "url": "https://marthagraham.org/2021-joyce-program/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Library of Congress: Martha Graham Timeline",
+        "url": "https://www.loc.gov/collections/martha-graham/articles-and-essays/timeline/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "umm-kulthum",
+    "name": "Umm Kulthum",
+    "aliases": [
+      "Umm Kolthoum",
+      "Oum Kalsoum",
+      "Om Kalthum",
+      "أم كلثوم"
+    ],
+    "birth": {
+      "earliest": 1898,
+      "latest": 1904,
+      "precision": "range"
+    },
+    "death": {
+      "year": 1975,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "artists"
+    ],
+    "summary": {
+      "de": "Erreichte mit arabischem Gesang, Konzerten und Rundfunk ein weit über Ägypten hinausreichendes Publikum.",
+      "en": "Reached audiences far beyond Egypt through Arabic song, concerts and radio broadcasts."
+    },
+    "biography": {
+      "de": "Umm Kulthum wuchs im ägyptischen Nildelta auf und lernte religiösen Gesang im familiären Umfeld. Nach ihrem Umzug nach Kairo entwickelte sie eine Laufbahn mit Konzerten und Schallplattenaufnahmen. Der Rundfunk verbreitete ihre Stimme über Ägypten hinaus. Ihre Interpretationen entstanden in Zusammenarbeit mit Komponisten und Textautoren unterschiedlicher Generationen.",
+      "en": "Umm Kulthum grew up in Egypt’s Nile Delta and learned religious singing within her family. After moving to Cairo, she developed a career in concerts and recording. Radio carried her voice beyond Egypt. Her interpretations emerged through collaboration with composers and lyricists working across different musical generations."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1964,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Nimmt „Enta Omri“ auf, mit Musik von Mohammed Abdel Wahab und einem Text von Ahmad Shafiq Kamel.",
+          "en": "Records Enta Omri, with music by Mohammed Abdel Wahab and lyrics by Ahmad Shafiq Kamel."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Egypt State Information Service: Umm Kolthoum",
+        "url": "https://sis.gov.eg/en/egypt/egyptian-figures/umm-kolthoum/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Egypt Ministry of Culture, Fine Arts Sector: Egypt’s Voice — The Origins and Dates of Umm Kulthum",
+        "url": "https://www.fineart.gov.eg/AllPics/Catalogs/PDF/400/EGYPT-VOICE.pdf",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Médiathèque de la Philharmonie de Paris: Oum Kalsoum — Anta Oumri [Enta Omri]",
+        "url": "https://mediatheque.philharmoniedeparis.fr/mediatheque/doc/ALOES/1081317/oum-kalsoum-anta-oumri-enta-omri-tu-es-ma-vie-mohammed-ab-el-wahhab-composition?_lg=fr-FR",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Geburtsjahr ist umstritten; die konsultierten ägyptischen Quellen nennen 1898 oder 1904. Die Zeitspanne kennzeichnet diese Unsicherheit.",
+      "en": "Her birth year is disputed; the Egyptian sources consulted give 1898 or 1904. The date range represents this uncertainty."
+    }
+  }
+]

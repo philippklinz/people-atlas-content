@@ -1,0 +1,1254 @@
+[
+  {
+    "id": "maria-gaetana-agnesi",
+    "name": "Maria Gaetana Agnesi",
+    "aliases": [
+      "Maria Gaëtana Agnesi"
+    ],
+    "birth": {
+      "year": 1718,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1799,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "philosophers",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Verfasste ein systematisches Lehrwerk zur Analysis und philosophische Abhandlungen.",
+      "en": "Wrote a systematic textbook of analysis and philosophical essays."
+    },
+    "biography": {
+      "de": "Die Mailänder Mathematikerin erhielt Privatunterricht und veröffentlichte zunächst philosophische Thesen. Ihre Instituzioni analitiche ordneten verstreute mathematische Verfahren zu einem Lehrwerk mit sorgfältig gewählten Beispielen. Die nach ihr benannte Kurve hatte bereits eine längere Geschichte. Später widmete sie sich der Versorgung armer und kranker älterer Frauen.",
+      "en": "Educated privately in Milan, Agnesi initially published philosophical theses. Her Instituzioni analitiche brought scattered mathematical methods together in a textbook built around carefully chosen examples. The curve associated with her name had been studied before her. She later concentrated on caring for impoverished and ill older women."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1748,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der erste Band der Instituzioni analitiche erscheint; der zweite folgt 1749.",
+          "en": "The first volume of Instituzioni analitiche appears; the second follows in 1749."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Maria Gaëtana Agnesi — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Agnesi/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "laura-bassi",
+    "name": "Laura Bassi",
+    "aliases": [
+      "Laura Maria Caterina Bassi"
+    ],
+    "birth": {
+      "year": 1711,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1778,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Lehrte experimentelle Physik in Bologna trotz Einschränkungen für Hochschullehrerinnen.",
+      "en": "Taught experimental physics in Bologna despite restrictions on women university teachers."
+    },
+    "biography": {
+      "de": "Bassi erhielt in Bologna einen akademischen Titel und eine Ehrenprofessur, durfte aber zunächst nur eingeschränkt öffentlich lehren. Gemeinsam mit Giuseppe Veratti unterhielt sie ein Labor in ihrem Haus. Dort vermittelte sie experimentelle Physik und Newtons Ansätze. Erst spät erhielt sie eine reguläre Professur am Wissenschaftsinstitut.",
+      "en": "Bassi received a degree and an honorary professorship in Bologna, but initially faced restrictions on public teaching. With Giuseppe Veratti she maintained a laboratory at home, where she taught experimental physics and Newtonian ideas. Only late in her career did she receive a regular professorship at the science institute."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1749,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Das häusliche Labor wird zu einem Ort regelmäßiger physikalischer Lehre.",
+          "en": "The home laboratory becomes a venue for regular physics teaching."
+        }
+      },
+      {
+        "date": {
+          "year": 1776,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sie erhält die Professur für Experimentalphysik am Istituto delle Scienze.",
+          "en": "She receives the professorship of experimental physics at the Istituto delle Scienze."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Laura Bassi — University of Bologna",
+        "url": "https://www.unibo.it/en/university/who-we-are/our-history/famous-people-and-students/laura-bassi",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "nicole-reine-lepaute",
+    "name": "Nicole-Reine Lepaute",
+    "aliases": [],
+    "birth": {
+      "year": 1723,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1788,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Berechnete astronomische Tabellen, Kometenbahnen und den Verlauf einer Sonnenfinsternis.",
+      "en": "Calculated astronomical tables, comet perturbations and the path of a solar eclipse."
+    },
+    "biography": {
+      "de": "Lepaute arbeitete in Paris an der Verbindung von Mathematik, Astronomie und Uhrmacherei. Sie berechnete Pendeltabellen und unterstützte Lalande und Clairaut bei der Vorhersage der Wiederkehr des Halleyschen Kometen. Ihre spätere Arbeit umfasste astronomische Jahrbücher und Finsterniskarten. Umfang und Anerkennung ihrer Beiträge sind nicht überall gleichermaßen dokumentiert.",
+      "en": "Working in Paris, Lepaute connected mathematics, astronomy and clockmaking. She calculated pendulum tables and assisted Lalande and Clairaut in predicting the return of Halley’s comet. Her later work included astronomical almanacs and eclipse charts. The extent of her contributions and the recognition they received are unevenly documented."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1758,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Lalande und Clairaut verwenden ihre Berechnungen zur Vorhersage der Kometenrückkehr.",
+          "en": "Lalande and Clairaut use her calculations in their prediction of the comet’s return."
+        }
+      },
+      {
+        "date": {
+          "year": 1762,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Ihre Karte der für 1764 erwarteten Sonnenfinsternis wird veröffentlicht.",
+          "en": "Her chart of the solar eclipse expected in 1764 is published."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nicole-Reine Etable de Labrière Lepaute — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lepaute/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "olga-ladyzhenskaya",
+    "name": "Olga Ladyzhenskaya",
+    "aliases": [
+      "Olga Alexandrovna Ladyzhenskaya",
+      "Olga Alexandrowna Ladyschenskaja"
+    ],
+    "birth": {
+      "year": 1922,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2004,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Untersuchte partielle Differentialgleichungen und die mathematischen Grundlagen von Flüssigkeitsströmungen.",
+      "en": "Investigated partial differential equations and the mathematical foundations of fluid flow."
+    },
+    "biography": {
+      "de": "Ladyzhenskayas Ausbildung wurde durch die stalinistische Verfolgung ihrer Familie unterbrochen. Nach dem Studium in Moskau arbeitete sie in Leningrad an Gleichungen der mathematischen Physik. Sie untersuchte Existenz, Eindeutigkeit und Regularität von Lösungen und entwickelte Differenzenmethoden. Ihre Arbeiten zu den Navier-Stokes-Gleichungen beeinflussten die mathematische Strömungsmechanik nachhaltig.",
+      "en": "Stalinist persecution of her family disrupted Ladyzhenskaya’s education. After studying in Moscow, she worked in Leningrad on equations of mathematical physics. She investigated the existence, uniqueness and regularity of solutions and developed finite-difference methods. Her research on the Navier–Stokes equations became influential in the mathematical study of fluid motion."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1961,
+          "precision": "year"
+        },
+        "text": {
+          "de": "The Mathematical Theory of Viscous Incompressible Flow bündelt ihre Forschung zur Strömungsmechanik.",
+          "en": "The Mathematical Theory of Viscous Incompressible Flow brings together her research on fluid mechanics."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Olga Alexandrovna Ladyzhenskaya — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ladyzhenskaya/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "olga-taussky-todd",
+    "name": "Olga Taussky-Todd",
+    "aliases": [
+      "Olga Taussky"
+    ],
+    "birth": {
+      "year": 1906,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1995,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "computing",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Verband algebraische Zahlentheorie und Matrizentheorie mit numerischen Anwendungen.",
+      "en": "Connected algebraic number theory and matrix theory with numerical applications."
+    },
+    "biography": {
+      "de": "Taussky-Todd wurde in Olmütz geboren und promovierte in Wien. Ihre Laufbahn führte über Großbritannien in die Vereinigten Staaten. Aus der algebraischen Zahlentheorie entwickelte sie Fragestellungen der Matrizentheorie weiter. Während des Krieges untersuchte sie aerodynamische Probleme; später verband sie mathematische Forschung mit numerischen Verfahren und der frühen Computerentwicklung.",
+      "en": "Born in Olomouc and educated in Vienna, Taussky-Todd worked in Britain before moving to the United States. She developed questions in matrix theory from her background in algebraic number theory. Wartime aerodynamic problems and later work in numerical computation connected her abstract research with practical problems and early computing."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1944,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Eine Arbeit über schiefsymmetrische Matrizen entsteht während ihrer aerodynamischen Forschung.",
+          "en": "A paper on skew-symmetric matrices emerges during her aerodynamic research."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Olga Taussky-Todd — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Taussky-Todd/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "sofya-yanovskaya",
+    "name": "Sofya Yanovskaya",
+    "aliases": [
+      "Sofja Janowskaja",
+      "Sofya Alexandrovna Yanovskaya",
+      "Sof'ja Aleksandrovna Janovskaja"
+    ],
+    "birth": {
+      "year": 1896,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1966,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "philosophers",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Forschte zur mathematischen Logik, ihrer Geschichte und ihren philosophischen Grundlagen.",
+      "en": "Studied mathematical logic, its history and its philosophical foundations."
+    },
+    "biography": {
+      "de": "Yanovskaya kehrte nach politischer Tätigkeit für die Bolschewiki zur Mathematik zurück und lehrte in Moskau. Sie schrieb über Logik und Mathematikgeschichte und erschloss internationale Fachliteratur durch Übersetzungen. Ihre frühen marxistischen Texte unterstützten ideologische Eingriffe in die Mathematik; später förderte sie die institutionelle Entwicklung der Logik und jüngere Forschende.",
+      "en": "After political work for the Bolsheviks, Yanovskaya returned to mathematics and taught in Moscow. She wrote on logic and mathematical history and helped make international scholarship available in Russian. Her early Marxist writings supported ideological intervention in mathematics; later she promoted the institutional development of logic and supported younger researchers."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1947,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sie veröffentlicht Studien zu ägyptischen Brüchen und Rolles Kritik an der Analysis.",
+          "en": "She publishes studies of Egyptian fractions and Rolle’s criticism of infinitesimal analysis."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sof'ja Aleksandrovna Janovskaja — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Janovskaja/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "alice-ball",
+    "name": "Alice Ball",
+    "aliases": [
+      "Alice Augusta Ball"
+    ],
+    "birth": {
+      "year": 1892,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1916,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Entwickelte ein chemisches Verfahren für injizierbare Präparate zur damaligen Behandlung der Hansen-Krankheit.",
+      "en": "Developed a chemical process for injectable preparations used historically against Hansen’s disease."
+    },
+    "biography": {
+      "de": "Ball studierte Pharmazie und Chemie in Seattle und Hawaiʻi. Am College of Hawaiʻi untersuchte sie Bestandteile des Chaulmoograöls und entwickelte daraus besser injizierbare Präparate. Das Verfahren wurde nach ihrem frühen Tod in der Behandlung der Hansen-Krankheit eingesetzt. Ihr eigener Anteil erhielt zunächst nur unzureichende Anerkennung.",
+      "en": "Ball studied pharmacy and chemistry in Seattle and Hawaiʻi. At the College of Hawaiʻi she investigated components of chaulmoogra oil and developed preparations that could be injected more readily. The method entered the treatment of Hansen’s disease after her early death, while her own contribution initially received inadequate recognition."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1916,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sie entwickelt ein Verfahren zur Herstellung injizierbarer Ethylester aus Chaulmoograöl.",
+          "en": "She develops a method for preparing injectable ethyl esters from chaulmoogra oil."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alice Augusta Ball: A trailblazing chemist created a viable treatment for leprosy",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/alice-ball.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "UH celebrates Alice Ball Day in Hawaiʻi, February 28",
+        "url": "https://www.hawaii.edu/news/article.php?aId=11784",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "marie-maynard-daly",
+    "name": "Marie Maynard Daly",
+    "aliases": [],
+    "birth": {
+      "year": 1921,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2003,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Untersuchte die Biochemie von Zellen, Blutgefäßen und ernährungsabhängigen Veränderungen.",
+      "en": "Investigated the biochemistry of cells, blood vessels and diet-related changes."
+    },
+    "biography": {
+      "de": "Daly wuchs in New York auf und promovierte in Chemie an der Columbia University. Ihre Forschung reichte von Zellbestandteilen bis zu experimentellen Untersuchungen von Bluthochdruck und Gefäßveränderungen. Am Albert Einstein College of Medicine verband sie Laborarbeit mit Lehre. Sie unterstützte außerdem den Hochschulzugang Schwarzer Studierender.",
+      "en": "Daly grew up in New York and earned a chemistry doctorate at Columbia University. Her research extended from cellular components to experimental studies of high blood pressure and changes in arteries. At Albert Einstein College of Medicine she combined laboratory research with teaching and supported opportunities for Black students."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1975,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sie untersucht mit ihrem Team den Zusammenhang von Ernährung, Cholesterin und Gefäßveränderungen bei Ratten.",
+          "en": "With her team, she investigates relationships between diet, cholesterol and arterial changes in rats."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Marie Maynard Daly",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/daly.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Marie Maynard Daly — American Chemical Society",
+        "url": "https://www.acs.org/explore/african-americans-in-sciences/marie-maynard-daly.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "katsuko-saruhashi",
+    "name": "Katsuko Saruhashi",
+    "aliases": [],
+    "birth": {
+      "year": 1920,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2007,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Entwickelte chemische Verfahren zur Untersuchung von Wasser und Umweltbelastungen.",
+      "en": "Developed chemical methods for studying water and environmental contamination."
+    },
+    "biography": {
+      "de": "Saruhashi forschte am japanischen Meteorologischen Forschungsinstitut über die Chemie von Meerwasser und Umweltbelastungen. Ihre Tabellen machten die Verteilung gelöster Kohlensäureverbindungen anhand von Temperatur und pH-Wert berechenbar. Neben ihrer wissenschaftlichen Arbeit setzte sie sich für Forscherinnen ein und begründete den nach ihr benannten Preis für Wissenschaftlerinnen.",
+      "en": "Saruhashi worked at Japan’s Meteorological Research Institute on seawater chemistry and environmental contamination. Her tables allowed researchers to calculate the distribution of dissolved carbonic acid species from temperature and pH. Alongside her scientific work she supported women researchers and established the award known as the Saruhashi Prize."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1955,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sie veröffentlicht Tabellen zum Gleichgewicht gelöster Kohlensäureverbindungen in natürlichen Gewässern.",
+          "en": "She publishes tables describing equilibria of dissolved carbonic acid species in natural waters."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "On the Equilibrium Concentration Ratio of Carbonic Acid Substances Dissolved in Natural Water: A Study on the Metabolism in Natural Waters (II)",
+        "url": "https://www.jstage.jst.go.jp/article/mripapers1950/6/1/6_38/_article",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Science Library Display：Katsuko Saruhashi -before 20th anniversary of her death-（Sep. 25－Dec. 22, 2026）",
+        "url": "https://www.lib.u-tokyo.ac.jp/en/library/science/news/20260925",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "toshiko-yuasa",
+    "name": "Toshiko Yuasa",
+    "aliases": [],
+    "birth": {
+      "year": 1909,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1980,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Erforschte Betastrahlung und Kernreaktionen zwischen Japan und Frankreich.",
+      "en": "Investigated beta radiation and nuclear processes across Japan and France."
+    },
+    "biography": {
+      "de": "Yuasa begann ihre physikalische Forschung in Japan und wechselte während des Zweiten Weltkriegs nach Frankreich. Im Labor von Frédéric Joliot untersuchte sie Strahlung künstlich erzeugter radioaktiver Kerne. Krieg, Zwangsverlagerungen und Forschungsverbote unterbrachen ihre Arbeit. Später setzte sie ihre kernphysikalische Forschung dauerhaft am französischen CNRS fort.",
+      "en": "Yuasa began physics research in Japan and moved to France during the Second World War. In Frédéric Joliot’s laboratory she investigated radiation from artificially produced radioactive nuclei. War, forced moves and research restrictions interrupted her work. She later established a lasting nuclear physics research career at France’s CNRS."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1943,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Ihre Untersuchung des kontinuierlichen Betaspektrums führt zur Promotion in Frankreich.",
+          "en": "Her investigation of the continuous beta spectrum leads to a doctorate in France."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Toshiko Yuasa",
+        "url": "https://www.lib.ocha.ac.jp/en/06/yuasa_toshiko.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "michiyo-tsujimura",
+    "name": "Michiyo Tsujimura",
+    "aliases": [],
+    "birth": {
+      "year": 1888,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1969,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Analysierte Inhaltsstoffe von grünem Tee und förderte wissenschaftliche Ausbildung.",
+      "en": "Analysed green tea constituents and supported scientific education."
+    },
+    "biography": {
+      "de": "Tsujimura arbeitete zunächst als Lehrerin, bevor sie eine wissenschaftliche Laufbahn einschlug. Da reguläre Studienmöglichkeiten für Frauen beschränkt waren, forschte sie anfangs als unbezahlte Assistentin. Am RIKEN untersuchte sie grünen Tee, wies gemeinsam mit Seitaro Miura Vitamin C nach und isolierte Catechin. Später lehrte sie an Frauenhochschulen.",
+      "en": "Tsujimura worked as a teacher before entering scientific research. With women excluded from regular study at some institutions, she initially worked as an unpaid assistant. At RIKEN she analysed green tea, identified vitamin C with Seitaro Miura and isolated catechin. She later taught and trained researchers at women’s universities."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1929,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sie isoliert Catechin als einen der bitteren Inhaltsstoffe von grünem Tee.",
+          "en": "She isolates catechin as one of the bitter constituents of green tea."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Michiyo Tsujimura",
+        "url": "https://www.lib.ocha.ac.jp/en/06/tsujimura_michiyo.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "kamal-ranadive",
+    "name": "Kamal Ranadive",
+    "aliases": [
+      "Kamal Jayasing Ranadive"
+    ],
+    "birth": {
+      "year": 1917,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2001,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Baute Gewebekulturforschung auf und untersuchte zelluläre Grundlagen von Krebserkrankungen.",
+      "en": "Established tissue-culture research and investigated cellular aspects of cancer."
+    },
+    "biography": {
+      "de": "Ranadive promovierte in Bombay und vertiefte ihre Kenntnisse der Gewebekultur im Labor von George Gey in Baltimore. Zurück in Indien baute sie entsprechende Forschungsgruppen am Krebsforschungszentrum auf. Ihre Arbeit verband experimentelle Zellbiologie mit Krebsforschung. Sie beteiligte sich außerdem am Aufbau der Indian Women Scientists’ Association.",
+      "en": "Ranadive earned her doctorate in Bombay and developed her tissue-culture expertise in George Gey’s laboratory in Baltimore. Returning to India, she established research groups using these methods at the cancer research centre. Her work connected experimental cell biology with cancer research, and she helped establish the Indian Women Scientists’ Association."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1949,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sie promoviert an der Universität Bombay nach Forschungsarbeit bei V. R. Khanolkar.",
+          "en": "She earns her doctorate at the University of Bombay following research with V. R. Khanolkar."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Kamal Ranadive",
+        "url": "https://artsandculture.google.com/asset/kamal-ranadive/UgF2JJW8xdcozQ",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "kamala-sohonie",
+    "name": "Kamala Sohonie",
+    "aliases": [
+      "Kamala Bhagvat",
+      "Kamala Bhagwat"
+    ],
+    "birth": {
+      "earliest": 1911,
+      "latest": 1912,
+      "precision": "range"
+    },
+    "death": {
+      "year": 1998,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Verband Forschung zur pflanzlichen Zellatmung mit Untersuchungen zur Ernährung.",
+      "en": "Connected research on plant respiration with investigations of nutrition."
+    },
+    "biography": {
+      "de": "Sohonie erkämpfte sich trotz geschlechtsspezifischer Ablehnung einen Forschungsplatz am Indian Institute of Science. In Cambridge untersuchte sie die Zellatmung von Pflanzen. Nach ihrer Rückkehr nach Indien erforschte sie den Nährwert verbreiteter Lebensmittel und von Palmensaft. Später leitete sie das Institute of Science in Bombay als Direktorin.",
+      "en": "Sohonie secured a research place at the Indian Institute of Science despite rejection based on her gender. In Cambridge she investigated plant respiration. Returning to India, she studied the nutritional properties of common foods and palm sap. She later became director of the Institute of Science in Bombay."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1939,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sie promoviert in Cambridge nach Untersuchungen zu Cytochrom c in Pflanzengewebe.",
+          "en": "She earns her Cambridge doctorate following research on cytochrome c in plant tissue."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dr. Kamala Sohonie — Institute Legacy",
+        "url": "https://iscm.ac.in/about/alumni/dr-kamala-sohonie/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Kamala Sohonie",
+        "url": "https://artsandculture.google.com/asset/kamala-sohonie/iAFuO2_z_GnHsQ?hl=en",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Institute of Science nennt 1911 als Geburtsjahr, die Biografie der Indian Academy of Sciences 1912.",
+      "en": "The Institute of Science gives 1911 as her birth year; the Indian Academy of Sciences biography gives 1912."
+    }
+  },
+  {
+    "id": "bibha-chowdhuri",
+    "name": "Bibha Chowdhuri",
+    "aliases": [
+      "Biva Choudhuri",
+      "Bibha Choudhuri"
+    ],
+    "birth": {
+      "year": 1913,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1991,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Erforschte kosmische Strahlung mit fotografischen Emulsionen und Messungen von Teilchenschauern.",
+      "en": "Studied cosmic radiation using photographic emulsions and measurements of particle showers."
+    },
+    "biography": {
+      "de": "Chowdhuri untersuchte mit D. M. Bose Spuren kosmischer Teilchen in fotografischen Emulsionen, die in großer Höhe belichtet wurden. Später forschte sie in Manchester und an mehreren indischen Instituten über ausgedehnte Luftschauer. Ihre Arbeit verband die Entwicklung von Nachweismethoden mit Fragen nach Masse und Verhalten energiereicher Teilchen.",
+      "en": "With D. M. Bose, Chowdhuri examined cosmic-particle tracks in photographic emulsions exposed at high altitude. She later worked in Manchester and at several Indian institutes on extensive air showers. Her research connected the development of detection methods with questions about the mass and behaviour of energetic particles."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1941,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Mit D. M. Bose veröffentlicht sie eine fotografische Methode zur Abschätzung der Mesotronmasse.",
+          "en": "With D. M. Bose, she publishes a photographic method for estimating the mass of the mesotron."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Third Dr. Bibha Chowdhuri Memorial Lecture",
+        "url": "https://www.prl.res.in/~dinesh/03_Dr.%20Bibha%20Chaowdhuri%20Memorial%20lecture_Dr%20Rama%20Govindarajan_07%20March%202023.pdf",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Physics News, Volume 51, Numbers 1–2, January–June 2021",
+        "url": "https://www.tifr.res.in/~ipa1970/news/2021/JanJune/00_PN_Vol51%281-2%29_combined.pdf",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "anna-mani",
+    "name": "Anna Mani",
+    "aliases": [
+      "Anna Modayil Mani"
+    ],
+    "birth": {
+      "year": 1918,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2001,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Entwickelte meteorologische Messtechnik und erschloss Daten für Sonnen- und Windenergie.",
+      "en": "Developed meteorological instrumentation and data for solar and wind energy research."
+    },
+    "biography": {
+      "de": "Mani begann mit spektroskopischen Untersuchungen von Diamanten und Rubinen. Beim indischen Wetterdienst konzentrierte sie sich auf die Herstellung und Kalibrierung von Messinstrumenten. Ihre Arbeiten betrafen unter anderem Strahlung und atmosphärisches Ozon. Später sammelte und veröffentlichte sie Daten, mit denen sich das Potenzial von Sonnen- und Windenergie abschätzen ließ.",
+      "en": "Mani began with spectroscopic studies of diamonds and rubies. At the India Meteorological Department she concentrated on producing and calibrating scientific instruments, including equipment for radiation and atmospheric ozone measurements. She later collected and published data that supported assessments of India’s potential for solar and wind energy."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1980,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Das Handbook of Solar Radiation Data for India bündelt Messdaten zur Sonnenstrahlung.",
+          "en": "The Handbook of Solar Radiation Data for India brings together solar radiation measurements."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Celebrating pioneer Indian meteorologist Anna Mani",
+        "url": "https://public.wmo.int/media/news/celebrating-pioneer-indian-meteorologist-anna-mani",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Dr Anna Modayil Mani — Deceased Fellow Detail",
+        "url": "https://mail.insaindia.res.in/07062023_no.php?id=N77-0434",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "gertrude-elion",
+    "name": "Gertrude Elion",
+    "aliases": [
+      "Gertrude Belle Elion"
+    ],
+    "birth": {
+      "year": 1918,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1999,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Entwickelte mit Forschungsteams Arzneistoffe durch gezielte Eingriffe in biochemische Prozesse.",
+      "en": "Developed medicines with research teams by targeting biochemical processes."
+    },
+    "biography": {
+      "de": "Elion arbeitete nach ihrem Chemiestudium mit George Hitchings an Unterschieden im Stoffwechsel verschiedener Zellen. Daraus entwickelte das Team gezielte Ansätze für Arzneistoffe, darunter Purinanaloga. Ihre Arbeiten trugen zu Mitteln gegen Leukämie und zur Immunsuppression bei. Der Nobelpreis würdigte später gemeinsam mit Hitchings und James Black grundlegende Prinzipien der Arzneimittelentwicklung.",
+      "en": "After studying chemistry, Elion worked with George Hitchings on differences in cellular metabolism. Their team used these differences to develop targeted approaches to medicines, including purine analogues. Her work contributed to treatments for leukaemia and to immunosuppression. A shared Nobel Prize with Hitchings and James Black later recognised principles of drug development."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1951,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Mit George Hitchings und Henry VanderWerff veröffentlicht sie Antagonists of nucleic acid derivatives. VI. Purines.",
+          "en": "With George Hitchings and Henry VanderWerff, she publishes Antagonists of nucleic acid derivatives. VI. Purines."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Gertrude B. Elion, 1918–1999: A Biographical Memoir by Mary Ellen Avery",
+        "url": "https://www.nasonline.org/wp-content/uploads/2024/06/elion-gertrude.pdf",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Antagonists of nucleic acid derivatives. VI. Purines",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14907641/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "rita-levi-montalcini",
+    "name": "Rita Levi-Montalcini",
+    "aliases": [],
+    "birth": {
+      "year": 1909,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2012,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "politicians",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Untersuchte Nervenwachstum und wirkte an der Entdeckung des Nervenwachstumsfaktors mit.",
+      "en": "Investigated nerve development and helped discover nerve growth factor."
+    },
+    "biography": {
+      "de": "Nach dem Ausschluss jüdischer Forschender aus italienischen Hochschulen setzte Levi-Montalcini ihre Experimente zeitweise in einem häuslichen Labor fort. Später untersuchte sie in St. Louis, wie Gewebe das Wachstum von Nervenzellen beeinflusst. Gemeinsam mit anderen Forschenden identifizierte sie wachstumsfördernde Faktoren. Im Alter gehörte sie dem italienischen Senat auf Lebenszeit an.",
+      "en": "After Jewish researchers were excluded from Italian universities, Levi-Montalcini continued experiments in a home laboratory. In St. Louis she later investigated how tissues influence nerve-cell growth. Working with colleagues, she helped identify growth-promoting factors. Late in life she also served as a senator for life in Italy."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1954,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Mit Stanley Cohen und Viktor Hamburger veröffentlicht sie die Isolierung eines nervenwachstumsfördernden Faktors aus Tumorgewebe.",
+          "en": "With Stanley Cohen and Viktor Hamburger, she reports isolating a nerve growth-stimulating factor from tumour tissue."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rita Levi-Montalcini",
+        "url": "https://www.bihealth.org/en/news/media-center/translate-to-englisch-rahel-hirsch-center-wissenschaftlerinnen-als-namensgeberinnen/translate-to-englisch-rita-levi-montalcini",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "A Nerve Growth-Stimulating Factor Isolated from Sarcomas 37 and 180",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC534215/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "anne-mclaren",
+    "name": "Anne McLaren",
+    "aliases": [],
+    "birth": {
+      "year": 1927,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2007,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Untersuchte frühe Embryonalentwicklung und die Kultivierung von Säugetierembryonen.",
+      "en": "Investigated early embryonic development and the culture of mammalian embryos."
+    },
+    "biography": {
+      "de": "McLaren studierte Zoologie und erforschte die Fortpflanzung von Mäusen. Mit John Biggers zeigte sie, dass außerhalb des Muttertiers kultivierte frühe Embryonen nach Übertragung weiterentwickelt werden konnten. Ihre spätere Forschung umfasste Entwicklungsgenetik und reproduktive Immunologie. Sie leitete die Mammalian Development Unit und übernahm wissenschaftliche Leitungsaufgaben in der Royal Society.",
+      "en": "McLaren studied zoology and investigated reproduction in mice. With John Biggers she showed that early embryos cultured outside the mother could continue developing after transfer. Her later research included developmental genetics and reproductive immunology. She directed the Mammalian Development Unit and also held scientific leadership responsibilities at the Royal Society."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1958,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Mit John Biggers berichtet sie über lebende Mäuse nach Embryokultur und Embryotransfer.",
+          "en": "With John Biggers, she reports live mice born following embryo culture and transfer."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Most influential women in British science history",
+        "url": "https://royalsociety.org/about-us/who-we-are/diversity-inclusion/influential-british-women-science/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Successful Development and Birth of Mice cultivated in vitro as Early Embryos",
+        "url": "https://www.nature.com/articles/182877a0",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "patricia-bath",
+    "name": "Patricia Bath",
+    "aliases": [
+      "Patricia Era Bath"
+    ],
+    "birth": {
+      "year": 1942,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2019,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "inventors",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Entwickelte Lasertechnik für Kataraktoperationen und setzte sich für zugängliche Augenversorgung ein.",
+      "en": "Developed laser technology for cataract surgery and advocated accessible eye care."
+    },
+    "biography": {
+      "de": "Bath war Augenärztin, Forscherin und Hochschullehrerin in den Vereinigten Staaten. Ihre Arbeit verband die Behandlung von Augenerkrankungen mit dem Einsatz gegen ungleichen Zugang zur Versorgung. Sie entwickelte das Laserphaco-Verfahren zur Entfernung getrübter Augenlinsen und ließ mehrere technische Varianten patentieren. Zugleich engagierte sie sich in gemeindenaher Vorsorge und wissenschaftlicher Ausbildung.",
+      "en": "Bath was an ophthalmologist, researcher and university teacher in the United States. She connected the treatment of eye disease with efforts to reduce unequal access to care. She developed the Laserphaco method for removing clouded lenses and patented several technical approaches, while also supporting community screening and scientific education."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1988,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sie erhält ein US-Patent für ein Gerät zur laserbasierten Entfernung von Kataraktlinsen.",
+          "en": "She receives a US patent for an apparatus that removes cataract lenses using laser ablation."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Patricia Bath Papers",
+        "url": "https://sova.si.edu/record/nmah.ac.1585",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "irene-joliot-curie",
+    "name": "Irène Joliot-Curie",
+    "aliases": [
+      "Irène Curie",
+      "Irene Joliot-Curie"
+    ],
+    "birth": {
+      "year": 1897,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1956,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Erzeugte mit Frédéric Joliot künstliche Radioaktivität durch die Bestrahlung leichter Elemente.",
+      "en": "Produced artificial radioactivity with Frédéric Joliot by irradiating light elements."
+    },
+    "biography": {
+      "de": "Joliot-Curie arbeitete während des Ersten Weltkriegs in der medizinischen Radiografie und forschte anschließend am Pariser Radiuminstitut. Mit Frédéric Joliot untersuchte sie Kernreaktionen. Beide zeigten, dass nach dem Beschuss leichter Elemente radioaktive Isotope entstanden, die weiter Strahlung abgaben. Ihre gemeinsame Arbeit wurde mit dem Nobelpreis für Chemie ausgezeichnet.",
+      "en": "Joliot-Curie worked in medical radiography during the First World War before conducting research at the Radium Institute in Paris. With Frédéric Joliot she investigated nuclear reactions. They showed that irradiating light elements could produce radioactive isotopes that continued emitting radiation, work recognised by their shared Nobel Prize in Chemistry."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1934,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gemeinsame Experimente weisen künstlich erzeugte Radioaktivität nach, auch nach Ende der Bestrahlung.",
+          "en": "Their experiments demonstrate artificially produced radioactivity that persists after irradiation ends."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Irène Joliot-Curie and Frédéric Joliot",
+        "url": "https://www.sciencehistory.org/education/scientific-biographies/irene-joliot-curie-and-frederic-joliot/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Glass tube used by Irène Joliot-Curie & Frédéric Joliot in an experiment on artificial radioactivity",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co5379/glass-tube-used-by-irene-joliot-curie-frederic-joliot-in-an-experiment-on-artificial-radioactivity-experimental-equipment",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "maria-goeppert-mayer",
+    "name": "Maria Goeppert Mayer",
+    "aliases": [
+      "Maria Göppert-Mayer",
+      "Maria Goeppert-Mayer"
+    ],
+    "birth": {
+      "year": 1906,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1972,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Erklärte besondere Stabilitätsmuster von Atomkernen durch ein Schalenmodell.",
+      "en": "Explained distinctive patterns of nuclear stability through a shell model."
+    },
+    "biography": {
+      "de": "Goeppert Mayer studierte in Göttingen und setzte ihre Forschung später in den Vereinigten Staaten fort, lange ohne reguläre bezahlte Professur. Sie untersuchte die Struktur von Atomkernen. Unter Einbeziehung der Kopplung von Spin und Bahndrehimpuls erklärte ihr Modell die sogenannten magischen Zahlen. Hans Jensen entwickelte unabhängig einen verwandten Ansatz.",
+      "en": "Educated in Göttingen, Goeppert Mayer continued her research in the United States, spending many years without a regular paid professorship. She investigated atomic nuclei. By incorporating coupling between spin and orbital angular momentum, her shell model explained the so-called magic numbers. Hans Jensen independently developed a related approach."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1949,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sie veröffentlicht die Erklärung nuklearer magischer Zahlen mithilfe starker Spin-Bahn-Kopplung.",
+          "en": "She publishes an explanation of nuclear magic numbers using strong spin–orbit coupling."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "August 1948: Maria Goeppert Mayer and the Nuclear Shell Model",
+        "url": "https://www.aps.org/apsnews/2008/08/goeppert-mayer-nuclear-shell-model",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "dorothy-vaughan",
+    "name": "Dorothy Vaughan",
+    "aliases": [
+      "Dorothy Johnson Vaughan"
+    ],
+    "birth": {
+      "year": 1910,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2008,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "computing",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Leitete mathematische Rechenarbeit und wirkte am Übergang zur elektronischen Datenverarbeitung mit.",
+      "en": "Led mathematical computing and helped move aerospace research toward electronic computation."
+    },
+    "biography": {
+      "de": "Vaughan wechselte vom Mathematikunterricht zur aeronautischen Forschung in Langley. Sie leitete die unter Rassentrennung organisierte West Area Computing Unit und setzte sich für die beruflichen Möglichkeiten ihrer Mitarbeiterinnen ein. Nach Auflösung der segregierten Einheit arbeitete sie in einer integrierten Abteilung, programmierte in FORTRAN und unterstützte das Scout-Raketenprogramm.",
+      "en": "Vaughan moved from teaching mathematics to aeronautical research at Langley. She led the segregated West Area Computing Unit and advocated career opportunities for its staff. After the segregated unit was dissolved, she worked in an integrated division, developed expertise in FORTRAN programming and contributed to the Scout launch vehicle programme."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1949,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sie übernimmt die Leitung der West Area Computing Unit am NACA-Labor in Langley.",
+          "en": "She takes leadership of the West Area Computing Unit at NACA’s Langley laboratory."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dorothy Vaughan",
+        "url": "https://www.nasa.gov/people/dorothy-vaughan/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "mary-jackson",
+    "name": "Mary Jackson",
+    "aliases": [
+      "Mary Winston Jackson",
+      "Mary W. Jackson"
+    ],
+    "birth": {
+      "year": 1921,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2005,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Untersuchte Luftströmungen im Überschallbereich und förderte wissenschaftliche Berufschancen von Frauen.",
+      "en": "Investigated supersonic airflow and supported women’s scientific career opportunities."
+    },
+    "biography": {
+      "de": "Jackson begann in Langley als Mathematikerin in der West Area Computing Unit. Um Ingenieurin zu werden, musste sie Zugang zu einer unter Rassentrennung geführten Weiterbildung erwirken. Ihre Forschung behandelte unter anderem die Grenzschicht an Flugkörpern. Später wechselte sie in die Gleichstellungsarbeit und unterstützte die Karrieren von Wissenschaftlerinnen und Ingenieurinnen.",
+      "en": "Jackson began at Langley as a mathematician in the West Area Computing Unit. Training as an engineer required permission to attend classes held in a segregated school. Her research included boundary-layer behaviour around aerodynamic bodies. She later moved into equal-opportunity work, supporting the careers of women scientists and engineers."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1958,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sie veröffentlicht gemeinsam eine Untersuchung zu Kegelgeometrie und Strömungsübergängen bei Überschallgeschwindigkeit.",
+          "en": "She co-authors a study of cone geometry and flow transition at supersonic speeds."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mary W. Jackson",
+        "url": "https://www.nasa.gov/people/mary-w-jackson-biography/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "alice-hamilton",
+    "name": "Alice Hamilton",
+    "aliases": [],
+    "birth": {
+      "year": 1869,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1970,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Untersuchte industrielle Vergiftungen und machte arbeitsbedingte Gesundheitsgefahren sichtbar.",
+      "en": "Investigated industrial poisoning and documented occupational health hazards."
+    },
+    "biography": {
+      "de": "Hamilton verband medizinische Forschung mit Untersuchungen der Lebens- und Arbeitsbedingungen in Industriegebieten. Als Bewohnerin von Hull House in Chicago begegnete sie den Folgen gefährlicher Arbeit unmittelbar. Sie erforschte Vergiftungen durch Metalle und Chemikalien und beriet öffentliche Stellen. Später lehrte sie Industriemedizin in Harvard, wo Frauen weiterhin institutionellen Einschränkungen unterlagen.",
+      "en": "Hamilton connected medical research with investigations of living and working conditions in industrial communities. As a resident of Hull House in Chicago, she encountered the consequences of hazardous work directly. She studied poisoning by metals and chemicals and advised public agencies. She later taught industrial medicine at Harvard despite continuing institutional restrictions on women."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1910,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sie beginnt Untersuchungen für die neu gegründete Berufskrankheitenkommission von Illinois.",
+          "en": "She begins investigations for the newly established Occupational Diseases Commission of Illinois."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Biography: Dr. Alice Hamilton",
+        "url": "https://www.nlm.nih.gov/exhibition/changing-the-face-of-medicine/physicians/biography_alice_hamilton.html?id=item-139",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "anna-atkins",
+    "name": "Anna Atkins",
+    "aliases": [],
+    "birth": {
+      "year": 1799,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1871,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "naturalists",
+      "artists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Nutzte Cyanotypien zur botanischen Dokumentation und zur Gestaltung fotografischer Bücher.",
+      "en": "Used cyanotypes for botanical documentation and the creation of photographic books."
+    },
+    "biography": {
+      "de": "Atkins sammelte und zeichnete Pflanzen und stand über ihren Vater mit wissenschaftlichen Kreisen in Verbindung. Sie übertrug die neue Cyanotypie auf botanische Exemplare und stellte damit Algenformen detailliert dar. Ihre selbst veröffentlichten Bücher verbinden wissenschaftliche Bestimmung mit fotografischer Gestaltung. Sie versorgte auch botanische Sammlungen mit Belegen und hinterließ ein Herbarium.",
+      "en": "Atkins collected and illustrated plants and gained access to scientific networks through her father. Applying the new cyanotype process to botanical specimens, she recorded algae in detail. Her self-published books combined scientific identification with photographic composition. She also supplied botanical collections with specimens and left a herbarium of British plants."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1843,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Veröffentlichung von Photographs of British Algae: Cyanotype Impressions beginnt.",
+          "en": "Publication of Photographs of British Algae: Cyanotype Impressions begins."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Anna Atkins’s cyanotypes: The first book of photographs",
+        "url": "https://www.nhm.ac.uk/discover/anna-atkins-cyanotypes-the-first-book-of-photographs.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  }
+]

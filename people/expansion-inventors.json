@@ -1,0 +1,1704 @@
+[
+  {
+    "id": "cai-lun",
+    "name": "Cai Lun",
+    "aliases": [
+      "Tsai Lun",
+      "蔡倫"
+    ],
+    "birth": {
+      "earliest": 61,
+      "latest": 63,
+      "precision": "range"
+    },
+    "death": {
+      "year": 121,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Verbesserte und förderte die Papierherstellung im China der Han-Zeit.",
+      "en": "Improved and promoted papermaking in Han China."
+    },
+    "biography": {
+      "de": "Cai Lun war ein Hofbeamter der östlichen Han-Dynastie. Mit seinem Namen verbinden historische Berichte Verbesserungen der Papierherstellung aus pflanzlichen Fasern und Altmaterialien. Papier gab es bereits vor ihm; sein Beitrag lag in der Weiterentwicklung und Verbreitung eines Verfahrens, das günstigere Schreibmaterialien ermöglichte.",
+      "en": "Cai Lun served at the Eastern Han court. Historical accounts associate him with improvements in making paper from plant fibres and reused materials. Paper already existed before his lifetime; his contribution concerned refining and promoting a process that offered a less expensive writing material."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 105,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Präsentierte dem Kaiser nach der historischen Überlieferung verbessertes Papier.",
+          "en": "According to historical accounts, presented improved paper to the emperor."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cai Lun — Hunan Government / Hunan Library",
+        "url": "https://enghunan.gov.cn/hneng/AboutHunan/HistoryCulture/Celebrities/201806/t20180619_5035364.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Papermaking — Academy of Chinese Studies, Pan Jixing",
+        "url": "https://chiculture.org.hk/en/china-five-thousand-years/2746",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Hunan Provincial Department of Culture and Tourism — Cai Lun",
+        "url": "https://whhlyt.hunan.gov.cn/whhlyt/english/Culture/CulturalFigures/202207/t20220729_27570604.html",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Geburtsjahr ist unterschiedlich überliefert: Die Provinzregierung Hunan nennt 61, ihre Kultur- und Tourismusbehörde 61 oder 63. Der Zeitraum bildet diese Angaben ab.",
+      "en": "Sources differ on his birth year: Hunan’s provincial government gives 61, while its culture and tourism department gives 61 or 63. The range represents these alternatives."
+    }
+  },
+  {
+    "id": "bi-sheng",
+    "name": "Bi Sheng",
+    "aliases": [
+      "Pi Sheng",
+      "畢昇"
+    ],
+    "birth": {
+      "year": 970,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 1051,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Entwickelte in der Song-Zeit bewegliche Drucklettern aus gebranntem Ton.",
+      "en": "Developed movable clay printing type during the Song dynasty."
+    },
+    "biography": {
+      "de": "Bi Sheng war ein chinesischer Handwerker, dessen Verfahren einzelne Schriftzeichen zu wiederverwendbaren Druckformen zusammensetzte. Die Lettern wurden aus Ton hergestellt und durch Brennen gehärtet. Damit konnten Texte neu gesetzt werden, statt jede Seite vollständig in einen Holzblock zu schneiden. Über sein persönliches Leben ist wenig gesichert.",
+      "en": "Bi Sheng was a Chinese artisan whose method assembled individual characters into reusable printing forms. His type was made from clay and hardened by firing. Texts could therefore be reset instead of carving a complete wooden block for each page. Little is securely known about his personal life."
+    },
+    "highlights": [
+      {
+        "date": {
+          "earliest": 1041,
+          "latest": 1048,
+          "precision": "range"
+        },
+        "text": {
+          "de": "Entwickelte während der Qingli-Ära den Druck mit beweglichen Lettern.",
+          "en": "Developed movable-type printing during the Qingli era."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bi Sheng Memorial Park opens in Yingshan County, Hubei — Wuhan Government",
+        "url": "https://english.wuhan.gov.cn/H_1/NWP/202304/t20230423_2190362.shtml",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Techniques — Chinese Rare Books in the USC Libraries",
+        "url": "https://scalar.usc.edu/works/chinese-rare-books/techniques.225",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Creating movable type — National Central Library exhibition catalogue",
+        "url": "https://ccs.ncl.edu.tw/files/exhibition/2015%E6%8B%89%E8%84%AB%E7%B6%AD%E4%BA%9E%E6%96%87%E6%98%8E%E4%B9%8B%E5%8D%B0%E8%A8%98%E5%B1%95%E8%A6%BD.compressed.pdf",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Papermaking — Academy of Chinese Studies, Pan Jixing",
+        "url": "https://chiculture.org.hk/en/china-five-thousand-years/2746",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Der ungefähre Geburtsansatz 970 folgt dem Bericht zum Bi-Sheng-Gedenkpark. Die Academy of Chinese Studies nennt dagegen 990; die frühe Biografie bleibt unsicher.",
+      "en": "The approximate birth date 970 follows the report on Bi Sheng Memorial Park. The Academy of Chinese Studies instead gives 990; his early biography remains uncertain."
+    }
+  },
+  {
+    "id": "james-watt",
+    "name": "James Watt",
+    "aliases": [],
+    "birth": {
+      "year": 1736,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1819,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Machte Dampfmaschinen durch den getrennten Kondensator sparsamer.",
+      "en": "Improved steam-engine efficiency with a separate condenser."
+    },
+    "biography": {
+      "de": "Der schottische Instrumentenmacher James Watt untersuchte, weshalb frühe Dampfmaschinen so viel Brennstoff benötigten. Sein getrennter Kondensator verringerte die Wärmeverluste im Arbeitszylinder. Gemeinsam mit dem Unternehmer Matthew Boulton brachte er die verbesserten Maschinen in industrielle Betriebe. Seine Leistung war eine weitreichende Weiterentwicklung vorhandener Dampfmaschinentechnik.",
+      "en": "Scottish instrument maker James Watt investigated the heavy fuel consumption of early steam engines. His separate condenser reduced heat loss in the working cylinder. With entrepreneur Matthew Boulton, he brought improved engines into industrial use. His achievement was a far-reaching development of existing steam technology."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1769,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Patentierte seine Verbesserung zur Verringerung des Dampf- und Brennstoffverbrauchs.",
+          "en": "Patented his improvement for reducing steam and fuel consumption."
+        }
+      },
+      {
+        "date": {
+          "year": 1774,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Zog nach Birmingham, wo die Zusammenarbeit mit Matthew Boulton den Maschinenbau voranbrachte.",
+          "en": "Moved to Birmingham, where collaboration with Matthew Boulton advanced engine manufacture."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "James Watt — Science Museum Group",
+        "url": "https://collection.sciencemuseumgroup.org.uk/people/cp37593/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "thomas-newcomen",
+    "name": "Thomas Newcomen",
+    "aliases": [],
+    "birth": {
+      "earliest": 1663,
+      "latest": 1664,
+      "precision": "range"
+    },
+    "death": {
+      "year": 1729,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Entwickelte eine atmosphärische Dampfmaschine zum Entwässern von Bergwerken.",
+      "en": "Developed an atmospheric steam engine for pumping water from mines."
+    },
+    "biography": {
+      "de": "Thomas Newcomen war ein englischer Eisenwarenhändler und Erfinder. In seiner Maschine kondensierte Dampf im Zylinder; der entstehende Unterdruck ließ den Luftdruck den Kolben bewegen. Über einen Balancier trieb dieser eine Pumpe an. Die Konstruktion verband naturkundliche Erkenntnisse mit den Fertigkeiten verschiedener Handwerke und wurde im Bergbau eingesetzt.",
+      "en": "Thomas Newcomen was an English ironmonger and inventor. Steam condensed inside his engine cylinder, allowing atmospheric pressure to move the piston into the resulting partial vacuum. A rocking beam transferred this motion to a pump. The design combined scientific knowledge with several craft traditions and found use in mining."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1712,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Eine frühe praktische Maschine wurde bei Dudley zum Pumpen errichtet.",
+          "en": "An early practical engine was erected near Dudley for pumping."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Thomas Newcomen — Science Museum Group",
+        "url": "https://collection.sciencemuseumgroup.org.uk/people/cp81043/thomas-newcomen",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Newcomen Atmospheric Engine — Science Museum Group",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co50900/newcomen-atmospheric-engine",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Newcomen, Thomas — Oxford Dictionary of National Biography",
+        "url": "https://academic.oup.com/oxford-dictionary-of-national-biography/reference/63486/reference-article-abstract/581428832",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Science Museum nennt 1663, Oxford dokumentiert die Taufe im Februar 1664. Die Spanne bewahrt diese Unsicherheit des Geburtsjahres.",
+      "en": "The Science Museum gives 1663, while Oxford documents baptism in February 1664. The range preserves this uncertainty about his birth year."
+    }
+  },
+  {
+    "id": "abraham-darby-i",
+    "name": "Abraham Darby I",
+    "aliases": [
+      "Abraham Darby"
+    ],
+    "birth": {
+      "year": 1678,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1717,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Nutzte Koks statt Holzkohle zur Eisenverhüttung in Coalbrookdale.",
+      "en": "Used coke instead of charcoal to smelt iron at Coalbrookdale."
+    },
+    "biography": {
+      "de": "Abraham Darby I war ein englischer Hüttenunternehmer. In Coalbrookdale setzte er aus Steinkohle gewonnenen Koks zur Eisenverhüttung ein. Das Verfahren trug dazu bei, die Produktion von Gusseisen auszuweiten. Seine Arbeit gehört zur frühen Industrialisierung der Region; die spätere Iron Bridge errichtete erst sein Enkel Abraham Darby III.",
+      "en": "Abraham Darby I was an English ironmaster. At Coalbrookdale he used coke made from coal to smelt iron, helping expand cast-iron production. His work formed part of the region’s early industrial development. The later Iron Bridge was built under his grandson Abraham Darby III, not Darby I himself."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1709,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Führte in Coalbrookdale die erfolgreiche Eisenverhüttung mit Koks ein.",
+          "en": "Established successful coke-fuelled iron smelting at Coalbrookdale."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of Iron Bridge — English Heritage",
+        "url": "https://www.english-heritage.org.uk/visit/places/iron-bridge/history",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Ironbridge Gorge — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/371/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "joseph-marie-jacquard",
+    "name": "Joseph-Marie Jacquard",
+    "aliases": [
+      "Joseph Marie Charles",
+      "Joseph Marie Jacquard"
+    ],
+    "birth": {
+      "year": 1752,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1834,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Entwickelte eine Lochkartensteuerung für gemusterte Gewebe.",
+      "en": "Developed punched-card control for patterned weaving."
+    },
+    "biography": {
+      "de": "Joseph-Marie Jacquard arbeitete an der Mechanisierung des Webens in Lyon. Sein nach ihm benannter Aufsatz steuerte die Auswahl der Kettfäden mit gelochten Karten. Auf diese Weise ließen sich komplizierte Muster wiederholen. Charles Babbage griff die Idee einer gespeicherten Steuerfolge später für seine Rechenmaschinenentwürfe auf.",
+      "en": "Joseph-Marie Jacquard worked on mechanising weaving in Lyon. The attachment named after him selected warp threads using punched cards, allowing complex patterns to be repeated. Charles Babbage later drew on the idea of a stored sequence of instructions when designing his calculating machines."
+    },
+    "highlights": [
+      {
+        "date": {
+          "earliest": 1804,
+          "latest": 1805,
+          "precision": "range"
+        },
+        "text": {
+          "de": "Entwickelte den Jacquard-Aufsatz zur Steuerung von Webmustern.",
+          "en": "Developed the Jacquard attachment for controlling woven patterns."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Joseph Marie Jacquard — Science Museum Group",
+        "url": "https://collection.sciencemuseumgroup.org.uk/people/cp11221/joseph-marie-jacquard",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Jacquard Hand Loom — Science Museum Group",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8405056/jacquard-hand-loom-loom",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Punch Cards before Tabulating Machines — Smithsonian Institution",
+        "url": "https://www.si.edu/spotlight/punch-cards/punch-cards-before-tabulating-machines",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "eli-whitney",
+    "name": "Eli Whitney",
+    "aliases": [],
+    "birth": {
+      "year": 1765,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1825,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Patentierte eine Baumwollentkörnungsmaschine mit weitreichenden wirtschaftlichen und sozialen Folgen.",
+      "en": "Patented a cotton gin with far-reaching economic and social consequences."
+    },
+    "biography": {
+      "de": "Eli Whitney war ein amerikanischer Mechaniker und Unternehmer. Seine Maschine beschleunigte die Entkörnung kurzfaseriger Baumwolle und baute auf älteren Verfahren auf. Die steigende Rentabilität des Baumwollanbaus verstärkte zugleich die Expansion von Plantagen und Sklaverei. Für Whitney selbst erschwerten Nachbauten und Patentstreitigkeiten den wirtschaftlichen Erfolg.",
+      "en": "Eli Whitney was an American mechanic and manufacturer. His gin accelerated the cleaning of short-staple cotton and built on earlier methods. The increased profitability of cotton also encouraged the expansion of plantations and slavery. For Whitney himself, copied machines and patent disputes made commercial success difficult."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1794,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erhielt ein Patent auf seine Baumwollentkörnungsmaschine.",
+          "en": "Received a patent for his cotton gin."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eli Whitney — National Inventors Hall of Fame",
+        "url": "https://www.invent.org/inductees/eli-whitney",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Eli Whitney’s Patent for the Cotton Gin — National Archives",
+        "url": "https://www.archives.gov/education/lessons/cotton-gin-patent",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "george-stephenson",
+    "name": "George Stephenson",
+    "aliases": [],
+    "birth": {
+      "year": 1781,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1848,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Entwickelte Lokomotiven und wirkte am Aufbau früher Eisenbahnstrecken mit.",
+      "en": "Developed locomotives and helped build early railway routes."
+    },
+    "biography": {
+      "de": "George Stephenson arbeitete zunächst an den Maschinen englischer Kohlebergwerke. Daraus entwickelte sich seine Tätigkeit als Lokomotivbauer und Eisenbahningenieur. Er verband praktische Erfahrungen im Bergbau mit neuen Verkehrsprojekten. Neben seinen Arbeiten an Lokomotiven entwickelte er eine Grubenlampe und wurde später erster Präsident der Institution of Mechanical Engineers.",
+      "en": "George Stephenson first worked with machinery in English coal mines before becoming a locomotive builder and railway engineer. He brought practical mining experience to new transport projects. Alongside his locomotive work, he developed a miners’ safety lamp and later became the first president of the Institution of Mechanical Engineers."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1814,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Baute die Lokomotive Blücher für die Zeche Killingworth.",
+          "en": "Built the locomotive Blücher for the Killingworth colliery."
+        }
+      },
+      {
+        "date": {
+          "year": 1821,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wurde für das Projekt der Stockton and Darlington Railway gewonnen.",
+          "en": "Joined the Stockton and Darlington Railway project."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "George Stephenson — Science Museum Group",
+        "url": "https://collection.sciencemuseumgroup.org.uk/people/cp3870/george-stephenson",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "samuel-morse",
+    "name": "Samuel F. B. Morse",
+    "aliases": [
+      "Samuel Morse",
+      "Samuel Finley Breese Morse"
+    ],
+    "birth": {
+      "year": 1791,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1872,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors",
+      "artists"
+    ],
+    "summary": {
+      "de": "Verband seine Arbeit als Maler mit der Entwicklung elektrischer Telegrafie.",
+      "en": "Combined a career in painting with the development of electric telegraphy."
+    },
+    "biography": {
+      "de": "Samuel Morse war zunächst Porträtmaler und wandte sich später der elektrischen Nachrichtenübertragung zu. Er arbeitete an einem Telegrafensystem, das Informationen als Stromimpulse über Leitungen übermittelte. Seine Geräte und das zugehörige Zeichensystem wurden schrittweise verbessert. Die Verbindung zwischen Washington und Baltimore machte die praktische Nutzung öffentlich sichtbar.",
+      "en": "Samuel Morse began as a portrait painter before turning to electrical communication. He worked on a telegraph system that transmitted information as pulses of current along wires. The instruments and associated code developed through successive improvements. The Washington–Baltimore connection made the practical use of the system publicly visible."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1837,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Demonstrierte einen verbesserten elektrischen Telegrafen.",
+          "en": "Demonstrated an improved electric telegraph."
+        }
+      },
+      {
+        "date": {
+          "year": 1844,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Übermittelte eine öffentliche Nachricht auf der Strecke Washington–Baltimore.",
+          "en": "Sent a public demonstration message over the Washington–Baltimore line."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Samuel F. B. Morse — National Inventors Hall of Fame",
+        "url": "https://www.invent.org/inductees/samuel-f-b-morse",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "alexander-graham-bell",
+    "name": "Alexander Graham Bell",
+    "aliases": [],
+    "birth": {
+      "year": 1847,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1922,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Entwickelte mit Mitarbeitern Telefone und weitere Verfahren der Nachrichtenübertragung.",
+      "en": "Developed telephones and other communication systems with collaborators."
+    },
+    "biography": {
+      "de": "Alexander Graham Bell beschäftigte sich mit Sprache, Schall und elektrischer Nachrichtenübertragung. Aus Versuchen zur Verbesserung der Telegrafie entstand seine Arbeit am Telefon, bei der Thomas Watson maßgeblich mitwirkte. Bell erforschte außerdem die Übertragung von Sprache durch Licht und arbeitete später an Fluggeräten und Wasserfahrzeugen.",
+      "en": "Alexander Graham Bell studied speech, sound and electrical communication. Experiments to improve telegraphy led to his telephone work, in which Thomas Watson was an important collaborator. Bell also explored transmitting speech with light and later investigated aircraft and watercraft, extending his work beyond the telephone."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1875,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erhielt ein Patent auf ein Verfahren der Mehrfachtelegrafie.",
+          "en": "Received a patent for a method of multiple telegraphy."
+        }
+      },
+      {
+        "date": {
+          "year": 1876,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erhielt das US-Telefonpatent 174,465.",
+          "en": "Received U.S. telephone patent 174,465."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alexander Graham Bell — National Inventors Hall of Fame",
+        "url": "https://www.invent.org/inductees/alexander-graham-bell",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "thomas-edison",
+    "name": "Thomas Alva Edison",
+    "aliases": [
+      "Thomas Edison"
+    ],
+    "birth": {
+      "year": 1847,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1931,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Organisierte industrielle Entwicklungsarbeit an Beleuchtung, Tonaufzeichnung und Filmtechnik.",
+      "en": "Organised industrial development of lighting, sound recording and motion-picture technology."
+    },
+    "biography": {
+      "de": "Thomas Edison entwickelte Geräte und technische Systeme in eigens aufgebauten Forschungslaboren. Aus seiner Arbeit an der Telegrafie entstanden weitere Projekte zur Tonaufzeichnung und elektrischen Beleuchtung. In Menlo Park und später West Orange verbanden seine Betriebe Versuche, Patente und Fertigung. Die Beleuchtung erforderte dabei nicht nur Lampen, sondern auch eine Stromversorgung.",
+      "en": "Thomas Edison developed devices and technical systems in purpose-built research laboratories. His telegraph work led to projects in sound recording and electric lighting. At Menlo Park and later West Orange, his organisations combined experimentation, patents and manufacturing. Electric lighting required power distribution as well as improvements to lamps."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1876,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Richtete sein Labor in Menlo Park ein.",
+          "en": "Established his Menlo Park laboratory."
+        }
+      },
+      {
+        "date": {
+          "year": 1879,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Demonstrierte ein Beleuchtungssystem mit Kohlefadenlampen.",
+          "en": "Demonstrated a lighting system using carbon-filament lamps."
+        }
+      },
+      {
+        "date": {
+          "year": 1882,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Pearl-Street-Station in New York nahm die zentrale Stromversorgung auf.",
+          "en": "The Pearl Street station began central electricity supply in New York."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Thomas Alva Edison — National Inventors Hall of Fame",
+        "url": "https://www.invent.org/inductees/thomas-alva-edison",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "george-westinghouse",
+    "name": "George Westinghouse",
+    "aliases": [
+      "George Westinghouse Jr."
+    ],
+    "birth": {
+      "year": 1846,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1914,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Entwickelte Druckluftbremsen und förderte die Nutzung von Wechselstrom.",
+      "en": "Developed air brakes and advanced the use of alternating current."
+    },
+    "biography": {
+      "de": "George Westinghouse verband Erfindungstätigkeit mit dem Aufbau großer Industriebetriebe. Seine Druckluftbremse ermöglichte eine gemeinsame Steuerung der Bremsen eines Zuges. Später investierte er in elektrische Energieversorgung und arbeitete mit Nikola Tesla und weiteren Fachleuten an Wechselstromsystemen. Patente, Fertigung und Zusammenarbeit waren zentrale Bestandteile seines Erfolgs.",
+      "en": "George Westinghouse combined invention with building industrial businesses. His air brake allowed a train’s brakes to be controlled together. He later invested in electricity supply and worked with Nikola Tesla and other specialists on alternating-current systems. Patents, manufacturing and collaboration were central to these developments."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1869,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erhielt ein Druckluftbremsenpatent und gründete die Westinghouse Air Brake Company.",
+          "en": "Received an air-brake patent and founded the Westinghouse Air Brake Company."
+        }
+      },
+      {
+        "date": {
+          "year": 1886,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gründete die Westinghouse Electric Company.",
+          "en": "Founded the Westinghouse Electric Company."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "George Westinghouse, Jr. — National Inventors Hall of Fame",
+        "url": "https://www.invent.org/inductees/george-westinghouse-jr",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "rudolf-diesel",
+    "name": "Rudolf Diesel",
+    "aliases": [],
+    "birth": {
+      "year": 1858,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1913,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Entwickelte einen Verbrennungsmotor mit Kompressionszündung.",
+      "en": "Developed an internal-combustion engine using compression ignition."
+    },
+    "biography": {
+      "de": "Rudolf Diesel war ein in Paris geborener Ingenieur, der nach einer effizienteren Wärmekraftmaschine suchte. Sein Motorkonzept nutzte stark verdichtete Luft zur Zündung des eingespritzten Brennstoffs. Der Weg vom Konzept zur funktionierenden Maschine erforderte lange Versuchsreihen. Diesel verband damit auch die Hoffnung, kleinere Betriebe unabhängiger von großen Kraftanlagen zu machen.",
+      "en": "Rudolf Diesel was a Paris-born engineer seeking a more efficient heat engine. His concept used highly compressed air to ignite injected fuel. Turning it into a working machine required prolonged experimentation. Diesel also hoped that smaller businesses could gain access to power without depending on large steam installations."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1893,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte Theorie und Konstruktion eines rationellen Wärmemotors als Grundlage seines Entwicklungsprogramms.",
+          "en": "Published Theory and Construction of a Rational Heat Motor as a basis for his development programme."
+        }
+      },
+      {
+        "date": {
+          "year": 1897,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Ein nach mehrjährigen Versuchen entwickelter Motor arbeitete in Augsburg erfolgreich.",
+          "en": "An engine developed through several years of trials operated successfully in Augsburg."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rudolf Diesel — National Inventors Hall of Fame",
+        "url": "https://www.invent.org/inductees/rudolf-diesel",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Deutsches Museum — Theorie und Konstruktion eines rationellen Wärmemotors",
+        "url": "https://www.deutsches-museum.de/forschung/bibliothek/unsere-schaetze/technik/konstruktion-eines-rationellen-waermemotors",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Deutsches Museum — First Functional Diesel Engine (Google Arts & Culture)",
+        "url": "https://artsandculture.google.com/asset/first-functional-diesel-engine-rudolf-diesel-augsburg/EgFU-tnJ9KhA_A?hl=en",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "karl-benz",
+    "name": "Carl Benz",
+    "aliases": [
+      "Karl Benz",
+      "Karl Friedrich Benz"
+    ],
+    "birth": {
+      "year": 1844,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1929,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Ingenieur und Unternehmer, der einen frühen benzinbetriebenen Motorwagen entwickelte und patentieren ließ.",
+      "en": "Engineer and entrepreneur who developed and patented an early petrol-powered motor vehicle."
+    },
+    "biography": {
+      "de": "Benz studierte Maschinenbau in Karlsruhe und gründete nach wechselnden Arbeitsstellen eigene Unternehmen. Bei Benz & Cie. verband er Motorenentwicklung mit dem Bau eines eigenständigen Straßenfahrzeugs. Sein Motorwagenpatent dokumentiert einen wichtigen Schritt zur Automobilproduktion. Die Entwicklung des Autos blieb jedoch ein Prozess, an dem zahlreiche Werkstätten und Konstrukteur:innen beteiligt waren.",
+      "en": "Benz studied mechanical engineering in Karlsruhe and established businesses after several engineering jobs. At Benz & Cie., he combined engine development with construction of a purpose-built road vehicle. His motor-car patent marked an important step towards automobile production, within a wider process involving many workshops and designers."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1883,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gründete mit Geschäftspartnern Benz & Cie. zur Herstellung von Motoren.",
+          "en": "Established Benz & Cie. with business partners to manufacture engines."
+        }
+      },
+      {
+        "date": {
+          "year": 1886,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erhielt das Patent DRP 37435 für ein Fahrzeug mit Gasmotorenbetrieb.",
+          "en": "Received patent DRP 37435 for a vehicle powered by a gas engine."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mercedes-Benz Group — Carl Benz",
+        "url": "https://group.mercedes-benz.com/company/tradition/founders-pioneers/carl-benz.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "guglielmo-marconi",
+    "name": "Guglielmo Marconi",
+    "aliases": [],
+    "birth": {
+      "year": 1874,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1937,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors",
+      "physicists"
+    ],
+    "summary": {
+      "de": "Entwickler drahtloser Telegrafiesysteme, die Funkkommunikation über größere Entfernungen ermöglichten.",
+      "en": "Developer of wireless telegraph systems that extended the range of radio communication."
+    },
+    "biography": {
+      "de": "Marconi überführte Experimente mit elektromagnetischen Wellen in technische Kommunikationssysteme. Nach Versuchen in Italien setzte er seine Arbeit in Großbritannien fort und verband Patente, Unternehmensgründung und öffentliche Vorführungen. Seine Anlagen wurden besonders für die Schifffahrt bedeutsam. Die Funktechnik entstand dabei aus den Beiträgen vieler Forschender und Ingenieur:innen.",
+      "en": "Marconi turned experiments with electromagnetic waves into practical communication systems. After early work in Italy, he continued in Britain, combining patents, business development and public demonstrations. His equipment became particularly important for shipping. Radio technology developed through the contributions of many researchers and engineers, rather than a single invention."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1899,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Demonstrierte drahtlose Telegrafie über den Ärmelkanal.",
+          "en": "Demonstrated wireless telegraphy across the English Channel."
+        }
+      },
+      {
+        "date": {
+          "year": 1909,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erhielt mit Ferdinand Braun den Physiknobelpreis für Beiträge zur drahtlosen Telegrafie.",
+          "en": "Shared the Nobel Prize in Physics with Ferdinand Braun for contributions to wireless telegraphy."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lemelson-MIT — Guglielmo Marconi",
+        "url": "https://lemelson.mit.edu/resources/guglielmo-marconi",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "orville-wright",
+    "name": "Orville Wright",
+    "aliases": [],
+    "birth": {
+      "year": 1871,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1948,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Flugzeugentwickler, der mit seinem Bruder Wilbur an Steuerung, Antrieb und Flugversuchen arbeitete.",
+      "en": "Aircraft developer who worked with his brother Wilbur on control, propulsion and flight experiments."
+    },
+    "biography": {
+      "de": "Orville Wright betrieb mit Wilbur zunächst Druckerei- und Fahrradwerkstätten. Aus dem gemeinsamen Interesse am Fliegen entstand ein experimentelles Entwicklungsprogramm mit Gleitflugzeugen und Motorflugzeugen. Orville steuerte den ersten Motorflug ihres Versuchstags im Dezember 1903. Auch später untersuchte er Flugleistungen; die Arbeit der Brüder beruhte auf eng miteinander verbundenen Beiträgen.",
+      "en": "Orville Wright ran printing and bicycle businesses with Wilbur. Their shared interest in flight developed into an experimental programme involving gliders and powered aircraft. Orville piloted the first powered flight of their December 1903 test day. He continued investigating flight performance, within a partnership whose technical contributions were closely intertwined."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1903,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Steuerte am 17. Dezember bei Kitty Hawk einen der gemeinsam entwickelten Motorflüge.",
+          "en": "Piloted one of the brothers’ jointly developed powered flights near Kitty Hawk on 17 December."
+        }
+      },
+      {
+        "date": {
+          "year": 1911,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erprobte einen Gleitflug von mehr als neun Minuten Dauer.",
+          "en": "Demonstrated a glider flight lasting more than nine minutes."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "US National Park Service — Orville Wright",
+        "url": "https://www.nps.gov/people/orvillewright.htm",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "wilbur-wright",
+    "name": "Wilbur Wright",
+    "aliases": [],
+    "birth": {
+      "year": 1867,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1912,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Flugzeugentwickler, der mit seinem Bruder Orville experimentelle Wege zum gesteuerten Motorflug erarbeitete.",
+      "en": "Aircraft developer who worked with his brother Orville on experimental approaches to controlled powered flight."
+    },
+    "biography": {
+      "de": "Wilbur Wright beschäftigte sich mit vorhandener Flugforschung, bevor er mit Orville eigene Versuche aufnahm. Ihre Fahrradwerkstatt lieferte praktische Erfahrung für Konstruktion und Erprobung. In North Carolina untersuchten sie das Fliegen schrittweise. Die Motorflüge von 1903 und spätere Vorführungen waren Ergebnisse ihrer gemeinsamen Arbeit an einem steuerbaren Flugzeug.",
+      "en": "Wilbur Wright studied existing flight research before beginning experiments with Orville. Their bicycle workshop provided practical experience for design and testing. In North Carolina they investigated flight through successive trials. The powered flights of 1903 and later demonstrations grew from their joint work towards an aircraft that could be controlled in flight."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1899,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Bat das Smithsonian um Fachliteratur und begann seine systematische Beschäftigung mit Flugtechnik.",
+          "en": "Requested technical literature from the Smithsonian as he began systematic study of flight."
+        }
+      },
+      {
+        "date": {
+          "year": 1903,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Flog am 17. Dezember das gemeinsam entwickelte Motorflugzeug bei Kitty Hawk.",
+          "en": "Flew the jointly developed powered aircraft near Kitty Hawk on 17 December."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "US National Park Service — Wilbur Wright",
+        "url": "https://home.nps.gov/people/wilburwright.htm",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "alberto-santos-dumont",
+    "name": "Alberto Santos-Dumont",
+    "aliases": [
+      "Alberto Santos Dumont"
+    ],
+    "birth": {
+      "year": 1873,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1932,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Brasilianischer Luftfahrtentwickler, der in Frankreich Luftschiffe und Motorflugzeuge erprobte.",
+      "en": "Brazilian aviation developer who tested airships and powered aircraft in France."
+    },
+    "biography": {
+      "de": "Santos-Dumont lebte und arbeitete in Paris, wo er zunächst kleine motorisierte Luftschiffe entwickelte. Später wandte er sich Flugzeugen zu. Seine öffentlich beobachteten Versuche mit der 14-bis gehören zur frühen europäischen Motorfluggeschichte. Sie sind als eigenständige technische Leistungen einzuordnen, während unterschiedliche Kriterien zu konkurrierenden Erzählungen über den ersten Flug führten.",
+      "en": "Santos-Dumont lived and worked in Paris, initially developing small powered airships before turning to aeroplanes. His publicly observed 14-bis trials form part of early powered-flight history in Europe. They represent distinct technical achievements within a broader history in which different definitions have produced competing accounts of the first flight."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1903,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erprobte das kleine motorisierte Luftschiff Nr. 9.",
+          "en": "Tested the small powered airship No. 9."
+        }
+      },
+      {
+        "date": {
+          "year": 1906,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Führte mit der 14-bis öffentliche Motorflüge auf dem Pariser Bagatelle-Gelände durch.",
+          "en": "Made public powered flights with the 14-bis at Bagatelle in Paris."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Science Museum Group — Alberto Santos-Dumont",
+        "url": "https://collection.sciencemuseumgroup.org.uk/people/cp38843/alberto-santos-dumont",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Science Museum Group — Model of Santos-Dumont’s 14-bis aeroplane",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29443/model-of-santos-dumonts-14-bis-aeroplane",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Smithsonian National Air and Space Museum — The Flight of the Airplane",
+        "url": "https://airandspace.si.edu/explore/stories/flight-airplane",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "josephine-cochrane",
+    "name": "Josephine Cochrane",
+    "aliases": [
+      "Josephine Garis Cochran",
+      "Josephine Cochran"
+    ],
+    "birth": {
+      "year": 1841,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1913,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Erfinderin und Unternehmerin, die eine gewerblich nutzbare Geschirrspülmaschine entwickelte.",
+      "en": "Inventor and entrepreneur who developed a commercially useful dishwashing machine."
+    },
+    "biography": {
+      "de": "Cochrane suchte nach einer Möglichkeit, Geschirr maschinell zu reinigen und Bruch zu verringern. Mit dem Mechaniker George Butters entwickelte sie ein Gerät, das Geschirr in Drahtgestellen hielt. Nach der Patentierung baute sie ein Unternehmen auf. Zunächst fanden ihre Maschinen vor allem in gewerblichen Küchen Verwendung; die Verbreitung in Privathaushalten folgte später.",
+      "en": "Cochrane sought a mechanical way to clean dishes while reducing breakage. Working with mechanic George Butters, she developed a machine that held tableware in wire compartments. After patenting it, she established a manufacturing business. Commercial kitchens were initially the main customers; widespread adoption in private homes followed under different conditions."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1886,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erhielt ein Patent auf ihre Geschirrspülmaschine mit Halterungen für unterschiedliche Geschirrformen.",
+          "en": "Received a patent for her dishwasher with compartments for different kinds of tableware."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Inventors Hall of Fame — Josephine Garis Cochran",
+        "url": "https://www.invent.org/inductees/josephine-garis-cochran",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "margaret-e-knight",
+    "name": "Margaret E. Knight",
+    "aliases": [
+      "Margaret Eloise Knight"
+    ],
+    "birth": {
+      "year": 1838,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1914,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Erfinderin einer Maschine zur Herstellung von Papiertüten mit flachem Boden.",
+      "en": "Inventor of a machine for manufacturing flat-bottomed paper bags."
+    },
+    "biography": {
+      "de": "Knight gewann technische Erfahrung durch Fabrikarbeit und beschäftigte sich mit der Automatisierung der Papierverarbeitung. Ihre Maschine kombinierte Schneiden, Falten und Kleben zu einem Verfahren für standfähige Tüten. Als ein anderer Antragsteller die Konstruktion beanspruchte, setzte sie ihre Urheberschaft mit Entwürfen durch. Weitere Erfindungen betrafen unter anderem Schuhmaschinen und Motoren.",
+      "en": "Knight gained technical experience through factory work and investigated automation in paper processing. Her machine combined cutting, folding and gluing to produce bags with flat bases. When another applicant claimed the design, she defended her authorship using her drawings. Her later inventions also included equipment for footwear production and engines."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1868,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Betrieb eine funktionsfähige Maschine zur Herstellung von Papiertüten mit flachem Boden.",
+          "en": "Had a working machine for manufacturing flat-bottomed paper bags."
+        }
+      },
+      {
+        "date": {
+          "year": 1871,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erhielt nach einem Streit um die Urheberschaft das Patent für ihre Tütenmaschine.",
+          "en": "Received the bag-machine patent after a dispute over authorship."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Inventors Hall of Fame — Margaret E. Knight",
+        "url": "https://www.invent.org/inductees/margaret-e-knight",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "mary-anderson",
+    "name": "Mary Anderson",
+    "aliases": [],
+    "birth": {
+      "year": 1866,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1953,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Erfinderin einer von innen bedienbaren Vorrichtung zum Reinigen von Fahrzeugfenstern.",
+      "en": "Inventor of a device for cleaning vehicle windows from inside the vehicle."
+    },
+    "biography": {
+      "de": "Anderson beobachtete, wie Sichtprobleme bei schlechtem Wetter den Betrieb von Straßenbahnen erschwerten. Daraus entwickelte sie eine Vorrichtung mit Hebel, federbelastetem Arm und Gummiblatt, die sich von innen bedienen ließ. Ihr Patent gehört zur Entwicklungsgeschichte des Scheibenwischers. Es beschreibt eine konkrete technische Lösung und begründet keine alleinige Urheberschaft an späteren automatischen Systemen.",
+      "en": "Anderson observed how poor visibility in bad weather disrupted streetcar operation. She developed a device with a lever, spring-loaded arm and rubber blade that could be operated from inside. Her patent belongs to the history of windscreen-wiper development, documenting a particular mechanism rather than sole authorship of later automatic systems."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1903,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erhielt ein Patent auf ein von innen bedienbares Fensterreinigungsgerät für Fahrzeuge.",
+          "en": "Received a patent for a vehicle-window cleaning device operated from inside."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Inventors Hall of Fame — Mary Anderson",
+        "url": "https://www.invent.org/inductees/mary-anderson",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "stephanie-kwolek",
+    "name": "Stephanie Kwolek",
+    "aliases": [
+      "Stephanie Louise Kwolek"
+    ],
+    "birth": {
+      "year": 1923,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2014,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors",
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Chemikerin, deren Polymerforschung die Entwicklung hochfester Aramidfasern wie Kevlar ermöglichte.",
+      "en": "Chemist whose polymer research enabled high-strength aramid fibres such as Kevlar."
+    },
+    "biography": {
+      "de": "Kwolek studierte Chemie und arbeitete anschließend in der industriellen Polymerforschung bei DuPont. Sie untersuchte ungewöhnlich dünnflüssige, trübe Lösungen, aus denen sich sehr feste Fasern ziehen ließen. Die Ergebnisse eröffneten einen Weg zu Kevlar. Dessen Entwicklung zu verwendbaren Materialien erforderte weitere Arbeit im Unternehmen; Anwendungen reichen von Schutzkleidung bis zu technischen Verstärkungen.",
+      "en": "Kwolek studied chemistry before joining industrial polymer research at DuPont. She investigated unusually fluid, cloudy solutions that could be spun into very strong fibres. The results opened a route to Kevlar. Turning this discovery into usable materials required further company development, with applications ranging from protective clothing to technical reinforcement."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1965,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Entdeckte flüssigkristalline Polymerlösungen als Ausgangspunkt für hochfeste Aramidfasern.",
+          "en": "Discovered liquid-crystalline polymer solutions that provided a route to high-strength aramid fibres."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Inventors Hall of Fame — Stephanie Louise Kwolek",
+        "url": "https://www.invent.org/inductees/stephanie-louise-kwolek",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "American Chemical Society — Stephanie Kwolek",
+        "url": "https://www.acs.org/explore/women-scientists/stephanie-kwolek.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "lewis-latimer",
+    "name": "Lewis Latimer",
+    "aliases": [
+      "Lewis Howard Latimer"
+    ],
+    "birth": {
+      "year": 1848,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1928,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Technischer Zeichner und Erfinder, der Verfahren zur Herstellung von Kohlefäden für Glühlampen verbesserte.",
+      "en": "Technical draftsman and inventor who improved carbon-filament manufacturing for electric lamps."
+    },
+    "biography": {
+      "de": "Latimer erwarb als technischer Zeichner Kenntnisse über Patente und unterstützte unter anderem Alexander Graham Bells Anmeldungen. In der Beleuchtungsindustrie entwickelte er ein Verfahren, das Bruch bei der Herstellung von Kohlefäden verringerte. Später arbeitete er an Patentfragen im Umfeld Edisons und erläuterte elektrische Beleuchtung in einem Fachbuch.",
+      "en": "Latimer learned about patents through technical drafting and assisted with Alexander Graham Bell’s applications. In the lighting industry, he developed a process that reduced breakage during carbon-filament manufacture. He later investigated patent issues in Edison’s organisation and explained electric lighting in a technical book, alongside his practical engineering work."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1882,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Patentierte ein Verfahren zur Herstellung von Kohlefäden mit geringerem Bruchverlust.",
+          "en": "Patented a carbon-filament manufacturing process that reduced breakage."
+        }
+      },
+      {
+        "date": {
+          "year": 1890,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte das Fachbuch Incandescent Electric Lighting.",
+          "en": "Published the technical book Incandescent Electric Lighting."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Inventors Hall of Fame — Lewis Latimer",
+        "url": "https://www.invent.org/inductees/lewis-latimer",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "United States Patent and Trademark Office — Bringing light to all",
+        "url": "https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/bringing-light-all",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "granville-woods",
+    "name": "Granville Woods",
+    "aliases": [
+      "Granville T. Woods"
+    ],
+    "birth": {
+      "year": 1856,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1910,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Elektrotechnischer Erfinder, der Kommunikations- und Stromversorgungstechnik für Eisenbahnen entwickelte.",
+      "en": "Electrical inventor who developed railway communication and power technologies."
+    },
+    "biography": {
+      "de": "Woods sammelte praktische Erfahrung in technischen Berufen und widmete sich später elektrischen Erfindungen. Seine Arbeiten verbanden Sprachübertragung, Telegrafie und Eisenbahnbetrieb. Besonders bekannt wurde ein induktives System zur Nachrichtenübertragung zwischen fahrenden Zügen und Stationen. Patente und die Vermarktung seiner Entwicklungen gehörten ebenso zu seiner Tätigkeit wie die Konstruktion neuer Geräte.",
+      "en": "Woods gained practical experience in technical trades before concentrating on electrical inventions. His work connected voice transmission, telegraphy and railway operation. An induction-based system for messages between moving trains and stations became especially prominent. Patenting and commercialising these developments formed part of his work alongside the design of new equipment."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1885,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Patentierte ein System, das Sprach- und telegrafische Signalübertragung verband.",
+          "en": "Patented a system combining voice and telegraphic signal transmission."
+        }
+      },
+      {
+        "date": {
+          "year": 1887,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Entwickelte ein patentiertes induktives Telegrafiesystem für die Kommunikation mit fahrenden Zügen.",
+          "en": "Developed a patented induction-telegraph system for communication with moving trains."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Inventors Hall of Fame — Granville Woods",
+        "url": "https://www.invent.org/inductees/granville-woods",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "garrett-morgan",
+    "name": "Garrett Morgan",
+    "aliases": [
+      "Garrett Augustus Morgan"
+    ],
+    "birth": {
+      "year": 1877,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1963,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Erfinder von Atemschutzhauben und einem Verkehrssignal mit zusätzlicher Haltphase.",
+      "en": "Inventor of breathing hoods and a traffic signal with an additional stop phase."
+    },
+    "biography": {
+      "de": "Morgan arbeitete zunächst an Nähmaschinen und gründete später eigene Unternehmen. Seine technischen Lösungen betrafen unter anderem den Schutz von Rettungskräften und die Sicherheit an Straßenkreuzungen. Eine Atemschutzhaube setzte er selbst bei einer Rettungsaktion ein. Als Schwarzer Unternehmer begegnete er rassistischen Vermarktungshindernissen und engagierte sich für gleiche Rechte.",
+      "en": "Morgan initially worked with sewing machines before establishing businesses of his own. His technical work included protection for rescuers and safer control of road intersections. He used a breathing hood during a rescue operation. As a Black entrepreneur, he faced racist barriers to marketing his inventions and also advocated equal rights."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1916,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Nutzte seine Atemschutzhaube bei der Rettung nach einer Tunnelexplosion in Cleveland.",
+          "en": "Used his breathing hood during rescue work after a tunnel explosion in Cleveland."
+        }
+      },
+      {
+        "date": {
+          "year": 1923,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Patentierte ein Verkehrssignal, das vor dem Richtungswechsel den Verkehr in allen Richtungen anhielt.",
+          "en": "Patented a traffic signal that stopped all directions before releasing traffic in a new direction."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Inventors Hall of Fame — Garrett Morgan",
+        "url": "https://www.invent.org/inductees/garrett-morgan",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "george-washington-carver",
+    "name": "George Washington Carver",
+    "aliases": [],
+    "birth": {
+      "year": 1864,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 1943,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors",
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Agrarforscher und Lehrer, der Bodenpflege, vielfältigen Anbau und die Nutzung landwirtschaftlicher Erzeugnisse förderte.",
+      "en": "Agricultural researcher and educator who promoted soil care, crop diversification and uses for farm products."
+    },
+    "biography": {
+      "de": "Carver wurde in der Sklaverei geboren und erarbeitete sich später eine naturwissenschaftliche Ausbildung. Am Tuskegee Institute verband er Forschung mit Beratung für Landwirt:innen. Er förderte Fruchtwechsel und Alternativen zum einseitigen Baumwollanbau und untersuchte Erdnüsse sowie Süßkartoffeln. In kostenlosen Broschüren und mobilen Lehrangeboten vermittelte er praktische landwirtschaftliche Kenntnisse.",
+      "en": "Born into slavery, Carver later pursued scientific education. At Tuskegee Institute, he combined research with advice for farmers. He promoted crop rotation and alternatives to dependence on cotton while investigating uses for peanuts and sweet potatoes. Free bulletins and travelling educational programmes helped him share practical agricultural knowledge."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1896,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Übernahm am Tuskegee Institute die landwirtschaftliche Lehre und Forschung.",
+          "en": "Took charge of agricultural teaching and research at Tuskegee Institute."
+        }
+      },
+      {
+        "date": {
+          "year": 1921,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erläuterte vor einem Ausschuss des US-Repräsentantenhauses die wirtschaftlichen Verwendungsmöglichkeiten von Erdnüssen.",
+          "en": "Presented the economic uses of peanuts to a US House of Representatives committee."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Science History Institute — George Washington Carver",
+        "url": "https://www.sciencehistory.org/education/scientific-biographies/george-washington-carver/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "National Inventors Hall of Fame — George Washington Carver",
+        "url": "https://www.invent.org/inductees/george-washington-carver",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das genaue Geburtsjahr ist nicht überliefert. Um 1864 ist eine häufig verwendete Näherung.",
+      "en": "His exact birth year is not recorded. Around 1864 is a commonly used estimate."
+    }
+  },
+  {
+    "id": "al-jazari",
+    "name": "al-Jazari",
+    "aliases": [
+      "Ismail ibn al-Razzaz al-Jazari",
+      "Ismaeel al-Jazari"
+    ],
+    "birth": {
+      "year": 1136,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1206,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Ingenieur und Autor, dessen illustriertes Werk Uhren, Automaten und wasserbetriebene Geräte beschreibt.",
+      "en": "Engineer and author whose illustrated work describes clocks, automata and water-powered devices."
+    },
+    "biography": {
+      "de": "Al-Jazari wirkte im Umfeld des artuqidischen Hofes in Mesopotamien. Über seinen Lebensweg ist wenig gesichert; sein technisches Buch bietet dagegen detaillierte Einblicke in handwerkliche Verfahren. Er verband Beschreibungen und Bauanleitungen mit anschaulichen Maschinenentwürfen. Neben Uhren und Wasserrädern behandelte er aufwendig gestaltete Geräte, darunter Automaten zum Händewaschen.",
+      "en": "Al-Jazari worked in the milieu of the Artuqid court in Mesopotamia. Little is securely known about his life, but his technical book provides detailed evidence of craft practices. It combines descriptions and construction instructions with machine designs, covering clocks and waterwheels as well as elaborate devices such as hand-washing automata."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1206,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Legte das Buch vom Wissen um sinnreiche mechanische Vorrichtungen mit Beschreibungen und Bauanleitungen vor.",
+          "en": "Presented The Book of Knowledge of Ingenious Mechanical Devices, containing descriptions and construction instructions."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Science Museum Group — Ismail ibn al-Razzaz al-Jazari",
+        "url": "https://collection.sciencemuseumgroup.org.uk/people/cp52302/ismail-ibn-al-razzaz-al-jazari",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "su-song",
+    "name": "Su Song",
+    "aliases": [
+      "Su Sung",
+      "苏颂",
+      "蘇頌"
+    ],
+    "birth": {
+      "year": 1020,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1101,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors",
+      "physicists"
+    ],
+    "summary": {
+      "de": "Gelehrter und Amtsträger der Song-Zeit, der die Entwicklung eines astronomischen Uhrturms leitete.",
+      "en": "Song-period scholar and official who led the development of an astronomical clock tower."
+    },
+    "biography": {
+      "de": "Su Song verband gelehrte Arbeit und Staatsdienst mit technischen Projekten. Gemeinsam mit Han Gonglian entwickelte er einen wassergetriebenen Uhrturm, der Zeitmessung und astronomische Anzeigen zusammenführte. Ein schrittweise geregeltes Wasserrad steuerte den Ablauf. Sein technisches Werk bewahrte Beschreibungen und Zeichnungen, anhand derer sich die später verlorene Anlage untersuchen lässt.",
+      "en": "Su Song combined scholarship and public office with technical projects. Working with Han Gonglian, he developed a water-powered tower that united timekeeping with astronomical displays. A regulated waterwheel controlled its operation. His technical treatise preserved descriptions and drawings through which researchers can investigate the subsequently lost installation and its mechanisms."
+    },
+    "highlights": [
+      {
+        "date": {
+          "earliest": 1088,
+          "latest": 1092,
+          "precision": "range"
+        },
+        "text": {
+          "de": "Entwickelte mit Han Gonglian den wassergetriebenen astronomischen Uhrturm und dokumentierte seine Mechanismen.",
+          "en": "Developed the water-powered astronomical clock tower with Han Gonglian and documented its mechanisms."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Science Museum Group — Scale model of Su Song’s Water-Balance Escapement",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co894/scale-model-of-su-songs-water-balance-escapement",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Zheran Wang and Siyuan Xu — The Iron Crane’s Knee Revisited, in Geoanthropology and Waterscapes, MPI-GEA Working Paper 2, pp. 81–88",
+        "url": "https://iris.unive.it/retrieve/14b081e9-d869-49d4-b4ed-72616651f511/gea0403.pdf",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Museumsdarstellungen datieren den Uhrturm auf 1088, fachhistorische Forschung auf 1092. Der Zeitraum umfasst diese unterschiedlichen Datierungen.",
+      "en": "Museum accounts date the clock tower to 1088, while historical research dates it to 1092. The range encompasses these different dates."
+    }
+  },
+  {
+    "id": "zhang-heng",
+    "name": "Zhang Heng",
+    "aliases": [
+      "Chang Heng",
+      "张衡",
+      "張衡"
+    ],
+    "birth": {
+      "year": 78,
+      "precision": "year"
+    },
+    "death": {
+      "year": 139,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors",
+      "mathematicians",
+      "physicists"
+    ],
+    "summary": {
+      "de": "Astronom und Mathematiker, dem ein frühes Instrument zur Anzeige von Erdbeben zugeschrieben wird.",
+      "en": "Astronomer and mathematician credited with an early instrument for detecting earthquakes."
+    },
+    "biography": {
+      "de": "Zhang Heng arbeitete in China an astronomischen und mathematischen Fragen und entwickelte technische Instrumente. Besonders bekannt ist sein Seismoskop: Ein fallender Ball sollte ein Erdbeben und dessen Richtung anzeigen. Die heute ausgestellten Geräte sind Rekonstruktionen. Sie veranschaulichen überlieferte Beschreibungen, sind aber keine erhaltenen Originale seines Apparats.",
+      "en": "Zhang Heng worked in China on astronomy and mathematics and developed scientific instruments. His seismoscope is particularly well known: a falling ball was intended to indicate an earthquake and its direction. Devices displayed in museums today are reconstructions that interpret surviving descriptions, rather than original examples of his apparatus."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 132,
+          "precision": "approximate"
+        },
+        "text": {
+          "de": "Beschrieb ein Seismoskop zur Anzeige von Erdbeben und ihrer Richtung.",
+          "en": "Described a seismoscope intended to indicate earthquakes and their direction."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Science Museum Group — Model of the Zhang Heng seismoscope",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co54055/model-of-the-zhang-heng-seismoscope",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Smithsonian National Museum of American History — Chinese Seismoscope (replica)",
+        "url": "https://americanhistory.si.edu/collections/object/nmah_1135162",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "tanaka-hisashige",
+    "name": "Tanaka Hisashige",
+    "aliases": [
+      "Hisashige Tanaka",
+      "Karakuri Giemon",
+      "田中久重"
+    ],
+    "birth": {
+      "year": 1799,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1881,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "inventors"
+    ],
+    "summary": {
+      "de": "Japanischer Mechaniker und Erfinder, der Automaten, Uhren und telegrafische Geräte entwickelte.",
+      "en": "Japanese mechanic and inventor who developed automata, clocks and telegraphic equipment."
+    },
+    "biography": {
+      "de": "Tanaka begann mit mechanischen Figuren und verband später japanische Handwerkstechniken mit Kenntnissen europäischer Uhrwerke. Seine komplexen Uhren stellten unterschiedliche Zeit- und Kalenderinformationen dar. Er arbeitete auch an Dampfmaschinen und militärischen Geräten. Mit einer Werkstatt für Telegrafentechnik in Tokio trug er schließlich zur industriellen Entwicklung der frühen Meiji-Zeit bei.",
+      "en": "Tanaka began with mechanical figures and later combined Japanese craft techniques with knowledge of European clockwork. His complex timepieces displayed different systems of time and calendar information. He also worked on steam engines and military equipment. A Tokyo workshop producing telegraphic apparatus connected his career to industrial development in the early Meiji period."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1851,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Vollendete die komplexe Uhr Man-nen Jimeisho mit Zeit-, Kalender- und astronomischen Anzeigen.",
+          "en": "Completed the complex Man-nen Jimeisho clock with time, calendar and astronomical displays."
+        }
+      },
+      {
+        "date": {
+          "year": 1875,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Eröffnete in Tokio eine Werkstatt für telegrafische Geräte, einen Vorläufer des späteren Toshiba-Konzerns.",
+          "en": "Opened a Tokyo workshop for telegraphic equipment, a predecessor of the later Toshiba group."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Seiko Museum Ginza — Hisashige Tanaka (1799–1881)",
+        "url": "https://museum.seiko.co.jp/en/knowledge/inventors_04/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Toshiba — Chronology of History",
+        "url": "https://www.global.toshiba/ww/outline/corporate/history/chronology.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  }
+]

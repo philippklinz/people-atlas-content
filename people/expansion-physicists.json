@@ -1,0 +1,1615 @@
+[
+  {
+    "id": "al-biruni",
+    "name": "Al-Biruni",
+    "aliases": [
+      "Abū Rayḥān al-Bīrūnī",
+      "Abu Rayhan al-Biruni"
+    ],
+    "birth": {
+      "year": 973,
+      "precision": "year"
+    },
+    "death": {
+      "precision": "unknown"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Verband astronomische Messungen mit Mathematik, Geographie und dem Vergleich von Wissensordnungen.",
+      "en": "Connected astronomical measurement with mathematics, geography and comparative study of knowledge."
+    },
+    "biography": {
+      "de": "Al-Biruni stammte aus Choresmien und arbeitete später am Hof der Ghaznawiden. Seine Untersuchungen umfassten Astronomie, Kalender, Geographie und mathematische Verfahren. Er lernte Sanskrit und beschäftigte sich eingehend mit indischen Wissensbeständen. Dabei verband er eigene Messungen mit der Auswertung unterschiedlicher Überlieferungen und beschrieb religiöse sowie wissenschaftliche Traditionen.",
+      "en": "Al-Biruni came from Khwarazm and later worked at the Ghaznavid court. His investigations covered astronomy, calendars, geography and mathematical methods. He learned Sanskrit and studied Indian knowledge in depth. Combining his own measurements with the examination of different bodies of learning, he described both religious and scientific traditions."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 997,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Verglich eine Mondfinsternisbeobachtung in Kath mit Abū al-Wafās Beobachtung in Bagdad zur Längenbestimmung.",
+          "en": "Compared a lunar eclipse observed in Kath with Abu al-Wafa’s Baghdad observation to determine longitude."
+        }
+      },
+      {
+        "date": {
+          "year": 1030,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Vollendete seine Untersuchung indischer Religion, Philosophie und Wissenschaft, häufig India genannt.",
+          "en": "Completed his study of Indian religion, philosophy and science, commonly called India."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Al-Biruni — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Biruni/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "BĪRŪNĪ, ABŪ RAYḤĀN i. Life — Encyclopaedia Iranica",
+        "url": "https://www.iranicaonline.org/articles/biruni-abu-rayhan-index/biruni-abu-rayhan-i-life/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Todesjahr ist umstritten: MacTutor nennt 1048; die Encyclopaedia Iranica setzt den Tod nach 1050 an. Daher bleibt es hier offen.",
+      "en": "The death year is disputed: MacTutor gives 1048, while Encyclopaedia Iranica places his death after 1050. It is therefore left unknown here."
+    }
+  },
+  {
+    "id": "tycho-brahe",
+    "name": "Tycho Brahe",
+    "aliases": [
+      "Tyge Brahe"
+    ],
+    "birth": {
+      "year": 1546,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1601,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists"
+    ],
+    "summary": {
+      "de": "Verbesserte astronomische Messungen und dokumentierte Veränderungen am vermeintlich unveränderlichen Himmel.",
+      "en": "Improved astronomical measurements and documented changes in a supposedly unchanging sky."
+    },
+    "biography": {
+      "de": "Brahe baute auf der Insel Hven große Beobachtungsinstrumente und organisierte eine langfristige Vermessung des Himmels. Der dänische Astronom arbeitete später in Prag. Seine Aufzeichnungen waren eine wichtige Grundlage für Keplers Planetengesetze. Beobachtungen einer Supernova und eines Kometen stellten überlieferte Vorstellungen vom Aufbau des Himmels infrage.",
+      "en": "Brahe built large observing instruments on the island of Hven and organized a sustained programme of celestial measurement. The Danish astronomer later worked in Prague. His records provided crucial evidence for Kepler’s planetary laws. Observations of a supernova and a comet challenged inherited ideas about the structure of the heavens."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1572,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Untersuchte eine Supernova in der Kassiopeia und ihre Lage gegenüber den Sternen.",
+          "en": "Studied a supernova in Cassiopeia and its position relative to the stars."
+        }
+      },
+      {
+        "date": {
+          "year": 1577,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Seine Kometenbeobachtungen widersprachen der Vorstellung, Kometen befänden sich unterhalb des Mondes.",
+          "en": "His comet observations challenged the belief that comets lay below the Moon."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tycho Brahe — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahe/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "johannes-kepler",
+    "name": "Johannes Kepler",
+    "aliases": [],
+    "birth": {
+      "year": 1571,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1630,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Beschrieb Planetenbahnen mit mathematischen Gesetzen und untersuchte die Optik.",
+      "en": "Described planetary motion through mathematical laws and investigated optics."
+    },
+    "biography": {
+      "de": "Kepler verband mathematische Modelle mit den Beobachtungen Tycho Brahes. Seine Untersuchungen führten von kreisförmigen zu elliptischen Planetenbahnen und zu Beziehungen zwischen Umlaufzeit und Entfernung. Der im deutschen Sprachraum tätige Astronom arbeitete außerdem über Licht und Sehen. Seine Planetentafeln machten die neuen Modelle für astronomische Berechnungen nutzbar.",
+      "en": "Kepler combined mathematical models with Tycho Brahe’s observations. His investigations replaced circular planetary orbits with ellipses and related orbital periods to distance. Working in central Europe, he also studied light and vision. His planetary tables made the new models useful for astronomical calculations and helped connect theory with observation."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1609,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte in Astronomia nova die ersten beiden Gesetze der Planetenbewegung.",
+          "en": "Published the first two laws of planetary motion in Astronomia nova."
+        }
+      },
+      {
+        "date": {
+          "year": 1619,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Formulierte in Harmonices mundi den Zusammenhang zwischen Umlaufzeit und Bahngröße.",
+          "en": "Related orbital period to orbital size in Harmonices mundi."
+        }
+      },
+      {
+        "date": {
+          "year": 1627,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte die auf Beobachtungen und seinen Modellen beruhenden Rudolphinischen Tafeln.",
+          "en": "Published the Rudolphine Tables, combining observations with his planetary models."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Johannes Kepler — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kepler/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "christiaan-huygens",
+    "name": "Christiaan Huygens",
+    "aliases": [
+      "Christian Huygens"
+    ],
+    "birth": {
+      "year": 1629,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1695,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "mathematicians",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Verband mathematische Mechanik mit Teleskopen, Pendeluhren und astronomischen Beobachtungen.",
+      "en": "Connected mathematical mechanics with telescopes, pendulum clocks and astronomical observations."
+    },
+    "biography": {
+      "de": "Huygens arbeitete in den Niederlanden und in Paris an mathematischen und physikalischen Problemen. Er verbesserte optische Instrumente, untersuchte den Saturn und entwickelte Pendeluhren. Seine mechanischen Arbeiten behandelten unter anderem Pendelbewegungen und Kreisbewegungen. Daneben trug er zur Wahrscheinlichkeitsrechnung bei und verband theoretische Überlegungen mit dem Bau präziser Instrumente.",
+      "en": "Working in the Netherlands and Paris, Huygens pursued mathematical and physical problems through both calculation and instrument making. He improved optical instruments, investigated Saturn and developed pendulum clocks. His mechanical studies examined pendulum and circular motion. He also contributed to probability theory, connecting theoretical analysis with the construction of precise instruments."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1655,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Entdeckte mit einem selbst gefertigten Teleskop den Saturnmond Titan.",
+          "en": "Discovered Saturn’s moon Titan using a telescope he had made."
+        }
+      },
+      {
+        "date": {
+          "year": 1673,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Untersuchte in Horologium oscillatorium die mathematischen Grundlagen der Pendelbewegung.",
+          "en": "Examined the mathematical foundations of pendulum motion in Horologium oscillatorium."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Christiaan Huygens — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Huygens/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "robert-hooke",
+    "name": "Robert Hooke",
+    "aliases": [],
+    "birth": {
+      "year": 1635,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1703,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "naturalists",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Untersuchte Naturvorgänge mit Experimenten, Mikroskopen und selbst entwickelten Instrumenten.",
+      "en": "Investigated natural phenomena through experiments, microscopes and instruments he developed."
+    },
+    "biography": {
+      "de": "Hooke betreute Experimente der Royal Society in London und arbeitete über Mechanik, Astronomie und mikroskopische Strukturen. Seine Tätigkeit verband handwerklichen Instrumentenbau mit genauer Beobachtung. Nach dem Londoner Brand wirkte er an Vermessung und Wiederaufbau mit. Micrographia machte seine Untersuchungen winziger Strukturen durch detaillierte Abbildungen einem größeren Publikum zugänglich.",
+      "en": "Hooke organized experiments for London’s Royal Society and investigated mechanics, astronomy and microscopic structures. His work joined practical instrument making with close observation. Following the Great Fire, he participated in surveying and rebuilding London. Micrographia brought his investigations of minute structures to a wider audience through detailed illustrations and descriptions."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1665,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte Micrographia mit illustrierten Untersuchungen mikroskopischer Strukturen.",
+          "en": "Published Micrographia, an illustrated investigation of microscopic structures."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Robert Hooke — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hooke/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "ole-romer",
+    "name": "Ole Rømer",
+    "aliases": [
+      "Ole Roemer"
+    ],
+    "birth": {
+      "year": 1644,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1710,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists"
+    ],
+    "summary": {
+      "de": "Zeigte anhand astronomischer Beobachtungen, dass Licht Zeit für seine Ausbreitung benötigt.",
+      "en": "Used astronomical observations to show that light takes time to travel."
+    },
+    "biography": {
+      "de": "Rømer studierte in Kopenhagen und arbeitete anschließend am Pariser Observatorium. Zeitliche Abweichungen bei den Verfinsterungen des Jupitermondes Io erklärte er durch unterschiedliche Lichtlaufzeiten. Nach seiner Rückkehr übernahm er astronomische und öffentliche Aufgaben in Kopenhagen. Dazu gehörten Universitätsarbeit, städtische Infrastruktur sowie die Vereinheitlichung von Maßen und Gewichten.",
+      "en": "Rømer studied in Copenhagen before working at the Paris Observatory. He explained timing differences in eclipses of Jupiter’s moon Io through changes in the time light needed to reach Earth. Returning to Copenhagen, he combined astronomical and university work with public responsibilities, including urban infrastructure and the standardization of weights and measures."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1676,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erklärte Beobachtungen des Jupitermondes Io durch eine endliche Lichtgeschwindigkeit.",
+          "en": "Explained observations of Jupiter’s moon Io through the finite speed of light."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rømer, Ole — Københavns Universitet",
+        "url": "https://universitetshistorie.ku.dk/leksikon/r/oleroemer/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "edmond-halley",
+    "name": "Edmond Halley",
+    "aliases": [
+      "Edmund Halley"
+    ],
+    "birth": {
+      "year": 1656,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 1742,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Untersuchte Kometenbahnen, kartierte südliche Sterne und arbeitete mit Sterbetafeln.",
+      "en": "Investigated comet orbits, mapped southern stars and worked with mortality tables."
+    },
+    "biography": {
+      "de": "Halley beobachtete den südlichen Sternhimmel auf St. Helena und unterstützte die Veröffentlichung von Newtons Principia. Seine astronomischen Arbeiten verbanden Messungen mit der neuen Gravitationstheorie. Er erkannte die mögliche Wiederkehr eines Kometen aus früheren Beobachtungen. Daneben untersuchte er Bevölkerungsdaten und entwickelte aus Breslauer Sterberegistern eine Sterbetafel.",
+      "en": "Halley observed southern stars from St Helena and supported the publication of Newton’s Principia. His astronomy connected measurements with the new theory of gravitation. Comparing earlier observations, he recognized the possible return of a comet. He also studied population records and developed a mortality table from registers compiled in Breslau."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1678,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte einen Katalog mit Positionen von 341 südlichen Sternen.",
+          "en": "Published a catalogue giving the positions of 341 southern stars."
+        }
+      },
+      {
+        "date": {
+          "year": 1705,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sagte die Wiederkehr des später nach ihm benannten Kometen voraus.",
+          "en": "Predicted the return of the comet later named after him."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Edmond Halley — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Halley/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Geburtsjahr ist umstritten. Die Angabe folgt Halleys eigener Datierung.",
+      "en": "The birth year is disputed; this date follows Halley’s own account."
+    }
+  },
+  {
+    "id": "william-herschel",
+    "name": "William Herschel",
+    "aliases": [
+      "Friedrich Wilhelm Herschel"
+    ],
+    "birth": {
+      "year": 1738,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1822,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Baute Teleskope und erforschte Planeten, Sternsysteme und unsichtbare Wärmestrahlung.",
+      "en": "Built telescopes and investigated planets, stellar systems and invisible heat radiation."
+    },
+    "biography": {
+      "de": "Herschel kam als Musiker aus Hannover nach England und wandte sich zunehmend der Astronomie zu. Mit selbst gebauten Teleskopen führte er systematische Himmelsbeobachtungen durch. Seine Schwester Caroline arbeitete an Beobachtungen und Katalogen mit. Die Untersuchungen reichten von Doppelsternen und Nebeln bis zur Strahlung außerhalb des sichtbaren Lichts.",
+      "en": "Herschel moved from Hanover to England as a musician and increasingly devoted himself to astronomy. Using telescopes he built, he conducted systematic surveys of the sky. His sister Caroline collaborated on observations and catalogues. His investigations ranged from double stars and nebulae to radiation beyond the visible part of the spectrum."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1781,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Beobachtete das später als Planet Uranus identifizierte Objekt.",
+          "en": "Observed the object subsequently identified as the planet Uranus."
+        }
+      },
+      {
+        "date": {
+          "year": 1800,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wies Wärmestrahlung jenseits des roten Endes des sichtbaren Spektrums nach.",
+          "en": "Detected heat radiation beyond the red end of the visible spectrum."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "William Herschel — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Herschel_William/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "caroline-herschel",
+    "name": "Caroline Herschel",
+    "aliases": [
+      "Caroline Lucretia Herschel"
+    ],
+    "birth": {
+      "year": 1750,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1848,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Entdeckte Kometen und verbesserte astronomische Kataloge durch Beobachtung und Berechnung.",
+      "en": "Discovered comets and improved astronomical catalogues through observation and calculation."
+    },
+    "biography": {
+      "de": "Herschel zog von Hannover nach Bath und arbeitete zunächst als Sängerin. In der Astronomie unterstützte sie ihren Bruder William, führte eigene Beobachtungen durch und bearbeitete umfangreiche Datenbestände. Ihre Kometenentdeckungen und überarbeiteten Sternkataloge begründeten einen eigenständigen wissenschaftlichen Beitrag. Nach Williams Tod setzte sie ihre Katalogarbeit in Hannover fort.",
+      "en": "Herschel moved from Hanover to Bath, initially working as a singer. In astronomy she assisted her brother William, made independent observations and processed extensive records. Her comet discoveries and revisions of stellar catalogues constituted scientific contributions in their own right. After William’s death, she continued her catalogue work in Hanover."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1786,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Entdeckte den ersten ihrer insgesamt acht beobachteten neuen Kometen.",
+          "en": "Discovered the first of the eight new comets credited to her."
+        }
+      },
+      {
+        "date": {
+          "year": 1798,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte einen Index und Korrekturen zu Flamsteeds Sternbeobachtungen.",
+          "en": "Published an index and corrections to Flamsteed’s stellar observations."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Caroline Herschel — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Herschel_Caroline/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "mary-somerville",
+    "name": "Mary Somerville",
+    "aliases": [
+      "Mary Fairfax Somerville"
+    ],
+    "birth": {
+      "year": 1780,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1872,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "mathematicians",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Vermittelte mathematische Astronomie und verband Erkenntnisse verschiedener Naturwissenschaften.",
+      "en": "Explained mathematical astronomy and connected findings across the physical sciences."
+    },
+    "biography": {
+      "de": "Somerville erarbeitete sich in Schottland große Teile ihrer mathematischen Bildung selbst. Ihre Bücher erläuterten anspruchsvolle Forschung und machten Zusammenhänge zwischen wissenschaftlichen Disziplinen verständlich. Mechanism of the Heavens ging über eine Übersetzung Laplaces hinaus. Sie pflegte internationale wissenschaftliche Kontakte und unterstützte andere Frauen beim Zugang zu mathematischem Wissen.",
+      "en": "Somerville acquired much of her mathematical education independently in Scotland. Her books explained demanding research and connected different scientific disciplines. Mechanism of the Heavens went beyond translating Laplace by supplying mathematical explanations. She maintained international scientific contacts and encouraged other women in gaining access to mathematical knowledge, including Ada Lovelace."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1831,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte Mechanism of the Heavens über mathematische Himmelsmechanik.",
+          "en": "Published Mechanism of the Heavens on mathematical celestial mechanics."
+        }
+      },
+      {
+        "date": {
+          "year": 1834,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte On the Connexion of the Physical Sciences.",
+          "en": "Published On the Connexion of the Physical Sciences."
+        }
+      },
+      {
+        "date": {
+          "year": 1848,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte Physical Geography als Überblick über die physische Beschaffenheit der Erde.",
+          "en": "Published Physical Geography, surveying the Earth’s physical features."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mary Somerville — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Somerville/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "michael-faraday",
+    "name": "Michael Faraday",
+    "aliases": [],
+    "birth": {
+      "year": 1791,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1867,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "inventors"
+    ],
+    "summary": {
+      "de": "Erforschte elektromagnetische Induktion und Zusammenhänge zwischen Elektrizität, Magnetismus und Licht.",
+      "en": "Investigated electromagnetic induction and connections between electricity, magnetism and light."
+    },
+    "biography": {
+      "de": "Faraday begann als Buchbinderlehrling und gelangte über Humphry Davy an die Royal Institution in London. Dort verband er sorgfältige Experimente mit anschaulichen Vorstellungen von elektrischen und magnetischen Kräften. Seine Arbeiten lieferten Grundlagen für Generatoren und Elektromotoren. Die später von Maxwell mathematisch ausgearbeitete Feldtheorie knüpfte an seine Untersuchungen an.",
+      "en": "Faraday began as an apprentice bookbinder before joining London’s Royal Institution through Humphry Davy. He combined careful experiments with visual ways of thinking about electrical and magnetic forces. His work supplied foundations for generators and electric motors. Maxwell’s later mathematical treatment of electromagnetic fields drew on Faraday’s investigations and physical ideas."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1831,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Untersuchte die Erzeugung elektrischer Ströme durch elektromagnetische Induktion.",
+          "en": "Investigated the production of electric currents through electromagnetic induction."
+        }
+      },
+      {
+        "date": {
+          "year": 1845,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Zeigte, dass ein Magnetfeld die Polarisation von Licht beeinflussen kann.",
+          "en": "Showed that a magnetic field can affect the polarization of light."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Michael Faraday — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Faraday/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "james-clerk-maxwell",
+    "name": "James Clerk Maxwell",
+    "aliases": [],
+    "birth": {
+      "year": 1831,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1879,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Formulierte eine mathematische Theorie elektromagnetischer Felder und untersuchte Gase.",
+      "en": "Formulated a mathematical theory of electromagnetic fields and investigated gases."
+    },
+    "biography": {
+      "de": "Maxwell verband Faradays experimentelle Vorstellungen mit einer mathematischen Beschreibung von Elektrizität und Magnetismus. Der schottische Physiker arbeitete außerdem über Farben und die statistische Bewegung von Gasteilchen. In Cambridge baute er das Cavendish Laboratory mit auf. Seine Feldtheorie wurde zu einem Ausgangspunkt weiterer Arbeiten über Licht und elektromagnetische Wellen.",
+      "en": "Maxwell connected Faraday’s experimental ideas with a mathematical account of electricity and magnetism. The Scottish physicist also studied colour and the statistical motion of gas particles. At Cambridge he helped establish the Cavendish Laboratory. His field theory became a foundation for subsequent investigations of light and electromagnetic waves."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1873,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte A Treatise on Electricity and Magnetism als umfassende Darstellung seiner elektromagnetischen Theorie.",
+          "en": "Published A Treatise on Electricity and Magnetism, presenting his electromagnetic theory systematically."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "James Clerk Maxwell — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Maxwell/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "ludwig-boltzmann",
+    "name": "Ludwig Boltzmann",
+    "aliases": [],
+    "birth": {
+      "year": 1844,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1906,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Verband die Bewegung von Atomen mit den statistischen Gesetzen der Wärmelehre.",
+      "en": "Connected atomic motion with the statistical laws of thermodynamics."
+    },
+    "biography": {
+      "de": "Boltzmann lehrte unter anderem in Graz und Wien und entwickelte statistische Erklärungen für Wärme und Gasverhalten. Dabei behandelte er makroskopische Eigenschaften als Ergebnis vieler mikroskopischer Bewegungen. Seine Arbeiten machten Wahrscheinlichkeit zu einem zentralen Werkzeug der Physik. Er verteidigte atomistische Modelle in einer Zeit, in der ihre Grundlagen umstritten waren.",
+      "en": "Teaching in places including Graz and Vienna, Boltzmann developed statistical explanations of heat and gas behaviour. He treated macroscopic properties as the result of many microscopic motions. His work made probability a central tool in physics. He defended atomic models during a period when their physical foundations remained contested."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1884,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Leitete Stefans Gesetz der Wärmestrahlung mithilfe thermodynamischer Überlegungen her.",
+          "en": "Derived Stefan’s law of thermal radiation using thermodynamic reasoning."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ludwig Boltzmann — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boltzmann/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "max-planck",
+    "name": "Max Planck",
+    "aliases": [
+      "Max Karl Ernst Ludwig Planck"
+    ],
+    "birth": {
+      "year": 1858,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1947,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists"
+    ],
+    "summary": {
+      "de": "Führte Energiequanten in die theoretische Beschreibung der Wärmestrahlung ein.",
+      "en": "Introduced energy quanta into the theoretical description of thermal radiation."
+    },
+    "biography": {
+      "de": "Planck arbeitete zunächst über Thermodynamik und wurde Professor in Berlin. Bei der Erklärung der Strahlung heißer Körper führte er eine Energiequantisierung ein. Daraus entwickelte sich ein Ausgangspunkt der Quantenphysik, dessen Tragweite erst durch weitere Forschungen deutlich wurde. Seine Arbeit verband die Suche nach allgemeinen Naturgesetzen mit präzisen experimentellen Strahlungsmessungen.",
+      "en": "Planck initially worked on thermodynamics and became a professor in Berlin. Seeking to explain radiation from hot bodies, he introduced energy quantization. This became a starting point for quantum physics, with consequences developed through subsequent research. His work connected the search for general physical laws with precise experimental measurements of radiation."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1900,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Formulierte sein Strahlungsgesetz und führte diskrete Energieelemente in dessen Herleitung ein.",
+          "en": "Formulated his radiation law and introduced discrete energy elements into its derivation."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Max Planck — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Planck/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "henrietta-leavitt",
+    "name": "Henrietta Swan Leavitt",
+    "aliases": [
+      "Henrietta Leavitt"
+    ],
+    "birth": {
+      "year": 1868,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1921,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Erkannte eine Beziehung zwischen Pulsationsdauer und Helligkeit bestimmter veränderlicher Sterne.",
+      "en": "Identified a relationship between pulsation period and brightness in certain variable stars."
+    },
+    "biography": {
+      "de": "Leavitt untersuchte am Harvard College Observatory fotografische Himmelsaufnahmen und suchte nach veränderlichen Sternen. Bei Cepheiden in den Magellanschen Wolken erkannte sie einen Zusammenhang zwischen Periodendauer und Helligkeit. Weil diese Sterne ungefähr gleich weit entfernt sind, wurde die Beziehung zur Grundlage späterer Entfernungsmessungen. Ihre Arbeit erforderte den sorgfältigen Vergleich vieler Platten.",
+      "en": "At the Harvard College Observatory, Leavitt examined photographic sky plates for variable stars. Among Cepheids in the Magellanic Clouds, she identified a relationship between period and brightness. Because those stars lie at approximately the same distance, the relationship became a basis for later distance measurements. Her work required careful comparisons across many plates."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1912,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte die Perioden von 25 veränderlichen Sternen in der Kleinen Magellanschen Wolke.",
+          "en": "Published the periods of 25 variable stars in the Small Magellanic Cloud."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Henrietta Swan Leavitt — Harvard College Observatory Plate Stacks",
+        "url": "https://platestacks.cfa.harvard.edu/women-at-hco/henrietta-swan-leavitt",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "lise-meitner",
+    "name": "Lise Meitner",
+    "aliases": [],
+    "birth": {
+      "year": 1878,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1968,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Erforschte Radioaktivität und erklärte mit Otto Frisch die Kernspaltung.",
+      "en": "Investigated radioactivity and explained nuclear fission with Otto Frisch."
+    },
+    "biography": {
+      "de": "Meitner studierte in Wien und arbeitete lange mit Otto Hahn in Berlin. Wegen der nationalsozialistischen Verfolgung floh sie 1938 nach Schweden. Gemeinsam mit Otto Frisch deutete sie die Versuchsergebnisse Hahns und Fritz Straßmanns als Spaltung schwerer Atomkerne. Ihre Arbeit verband experimentelle Radioaktivitätsforschung mit theoretischen Überlegungen zum Atomkern.",
+      "en": "Meitner studied in Vienna and worked for many years with Otto Hahn in Berlin. She fled Nazi persecution to Sweden in 1938. With Otto Frisch, she interpreted Hahn and Fritz Strassmann’s experimental results as the splitting of heavy atomic nuclei. Her work connected experimental radioactivity research with theoretical reasoning about the nucleus."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1939,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erklärte mit Otto Frisch die Kernspaltung und die dabei frei werdende Energie.",
+          "en": "Explained nuclear fission and its released energy with Otto Frisch."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lise Meitner — Physics Today, American Institute of Physics",
+        "url": "https://physicstoday.aip.org/news/lise-meitner",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "niels-bohr",
+    "name": "Niels Bohr",
+    "aliases": [
+      "Niels Henrik David Bohr"
+    ],
+    "birth": {
+      "year": 1885,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1962,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists"
+    ],
+    "summary": {
+      "de": "Entwickelte ein Atommodell mit quantisierten Zuständen und prägte die Quantenphysik.",
+      "en": "Developed an atomic model with quantized states and helped shape quantum physics."
+    },
+    "biography": {
+      "de": "Bohr studierte in Kopenhagen und arbeitete bei Ernest Rutherford in Manchester. Er verband Vorstellungen vom Atomkern mit Quantenannahmen, um unter anderem das Wasserstoffspektrum zu erklären. Sein Atommodell wurde später durch umfassendere Quantentheorien ersetzt. Die Diskussion über die Bedeutung quantenphysikalischer Messungen blieb ein wichtiger Teil seiner wissenschaftlichen Arbeit.",
+      "en": "Bohr studied in Copenhagen and worked with Ernest Rutherford in Manchester. He combined a nuclear picture of the atom with quantum assumptions to explain phenomena including hydrogen’s spectrum. More comprehensive quantum theories later superseded his model. Discussion of the meaning of quantum measurements remained an important part of his scientific work."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1913,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte seine Arbeiten über Atombau mit diskreten Zuständen und Übergängen.",
+          "en": "Published his account of atomic structure using discrete states and transitions."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Niels Bohr — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bohr_Niels/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "erwin-schrodinger",
+    "name": "Erwin Schrödinger",
+    "aliases": [
+      "Erwin Schrodinger"
+    ],
+    "birth": {
+      "year": 1887,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1961,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists"
+    ],
+    "summary": {
+      "de": "Entwickelte die Wellenmechanik als mathematische Beschreibung quantenphysikalischer Systeme.",
+      "en": "Developed wave mechanics as a mathematical description of quantum systems."
+    },
+    "biography": {
+      "de": "Schrödinger wurde in Wien ausgebildet und arbeitete an mehreren europäischen Universitäten. Während seiner Zürcher Zeit formulierte er die Wellenmechanik und untersuchte ihre Beziehung zur Matrizenmechanik. Damit entstanden neue Werkzeuge zur Berechnung atomarer Zustände. Er beschäftigte sich außerdem mit den begrifflichen Schwierigkeiten, die aus der Interpretation der Quantentheorie folgen.",
+      "en": "Educated in Vienna, Schrödinger worked at several European universities. During his time in Zurich he formulated wave mechanics and examined its relationship to matrix mechanics. This provided new tools for calculating atomic states. He also explored the conceptual difficulties arising from the interpretation of quantum theory and its account of physical reality."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1926,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte die Arbeiten zur Wellenmechanik mit der nach ihm benannten Gleichung.",
+          "en": "Published his papers on wave mechanics, including the equation named after him."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Erwin Schrödinger — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Schrodinger/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "c-v-raman",
+    "name": "C. V. Raman",
+    "aliases": [
+      "Chandrasekhara Venkata Raman"
+    ],
+    "birth": {
+      "year": 1888,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1970,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists"
+    ],
+    "summary": {
+      "de": "Untersuchte die Streuung von Licht und die dabei auftretenden Frequenzverschiebungen.",
+      "en": "Investigated light scattering and the frequency shifts that can accompany it."
+    },
+    "biography": {
+      "de": "Raman betrieb zunächst neben seiner Arbeit im Finanzdienst physikalische Forschung in Kalkutta. Zusammen mit K. S. Krishnan untersuchte er Veränderungen des Lichts bei der Streuung an Materie. Der nach ihm benannte Effekt wurde ein Werkzeug zur Untersuchung molekularer Eigenschaften. Später gründete er in Bangalore ein eigenes Forschungsinstitut.",
+      "en": "Raman initially pursued physics in Calcutta alongside employment in the finance service. Working with K. S. Krishnan, he investigated changes in light scattered by matter. The effect bearing his name became a tool for examining molecular properties. He later established a research institute in Bangalore and continued experimental investigations there."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1928,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Beschrieb mit K. S. Krishnan eine neue Form der Lichtstreuung mit veränderter Frequenz.",
+          "en": "Described a new form of frequency-shifted light scattering with K. S. Krishnan."
+        }
+      },
+      {
+        "date": {
+          "year": 1948,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gründete das Raman Research Institute in Bangalore.",
+          "en": "Founded the Raman Research Institute in Bangalore."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "This Month in Physics History: February 1928 — APS News",
+        "url": "https://www.aps.org/apsnews/2009/02/this-month-in-physics-history",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Overview — Raman Research Institute",
+        "url": "https://www.rri.res.in/about/overview",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "satyendra-nath-bose",
+    "name": "Satyendra Nath Bose",
+    "aliases": [
+      "Satyendranath Bose",
+      "S. N. Bose"
+    ],
+    "birth": {
+      "year": 1894,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1974,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Entwickelte eine statistische Beschreibung von Lichtquanten, die zur Bose-Einstein-Statistik führte.",
+      "en": "Developed a statistical description of light quanta that led to Bose–Einstein statistics."
+    },
+    "biography": {
+      "de": "Bose studierte in Kalkutta und lehrte in Dacca sowie später wieder in Kalkutta. Bei einer neuen Herleitung des Planckschen Strahlungsgesetzes behandelte er Lichtquanten statistisch auf besondere Weise. Einstein übersetzte seine Arbeit und übertrug den Ansatz auf Materie. Daraus entwickelte sich ein wichtiger Zweig der Quantenstatistik.",
+      "en": "Bose studied in Calcutta and taught in Dacca before returning to Calcutta. In a new derivation of Planck’s radiation law, he treated light quanta using a distinctive statistical method. Einstein translated his paper and extended the approach to matter. This became an important branch of quantum statistics."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1924,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte seine statistische Herleitung des Planckschen Strahlungsgesetzes in Einsteins deutscher Übersetzung.",
+          "en": "Published his statistical derivation of Planck’s radiation law in Einstein’s German translation."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Satyendra Nath Bose — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bose/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "cecilia-payne-gaposchkin",
+    "name": "Cecilia Payne-Gaposchkin",
+    "aliases": [
+      "Cecilia Helena Payne",
+      "Cecilia Payne"
+    ],
+    "birth": {
+      "year": 1900,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1979,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Zeigte anhand von Sternspektren die große Häufigkeit von Wasserstoff und Helium.",
+      "en": "Used stellar spectra to demonstrate the great abundance of hydrogen and helium."
+    },
+    "biography": {
+      "de": "Payne-Gaposchkin wechselte von Cambridge an das Harvard College Observatory. Sie verband die Analyse von Sternspektren mit der Theorie der Ionisation und gewann dadurch neue Aussagen über die chemische Zusammensetzung von Sternen. Später erforschte sie veränderliche Sterne. Ihre Laufbahn zeigte zugleich die institutionellen Hindernisse, denen Astronominnen an Universitäten begegneten.",
+      "en": "Payne-Gaposchkin moved from Cambridge to the Harvard College Observatory. She combined stellar spectroscopy with ionization theory to draw new conclusions about the chemical composition of stars. She later investigated variable stars. Her career also illustrates the institutional obstacles faced by women astronomers in gaining recognition and academic positions."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1925,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Legte in Stellar Atmospheres die Grundlage ihrer Analyse der chemischen Zusammensetzung von Sternen.",
+          "en": "Presented the foundations of her analysis of stellar chemical composition in Stellar Atmospheres."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cecilia Payne-Gaposchkin — Harvard College Observatory Plate Stacks",
+        "url": "https://platestacks.cfa.harvard.edu/women-at-hco/cecilia-payne-gaposchkin",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "enrico-fermi",
+    "name": "Enrico Fermi",
+    "aliases": [],
+    "birth": {
+      "year": 1901,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1954,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists"
+    ],
+    "summary": {
+      "de": "Verband theoretische Kernphysik mit Experimenten zu Neutronen und Kettenreaktionen.",
+      "en": "Connected theoretical nuclear physics with experiments on neutrons and chain reactions."
+    },
+    "biography": {
+      "de": "Fermi leitete in Rom eine Forschungsgruppe, die Atomkerne mit Neutronen untersuchte. Nach den antisemitischen Gesetzen in Italien verließ er mit seiner Familie Europa. In Chicago leitete er das Team der ersten kontrollierten nuklearen Kettenreaktion. Seine weitere Arbeit im Manhattan-Projekt verband Kernforschung mit der Entwicklung von Atomwaffen.",
+      "en": "Fermi led a research group in Rome investigating atomic nuclei with neutrons. Following antisemitic legislation in Italy, he left Europe with his family. In Chicago he directed the team achieving the first controlled nuclear chain reaction. His subsequent work in the Manhattan Project connected nuclear research with the development of atomic weapons."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1934,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Untersuchte mit seiner Gruppe durch Neutronen ausgelöste künstliche Radioaktivität.",
+          "en": "Investigated neutron-induced artificial radioactivity with his research group."
+        }
+      },
+      {
+        "date": {
+          "year": 1942,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Leitete das Team der kontrollierten Kettenreaktion im Reaktor Chicago Pile-1.",
+          "en": "Led the team achieving a controlled chain reaction in Chicago Pile-1."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Enrico Fermi — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fermi/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "werner-heisenberg",
+    "name": "Werner Heisenberg",
+    "aliases": [
+      "Werner Karl Heisenberg"
+    ],
+    "birth": {
+      "year": 1901,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1976,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists"
+    ],
+    "summary": {
+      "de": "Entwickelte die Matrizenmechanik mit und formulierte quantenphysikalische Unbestimmtheitsrelationen.",
+      "en": "Helped develop matrix mechanics and formulated quantum uncertainty relations."
+    },
+    "biography": {
+      "de": "Heisenberg arbeitete in Göttingen und Kopenhagen an einer Theorie atomarer Vorgänge. Gemeinsam mit den Beiträgen von Max Born und Pascual Jordan entstand daraus die Matrizenmechanik. Seine Unbestimmtheitsrelationen beschrieben Grenzen gleichzeitig bestimmbarer Größen. Während des Zweiten Weltkriegs beteiligte er sich am deutschen Forschungsprogramm zur Kernenergie und arbeitete später in wissenschaftlichen Leitungsfunktionen.",
+      "en": "Working in Göttingen and Copenhagen, Heisenberg pursued a theory of atomic processes. Contributions from Max Born and Pascual Jordan helped turn this work into matrix mechanics. His uncertainty relations described limits on jointly specified quantities. During the Second World War he participated in Germany’s nuclear research programme and later held scientific leadership roles."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1925,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Legte einen Ausgangspunkt der gemeinsam mit Born und Jordan entwickelten Matrizenmechanik vor.",
+          "en": "Presented a starting point for matrix mechanics, developed with Born and Jordan."
+        }
+      },
+      {
+        "date": {
+          "year": 1927,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Formulierte Unbestimmtheitsrelationen für quantenphysikalische Größen wie Ort und Impuls.",
+          "en": "Formulated uncertainty relations for quantum quantities such as position and momentum."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Werner Heisenberg — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Heisenberg/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "paul-dirac",
+    "name": "Paul Dirac",
+    "aliases": [
+      "Paul Adrien Maurice Dirac"
+    ],
+    "birth": {
+      "year": 1902,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1984,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Verband Quantenmechanik und spezielle Relativität in einer Theorie des Elektrons.",
+      "en": "Connected quantum mechanics and special relativity in a theory of the electron."
+    },
+    "biography": {
+      "de": "Dirac studierte zunächst Elektrotechnik in Bristol und wandte sich dann der Mathematik und theoretischen Physik zu. In Cambridge entwickelte er mathematische Methoden der Quantenmechanik. Seine relativistische Elektronengleichung verband zuvor getrennte theoretische Anforderungen. Mit seinem Lehrbuch trug er außerdem zu einer systematischen und einflussreichen Darstellung der neuen Quantenmechanik bei.",
+      "en": "Dirac initially studied electrical engineering in Bristol before turning to mathematics and theoretical physics. At Cambridge he developed mathematical methods for quantum mechanics. His relativistic electron equation brought previously separate theoretical requirements together. His textbook also contributed an influential and systematic account of the emerging framework of quantum mechanics."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1928,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Formulierte eine relativistische Wellengleichung für das Elektron.",
+          "en": "Formulated a relativistic wave equation for the electron."
+        }
+      },
+      {
+        "date": {
+          "year": 1930,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte The Principles of Quantum Mechanics.",
+          "en": "Published The Principles of Quantum Mechanics."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Paul Dirac — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Dirac/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "subrahmanyan-chandrasekhar",
+    "name": "Subrahmanyan Chandrasekhar",
+    "aliases": [
+      "S. Chandrasekhar",
+      "Chandra"
+    ],
+    "birth": {
+      "year": 1910,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1995,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "mathematicians"
+    ],
+    "summary": {
+      "de": "Untersuchte Sternentwicklung und die Massengrenze für stabile Weiße Zwerge.",
+      "en": "Investigated stellar evolution and the mass limit for stable white dwarfs."
+    },
+    "biography": {
+      "de": "Chandrasekhar studierte in Indien und Cambridge und arbeitete anschließend jahrzehntelang an der University of Chicago. Er verband Quantenstatistik und Relativität mit der Theorie dichter Sterne. Seine Berechnungen zeigten eine Massengrenze für Weiße Zwerge. Spätere Arbeiten behandelten unter anderem Strahlungstransport, Stabilitätsprobleme und die mathematische Theorie Schwarzer Löcher.",
+      "en": "Chandrasekhar studied in India and Cambridge before spending decades at the University of Chicago. He connected quantum statistics and relativity with the theory of dense stars. His calculations identified a mass limit for white dwarfs. Later work addressed radiative transfer, stability problems and the mathematical theory of black holes."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1930,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Berechnete eine obere Massengrenze für Weiße Zwerge unter Einbeziehung relativistischer Effekte.",
+          "en": "Calculated an upper mass limit for white dwarfs while accounting for relativistic effects."
+        }
+      },
+      {
+        "date": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte The Mathematical Theory of Black Holes.",
+          "en": "Published The Mathematical Theory of Black Holes."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Subrahmanyan Chandrasekhar — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Chandrasekhar/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "chien-shiung-wu",
+    "name": "Chien-Shiung Wu",
+    "aliases": [
+      "Wu Chien-shiung",
+      "吳健雄"
+    ],
+    "birth": {
+      "year": 1912,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1997,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Prüfte mit Präzisionsexperimenten Symmetrien und Theorien des radioaktiven Betazerfalls.",
+      "en": "Used precision experiments to test symmetries and theories of radioactive beta decay."
+    },
+    "biography": {
+      "de": "Wu kam aus China zum Studium in die Vereinigten Staaten und promovierte in Berkeley. An der Columbia University untersuchte sie den Betazerfall und arbeitete während des Krieges am Manhattan-Projekt. Mit einem experimentellen Team überprüfte sie später Lee und Yangs Vorschlag zur Parität. Die Messungen widerlegten deren Erhaltung bei schwachen Wechselwirkungen.",
+      "en": "Wu came from China to study in the United States and earned her doctorate at Berkeley. At Columbia University she investigated beta decay and worked on the wartime Manhattan Project. Later, with an experimental team, she tested Lee and Yang’s proposal about parity. The measurements disproved parity conservation in weak interactions."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1956,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Untersuchte mit ihrem Team Kobalt-60 und zeigte eine Verletzung der Parität im Betazerfall.",
+          "en": "Studied cobalt-60 with her team, demonstrating parity violation in beta decay."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dr. Chien-Shiung Wu — National Park Service",
+        "url": "https://www.nps.gov/people/dr-chienshiung-wu.htm",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "richard-feynman",
+    "name": "Richard Feynman",
+    "aliases": [
+      "Richard Phillips Feynman"
+    ],
+    "birth": {
+      "year": 1918,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1988,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists"
+    ],
+    "summary": {
+      "de": "Entwickelte Methoden der Quantenelektrodynamik und eine bildhafte Darstellung von Teilchenprozessen.",
+      "en": "Developed methods for quantum electrodynamics and a visual representation of particle processes."
+    },
+    "biography": {
+      "de": "Feynman arbeitete während des Zweiten Weltkriegs am Manhattan-Projekt und später an Cornell und Caltech. Seine Beiträge zur Quantenelektrodynamik verbanden mathematische Berechnungen mit einer anschaulichen Diagrammsprache. Er untersuchte außerdem Suprafluidität und Teilchenstruktur. Durch Vorlesungen und Bücher vermittelte er physikalische Denkweisen auch über sein unmittelbares Forschungsgebiet hinaus.",
+      "en": "Feynman worked on the Manhattan Project during the Second World War and later at Cornell and Caltech. His contributions to quantum electrodynamics connected mathematical calculation with a visual language of diagrams. He also investigated superfluidity and particle structure. Through lectures and books he communicated ways of thinking about physics beyond his immediate research field."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1949,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte Space-Time Approach to Quantum Electrodynamics mit seiner Diagrammdarstellung.",
+          "en": "Published Space-Time Approach to Quantum Electrodynamics, presenting his diagrammatic approach."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Richard Feynman — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Feynman/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "About the Author — The Feynman Lectures on Physics, Caltech",
+        "url": "https://www.feynmanlectures.caltech.edu/I_89.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The First Feynman Diagram — Fermilab History and Archives",
+        "url": "https://history.fnal.gov/virtual/feynman_diagram.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "abdus-salam",
+    "name": "Abdus Salam",
+    "aliases": [],
+    "birth": {
+      "year": 1926,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1996,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists"
+    ],
+    "summary": {
+      "de": "Trug zur elektroschwachen Theorie bei und baute internationale Forschungszusammenarbeit auf.",
+      "en": "Contributed to electroweak theory and built international research cooperation."
+    },
+    "biography": {
+      "de": "Salam war ein pakistanischer theoretischer Physiker, der unter anderem am Imperial College London arbeitete. Seine Beiträge zur Verbindung elektromagnetischer und schwacher Wechselwirkungen wurden gemeinsam mit denen Glashows und Weinbergs ausgezeichnet. In Triest gründete er mit Paolo Budinich das ICTP, um insbesondere Forschenden aus Entwicklungsländern internationale wissenschaftliche Arbeit zu ermöglichen.",
+      "en": "Salam was a Pakistani theoretical physicist who worked at institutions including Imperial College London. His contributions to connecting electromagnetic and weak interactions were recognized alongside those of Glashow and Weinberg. In Trieste he established ICTP with Paolo Budinich, supporting international scientific work particularly for researchers from developing countries."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1964,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gründete mit Paolo Budinich das International Centre for Theoretical Physics in Triest.",
+          "en": "Established the International Centre for Theoretical Physics in Trieste with Paolo Budinich."
+        }
+      },
+      {
+        "date": {
+          "year": 1968,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte seinen Beitrag zu einer vereinheitlichten Theorie schwacher und elektromagnetischer Wechselwirkungen.",
+          "en": "Published his contribution to a unified theory of weak and electromagnetic interactions."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Abdus Salam — Imperial College London",
+        "url": "https://www.imperial.ac.uk/about/introducing-imperial/our-people/award-winners/nobel-winners/abdus-salam/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Our History — ICTP",
+        "url": "https://www.ictp.it/home/our-history",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "vera-rubin",
+    "name": "Vera Rubin",
+    "aliases": [
+      "Vera Cooper Rubin"
+    ],
+    "birth": {
+      "year": 1928,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2016,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Stärkte mit Messungen der Galaxienrotation die Hinweise auf Dunkle Materie.",
+      "en": "Strengthened evidence for dark matter through measurements of galaxy rotation."
+    },
+    "biography": {
+      "de": "Rubin untersuchte die Bewegungen von Sternen und Gas in Galaxien. Am Carnegie-Institut arbeitete sie eng mit dem Instrumentenbauer Kent Ford zusammen. Ihre Messungen zeigten Rotationsgeschwindigkeiten, die sich aus der sichtbaren Materie allein nicht erklären ließen. Damit verstärkte sie frühere Hinweise auf zusätzliche Masse und setzte sich für Frauen in der Astronomie ein.",
+      "en": "Rubin investigated the motion of stars and gas in galaxies. At Carnegie she worked closely with instrument maker Kent Ford. Their measurements showed rotation speeds that visible matter alone could not explain. The results strengthened earlier evidence for additional mass, while Rubin also advocated greater opportunities for women in astronomy."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1970,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte mit Kent Ford Messungen zur Rotation der Andromedagalaxie.",
+          "en": "Published measurements of the Andromeda galaxy’s rotation with Kent Ford."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Who was Vera Rubin? — Carnegie Science",
+        "url": "https://carnegiescience.edu/news/who-was-vera-rubin",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Vera Rubin (1928–2016) — Neta A. Bahcall, PNAS",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5338491/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "stephen-hawking",
+    "name": "Stephen Hawking",
+    "aliases": [
+      "Stephen William Hawking"
+    ],
+    "birth": {
+      "year": 1942,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2018,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "physicists"
+    ],
+    "summary": {
+      "de": "Untersuchte Schwarze Löcher und die Verbindung von Gravitation und Quantentheorie.",
+      "en": "Investigated black holes and the relationship between gravitation and quantum theory."
+    },
+    "biography": {
+      "de": "Hawking forschte in Cambridge über Kosmologie und Schwarze Löcher. Gemeinsam mit Roger Penrose untersuchte er Singularitäten der allgemeinen Relativitätstheorie. Seine späteren Berechnungen sagten eine quantenphysikalische Strahlung Schwarzer Löcher voraus. Trotz einer fortschreitenden motorischen Erkrankung setzte er seine Forschung fort und erreichte mit populärwissenschaftlichen Büchern ein großes Publikum.",
+      "en": "Hawking researched cosmology and black holes at Cambridge. With Roger Penrose, he investigated singularities in general relativity. His later calculations predicted quantum radiation from black holes. Despite a progressive motor neuron disease, he continued his research and reached a large public audience through books explaining cosmology and fundamental physics."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1974,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sagte auf quantentheoretischer Grundlage eine Strahlung Schwarzer Löcher voraus.",
+          "en": "Predicted radiation from black holes on quantum-theoretical grounds."
+        }
+      },
+      {
+        "date": {
+          "year": 1988,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlichte A Brief History of Time über grundlegende Fragen der Kosmologie.",
+          "en": "Published A Brief History of Time on fundamental questions in cosmology."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stephen Hawking — MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hawking/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Professor Stephen Hawking 1942–2018 — University of Cambridge",
+        "url": "https://www.cam.ac.uk/stories/stephen-hawking",
+        "accessed": "2026-11-27"
+      }
+    ]
+  }
+]

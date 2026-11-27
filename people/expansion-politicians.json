@@ -1,0 +1,2408 @@
+[
+  {
+    "id": "hatshepsut",
+    "name": "Hatschepsut",
+    "aliases": [
+      "Hatshepsut"
+    ],
+    "birth": {
+      "precision": "approximate",
+      "year": -1507
+    },
+    "death": {
+      "precision": "approximate",
+      "year": -1458
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Ägyptische Pharaonin der 18. Dynastie und Auftraggeberin bedeutender Tempelbauten.",
+      "en": "Egyptian pharaoh of the Eighteenth Dynasty and patron of major temple projects."
+    },
+    "biography": {
+      "de": "Hatschepsut übernahm zunächst die Regentschaft für Thutmosis III. und ließ sich später selbst als Pharaonin darstellen. Ihre Herrschaft verband dynastische Legitimation mit umfangreichen Bauvorhaben, darunter ihr Totentempel in Deir el-Bahri. Handelsbeziehungen nach Punt und in den östlichen Mittelmeerraum gehörten ebenfalls zu den politischen Unternehmungen ihrer Regierungszeit.",
+      "en": "Hatshepsut initially served as regent for Thutmose III before adopting the powers and representation of a pharaoh herself. Her reign combined dynastic legitimation with extensive building projects, including her mortuary temple at Deir el-Bahri. Trade with Punt and the eastern Mediterranean also formed part of her government’s activities."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "approximate",
+          "year": -1473
+        },
+        "text": {
+          "de": "Übernimmt die Königswürde neben Thutmosis III.",
+          "en": "Assumes kingship alongside Thutmose III."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rosicrucian Egyptian Museum — Hatshepsut",
+        "url": "https://egyptianmuseum.org/explore/new-kingdom-ruler-hatshepsut",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Metropolitan Museum of Art — Hatshepsut: From Queen to Pharaoh",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2006/hatshepsut",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Die Lebensdaten und der Beginn ihrer Königsherrschaft sind Näherungswerte der ägyptischen Chronologie.",
+      "en": "The life dates and beginning of her kingship are approximate values in Egyptian chronology."
+    }
+  },
+  {
+    "id": "cleopatra-vii",
+    "name": "Kleopatra VII.",
+    "aliases": [
+      "Cleopatra VII",
+      "Cleopatra VII Philopator"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": -69
+    },
+    "death": {
+      "precision": "year",
+      "year": -30
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Ptolemäische Königin Ägyptens in den Machtkämpfen der späten römischen Republik.",
+      "en": "Ptolemaic queen of Egypt during the power struggles of the late Roman Republic."
+    },
+    "biography": {
+      "de": "Kleopatra VII. regierte Ägypten während der römischen Bürgerkriege. Mit Julius Caesar und später Marcus Antonius schloss sie politische und persönliche Verbindungen, um ihre Herrschaft zu sichern. Nach der Niederlage gegen Octavian und ihrem Tod endete die ptolemäische Dynastie; Ägypten geriet unter unmittelbare römische Herrschaft.",
+      "en": "Cleopatra VII ruled Egypt during Rome’s civil wars. Her political and personal alliances with Julius Caesar and later Mark Antony were attempts to secure her position. Following defeat by Octavian and her death, the Ptolemaic dynasty ended and Egypt came under direct Roman rule, transforming its relationship with Rome."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": -51
+        },
+        "text": {
+          "de": "Beginnt ihre Herrschaft über Ägypten.",
+          "en": "Begins her reign over Egypt."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": -31
+        },
+        "text": {
+          "de": "Ihre Verbündeten unter Marcus Antonius unterliegen Octavian bei Actium.",
+          "en": "Her allies under Mark Antony are defeated by Octavian at Actium."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Global Egyptian Museum — Cleopatra",
+        "url": "https://www.globalegyptianmuseum.org/glossary.aspx?id=114",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "alexander-the-great",
+    "name": "Alexander der Große",
+    "aliases": [
+      "Alexander the Great",
+      "Alexander III of Macedon"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": -356
+    },
+    "death": {
+      "precision": "year",
+      "year": -323
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Makedonischer König, dessen Eroberungen das Perserreich zerschlugen.",
+      "en": "Macedonian king whose conquests overthrew the Persian Empire."
+    },
+    "biography": {
+      "de": "Alexander übernahm die makedonische Königsherrschaft nach seinem Vater Philipp II. Seine Feldzüge führten durch das Perserreich nach Ägypten und weiter nach Asien. Die militärische Expansion verbreitete griechische Herrschaftsstrukturen und führte zur Gründung neuer Städte. Nach seinem frühen Tod in Babylon zerfiel die persönliche Einheit dieses Herrschaftsgebiets.",
+      "en": "Alexander succeeded his father Philip II as king of Macedon. His campaigns carried him through the Persian Empire into Egypt and further into Asia. Military expansion spread Greek political power and involved the foundation of new cities. His early death in Babylon ended his personal control over this extensive territory."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": -334
+        },
+        "text": {
+          "de": "Beginnt den Feldzug gegen das Perserreich.",
+          "en": "Begins his campaign against the Persian Empire."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": -331
+        },
+        "text": {
+          "de": "Gründet Alexandria in Ägypten.",
+          "en": "Founds Alexandria in Egypt."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "UCL Digital Egypt — Alexander the Great",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/alexandergreat.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "julius-caesar",
+    "name": "Julius Caesar",
+    "aliases": [
+      "Gaius Julius Caesar"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": -100
+    },
+    "death": {
+      "precision": "year",
+      "year": -44
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Römischer Feldherr und Diktator in der Krise der Republik.",
+      "en": "Roman commander and dictator during the crisis of the Republic."
+    },
+    "biography": {
+      "de": "Caesars Aufstieg verband militärische Macht mit politischen Bündnissen und Konflikten in Rom. Seine Siege im Bürgerkrieg ermöglichten eine Konzentration staatlicher Ämter und Vollmachten. Die Ernennung zum Diktator auf Lebenszeit verschärfte die Opposition gegen ihn. Seine Ermordung beendete die Krise der Republik nicht, sondern führte zu weiteren Bürgerkriegen.",
+      "en": "Caesar’s rise combined military power with political alliances and conflict in Rome. Victory in civil war enabled him to concentrate public offices and exceptional powers in his hands. His appointment as dictator for life intensified opposition. His assassination failed to resolve the Republic’s crisis and was followed by further civil wars."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": -44
+        },
+        "text": {
+          "de": "Wird Diktator auf Lebenszeit und kurz darauf ermordet.",
+          "en": "Becomes dictator for life and is assassinated shortly afterwards."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Macquarie University — Caesar: A Historical Overview",
+        "url": "https://www.mq.edu.au/faculty-of-arts/schools/school-of-humanities/our-research/australian-centre-for-ancient-numismatic-studies/digital-exhibitions/the-coinage-of-julius-caesar/introduction/caesar-a-historical-overview",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "augustus",
+    "name": "Augustus",
+    "aliases": [
+      "Octavian",
+      "Gaius Octavius"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": -63
+    },
+    "death": {
+      "precision": "year",
+      "year": 14
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Erster römischer Kaiser und Begründer des Prinzipats.",
+      "en": "First Roman emperor and founder of the principate."
+    },
+    "biography": {
+      "de": "Als Octavian ging Augustus aus den Bürgerkriegen der späten Republik als maßgeblicher Machthaber hervor. Er bewahrte republikanische Ämter und Formen, während sich die tatsächliche politische Macht beim Kaiser konzentrierte. Seine lange Herrschaft prägte das Verhältnis zwischen Senat, Militär und kaiserlicher Verwaltung für die folgenden Jahrhunderte.",
+      "en": "Known earlier as Octavian, Augustus emerged from the late Republic’s civil wars as Rome’s dominant ruler. He retained republican offices and political forms while concentrating effective authority in the emperor. His long reign established arrangements between the Senate, military and imperial administration that shaped the government of subsequent centuries."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": -27
+        },
+        "text": {
+          "de": "Erhält vom Senat den Namen Augustus; dieses Jahr markiert gewöhnlich den Beginn des Prinzipats.",
+          "en": "Receives the name Augustus from the Senate; this year conventionally marks the beginning of the principate."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Saint Louis Art Museum — Augustus, Emperor of Rome",
+        "url": "https://www.slam.org/collection/constituents/27270/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Metropolitan Museum of Art — The Roman Empire",
+        "url": "https://www.metmuseum.org/de/essays/the-roman-empire-27-b-c-393-a-d",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "ashoka",
+    "name": "Ashoka",
+    "aliases": [
+      "Aśoka",
+      "Asoka"
+    ],
+    "birth": {
+      "precision": "approximate",
+      "year": -304
+    },
+    "death": {
+      "precision": "approximate",
+      "year": -232
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Maurya-Herrscher, dessen Edikte Krieg, religiöse Praxis und Regierungsethik behandeln.",
+      "en": "Mauryan ruler whose edicts address warfare, religious practice and the ethics of government."
+    },
+    "biography": {
+      "de": "Ashoka regierte ein großes Reich auf dem indischen Subkontinent. Seine Inschriften beschreiben das Leid der Eroberung Kalingas und formulieren danach ein Regierungsprogramm des Dhamma. Dazu gehörten Wohlfahrt, die Begrenzung von Gewalt und Achtung verschiedener religiöser Gemeinschaften. Die Edikte sind zugleich politische Selbstdarstellungen eines weiterhin mächtigen Monarchen.",
+      "en": "Ashoka ruled a large empire on the Indian subcontinent. His inscriptions describe the suffering caused by the conquest of Kalinga and set out a subsequent programme of government through dhamma. This included welfare, restraint in violence and respect for different religious communities. The edicts also served as royal political self-representation."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "approximate",
+          "year": -261
+        },
+        "text": {
+          "de": "Die Eroberung Kalingas wird zum Bezugspunkt seiner späteren Edikte über das Leid des Krieges.",
+          "en": "The conquest of Kalinga becomes a reference point for his later edicts on the suffering caused by war."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Oregon State University — The Edicts of Ashoka",
+        "url": "https://open.oregonstate.education/ancientcivilizations/chapter/edicts-of-ashoka/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Lebensdaten und Kalinga-Feldzug folgen einer ungefähren konventionellen Chronologie.",
+      "en": "Life dates and the Kalinga campaign follow an approximate conventional chronology."
+    }
+  },
+  {
+    "id": "qin-shi-huang",
+    "name": "Qin Shi Huang",
+    "aliases": [
+      "Ying Zheng",
+      "Qin Shihuangdi"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": -259
+    },
+    "death": {
+      "precision": "year",
+      "year": -210
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Erster Kaiser des vereinigten Qin-Reiches und Organisator zentraler Herrschaft.",
+      "en": "First emperor of the unified Qin empire and an organizer of centralized rule."
+    },
+    "biography": {
+      "de": "Qin Shi Huang vereinigte durch militärische Eroberung rivalisierende Staaten unter der Qin-Dynastie. Seine Regierung vereinheitlichte Schrift, Maße, Gewichte und Münzen und baute eine zentrale Verwaltung aus. Straßen und Kanäle unterstützten die Herrschaft. Strenge Gesetze und staatlicher Zwang waren wesentliche Bestandteile dieses kurzlebigen, aber institutionell folgenreichen Reiches.",
+      "en": "Qin Shi Huang brought rival states under the Qin dynasty through military conquest. His government standardized writing, weights, measures and coinage while extending centralized administration. Roads and canals supported imperial control. Strict laws and state coercion were integral to this short-lived empire, whose institutions influenced later Chinese government."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": -221
+        },
+        "text": {
+          "de": "Nimmt nach der Eroberung der rivalisierenden Reiche den Kaisertitel an.",
+          "en": "Takes the imperial title after conquering the rival kingdoms."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Smithsonian National Museum of Asian Art — Timeline of Chinese History, Art, and Culture",
+        "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Metropolitan Museum of Art — Qin Dynasty",
+        "url": "https://www.metmuseum.org/ja/essays/qin-dynasty-221-206-b-c",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "tang-taizong",
+    "name": "Tang Taizong",
+    "aliases": [
+      "Li Shimin",
+      "Emperor Taizong of Tang"
+    ],
+    "birth": {
+      "precision": "approximate",
+      "year": 599
+    },
+    "death": {
+      "precision": "year",
+      "year": 649
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Tang-Kaiser, dessen Herrschaft Verwaltung, Expansion und Hofpolitik verband.",
+      "en": "Tang emperor whose reign combined administration, expansion and court politics."
+    },
+    "biography": {
+      "de": "Li Shimin gelangte nach gewaltsamen Auseinandersetzungen innerhalb der Kaiserfamilie als Taizong an die Spitze der Tang-Dynastie. Seine Regierung beschäftigte fähige Amtsträger und entwickelte staatliche Verwaltungsverfahren weiter. Militärische Feldzüge erweiterten ihren Einfluss. Der Hof war zugleich ein Ort religiöser Kontakte und wirtschaftlicher Beziehungen entlang der Handelswege nach Westen.",
+      "en": "Li Shimin became Emperor Taizong after violent struggles within the imperial family. His government recruited capable officials and developed state administrative practices. Military campaigns extended Tang influence. The court also provided a setting for religious contacts and economic relationships along westward trade routes, linking imperial expansion with wider exchanges."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 626
+        },
+        "text": {
+          "de": "Erlangt nach dem Xuanwu-Tor-Zwischenfall und der Abdankung seines Vaters den Thron.",
+          "en": "Takes the throne after the Xuanwu Gate incident and his father’s abdication."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Academy of Chinese Studies — Emperor Taizong of the Tang",
+        "url": "https://chiculture.org.hk/en/china-five-thousand-years/1909",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Howard J. Wechsler, The Cambridge History of China — T’ai-tsung (reign 626–49), the consolidator",
+        "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-china/taitsung-reign-62649-the-consolidator/C1752C3B0E534B88A22AD2EAFF2249FC",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Die Geburtsdatierung ist uneinheitlich; neben 599 nennt die Fachliteratur auch 600.",
+      "en": "The birth chronology varies; scholarly accounts give 600 as well as 599."
+    }
+  },
+  {
+    "id": "genghis-khan",
+    "name": "Dschingis Khan",
+    "aliases": [
+      "Genghis Khan",
+      "Chinggis Khan",
+      "Temüjin"
+    ],
+    "birth": {
+      "precision": "approximate",
+      "year": 1162
+    },
+    "death": {
+      "precision": "year",
+      "year": 1227
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Begründer des Mongolenreichs und Anführer weitreichender Eroberungen.",
+      "en": "Founder of the Mongol Empire and leader of far-reaching conquests."
+    },
+    "biography": {
+      "de": "Temüjin vereinte mongolische Gruppen zu einem militärisch organisierten Herrschaftsverband und nahm den Titel Dschingis Khan an. Seine Eroberungen verursachten großflächige Zerstörung und Blutvergießen. Zugleich schuf seine Herrschaft Voraussetzungen für überregionale Handelsverbindungen, religiöse Vielfalt am Hof und eine Verwaltung, die schriftliche Verfahren für das wachsende Reich nutzte.",
+      "en": "Temüjin united Mongol groups in a militarily organized polity and assumed the title Genghis Khan. His conquests caused extensive destruction and bloodshed. His rule also established conditions for interregional trade, religious diversity at court and an administration that adopted written practices to govern the expanding empire and its varied populations."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1206
+        },
+        "text": {
+          "de": "Wird nach der Vereinigung mongolischer Gruppen zum Dschingis Khan ausgerufen.",
+          "en": "Is proclaimed Genghis Khan following the unification of Mongol groups."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Columbia University, Asia for Educators — Chinggis Khan",
+        "url": "https://afe.easia.columbia.edu/mongols/pop/genghis/genghis_pop.htm",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Metropolitan Museum of Art — The Legacy of Genghis Khan",
+        "url": "https://www.metmuseum.org/de/essays/the-legacy-of-genghis-khan",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Geburtsjahr 1162 ist nicht sicher überliefert.",
+      "en": "The birth year 1162 is uncertain."
+    }
+  },
+  {
+    "id": "mansa-musa",
+    "name": "Mansa Musa",
+    "aliases": [
+      "Musa I",
+      "Kanku Musa"
+    ],
+    "birth": {
+      "precision": "approximate",
+      "year": 1280
+    },
+    "death": {
+      "precision": "approximate",
+      "year": 1337
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Herrscher des Mali-Reichs und Förderer islamischer Bau- und Bildungszentren.",
+      "en": "Ruler of the Mali Empire and patron of Islamic architecture and learning."
+    },
+    "biography": {
+      "de": "Musa regierte das westafrikanische Mali-Reich, dessen Handelsnetze unter anderem Gold und Salz verbanden. Seine Pilgerreise über Kairo nach Mekka machte seinen Hof weit über Westafrika hinaus bekannt. Er unterstützte Moscheebauten und die Entwicklung von Gao und Timbuktu. Spätere europäische Karten stellten ihn als Symbol großen Reichtums dar.",
+      "en": "Musa ruled the West African Mali Empire, whose trading networks included gold and salt. His pilgrimage through Cairo to Mecca brought his court wider attention beyond West Africa. He supported mosque construction and the development of Gao and Timbuktu. Later European maps depicted him as a symbol of considerable wealth."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1324
+        },
+        "text": {
+          "de": "Beginnt die weithin beschriebene Pilgerreise nach Mekka über Ägypten.",
+          "en": "Undertakes the widely described pilgrimage to Mecca through Egypt."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art — Visualizing a Sahelian Past",
+        "url": "https://www.metmuseum.org/es/perspectives/visualizing-a-sahelian-past",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "National Geographic Society — Mansa Musa (Musa I of Mali)",
+        "url": "https://education.nationalgeographic.org/resource/mansa-musa-musa-i-mali/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Die Lebensdaten sind ungefähre Angaben; die Regierungs- und Todeschronologie wird unterschiedlich rekonstruiert.",
+      "en": "The life dates are approximate; the chronology of his reign and death is reconstructed differently across accounts."
+    }
+  },
+  {
+    "id": "mehmed-ii",
+    "name": "Mehmed II.",
+    "aliases": [
+      "Mehmet II",
+      "Mehmed the Conqueror"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1432
+    },
+    "death": {
+      "precision": "year",
+      "year": 1481
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Osmanischer Sultan, dessen Eroberung Konstantinopels die imperiale Hauptstadt neu bestimmte.",
+      "en": "Ottoman sultan whose conquest of Constantinople established a new imperial capital."
+    },
+    "biography": {
+      "de": "Mehmed II. eroberte Konstantinopel und machte die Stadt zum Zentrum seines expandierenden Osmanischen Reichs. Damit endete das Byzantinische Reich. Seine Herrschaft verband weitere militärische Eroberungen mit dem Ausbau der neuen Hauptstadt. Das höfische Interesse an Kunst schloss auch Kontakte zu italienischen Kunstschaffenden wie Gentile Bellini ein.",
+      "en": "Mehmed II conquered Constantinople and made the city the centre of an expanding Ottoman Empire, ending the Byzantine Empire. His rule combined further military conquest with the development of the new capital. Court patronage also included contacts with Italian artists, among them Gentile Bellini, whose portrait represented the sultan’s authority."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1453
+        },
+        "text": {
+          "de": "Erobert Konstantinopel und macht die Stadt zur osmanischen Hauptstadt.",
+          "en": "Conquers Constantinople and makes it the Ottoman capital."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Calvin University, Hekman Digital Archive — Mehmed II",
+        "url": "https://unread.calvin.edu/hda/node/4373",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Metropolitan Museum of Art — The Ottoman Empire",
+        "url": "https://www.metmuseum.org/ja/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-five/chapter-two/the-ottoman-empire",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "National Gallery — Gentile Bellini, The Sultan Mehmet II",
+        "url": "https://www.nationalgallery.org.uk/paintings/gentile-bellini-the-sultan-mehmet-ii",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "suleiman-i",
+    "name": "Süleyman I.",
+    "aliases": [
+      "Suleiman the Magnificent",
+      "Süleyman der Prächtige",
+      "Kanuni"
+    ],
+    "birth": {
+      "precision": "range",
+      "earliest": 1494,
+      "latest": 1495
+    },
+    "death": {
+      "precision": "year",
+      "year": 1566
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Osmanischer Sultan mit Einfluss auf Recht, imperiale Expansion und Baukunst.",
+      "en": "Ottoman sultan associated with law, imperial expansion and architectural patronage."
+    },
+    "biography": {
+      "de": "Süleyman regierte das Osmanische Reich über vier Jahrzehnte. Seine Feldzüge erweiterten die Herrschaft unter anderem in Ungarn und im Irak. Gesetzgebung und höfische Förderung von Kunst und Architektur gehörten ebenfalls zu seiner Regierung. Die von ihm beauftragte Süleymaniye-Moschee wurde von Sinan entworfen und prägte das Stadtbild Istanbuls.",
+      "en": "Suleiman ruled the Ottoman Empire for more than four decades. His campaigns expanded Ottoman power in regions including Hungary and Iraq. Lawmaking and court patronage of art and architecture also formed part of his government. The Süleymaniye Mosque, commissioned by him and designed by Sinan, became a major feature of Istanbul."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1520
+        },
+        "text": {
+          "de": "Beginnt seine Herrschaft als osmanischer Sultan.",
+          "en": "Begins his reign as Ottoman sultan."
+        }
+      },
+      {
+        "date": {
+          "precision": "range",
+          "earliest": 1550,
+          "latest": 1557
+        },
+        "text": {
+          "de": "Lässt die Süleymaniye-Moschee unter Sinans Leitung errichten.",
+          "en": "Commissions the Süleymaniye Mosque under Sinan’s direction."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Getty Union List of Artist Names — Süleyman I",
+        "url": "https://www.getty.edu/vow/ULANFullDisplay?find=&nation=Lebanese&page=1&role=&subjectid=500126202",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Metropolitan Museum of Art — The Age of Süleyman the Magnificent",
+        "url": "https://www.metmuseum.org/de/essays/the-age-of-suleyman-the-magnificent-r-1520-1566",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Geburtsjahr wird mit 1494 oder 1495 angegeben.",
+      "en": "The birth year is given as either 1494 or 1495."
+    }
+  },
+  {
+    "id": "akbar",
+    "name": "Akbar",
+    "aliases": [
+      "Jalal-ud-din Muhammad Akbar"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1542
+    },
+    "death": {
+      "precision": "year",
+      "year": 1605
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Mogulkaiser, der territoriale Expansion mit Verwaltungs- und Religionspolitik verband.",
+      "en": "Mughal emperor who combined territorial expansion with administrative and religious policies."
+    },
+    "biography": {
+      "de": "Akbar erweiterte das Mogulreich durch Feldzüge in Nord- und Zentralindien und baute dessen Verwaltung aus. Sein Hof förderte religiöse Diskussionen und beschäftigte Werkstätten unterschiedlicher kultureller Herkunft. Architektur und Buchkunst dienten der Darstellung kaiserlicher Herrschaft. Seine religiösen Initiativen entstanden innerhalb einer weiterhin monarchisch geordneten politischen Welt.",
+      "en": "Akbar expanded the Mughal Empire through campaigns in northern and central India and developed its administration. His court encouraged religious discussion and employed workshops with varied cultural backgrounds. Architecture and manuscript production represented imperial authority. His religious initiatives took shape within a political order that remained centred on monarchy."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1556
+        },
+        "text": {
+          "de": "Wird Mogulkaiser.",
+          "en": "Becomes Mughal emperor."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1582
+        },
+        "text": {
+          "de": "Formuliert die religiöse Initiative, die als Din-i Ilahi bekannt wurde.",
+          "en": "Formulates the religious initiative later known as Din-i Ilahi."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "British Museum, Waddesdon Bequest — Bowl, Akbar",
+        "url": "https://wb.britishmuseum.org/MCN9266",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Metropolitan Museum of Art — The Art of the Mughals before 1600",
+        "url": "https://www.metmuseum.org/de/essays/the-art-of-the-mughals-before-1600",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "tokugawa-ieyasu",
+    "name": "Tokugawa Ieyasu",
+    "aliases": [
+      "Ieyasu Tokugawa"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1543
+    },
+    "death": {
+      "precision": "year",
+      "year": 1616
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Begründer des Tokugawa-Shogunats mit Regierungssitz in Edo.",
+      "en": "Founder of the Tokugawa shogunate with its seat of government at Edo."
+    },
+    "biography": {
+      "de": "Ieyasu stieg in den Kriegen zwischen japanischen Territorialherren auf und arbeitete zeitweise unter Oda Nobunaga und Toyotomi Hideyoshi. Der Sieg bei Sekigahara stärkte seine Vorrangstellung. Als Shogun begründete er eine dynastische Militärregierung in Edo. Auch nach der Übergabe des Amtes an seinen Sohn blieb er politisch einflussreich.",
+      "en": "Ieyasu rose during wars among Japanese territorial lords and worked at different stages under Oda Nobunaga and Toyotomi Hideyoshi. Victory at Sekigahara strengthened his position. As shogun he established a dynastic military government in Edo. He retained political influence after transferring the office to his son."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1600
+        },
+        "text": {
+          "de": "Gewinnt die Schlacht von Sekigahara.",
+          "en": "Wins the Battle of Sekigahara."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1603
+        },
+        "text": {
+          "de": "Wird Shogun und begründet die Tokugawa-Regierung in Edo.",
+          "en": "Becomes shogun and establishes Tokugawa government in Edo."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Web Japan — Who was Tokugawa Ieyasu?",
+        "url": "https://web-japan.org/kidsweb/explore/history/q3.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Japan Tourism Agency — Tokugawa Ieyasu",
+        "url": "https://www.mlit.go.jp/tagengo-db/en/R3-00057.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Japan Search — Surviving Wars: Ieyasu’s Birth",
+        "url": "https://jpsearch.go.jp/en/gallery/ndl-bDW8Y7d2z0W/1",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Tokyo Metropolitan Edo-Tokyo Museum — The Tokugawa Clansmen, Museum News 24",
+        "url": "https://www.edo-tokyo-museum.or.jp/asset/2026/01/EdohakuNews_E24.pdf",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Der japanische Geburtsvermerk nennt den 26. Tag des 12. Monats 1542; die westliche Kalenderzuordnung ergibt 1543.",
+      "en": "The Japanese birth record gives the twenty-sixth day of the twelfth month of 1542; the Western calendar equivalent falls in 1543."
+    }
+  },
+  {
+    "id": "elizabeth-i",
+    "name": "Elisabeth I.",
+    "aliases": [
+      "Elizabeth I"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1533
+    },
+    "death": {
+      "precision": "year",
+      "year": 1603
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Englische Königin der Tudor-Dynastie während religiöser Konflikte und kolonialer Expansion.",
+      "en": "English Tudor queen during religious conflict and colonial expansion."
+    },
+    "biography": {
+      "de": "Elisabeth I. regierte England nach den konfessionellen Umbrüchen unter ihren Vorgängerinnen und Vorgängern. Ihre Herrschaft war von religiösen und dynastischen Konflikten sowie der Ausweitung maritimer Unternehmungen geprägt. Sie förderte nicht nur Handel: Die Krone unterstützte auch englische Versklavungsfahrten und frühe Kolonisationsprojekte im atlantischen Raum finanziell und politisch.",
+      "en": "Elizabeth I ruled England following the religious upheavals of preceding Tudor reigns. Religious and dynastic conflict shaped her government alongside expanding maritime ventures. Royal support extended beyond trade: the Crown also backed English slave-trading voyages and early Atlantic colonization projects, linking court policy to emerging systems of overseas exploitation."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1558
+        },
+        "text": {
+          "de": "Besteigt den englischen Thron.",
+          "en": "Accedes to the English throne."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historic Royal Palaces — Elizabeth I",
+        "url": "https://www.hrp.org.uk/hampton-court-palace/history-and-stories/elizabeth-i/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Historic Royal Palaces — Kings and queens of England and Britain",
+        "url": "https://www.hrp.org.uk/kings-and-queens-of-england-and-britain/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "National Portrait Gallery — Britain and the transatlantic slave trade",
+        "url": "https://www.npg.org.uk/schools-hub/what-can-portraits-tell-us-about-why-britain-was-involved-in-the-transatlantic-slave-trade",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "catherine-ii",
+    "name": "Katharina II.",
+    "aliases": [
+      "Catherine II",
+      "Catherine the Great",
+      "Katharina die Große"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1729
+    },
+    "death": {
+      "precision": "year",
+      "year": 1796
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Russische Kaiserin, deren Reformen mit Expansion und verstärkter Leibeigenschaft einhergingen.",
+      "en": "Russian empress whose reforms accompanied imperial expansion and strengthened serfdom."
+    },
+    "biography": {
+      "de": "Katharina II. gelangte durch einen Staatsstreich an die Macht. Sie förderte Kunst und Bildungsprojekte und berief eine Gesetzgebungskommission ein. Zugleich erweiterte sie das Reich, unter anderem durch die Annexion der Krim und die Teilungen Polens. Adelsprivilegien und Leibeigenschaft wurden gestärkt, während regionale Autonomie und politische Kritik eingeschränkt wurden.",
+      "en": "Catherine II came to power through a coup. She supported art and educational projects and convened a legislative commission. She also expanded the empire through the annexation of Crimea and the partitions of Poland. Noble privileges and serfdom were strengthened while regional autonomy and political criticism faced restrictions."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1762
+        },
+        "text": {
+          "de": "Übernimmt nach einem Staatsstreich die Herrschaft.",
+          "en": "Takes power following a coup."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1783
+        },
+        "text": {
+          "de": "Annexiert die Krim für das Russische Reich.",
+          "en": "Annexes Crimea for the Russian Empire."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tsarskoe Selo State Museum — Catherine II",
+        "url": "https://www.tzar.ru/en/objects/history/ekaterina2",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Internet Encyclopedia of Ukraine — Catherine II",
+        "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CC%5CA%5CCatherineII.htm",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "State Historical Museum — Catherine II",
+        "url": "https://nav.shm.ru/en/halls/1014/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "george-washington",
+    "name": "George Washington",
+    "aliases": [],
+    "birth": {
+      "precision": "year",
+      "year": 1732
+    },
+    "death": {
+      "precision": "year",
+      "year": 1799
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Oberbefehlshaber der Kontinentalarmee und erster Präsident der Vereinigten Staaten.",
+      "en": "Commander of the Continental Army and first president of the United States."
+    },
+    "biography": {
+      "de": "Washington führte die Kontinentalarmee im Unabhängigkeitskrieg und leitete später den Verfassungskonvent. Als erster Präsident prägte er Verfahren und Machtstellung des neuen Amtes. Seine politische Laufbahn war zugleich mit einer Plantagenwirtschaft verbunden, die auf der Arbeit versklavter Menschen beruhte; in Mount Vernon hielt er selbst Menschen in Sklaverei.",
+      "en": "Washington commanded the Continental Army during the War of Independence and later presided over the Constitutional Convention. As the first president, he shaped the practices and authority of the new office. His political career was also grounded in a plantation economy sustained by enslaved labour; he personally enslaved people at Mount Vernon."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1775
+        },
+        "text": {
+          "de": "Übernimmt den Oberbefehl über die Kontinentalarmee.",
+          "en": "Takes command of the Continental Army."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1789
+        },
+        "text": {
+          "de": "Tritt als erster Präsident der Vereinigten Staaten sein Amt an.",
+          "en": "Takes office as the first president of the United States."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "George Washington’s Mount Vernon — George Washington",
+        "url": "https://www.mountvernon.org/george-washington",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "George Washington’s Mount Vernon — Slavery at Mount Vernon",
+        "url": "https://www.mountvernon.org/george-washington/slavery/slavery-at-mount-vernon",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "napoleon-bonaparte",
+    "name": "Napoleon Bonaparte",
+    "aliases": [
+      "Napoléon Bonaparte",
+      "Napoleon I"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1769
+    },
+    "death": {
+      "precision": "year",
+      "year": 1821
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Französischer Herrscher, dessen Gesetzgebung, Kriege und Kolonialpolitik Europa und den Atlantik prägten.",
+      "en": "French ruler whose laws, wars and colonial policies shaped Europe and the Atlantic."
+    },
+    "biography": {
+      "de": "Napoleon stieg vom Militär zum Ersten Konsul und Kaiser auf. Seine Regierung veränderte Verwaltung und Zivilrecht, während seine Kriege große Teile Europas erfassten. In den französischen Kolonien stellte er die Sklaverei wieder her beziehungsweise versuchte ihre Wiederherstellung militärisch durchzusetzen. Nach seiner Niederlage lebte er im Exil auf St. Helena.",
+      "en": "Napoleon rose from military command to become First Consul and emperor. His government reshaped administration and civil law while his wars affected much of Europe. In French colonies he restored slavery or attempted to impose its restoration through military intervention. After his defeat, he lived in exile on Saint Helena."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1802
+        },
+        "text": {
+          "de": "Seine Regierung beschließt die Wiederherstellung kolonialer Sklaverei.",
+          "en": "His government adopts the restoration of colonial slavery."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1804
+        },
+        "text": {
+          "de": "Wird Kaiser; der Code civil wird eingeführt.",
+          "en": "Becomes emperor; the Civil Code is introduced."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Grand Palais — Napoléon Bonaparte (1769–1821)",
+        "url": "https://www.grandpalais.fr/en/magazine/napoleon-bonaparte-1769-1821",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Oxford Bibliographies — Napoléon Bonaparte and the Atlantic World",
+        "url": "https://academic.oup.com/reference/62333/reference-article-abstract/554086004",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "abraham-lincoln",
+    "name": "Abraham Lincoln",
+    "aliases": [],
+    "birth": {
+      "precision": "year",
+      "year": 1809
+    },
+    "death": {
+      "precision": "year",
+      "year": 1865
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "US-Präsident im Bürgerkrieg und zentraler Akteur der staatlichen Emanzipationspolitik.",
+      "en": "US president during the Civil War and a central figure in federal emancipation policy."
+    },
+    "biography": {
+      "de": "Lincoln führte die Vereinigten Staaten während des Bürgerkriegs mit dem Ziel, die Union zu erhalten. Die Abschaffung der Sklaverei wurde zu einem wesentlichen Kriegsziel seiner Regierung. Seine Emanzipationsproklamation galt für versklavte Menschen in rebellierenden Gebieten; ihre Durchsetzung hing vom Vorrücken der Union ab. Kurz vor Kriegsende wurde Lincoln ermordet.",
+      "en": "Lincoln led the United States through the Civil War with the aim of preserving the Union. Ending slavery became a central objective of his administration. His Emancipation Proclamation applied to enslaved people in areas in rebellion, and enforcement depended on Union advances. He was assassinated near the war’s end."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1861
+        },
+        "text": {
+          "de": "Tritt als Präsident sein Amt an.",
+          "en": "Takes office as president."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1863
+        },
+        "text": {
+          "de": "Die Emanzipationsproklamation erklärt versklavte Menschen in rebellierenden Gebieten für frei.",
+          "en": "The Emancipation Proclamation declares enslaved people in areas in rebellion free."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Park Service — Abraham Lincoln",
+        "url": "https://www.nps.gov/people/abraham-lincoln.htm",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "US National Archives — Emancipation Proclamation (1863)",
+        "url": "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "simon-bolivar",
+    "name": "Simón Bolívar",
+    "aliases": [
+      "Simon Bolivar"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1783
+    },
+    "death": {
+      "precision": "year",
+      "year": 1830
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Militärischer und politischer Anführer südamerikanischer Unabhängigkeitsbewegungen.",
+      "en": "Military and political leader in South American independence movements."
+    },
+    "biography": {
+      "de": "Bolívar führte Truppen im Kampf gegen die spanische Herrschaft in Südamerika. Nach militärischen Erfolgen arbeitete er an einer republikanischen Ordnung, die mehrere Regionen in Großkolumbien verband. Die Verfassung von Cúcuta war ein Schritt dieses Projekts. Regionale Machtkonflikte und politische Spannungen begrenzten die Dauerhaftigkeit der angestrebten staatlichen Einheit.",
+      "en": "Bolívar led forces fighting Spanish rule in South America. Following military successes, he worked toward a republican order uniting several regions in Gran Colombia. The Constitution of Cúcuta formed part of this project. Regional power struggles and political tensions limited the durability of the wider state he sought to establish."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1821
+        },
+        "text": {
+          "de": "Proklamiert die Verfassung der Republik Kolumbien, häufig Großkolumbien genannt.",
+          "en": "Proclaims the constitution of the Republic of Colombia, commonly called Gran Colombia."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Library of Congress — Simon Bolivar, the Liberator",
+        "url": "https://www.loc.gov/item/21006434/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Library of Congress — Constitución de la República de Colombia",
+        "url": "https://www.loc.gov/item/78341644/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "mahatma-gandhi",
+    "name": "Mahatma Gandhi",
+    "aliases": [
+      "Mohandas Karamchand Gandhi",
+      "Mohandas Gandhi"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1869
+    },
+    "death": {
+      "precision": "year",
+      "year": 1948
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Antikolonialer Politiker und Organisator gewaltfreien zivilen Ungehorsams.",
+      "en": "Anti-colonial political leader and organizer of nonviolent civil disobedience."
+    },
+    "biography": {
+      "de": "Gandhi entwickelte seine politische Praxis zunächst in Südafrika und später im Kampf gegen die britische Kolonialherrschaft in Indien. Er verband Massenmobilisierung mit gewaltfreiem Widerstand und persönlicher Selbstdisziplin. Der Salzmarsch griff das koloniale Salzmonopol an. Während der gewaltsamen Konflikte um Indiens Teilung setzte er Fasten als politisches Mittel ein.",
+      "en": "Gandhi developed his political practice in South Africa and later in opposition to British colonial rule in India. He combined mass mobilization with nonviolent resistance and personal discipline. The Salt March challenged the colonial salt monopoly. During the violence surrounding India’s partition, he used fasting as a political intervention."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1930
+        },
+        "text": {
+          "de": "Organisiert den Salzmarsch gegen das britische Salzmonopol.",
+          "en": "Organizes the Salt March against the British salt monopoly."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "South African History Archive — Mohandas Gandhi",
+        "url": "https://sthp.saha.org.za/memorial/mohandas_gandhi.htm",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "National Geographic — How Mahatma Gandhi started a nonviolent revolution",
+        "url": "https://www.nationalgeographic.com/history/article/gandhi-activism-nonviolence-protests",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "jawaharlal-nehru",
+    "name": "Jawaharlal Nehru",
+    "aliases": [],
+    "birth": {
+      "precision": "year",
+      "year": 1889
+    },
+    "death": {
+      "precision": "year",
+      "year": 1964
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Erster Premierminister des unabhängigen Indien und Mitgestalter der Blockfreiheit.",
+      "en": "First prime minister of independent India and a leading advocate of non-alignment."
+    },
+    "biography": {
+      "de": "Nehru beteiligte sich an der indischen Unabhängigkeitsbewegung und wurde unter britischer Herrschaft mehrfach inhaftiert. Nach der Unabhängigkeit leitete er die Regierung und zugleich die Außenpolitik. Er unterstützte den Aufbau einer parlamentarischen Republik mit mehreren Parteien und vertrat im Kalten Krieg einen außenpolitischen Kurs außerhalb fester Bündnisblöcke.",
+      "en": "Nehru participated in India’s independence movement and was repeatedly imprisoned under British rule. After independence he headed both the government and foreign policy. He supported the development of a parliamentary republic with multiple parties and pursued a course outside fixed Cold War blocs, helping shape the idea of non-alignment."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1947
+        },
+        "text": {
+          "de": "Wird erster Premierminister des unabhängigen Indien.",
+          "en": "Becomes the first prime minister of independent India."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "US National Park Service — Prime Minister Jawaharlal Nehru",
+        "url": "https://www.nps.gov/people/prime-minister-nehru.htm",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "mustafa-kemal-ataturk",
+    "name": "Mustafa Kemal Atatürk",
+    "aliases": [
+      "Mustafa Kemal",
+      "Atatürk"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1881
+    },
+    "death": {
+      "precision": "year",
+      "year": 1938
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Gründer und erster Präsident der Republik Türkei.",
+      "en": "Founder and first president of the Republic of Turkey."
+    },
+    "biography": {
+      "de": "Mustafa Kemal führte die türkische Nationalbewegung im Unabhängigkeitskrieg und wurde Präsident der neuen Republik. Seine Regierung veränderte Recht, Bildung und Schriftsystem im Zeichen eines säkularen Nationalstaats. Die Reformen wurden in einem autoritären Einparteiensystem durchgesetzt, das politische Opposition stark begrenzte und unterdrückte; gesellschaftliche Modernisierung bedeutete daher keine politische Pluralisierung.",
+      "en": "Mustafa Kemal led the Turkish national movement during the War of Independence and became president of the new republic. His government changed law, education and the writing system in pursuit of a secular nation-state. These reforms operated within an authoritarian one-party system that severely restricted and repressed political opposition."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1923
+        },
+        "text": {
+          "de": "Wird erster Präsident der Republik Türkei.",
+          "en": "Becomes the first president of the Republic of Turkey."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1928
+        },
+        "text": {
+          "de": "Seine Regierung führt das auf lateinischen Buchstaben beruhende türkische Alphabet ein.",
+          "en": "His government introduces the Latin-based Turkish alphabet."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Routledge Encyclopedia of Modernism — Atatürk, Mustafa Kemal (1881–1938)",
+        "url": "https://www.rem.routledge.com/articles/ataturk-mustafa-kemal-1881-1938",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Republic of Türkiye, Ministry of Culture — Biography of Atatürk",
+        "url": "https://www.ktb.gov.tr/EN-103908/biography-of-ataturk.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Oxford Bibliographies — Authoritarianism in Turkey",
+        "url": "https://academic.oup.com/reference/62402/reference-article-abstract/555447664",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "sun-yat-sen",
+    "name": "Sun Yat-sen",
+    "aliases": [
+      "Sun Zhongshan",
+      "Sun Wen"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1866
+    },
+    "death": {
+      "precision": "year",
+      "year": 1925
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Chinesischer Revolutionär und provisorischer Präsident der frühen Republik.",
+      "en": "Chinese revolutionary and provisional president of the early republic."
+    },
+    "biography": {
+      "de": "Sun Yat-sen organisierte Bewegungen gegen die Qing-Monarchie und entwickelte die Drei Volksprinzipien als politisches Programm. Nach der Revolution wurde er kurzzeitig provisorischer Präsident. Seine weitere Tätigkeit galt Parteiorganisation und staatlicher Neuordnung in einem von konkurrierenden Machtzentren geprägten China. Seine Ideen wurden später von unterschiedlichen politischen Traditionen beansprucht.",
+      "en": "Sun Yat-sen organized movements against the Qing monarchy and developed the Three Principles of the People as a political programme. After the revolution he briefly became provisional president. He subsequently worked on party organization and state reconstruction in a China divided among competing centres of power, leaving a contested political legacy."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1905
+        },
+        "text": {
+          "de": "Beteiligt sich an der Gründung der Tongmenghui und formuliert die Drei Volksprinzipien.",
+          "en": "Helps establish the Tongmenghui and formulates the Three Principles of the People."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1912
+        },
+        "text": {
+          "de": "Übernimmt das Amt des provisorischen Präsidenten der Republik China.",
+          "en": "Takes office as provisional president of the Republic of China."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Office of the President, Republic of China — Dr. Sun Yat-sen",
+        "url": "https://english.president.gov.tw/page/49",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Museum of the Former Residence of Dr. Sun Yat-sen — Biography",
+        "url": "https://www.sunyat-sen.org/index.php/portal/list/index.html?id=226",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "mao-zedong",
+    "name": "Mao Zedong",
+    "aliases": [
+      "Mao Tse-tung"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1893
+    },
+    "death": {
+      "precision": "year",
+      "year": 1976
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Kommunistischer Revolutionsführer und diktatorischer Machthaber der Volksrepublik China.",
+      "en": "Communist revolutionary leader and dictatorial ruler of the People’s Republic of China."
+    },
+    "biography": {
+      "de": "Mao führte die Kommunistische Partei zur Macht und prägte den Parteistaat bis zu seinem Tod. Der von ihm vorangetriebene Große Sprung nach vorn mündete in eine katastrophale Hungersnot mit Millionen Toten. Die Kulturrevolution brachte massive Verfolgung und gesellschaftliche Zerstörung. Sein Personenkult schränkte die Möglichkeit ein, seine Politik wirksam anzufechten.",
+      "en": "Mao led the Communist Party to power and shaped the party-state until his death. His Great Leap Forward culminated in a catastrophic famine that killed millions. The Cultural Revolution brought extensive persecution and social destruction. His cult of personality and dominant authority severely limited effective challenges to his policies."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1949
+        },
+        "text": {
+          "de": "Steht an der Spitze der neu gegründeten Volksrepublik China.",
+          "en": "Heads the newly founded People’s Republic of China."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1958
+        },
+        "text": {
+          "de": "Treibt den Großen Sprung nach vorn voran.",
+          "en": "Drives the Great Leap Forward."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1966
+        },
+        "text": {
+          "de": "Löst die Kulturrevolution aus.",
+          "en": "Launches the Cultural Revolution."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Oxford Bibliographies — Mao Zedong",
+        "url": "https://academic.oup.com/reference/62338/reference-article-abstract/571461696",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Frederick C. Teiwes — Mao Zedong in Power (1949–1976)",
+        "url": "https://academic.oup.com/book/57632/chapter-abstract/469312105",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Delia Davin — Mao: A Very Short Introduction",
+        "url": "https://academic.oup.com/book/848",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Oxford Handbook — Chronologies",
+        "url": "https://academic.oup.com/edited-volume/28170/chapter/213002310",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "adolf-hitler",
+    "name": "Adolf Hitler",
+    "aliases": [],
+    "birth": {
+      "precision": "year",
+      "year": 1889
+    },
+    "death": {
+      "precision": "year",
+      "year": 1945
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Nationalsozialistischer Diktator, verantwortlich für Angriffskrieg, Holocaust und weitere Massenverbrechen.",
+      "en": "Nazi dictator responsible for aggressive war, the Holocaust and other mass atrocities."
+    },
+    "biography": {
+      "de": "Hitler führte die NSDAP und errichtete nach seiner Ernennung zum Reichskanzler eine Diktatur. Sein Regime verfolgte politische Gegnerinnen und Gegner und betrieb rassistische Ausgrenzung, Eroberung und Vernichtung. Im Holocaust ermordeten das nationalsozialistische Deutschland und seine Verbündeten und Kollaborateure sechs Millionen Jüdinnen und Juden; weitere Gruppen wurden ebenfalls systematisch verfolgt und ermordet.",
+      "en": "Hitler led the Nazi Party and established a dictatorship after his appointment as chancellor. His regime persecuted political opponents and pursued racist exclusion, conquest and extermination. During the Holocaust, Nazi Germany and its allies and collaborators murdered six million Jews. Other targeted groups also suffered systematic persecution and mass murder."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1933
+        },
+        "text": {
+          "de": "Wird zum Reichskanzler ernannt; die nationalsozialistische Diktatur wird aufgebaut.",
+          "en": "Is appointed chancellor; the Nazi dictatorship is established."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1939
+        },
+        "text": {
+          "de": "Der deutsche Überfall auf Polen beginnt den Zweiten Weltkrieg in Europa.",
+          "en": "Germany’s invasion of Poland begins the Second World War in Europe."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "United States Holocaust Memorial Museum — Adolf Hitler",
+        "url": "https://encyclopedia.ushmm.org/content/en/article/adolf-hitler",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "United States Holocaust Memorial Museum — What Groups of People did the Nazis Target?",
+        "url": "https://encyclopedia.ushmm.org/content/en/article/what-groups-of-people-did-the-nazis-target?parent=en%2F72",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "joseph-stalin",
+    "name": "Josef Stalin",
+    "aliases": [
+      "Joseph Stalin",
+      "Iosif Stalin",
+      "Ioseb Jughashvili"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1878
+    },
+    "death": {
+      "precision": "year",
+      "year": 1953
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Sowjetischer Diktator, dessen Herrschaft Industrialisierung mit massenhafter staatlicher Gewalt verband.",
+      "en": "Soviet dictator whose rule combined industrialization with mass state violence."
+    },
+    "biography": {
+      "de": "Stalin konzentrierte die Macht in Partei und Staat und erzwang eine rasche Industrialisierung und Kollektivierung. Seine Politik trug entscheidend zu den Hungersnöten der frühen 1930er Jahre bei. Der Große Terror, Lagerhaft und Deportationen zerstörten Millionen Leben. Politische Kontrolle und die Ausschaltung tatsächlicher wie vermeintlicher Gegnerinnen und Gegner bildeten Grundlagen seiner Herrschaft.",
+      "en": "Stalin concentrated power in the party and state and imposed rapid industrialization and collectivization. His policies were central to the famines of the early 1930s. The Great Terror, imprisonment in labour camps and deportations devastated millions of lives. Political control and the elimination of real and supposed opponents underpinned his rule."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1928
+        },
+        "text": {
+          "de": "Der erste Fünfjahresplan treibt die erzwungene Industrialisierung voran.",
+          "en": "The first Five-Year Plan advances forced industrialization."
+        }
+      },
+      {
+        "date": {
+          "precision": "range",
+          "earliest": 1936,
+          "latest": 1938
+        },
+        "text": {
+          "de": "Schauprozesse und der Große Terror verfolgen Parteimitglieder und große Teile der Bevölkerung.",
+          "en": "Show trials and the Great Terror target party members and broad sections of the population."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Library of Congress — An index to the collected works of J. V. Stalin",
+        "url": "https://www.loc.gov/item/55060804/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Library of Congress — Revelations from the Russian Archives: Internal Workings of the Soviet Union",
+        "url": "https://www.loc.gov/exhibits/archives/intn.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "ho-chi-minh",
+    "name": "Hồ Chí Minh",
+    "aliases": [
+      "Ho Chi Minh",
+      "Nguyễn Sinh Cung",
+      "Nguyễn Ái Quốc"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1890
+    },
+    "death": {
+      "precision": "year",
+      "year": 1969
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Vietnamesischer kommunistischer Politiker und erster Präsident der Demokratischen Republik Vietnam.",
+      "en": "Vietnamese communist leader and first president of the Democratic Republic of Vietnam."
+    },
+    "biography": {
+      "de": "Hồ Chí Minh verband den Kampf gegen französische Kolonialherrschaft mit kommunistischer Parteiorganisation. Er gründete die Viet Minh mit und proklamierte Vietnams Unabhängigkeit. Seine Präsidentschaft war von Kriegen und der Teilung des Landes geprägt. Er unterstützte zugleich eine Landreformkampagne, deren Klassenkampfmethoden zu unrechtmäßigen Inhaftierungen, Folter und Hinrichtungen führten.",
+      "en": "Hồ Chí Minh linked opposition to French colonial rule with communist party organization. He helped establish the Viet Minh and proclaimed Vietnamese independence. Wars and the country’s division shaped his presidency. He also supported a land reform campaign whose methods of class struggle brought wrongful imprisonment, torture and executions."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1930
+        },
+        "text": {
+          "de": "Beteiligt sich entscheidend an der Gründung der vietnamesischen kommunistischen Partei.",
+          "en": "Plays a central role in founding the Vietnamese communist party."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1945
+        },
+        "text": {
+          "de": "Proklamiert die Demokratische Republik Vietnam und wird ihr Präsident.",
+          "en": "Proclaims the Democratic Republic of Vietnam and becomes its president."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Columbia University — Major Events in the Life of Ho Chi Minh",
+        "url": "https://www.columbia.edu/cu/weai/exeas/asian-revolutions/leaders-ho-chi-minh.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Journal of Southeast Asian Studies — Failure (re-)framed: The Vietnamese Land Reforms through the lens of recapitulation reports",
+        "url": "https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/failure-reframed-the-vietnamese-land-reforms-through-the-lens-of-recapitulation-reports/23153764445C3636F61B79367D12DA36",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "kwame-nkrumah",
+    "name": "Kwame Nkrumah",
+    "aliases": [],
+    "birth": {
+      "precision": "year",
+      "year": 1909
+    },
+    "death": {
+      "precision": "year",
+      "year": 1972
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Ghanaischer Unabhängigkeitspolitiker, Präsident und Vertreter des Panafrikanismus.",
+      "en": "Ghanaian independence leader, president and advocate of Pan-Africanism."
+    },
+    "biography": {
+      "de": "Nkrumah organisierte mit der Convention People’s Party den Kampf für die Unabhängigkeit der Goldküste. Als Regierungschef und später Präsident Ghanas setzte er auf afrikanische Zusammenarbeit und wirtschaftliche Entwicklung. Seine Regierung beschränkte zugleich die Opposition und errichtete einen Einparteienstaat. Ein Militärputsch beendete seine Herrschaft; er starb im Exil.",
+      "en": "Through the Convention People’s Party, Nkrumah organized the struggle for the Gold Coast’s independence. As Ghana’s head of government and later president, he promoted African cooperation and economic development. His government also restricted opposition and established a one-party state. A military coup ended his rule, and he died in exile."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1957
+        },
+        "text": {
+          "de": "Führt Ghana als Regierungschef in die Unabhängigkeit.",
+          "en": "Leads Ghana into independence as head of government."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1964
+        },
+        "text": {
+          "de": "Etabliert einen Einparteienstaat.",
+          "en": "Establishes a one-party state."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "South African History Online — Dr Kwame Nkrumah",
+        "url": "https://sahistory.org.za/people/dr-kwame-nkrumah",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "South African History Online — Assassination attempt on Kwame Nkrumah",
+        "url": "https://sahistory.org.za/dated-event/assassination-attempt-kwame-nkrumah-first-prime-and-later-president-ghana",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "patrice-lumumba",
+    "name": "Patrice Lumumba",
+    "aliases": [],
+    "birth": {
+      "precision": "year",
+      "year": 1925
+    },
+    "death": {
+      "precision": "year",
+      "year": 1961
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Erster Premierminister des unabhängigen Kongo und Gegner belgischer Kolonialherrschaft.",
+      "en": "First prime minister of independent Congo and opponent of Belgian colonial rule."
+    },
+    "biography": {
+      "de": "Lumumba gründete das Mouvement national congolais und wurde nach den Wahlen Premierminister. Seine Unabhängigkeitsrede widersprach der beschönigenden Darstellung belgischer Kolonialherrschaft. In der folgenden Staatskrise verlor er sein Amt, wurde gefangen genommen und nach Katanga überstellt, wo er ermordet wurde. Eine belgische Parlamentsuntersuchung stellte später moralische Mitverantwortung belgischer Regierungsmitglieder fest.",
+      "en": "Lumumba founded the Mouvement national congolais and became prime minister after elections. His independence speech challenged celebratory accounts of Belgian colonial rule. During the ensuing state crisis he was removed, captured and transferred to Katanga, where he was murdered. A later Belgian parliamentary inquiry found Belgian government members morally responsible for circumstances leading to his death."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1960
+        },
+        "text": {
+          "de": "Wird Premierminister des unabhängigen Kongo.",
+          "en": "Becomes prime minister of independent Congo."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1961
+        },
+        "text": {
+          "de": "Wird nach seiner Überstellung nach Katanga ermordet.",
+          "en": "Is murdered after being transferred to Katanga."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "AfricaMuseum Archives — Lumumba, Patrice",
+        "url": "https://bfqde2023llsplde12qd27qdl.archives.africamuseum.be/agents/people/178",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Belgian Chamber of Representatives — Conclusions of the Lumumba Enquiry Committee",
+        "url": "https://www.dekamer.be/kvvcr/pdf_sections/comm/lmb/conclusions.pdf",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "julius-nyerere",
+    "name": "Julius Nyerere",
+    "aliases": [
+      "Julius Kambarage Nyerere",
+      "Mwalimu Nyerere"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1922
+    },
+    "death": {
+      "precision": "year",
+      "year": 1999
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Tansanischer Unabhängigkeitspolitiker und Präsident mit einem Programm afrikanischen Sozialismus.",
+      "en": "Tanzanian independence leader and president with a programme of African socialism."
+    },
+    "biography": {
+      "de": "Nyerere führte Tanganjika in die Unabhängigkeit und prägte nach der Vereinigung mit Sansibar Tansanias Politik. Sein Ujamaa-Programm verband soziale Gleichheit, staatliche Planung und gemeinschaftliche Landwirtschaft. Bildung und nationale Zusammengehörigkeit gehörten zu seinen Zielen. Die Einparteienherrschaft und erzwungene Umsiedlungen auf dem Land standen jedoch im Konflikt mit seinen demokratischen Ansprüchen.",
+      "en": "Nyerere led Tanganyika into independence and shaped Tanzania after its union with Zanzibar. His ujamaa programme combined social equality, state planning and communal agriculture. Education and national cohesion were among his aims. One-party rule and compulsory rural resettlement, however, conflicted with his stated democratic ideals and restricted political choice."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1961
+        },
+        "text": {
+          "de": "Wird Regierungschef des unabhängigen Tanganjika.",
+          "en": "Becomes head of government of independent Tanganyika."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1967
+        },
+        "text": {
+          "de": "Die Arusha-Deklaration formuliert das sozialistische Entwicklungsprogramm seiner Regierung.",
+          "en": "The Arusha Declaration sets out his government’s socialist development programme."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Oxford Research Encyclopedia — Julius Nyerere: Tanzanian President, Statesman, and Intellectual",
+        "url": "https://academic.oup.com/edited-volume/61663/chapter-abstract/553435529?login=false",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "African Studies Centre Leiden — Development as rebellion: a biography of Julius Nyerere",
+        "url": "https://ascleiden.nl/content/library-highlights/development-rebellion-biography-julius-nyerere",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "sukarno",
+    "name": "Sukarno",
+    "aliases": [
+      "Soekarno"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1901
+    },
+    "death": {
+      "precision": "year",
+      "year": 1970
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Indonesischer Unabhängigkeitspolitiker und erster Präsident des Landes.",
+      "en": "Indonesian independence leader and the country’s first president."
+    },
+    "biography": {
+      "de": "Sukarno organisierte die nationalistische Bewegung gegen niederländische Kolonialherrschaft und gehörte zu den Proklamierenden der indonesischen Unabhängigkeit. Als Präsident trat er für politische Einheit und Antikolonialismus ein. Mit der Gelenkten Demokratie ersetzte er parlamentarische Politik durch autoritäre Herrschaft. Der Aufstieg des Militärs unter Suharto verdrängte ihn schließlich aus der Macht.",
+      "en": "Sukarno organized the nationalist movement against Dutch colonial rule and helped proclaim Indonesian independence. As president he advocated political unity and anti-colonialism. Under Guided Democracy he replaced parliamentary politics with authoritarian rule, balancing the army against the Communist Party. The military’s rise under Suharto eventually removed him from power."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1945
+        },
+        "text": {
+          "de": "Beteiligt sich an der Unabhängigkeitserklärung und wird erster Präsident Indonesiens.",
+          "en": "Helps proclaim independence and becomes Indonesia’s first president."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1959
+        },
+        "text": {
+          "de": "Leitet den Übergang zur autoritären Gelenkten Demokratie.",
+          "en": "Leads the transition to authoritarian Guided Democracy."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Oxford Bibliographies — Sukarno",
+        "url": "https://academic.oup.com/reference/62361/reference-article-abstract/554575732?login=false",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "emmeline-pankhurst",
+    "name": "Emmeline Pankhurst",
+    "aliases": [
+      "Emmeline Goulden"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1858
+    },
+    "death": {
+      "precision": "year",
+      "year": 1928
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Britische Frauenrechtlerin und Organisatorin der militanten Frauenwahlrechtsbewegung.",
+      "en": "British women’s rights activist and organizer of the militant suffrage movement."
+    },
+    "biography": {
+      "de": "Pankhurst gründete die Women’s Social and Political Union mit und leitete deren Kampagnen für das Frauenwahlrecht. Die Organisation setzte auf öffentliche Störungen und zunehmend militante Aktionen; Haft und Hungerstreiks prägten den Protest. Im Ersten Weltkrieg unterstützte sie die britischen Kriegsanstrengungen. Das Wahlrecht entstand aus dem Zusammenwirken verschiedener, teils konkurrierender Bewegungen.",
+      "en": "Pankhurst helped found the Women’s Social and Political Union and led its campaigns for women’s suffrage. The organization used disruption and increasingly militant tactics; imprisonment and hunger strikes became central to the struggle. During the First World War she supported Britain’s war effort. Suffrage resulted from the work of several sometimes competing movements."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1903
+        },
+        "text": {
+          "de": "Gründet mit anderen die Women’s Social and Political Union in Manchester.",
+          "en": "Founds the Women’s Social and Political Union in Manchester with other campaigners."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "UK Parliament — Women’s suffrage campaigners: Emmeline Pankhurst",
+        "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/speakers-conference/emmeline-pankhurst/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The National Archives — Emmeline Pankhurst",
+        "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/emmeline-pankhurst/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "rosa-luxemburg",
+    "name": "Rosa Luxemburg",
+    "aliases": [
+      "Rosalie Luxemburg"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1871
+    },
+    "death": {
+      "precision": "year",
+      "year": 1919
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians",
+      "scientists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Sozialistische Politikerin und Theoretikerin mit Schriften zu Kapitalismus, Krieg und Demokratie.",
+      "en": "Socialist politician and theorist who wrote on capitalism, war and democracy."
+    },
+    "biography": {
+      "de": "Mit ihrer Dissertation über Polens industrielle Entwicklung und Die Akkumulation des Kapitals untersuchte Luxemburg wirtschaftliche Zusammenhänge. Luxemburg war in der polnischen und deutschen Arbeiterbewegung tätig. Sie bekämpfte den Ersten Weltkrieg, unterstützte revolutionäre Umbrüche und kritisierte zugleich Einschränkungen politischer Freiheit durch die Bolschewiki. Nach ihrer Entlassung aus der Haft arbeitete sie an der Roten Fahne und der Gründung der KPD. Im Januar 1919 wurde sie von Soldaten ermordet.",
+      "en": "Luxemburg investigated economic relationships in her dissertation on Poland’s industrial development and in The Accumulation of Capital. Luxemburg worked in the Polish and German labour movements. She opposed the First World War, supported revolutionary change and also criticized Bolshevik restrictions on political freedom. After her release from imprisonment she worked on Die Rote Fahne and helped establish the German Communist Party. Soldiers murdered her in January 1919."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1913
+        },
+        "text": {
+          "de": "Veröffentlicht Die Akkumulation des Kapitals zur ökonomischen Erklärung des Imperialismus.",
+          "en": "Publishes The Accumulation of Capital, examining the economics of imperialism."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1915
+        },
+        "text": {
+          "de": "Verfasst die Junius-Broschüre gegen den Krieg.",
+          "en": "Writes the Junius Pamphlet against the war."
+        }
+      },
+      {
+        "date": {
+          "precision": "range",
+          "earliest": 1918,
+          "latest": 1919
+        },
+        "text": {
+          "de": "Beteiligt sich am Gründungsparteitag der KPD.",
+          "en": "Participates in the founding congress of the German Communist Party."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Deutsches Historisches Museum, LeMO — Rosa Luxemburg",
+        "url": "https://www.dhm.de/lemo/biografie/rosa-luxemburg",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Rosa-Luxemburg-Stiftung — The Life of Rosa Luxemburg",
+        "url": "https://www.rosalux.de/en/foundation/historical-centre-for-democratic-socialism-1/rosa-luxemburg/the-life-of-rosa-luxemburg",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Hochschule Bonn-Rhein-Sieg — Exhibition Visionary Female Researchers: Rosa Luxemburg",
+        "url": "https://www.h-brs.de/en/zwt/exhibition-visionary-female-researchers-rosa-luxemburg",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "indira-gandhi",
+    "name": "Indira Gandhi",
+    "aliases": [],
+    "birth": {
+      "precision": "year",
+      "year": 1917
+    },
+    "death": {
+      "precision": "year",
+      "year": 1984
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Indische Premierministerin, deren Amtszeiten von Machtkonzentration und politischen Umbrüchen geprägt waren.",
+      "en": "Indian prime minister whose terms were marked by concentrated power and political upheaval."
+    },
+    "biography": {
+      "de": "Indira Gandhi stand zweimal an der Spitze der indischen Regierung. Ihre Amtszeit umfasste den Krieg von 1971 und die Entstehung Bangladeschs. Während des von ihr veranlassten Ausnahmezustands wurden Grundrechte ausgesetzt und oppositionelle Politikerinnen und Politiker massenhaft verhaftet. Nach der Wahlniederlage von 1977 kehrte sie 1980 in das Amt zurück.",
+      "en": "Indira Gandhi headed India’s government in two periods. Her tenure included the 1971 war and the emergence of Bangladesh. During the Emergency imposed under her leadership, fundamental rights were suspended and opposition politicians were arrested on a large scale. After electoral defeat in 1977, she returned to office in 1980."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1966
+        },
+        "text": {
+          "de": "Wird erstmals Premierministerin Indiens.",
+          "en": "Becomes prime minister of India for the first time."
+        }
+      },
+      {
+        "date": {
+          "precision": "range",
+          "earliest": 1975,
+          "latest": 1977
+        },
+        "text": {
+          "de": "Regiert während des Ausnahmezustands mit stark eingeschränkten Grundrechten.",
+          "en": "Governs during the Emergency, with fundamental rights severely restricted."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Prime Minister’s Office, India — Smt. Indira Gandhi",
+        "url": "https://www.pmindia.gov.in/en/former_pm/smt-indira-gandhi-2/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Pradhanmantri Sangrahalaya — Prime Ministers of India",
+        "url": "https://www.pmsangrahalaya.gov.in/prime-ministers-of-india",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Granville Austin, Working a Democratic Constitution — 26 June 1975",
+        "url": "https://academic.oup.com/book/1966/chapter-abstract/141784799",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "John F. Kennedy Presidential Library and Museum — Indira Gandhi",
+        "url": "https://jfk.artifacts.archives.gov/people/558/indira-gandhi%3Bjsessionid%3D6BB0A6E64C5F7F2629ACF9297303DB4F",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "golda-meir",
+    "name": "Golda Meir",
+    "aliases": [
+      "Golda Mabovitch",
+      "Golda Meyerson"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1898
+    },
+    "death": {
+      "precision": "year",
+      "year": 1978
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Israelische Politikerin, Diplomatin und Ministerpräsidentin während des Jom-Kippur-Kriegs.",
+      "en": "Israeli politician, diplomat and prime minister during the Yom Kippur War."
+    },
+    "biography": {
+      "de": "Meir kam aus der zionistischen Arbeiterbewegung und war Außenministerin, bevor sie die Regierung führte. Als Ministerpräsidentin prägte sie die Reaktion auf den Jom-Kippur-Krieg und anschließende Truppenentflechtungsabkommen. Sie bestritt öffentlich eine eigenständige palästinensische Nationalidentität. Wachsende Kritik an der politischen Führung nach dem Krieg trug zu ihrem Rücktritt bei.",
+      "en": "Meir emerged from Labour Zionism and served as foreign minister before heading the government. As prime minister she shaped Israel’s response to the Yom Kippur War and subsequent disengagement agreements. She publicly denied a distinct Palestinian national identity. Growing criticism of the political leadership after the war contributed to her resignation."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1969
+        },
+        "text": {
+          "de": "Wird israelische Ministerpräsidentin.",
+          "en": "Becomes prime minister of Israel."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1974
+        },
+        "text": {
+          "de": "Unter ihrer Regierung werden Truppenentflechtungsabkommen mit Ägypten und Syrien geschlossen.",
+          "en": "Her government concludes disengagement agreements with Egypt and Syria."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Knesset — Prime Minister Golda Meir (1898–1978)",
+        "url": "https://m.knesset.gov.il/EN/About/Pages/golda.aspx",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "James L. Gelvin — From Nationalism in Palestine to Palestinian Nationalism",
+        "url": "https://www.cambridge.org/core/books/abs/israelpalestine-conflict/from-nationalism-in-palestine-to-palestinian-nationalism/FC85D7B9A9AC34CC435935A60EF848BE",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "margaret-thatcher",
+    "name": "Margaret Thatcher",
+    "aliases": [
+      "Margaret Hilda Thatcher"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1925
+    },
+    "death": {
+      "precision": "year",
+      "year": 2013
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians",
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Britische Premierministerin mit einem Programm der Privatisierung und wirtschaftlichen Deregulierung.",
+      "en": "British prime minister associated with privatization and economic deregulation."
+    },
+    "biography": {
+      "de": "Vor ihrer politischen Laufbahn arbeitete Thatcher nach einem Chemiestudium in der industriellen Forschung. Thatcher führte die konservative Regierung des Vereinigten Königreichs über elf Jahre. Sie veränderte Wirtschafts- und Sozialpolitik durch Privatisierungen, Marktmechanismen und eine Begrenzung gewerkschaftlicher Macht. Hohe Arbeitslosigkeit und Auseinandersetzungen über öffentliche Dienstleistungen begleiteten diese Veränderungen. Konflikte über Europa und ihre Führung innerhalb der eigenen Partei führten schließlich zu ihrem Rücktritt.",
+      "en": "Before entering politics, Thatcher studied chemistry and worked in industrial research. Thatcher led the United Kingdom’s Conservative government for eleven years. Privatization, market mechanisms and restrictions on trade-union power reshaped economic and social policy. High unemployment and disputes over public services accompanied these changes. Conflicts over Europe and leadership within her own party eventually led to her resignation as prime minister."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1979
+        },
+        "text": {
+          "de": "Wird erste Premierministerin des Vereinigten Königreichs.",
+          "en": "Becomes the United Kingdom’s first woman prime minister."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1980
+        },
+        "text": {
+          "de": "Der Housing Act erweitert den Erwerb von Sozialwohnungen durch ihre Mieterinnen und Mieter.",
+          "en": "The Housing Act expands tenants’ rights to purchase public housing."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "UK Government — History of Baroness Thatcher",
+        "url": "https://www.gov.uk/government/history/past-prime-ministers/margaret-thatcher",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Churchill Archives Centre — Margaret Thatcher: A biography",
+        "url": "https://archives.chu.cam.ac.uk/collections/thatcher-papers/thatcher-biography/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Jonathan Agar — Margaret Hilda Thatcher. 13 October 1925–8 April 2013 (Royal Society memoir, UCL Discovery)",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/10160154/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "benazir-bhutto",
+    "name": "Benazir Bhutto",
+    "aliases": [],
+    "birth": {
+      "precision": "year",
+      "year": 1953
+    },
+    "death": {
+      "precision": "year",
+      "year": 2007
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Pakistanische Politikerin und zweimalige Premierministerin der Pakistan Peoples Party.",
+      "en": "Pakistani politician and two-term prime minister from the Pakistan Peoples Party."
+    },
+    "biography": {
+      "de": "Bhutto engagierte sich in der Pakistan Peoples Party und erlebte unter der Militärherrschaft Haft und Exil. Zweimal übernahm sie die Regierung; beide Amtszeiten endeten mit ihrer Entlassung durch den Präsidenten. Nach erneutem Exil kehrte sie für den Wahlkampf zurück. Bei einem Anschlag nach einer Wahlkundgebung in Rawalpindi wurde sie ermordet.",
+      "en": "Bhutto worked in the Pakistan Peoples Party and experienced imprisonment and exile under military rule. She headed the government twice, with both terms ending in dismissal by the president. After another period abroad she returned to campaign. She was assassinated in an attack following an election rally in Rawalpindi."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1988
+        },
+        "text": {
+          "de": "Tritt ihre erste Amtszeit als Premierministerin an.",
+          "en": "Begins her first term as prime minister."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1993
+        },
+        "text": {
+          "de": "Kehrt als Premierministerin an die Regierungsspitze zurück.",
+          "en": "Returns to office as prime minister."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Prime Minister’s Office, Pakistan — Former Prime Ministers",
+        "url": "https://www.pmo.gov.pk/former_pms.php",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Pakistan Peoples Party Parliamentarians — Benazir Bhutto",
+        "url": "https://pppp.org.pk/website/shaheed-mohtarma-benazir-bhutto/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "United Nations — Report of the Commission of Inquiry into the Assassination of Benazir Bhutto, S/2010/191",
+        "url": "https://digitallibrary.un.org/record/681517",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "corazon-aquino",
+    "name": "Corazon Aquino",
+    "aliases": [
+      "Cory Aquino",
+      "Maria Corazon Aquino"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1933
+    },
+    "death": {
+      "precision": "year",
+      "year": 2009
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Philippinische Präsidentin nach dem Ende der Marcos-Herrschaft.",
+      "en": "Philippine president following the end of Ferdinand Marcos’s rule."
+    },
+    "biography": {
+      "de": "Aquino wurde zur politischen Gegenfigur Ferdinand Marcos’ und übernahm nach den Protesten der People-Power-Bewegung die Präsidentschaft. Ihre Regierung leitete den Übergang von einer revolutionären Übergangsordnung zu einer neuen Verfassung ein. Sie blieb bis 1992 im Amt, trotz wiederholter Versuche, ihre Regierung zu stürzen. Die Verfassungsgebung erfolgte durch eine eingesetzte Kommission und Volksabstimmung.",
+      "en": "Aquino became a political opponent of Ferdinand Marcos and assumed the presidency after the People Power protests. Her government oversaw a transition from a provisional revolutionary order to a new constitution. She remained president until 1992 despite repeated attempts to remove her. An appointed commission drafted the constitution, which voters then ratified."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1986
+        },
+        "text": {
+          "de": "Übernimmt nach der People-Power-Bewegung die Präsidentschaft.",
+          "en": "Assumes the presidency following the People Power movement."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1987
+        },
+        "text": {
+          "de": "Die neue Verfassung wird durch Volksabstimmung ratifiziert.",
+          "en": "The new constitution is ratified by a popular vote."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Women’s History Museum — Corazon Aquino",
+        "url": "https://www.womenshistory.org/education-resources/biographies/corazon-aquino",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Official Gazette of the Philippines — Philippine Constitutions",
+        "url": "https://officialgazette.gov.ph/constitutions/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "sirimavo-bandaranaike",
+    "name": "Sirimavo Bandaranaike",
+    "aliases": [
+      "Sirima Ratwatte Dias Bandaranaike"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1916
+    },
+    "death": {
+      "precision": "year",
+      "year": 2000
+    },
+    "status": "deceased",
+    "categories": [
+      "politicians"
+    ],
+    "summary": {
+      "de": "Sri-lankische Politikerin und erste Frau im Amt einer Premierministerin weltweit.",
+      "en": "Sri Lankan politician and the world’s first woman prime minister."
+    },
+    "biography": {
+      "de": "Bandaranaike übernahm die Führung der Sri Lanka Freedom Party und regierte in drei Amtszeiten. Sie setzte auf Verstaatlichungen und führte Ceylon in die Republik Sri Lanka. Ihre Bevorzugung singhalesischer Sprache und buddhistischer Institutionen verschärfte Konflikte mit tamilischen Bevölkerungsgruppen. Später wurde sie unter der Präsidentschaft ihrer Tochter erneut Premierministerin.",
+      "en": "Bandaranaike took over the Sri Lanka Freedom Party and served three terms as prime minister. She pursued nationalization and led Ceylon’s transition to the Republic of Sri Lanka. Policies favouring Sinhala and Buddhist institutions intensified tensions with Tamil communities. She later returned as prime minister under her daughter’s presidency."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1960
+        },
+        "text": {
+          "de": "Wird Premierministerin Ceylons.",
+          "en": "Becomes prime minister of Ceylon."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1972
+        },
+        "text": {
+          "de": "Während ihrer Regierung wird Ceylon zur Republik Sri Lanka.",
+          "en": "During her government Ceylon becomes the Republic of Sri Lanka."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "John F. Kennedy Presidential Library and Museum — Sirimavo Bandaranaike",
+        "url": "https://jfk.artifacts.archives.gov/people/606/sirimavo-bandaranaike%3Bjsessionid%3DBFEF8436B3A844EDD21EFEEE1AE257C6/objects",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Encyclopedia of Women in World History — Bandaranaike, Sirimavo (1916–2000)",
+        "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/bandaranaike-sirimavo-1916-2000",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Parliament of Sri Lanka — Prime Minister’s Office, Introduction",
+        "url": "https://www.parliament.lk/uploads/documents/paperspresented/1657004414028567.pdf",
+        "accessed": "2026-11-27"
+      }
+    ]
+  }
+]

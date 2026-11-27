@@ -24,15 +24,26 @@
       "en": "Investigated logic, ethics and the living world."
     },
     "biography": {
-      "de": "Aristoteles entwickelte systematische Formen des Schlussfolgerns. Seine Arbeiten zur Natur und zum menschlichen Handeln wurden über Jahrhunderte in verschiedenen philosophischen Traditionen diskutiert.",
-      "en": "Aristotle developed systematic forms of reasoning. His studies of nature and human action were debated for centuries across different philosophical traditions."
+      "de": "Aristoteles untersuchte, wie sich Wissen durch Beobachtung und begründetes Schlussfolgern gewinnen lässt. Er studierte an Platons Akademie und gründete später das Lykeion in Athen. Seine Arbeiten reichen von Logik und Ethik bis zu Politik und Tierkunde. Sie wurden über Jahrhunderte in unterschiedlichen philosophischen Traditionen aufgenommen und kritisch diskutiert.",
+      "en": "Aristotle examined how observation and reasoned argument can produce knowledge. He studied at Plato’s Academy and later founded the Lyceum in Athens. His work ranges from logic and ethics to politics and the study of animals. Across centuries, different philosophical traditions adopted, reinterpreted and challenged his ideas."
     },
-    "highlights": [],
+    "highlights": [
+      {
+        "date": {
+          "year": -335,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gründet das Lykeion in Athen als Ort gemeinsamer Forschung und Lehre.",
+          "en": "Founds the Lyceum in Athens as a centre for collaborative research and teaching."
+        }
+      }
+    ],
     "sources": [
       {
         "title": "MacTutor History of Mathematics — University of St Andrews",
         "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aristotle/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ]
   },
@@ -59,15 +70,34 @@
       "en": "Connected geometric proofs with questions of mechanics."
     },
     "biography": {
-      "de": "Archimedes arbeitete in Syrakus über Flächen, Volumina, Hebel und Auftrieb. Seine mathematischen Verfahren beeinflussten spätere Entwicklungen der Analysis; viele Einzelheiten seines Lebens sind nur lückenhaft überliefert.",
-      "en": "Working in Syracuse, Archimedes studied areas, volumes, levers and buoyancy. His mathematical methods influenced later developments in calculus; many details of his life remain poorly documented."
+      "de": "Archimedes verband in Syrakus geometrische Beweise mit Fragen der Mechanik. Er bestimmte Flächen und Volumina, untersuchte Hebel und erklärte Bedingungen des Schwimmens. Seine Annäherungsverfahren beeinflussten später die Analysis. Erhaltene Schriften geben Einblick in seine Argumente; die Reihenfolge ihrer Entstehung und viele Einzelheiten seines Lebens bleiben unsicher.",
+      "en": "Working in Syracuse, Archimedes connected geometrical proof with mechanical questions. He calculated areas and volumes, investigated levers and explained conditions under which bodies float. His approximation methods later influenced calculus. Surviving treatises reveal his arguments, but the order in which he wrote them and many details of his life remain uncertain."
     },
-    "highlights": [],
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Über Kugel und Zylinder untersucht Oberflächen und Volumina geometrischer Körper.",
+          "en": "On the Sphere and Cylinder investigates the surfaces and volumes of geometrical solids."
+        }
+      },
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Über schwimmende Körper entwickelt mathematische Argumente zum Auftrieb.",
+          "en": "On Floating Bodies develops mathematical arguments about buoyancy."
+        }
+      }
+    ],
     "sources": [
       {
         "title": "MacTutor History of Mathematics — University of St Andrews",
         "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Archimedes/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ]
   },
@@ -95,15 +125,26 @@
       "en": "Taught mathematics and Neoplatonic philosophy in Alexandria."
     },
     "biography": {
-      "de": "Hypatia war eine bedeutende Lehrerin im spätantiken Alexandria. Ihr Wirken ist vor allem durch Berichte anderer und die Briefe ihres Schülers Synesios bekannt; ihre eigenen Schriften sind nicht vollständig erhalten.",
-      "en": "Hypatia was a prominent teacher in late-antique Alexandria. Her work is known mainly through other writers and letters from her student Synesius; her own writings do not survive intact."
+      "de": "Hypatia lehrte Mathematik und neuplatonische Philosophie im spätantiken Alexandria. Sie wurde von ihrem Vater Theon ausgebildet und unterrichtete unter anderem Synesios, dessen Briefe erhalten sind. Antike Zeugnisse schreiben ihr mathematische Kommentare zu. Ihre eigenen Texte sind nicht als vollständige Werke überliefert; Umfang und Eigenständigkeit ihrer Beiträge bleiben teilweise umstritten.",
+      "en": "Hypatia taught mathematics and Neoplatonic philosophy in late-antique Alexandria. Trained by her father Theon, she taught students including Synesius, whose letters survive. Ancient accounts attribute mathematical commentaries to her. Her own texts do not survive as complete works, leaving the extent and originality of some of her contributions uncertain."
     },
-    "highlights": [],
+    "highlights": [
+      {
+        "date": {
+          "year": 400,
+          "precision": "approximate"
+        },
+        "text": {
+          "de": "Leitet eine philosophische Schule in Alexandria und unterrichtet Mathematik.",
+          "en": "Leads a philosophical school in Alexandria and teaches mathematics."
+        }
+      }
+    ],
     "sources": [
       {
         "title": "MacTutor History of Mathematics — University of St Andrews",
         "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hypatia/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ],
     "dateNote": {
@@ -136,15 +177,25 @@
       "en": "Wrote an influential work on algebraic methods."
     },
     "biography": {
-      "de": "Al-Chwarizmi arbeitete im abbasidischen Bagdad an Mathematik, Astronomie und Geografie. Sein Werk über Gleichungen prägte die Algebra; die lateinische Form seines Namens lebt im Wort Algorithmus weiter.",
-      "en": "Al-Khwarizmi worked on mathematics, astronomy and geography in Abbasid Baghdad. His work on equations shaped algebra; a Latin form of his name survives in the word algorithm."
+      "de": "Al-Chwarizmi arbeitete im abbasidischen Bagdad an Mathematik, Astronomie und Geografie. Seine Algebra ordnete Verfahren zum Lösen von Gleichungen und erläuterte praktische Anwendungen, etwa bei Erbteilungen. Eine weitere Schrift behandelte das indische Stellenwertsystem. Lateinische Übertragungen verbreiteten diese Rechenverfahren; aus einer lateinischen Form seines Namens entstand das Wort Algorithmus.",
+      "en": "Al-Khwarizmi worked on mathematics, astronomy and geography in Abbasid Baghdad. His algebra organised methods for solving equations and explained practical applications, including inheritance problems. Another work discussed the Indian place-value system. Latin translations helped circulate these methods, while a Latin form of his name became the source of the word algorithm."
     },
-    "highlights": [],
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Hisab al-jabr wa’l-muqabala behandelt Gleichungen und ihre geometrische Begründung.",
+          "en": "Hisab al-jabr wa’l-muqabala treats equations and their geometrical justification."
+        }
+      }
+    ],
     "sources": [
       {
         "title": "MacTutor History of Mathematics — University of St Andrews",
         "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ]
   },
@@ -172,15 +223,25 @@
       "en": "Investigated light, vision and geometrical optics."
     },
     "biography": {
-      "de": "Ibn al-Haytham, auch Alhazen genannt, verband mathematische Argumente mit Untersuchungen des Lichts. Seine optischen Schriften beeinflussten spätere Gelehrte in arabisch- und lateinischsprachigen Traditionen.",
-      "en": "Ibn al-Haytham, also known as Alhazen, combined mathematical arguments with investigations of light. His optical writings influenced later scholars in Arabic- and Latin-language traditions."
+      "de": "Ibn al-Haytham, auch Alhazen genannt, erforschte Licht und Sehen durch mathematische Überlegungen, Beobachtungen und Versuche. Er erklärte das Sehen durch Licht, das von Gegenständen ins Auge gelangt. Sein Buch der Optik behandelte außerdem Reflexion und Brechung. Die Übertragung ins Lateinische machte diese Arbeiten auch in europäischen Gelehrtenkreisen zugänglich.",
+      "en": "Ibn al-Haytham, also known as Alhazen, investigated light and vision through mathematics, observation and experiment. He explained vision through light entering the eye from objects. His Book of Optics also examined reflection and refraction. Its transmission in Arabic and translation into Latin made these investigations available to later scholars across different intellectual traditions."
     },
-    "highlights": [],
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Das siebenbändige Kitab al-Manazir untersucht Licht, Wahrnehmung und optische Erscheinungen.",
+          "en": "The seven-volume Kitab al-Manazir investigates light, perception and optical phenomena."
+        }
+      }
+    ],
     "sources": [
       {
         "title": "MacTutor History of Mathematics — University of St Andrews",
         "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Haytham/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ]
   }

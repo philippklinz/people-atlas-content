@@ -22,8 +22,8 @@
       "en": "Explored creation, responsibility and exclusion in Frankenstein."
     },
     "biography": {
-      "de": "Mary Shelley begann Frankenstein als junge Frau. Der Roman verbindet eine erfundene wissenschaftliche Grenzüberschreitung mit Fragen nach Verantwortung und gesellschaftlicher Zugehörigkeit.",
-      "en": "Mary Shelley began Frankenstein as a young woman. The novel connects an imagined scientific transgression with questions of responsibility and social belonging."
+      "de": "Mary Shelley begann Frankenstein im Alter von achtzehn Jahren. Der Roman verbindet eine erfundene wissenschaftliche Grenzüberschreitung mit Fragen nach Verantwortung und gesellschaftlicher Zugehörigkeit. Er erschien zunächst anonym und wurde später von ihr überarbeitet. Aufgewachsen im Umfeld radikaler politischer Ideen, entwickelte Shelley eine literarische Perspektive auf Schöpfung, Verlust und Ausgrenzung.",
+      "en": "Mary Shelley began Frankenstein at eighteen. The novel connects an imagined scientific transgression with questions of responsibility and social belonging. It first appeared anonymously and was later revised by its author. Raised amid radical political ideas, Shelley developed a literary perspective on creation, loss and exclusion that gave the story lasting resonance."
     },
     "highlights": [
       {
@@ -35,13 +35,23 @@
           "de": "Frankenstein erscheint zunächst anonym.",
           "en": "Frankenstein is first published anonymously."
         }
+      },
+      {
+        "date": {
+          "year": 1831,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht eine überarbeitete Ausgabe von Frankenstein mit einer Einleitung zur Entstehung des Romans.",
+          "en": "Publishes a revised edition of Frankenstein with an introduction describing the novel’s creation."
+        }
       }
     ],
     "sources": [
       {
         "title": "University of Oxford — Frankenstein by Mary Shelley",
         "url": "https://english.web.ox.ac.uk/node/1278201",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ]
   },
@@ -66,10 +76,20 @@
       "en": "Developed an explanation of evolutionary change through natural selection."
     },
     "biography": {
-      "de": "Darwin verband Beobachtungen von Reisen, Züchtung und Naturgeschichte. Seine Theorie entstand in einem breiten Forschungsumfeld; Alfred Russel Wallace entwickelte unabhängig ebenfalls eine Theorie natürlicher Selektion.",
-      "en": "Darwin connected observations from travel, breeding and natural history. His theory emerged within a broad research community; Alfred Russel Wallace independently developed a theory of natural selection too."
+      "de": "Darwin verband Beobachtungen der Beagle-Reise mit Untersuchungen zu Züchtung, Geologie und Naturgeschichte. Über Jahre sammelte er Belege für die Veränderlichkeit der Arten und entwickelte eine Erklärung durch natürliche Selektion. Alfred Russel Wallace gelangte unabhängig zu verwandten Überlegungen. Ihre Beiträge wurden gemeinsam vorgestellt, bevor Darwin seine ausführliche Darstellung veröffentlichte.",
+      "en": "Darwin connected observations from the Beagle voyage with studies of breeding, geology and natural history. Over many years, he gathered evidence that species change and developed an explanation through natural selection. Alfred Russel Wallace independently reached related ideas. Their contributions were presented together before Darwin published his extended account."
     },
     "highlights": [
+      {
+        "date": {
+          "year": 1858,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Darwins und Wallaces Beiträge zur natürlichen Selektion werden gemeinsam vor der Linnean Society verlesen.",
+          "en": "Darwin’s and Wallace’s contributions on natural selection are read together at the Linnean Society."
+        }
+      },
       {
         "date": {
           "year": 1859,
@@ -85,12 +105,17 @@
       {
         "title": "Darwin Correspondence Project — About Darwin",
         "url": "https://www.darwinproject.ac.uk/about-darwin",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       },
       {
         "title": "The Linnean Society — Charles Darwin",
         "url": "https://www.linnean.org/the-society/history-of-science/charles-darwin",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Linnean Society — Alfred Russel Wallace",
+        "url": "https://www.linnean.org/the-society/history-of-science/alfred-russel-wallace",
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {
@@ -132,8 +157,8 @@
       "en": "Saw possibilities for programmable machines beyond arithmetic."
     },
     "biography": {
-      "de": "Lovelaces Anmerkungen zur Analytical Engine von Charles Babbage enthalten einen Ablauf zur Berechnung von Bernoulli-Zahlen. Sie diskutierte auch, wie eine solche Maschine mit anderen symbolisch darstellbaren Gegenständen umgehen könnte.",
-      "en": "Lovelace’s notes on Charles Babbage’s Analytical Engine include a procedure for calculating Bernoulli numbers. She also discussed how such a machine could work with other symbolically represented objects."
+      "de": "Lovelace übersetzte einen Bericht Luigi Menabreas über Charles Babbages Analytical Engine und ergänzte ausführliche eigene Anmerkungen. Im Austausch mit Babbage erläuterte sie darin auch ein Verfahren zur Berechnung von Bernoulli-Zahlen. Sie erkannte, dass eine solche Maschine über Zahlen hinaus mit symbolisch darstellbaren Beziehungen arbeiten könnte, und diskutierte Musik als mögliches Beispiel.",
+      "en": "Lovelace translated Luigi Menabrea’s account of Charles Babbage’s Analytical Engine and added extensive notes of her own. Working in dialogue with Babbage, she described a procedure for calculating Bernoulli numbers. She also recognised that such a machine might manipulate symbolically represented relationships beyond arithmetic, discussing music as a possible example."
     },
     "highlights": [
       {
@@ -151,7 +176,7 @@
       {
         "title": "MacTutor History of Mathematics — University of St Andrews",
         "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lovelace/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {
@@ -189,15 +214,37 @@
       "en": "Used statistics and diagrams to support healthcare reforms."
     },
     "biography": {
-      "de": "Nightingale verband Krankenpflege mit systematischer Datenauswertung. Ihre Darstellungen von Sterblichkeit machten gesundheitliche Missstände sichtbar und unterstützten Forderungen nach besseren Bedingungen.",
-      "en": "Nightingale combined nursing with systematic data analysis. Her representations of mortality made health problems visible and supported demands for better conditions."
+      "de": "Florence Nightingale verband Krankenpflege mit statistischer Untersuchung. Während und nach dem Krimkrieg wertete sie Sterblichkeitsdaten aus und stellte vermeidbare Krankheitsursachen grafisch dar. Damit begründete sie Forderungen nach besseren hygienischen Bedingungen. Ihre Schriften und die Ausbildung von Pflegekräften in London trugen dazu bei, die Krankenpflege zu professionalisieren.",
+      "en": "Florence Nightingale connected nursing with statistical investigation. During and after the Crimean War, she analysed mortality records and visualised preventable causes of death to support demands for better sanitation. Her publications and the training of nurses in London helped establish nursing as a more systematic professional practice."
     },
-    "highlights": [],
+    "highlights": [
+      {
+        "date": {
+          "precision": "range",
+          "earliest": 1854,
+          "latest": 1856
+        },
+        "text": {
+          "de": "Erfasste und analysierte Sterblichkeitsdaten aus Militärkrankenhäusern während des Krimkriegs.",
+          "en": "Collected and analysed military-hospital mortality data during the Crimean War."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1860
+        },
+        "text": {
+          "de": "Die Nightingale Training School für Pflegekräfte eröffnete am St Thomas’ Hospital in London.",
+          "en": "The Nightingale Training School for nurses opened at St Thomas’ Hospital in London."
+        }
+      }
+    ],
     "sources": [
       {
         "title": "MacTutor History of Mathematics — University of St Andrews",
         "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Nightingale/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {
@@ -234,15 +281,41 @@
       "en": "Developed electric motors and polyphase alternating-current systems."
     },
     "biography": {
-      "de": "Tesla arbeitete an elektrischer Energieübertragung und Hochfrequenztechnik. Seine Motoren und Patente waren Teil einer breiteren industriellen Entwicklung elektrischer Netze.",
-      "en": "Tesla worked on electrical power transmission and high-frequency technology. His motors and patents formed part of the broader industrial development of electrical networks."
+      "de": "Tesla entwickelte Motoren und Systeme für mehrphasigen Wechselstrom. Nach Tätigkeiten in Europa und bei Edison arbeitete er in den USA an eigenen Erfindungen. Die Zusammenarbeit mit Westinghouse brachte seine Patente in die industrielle Energieversorgung ein. Daneben untersuchte er Hochfrequenzströme und verfolgte Pläne für drahtlose Kommunikation, die nur teilweise verwirklicht wurden.",
+      "en": "Tesla developed motors and polyphase alternating-current systems. After working in Europe and for Edison, he pursued his own inventions in the United States. Collaboration with Westinghouse brought his patents into industrial power supply. He also investigated high-frequency currents and pursued plans for wireless communication, only some of which were realised."
     },
-    "highlights": [],
+    "highlights": [
+      {
+        "date": {
+          "year": 1888,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Vergibt an Westinghouse Rechte an seinen Wechselstrommotoren.",
+          "en": "Licenses his alternating-current motor inventions to Westinghouse."
+        }
+      },
+      {
+        "date": {
+          "year": 1893,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Seine Wechselstromtechnik wird auf der Weltausstellung in Chicago öffentlich vorgeführt.",
+          "en": "His alternating-current technology is demonstrated at the World’s Columbian Exposition in Chicago."
+        }
+      }
+    ],
     "sources": [
       {
         "title": "Lemelson-MIT — Nikola Tesla",
         "url": "https://lemelson.mit.edu/resources/nikola-tesla",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Thomas Commerford Martin — The Inventions, Researches and Writings of Nikola Tesla (1894), Princeton University digitisation",
+        "url": "https://commons.princeton.edu/josephhenry/wp-content/uploads/sites/71/2019/08/The_Inventions_of_Tesla.pdf",
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {
@@ -280,10 +353,30 @@
       "en": "Connected Bengali poetry with music, art and education."
     },
     "biography": {
-      "de": "Tagores Werk umfasst Gedichte, Lieder, Erzählungen und Malerei. Er entwickelte in Santiniketan eigene Bildungsideen und trat für kulturellen Austausch ein.",
-      "en": "Tagore’s work spans poetry, songs, stories and painting. He developed educational ideas at Santiniketan and advocated cultural exchange."
+      "de": "Tagore schrieb auf Bengalisch Gedichte, Lieder, Erzählungen und Theaterstücke und arbeitete auch als Maler. In Santiniketan erprobte er eigene Bildungsideen. Englische Übertragungen seiner Gedichte machten ihn international bekannt; dabei stellte er Texte aus verschiedenen Sammlungen neu zusammen. Seine Reisen und öffentlichen Auftritte verbanden literarische Arbeit mit kulturellem Austausch.",
+      "en": "Tagore wrote Bengali poetry, songs, stories and plays, and also worked as a painter. At Santiniketan he experimented with educational ideas. English versions of his poems brought international recognition, recombining material from different Bengali collections. His travels and public appearances connected literary work with cultural exchange across national boundaries."
     },
     "highlights": [
+      {
+        "date": {
+          "year": 1910,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht die bengalische Gedichtsammlung Gitanjali.",
+          "en": "Publishes the Bengali poetry collection Gitanjali."
+        }
+      },
+      {
+        "date": {
+          "year": 1912,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gitanjali: Song Offerings erscheint mit englischen Übertragungen aus mehreren bengalischen Sammlungen.",
+          "en": "Gitanjali: Song Offerings appears with English versions drawn from several Bengali collections."
+        }
+      },
       {
         "date": {
           "year": 1913,
@@ -299,7 +392,7 @@
       {
         "title": "Nobel Prize — Rabindranath Tagore, biography",
         "url": "https://www.nobelprize.org/prizes/literature/1913/tagore/biographical/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {
@@ -333,17 +426,28 @@
     "status": "deceased",
     "categories": [
       "physicists",
-      "women-in-science"
+      "women-in-science",
+      "naturalists"
     ],
     "summary": {
       "de": "Erforschte Radioaktivität und entdeckte mit Pierre Curie neue Elemente.",
       "en": "Studied radioactivity and discovered new elements with Pierre Curie."
     },
     "biography": {
-      "de": "Curie untersuchte radioaktive Stoffe unter schwierigen Arbeitsbedingungen. Sie erhielt Nobelpreise in Physik und Chemie; ihre Forschung verband präzise Messungen mit aufwendiger chemischer Trennung.",
-      "en": "Curie investigated radioactive substances under difficult working conditions. She received Nobel Prizes in physics and chemistry, combining precise measurements with demanding chemical separations."
+      "de": "Marie Skłodowska Curie untersuchte radioaktive Stoffe durch präzise Messungen und aufwendige chemische Trennung. Gemeinsam mit Pierre Curie identifizierte sie Polonium und Radium unter schwierigen Arbeitsbedingungen. Sie entwickelte Verfahren zur Gewinnung radiumhaltiger Substanzen und förderte medizinische Anwendungen ihrer Forschung. Ihre Arbeiten wurden mit Nobelpreisen in Physik und Chemie ausgezeichnet.",
+      "en": "Marie Skłodowska Curie investigated radioactive substances through precise measurement and demanding chemical separation. Working with Pierre Curie, she identified polonium and radium under difficult laboratory conditions. She developed methods for extracting radium-bearing material and promoted medical applications of her research. Her work received Nobel Prizes in both physics and chemistry."
     },
     "highlights": [
+      {
+        "date": {
+          "year": 1898,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Marie und Pierre Curie berichten über die neuen Elemente Polonium und Radium.",
+          "en": "Marie and Pierre Curie report the new elements polonium and radium."
+        }
+      },
       {
         "date": {
           "year": 1911,
@@ -359,7 +463,12 @@
       {
         "title": "Nobel Prize — Marie Curie, biography",
         "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Nobel Prize — Marie and Pierre Curie and the discovery of polonium and radium",
+        "url": "https://www.nobelprize.org/prizes/themes/marie-and-pierre-curie-and-the-discovery-of-polonium-and-radium/",
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {
@@ -396,8 +505,8 @@
       "en": "Changed the understanding of space, time and gravitation."
     },
     "biography": {
-      "de": "Einstein entwickelte die spezielle und allgemeine Relativitätstheorie. Er arbeitete außerdem über Brownsche Bewegung und Lichtquanten; der Nobelpreis würdigte insbesondere seine Erklärung des photoelektrischen Effekts.",
-      "en": "Einstein developed special and general relativity. He also worked on Brownian motion and light quanta; his Nobel Prize particularly recognised his explanation of the photoelectric effect."
+      "de": "Einstein entwickelte die spezielle und allgemeine Relativitätstheorie und veränderte damit das Verständnis von Raum, Zeit und Gravitation. Daneben untersuchte er Brownsche Bewegung und Lichtquanten. Der Nobelpreis würdigte besonders seine Erklärung des photoelektrischen Effekts. Nach der nationalsozialistischen Machtübernahme verließ er Deutschland und arbeitete am Institute for Advanced Study in Princeton.",
+      "en": "Einstein developed special and general relativity, changing the understanding of space, time and gravitation. He also investigated Brownian motion and light quanta. His Nobel Prize particularly recognised his explanation of the photoelectric effect. After the Nazi seizure of power, he left Germany and worked at the Institute for Advanced Study in Princeton."
     },
     "highlights": [
       {
@@ -409,18 +518,28 @@
           "de": "Arbeiten zu Lichtquanten, Brownscher Bewegung und spezieller Relativität.",
           "en": "Papers on light quanta, Brownian motion and special relativity."
         }
+      },
+      {
+        "date": {
+          "year": 1916,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht eine umfassende Darstellung der allgemeinen Relativitätstheorie.",
+          "en": "Publishes a comprehensive account of the general theory of relativity."
+        }
       }
     ],
     "sources": [
       {
         "title": "Nobel Prize — Albert Einstein, biography",
         "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       },
       {
         "title": "Nobel Prize — Albert Einstein, facts",
         "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ]
   },
@@ -447,8 +566,8 @@
       "en": "Shaped abstract algebra and connected symmetries to conserved quantities."
     },
     "biography": {
-      "de": "Noethers Arbeit veränderte die Untersuchung algebraischer Strukturen. Ihr Satz über Symmetrien und Erhaltungssätze wurde grundlegend für die theoretische Physik. 1933 musste sie Deutschland verlassen.",
-      "en": "Noether’s work transformed the study of algebraic structures. Her theorem on symmetries and conservation laws became fundamental to theoretical physics. In 1933 she had to leave Germany."
+      "de": "Noether veränderte die Untersuchung algebraischer Strukturen durch abstrakte Methoden der Ring- und Idealtheorie. Ihr Satz über Symmetrien und Erhaltungssätze wurde grundlegend für die theoretische Physik. Lange erschwerten Benachteiligungen von Frauen ihre Hochschullaufbahn. 1933 entließen die Nationalsozialisten sie wegen ihrer jüdischen Herkunft; sie setzte ihre Arbeit in den USA fort.",
+      "en": "Noether transformed the study of algebraic structures through abstract methods in ring and ideal theory. Her theorem relating symmetries to conservation laws became fundamental to theoretical physics. Discrimination against women long obstructed her university career. In 1933 the Nazis dismissed her because she was Jewish; she continued working in the United States."
     },
     "highlights": [
       {
@@ -460,13 +579,23 @@
           "de": "Veröffentlichung von Invariante Variationsprobleme.",
           "en": "Publication of Invariante Variationsprobleme."
         }
+      },
+      {
+        "date": {
+          "year": 1921,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Idealtheorie in Ringbereichen entwickelt grundlegende Methoden der abstrakten Algebra.",
+          "en": "Idealtheorie in Ringbereichen develops foundational methods in abstract algebra."
+        }
       }
     ],
     "sources": [
       {
         "title": "MacTutor History of Mathematics — University of St Andrews",
         "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Noether_Emmy/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {
@@ -504,8 +633,8 @@
       "en": "Formalised computability and worked on early computers."
     },
     "biography": {
-      "de": "Turings abstraktes Maschinenmodell machte die Grenzen algorithmischer Verfahren untersuchbar. Er war außerdem an der britischen Kryptoanalyse im Zweiten Weltkrieg beteiligt und beschäftigte sich später mit mathematischer Biologie.",
-      "en": "Turing’s abstract machine model made the limits of algorithmic procedures open to study. He also contributed to British wartime cryptanalysis and later investigated mathematical biology."
+      "de": "Turing entwickelte ein abstraktes Maschinenmodell, mit dem sich die Möglichkeiten und Grenzen algorithmischer Verfahren untersuchen ließen. Im Zweiten Weltkrieg arbeitete er an der britischen Kryptoanalyse. Später beschäftigte er sich mit elektronischen Computern, maschineller Intelligenz und mathematischer Biologie. Seine Arbeit zur Musterbildung modellierte, wie chemische Reaktionen und Diffusion räumliche Strukturen hervorbringen können.",
+      "en": "Turing developed an abstract machine model for investigating the possibilities and limits of algorithmic procedures. During the Second World War he contributed to British cryptanalysis. He later worked on electronic computers, machine intelligence and mathematical biology. His research on pattern formation modelled how chemical reactions and diffusion could generate spatial structures."
     },
     "highlights": [
       {
@@ -517,13 +646,38 @@
           "de": "On Computable Numbers führt das Modell der Turingmaschine ein.",
           "en": "On Computable Numbers introduces the Turing machine model."
         }
+      },
+      {
+        "date": {
+          "year": 1950,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Computing Machinery and Intelligence untersucht maschinelles Denken mithilfe eines Imitationsspiels.",
+          "en": "Computing Machinery and Intelligence explores machine thinking through an imitation game."
+        }
+      },
+      {
+        "date": {
+          "year": 1952,
+          "precision": "year"
+        },
+        "text": {
+          "de": "The Chemical Basis of Morphogenesis beschreibt einen Mechanismus biologischer Musterbildung.",
+          "en": "The Chemical Basis of Morphogenesis describes a mechanism for biological pattern formation."
+        }
       }
     ],
     "sources": [
       {
         "title": "MacTutor History of Mathematics — University of St Andrews",
         "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Turing/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "A. M. Turing — The Chemical Basis of Morphogenesis (1952), MIT-hosted facsimile",
+        "url": "https://web.mit.edu/~kardar/www/teaching/IITS/lectures/lec8/TuringPhilTransB1952.pdf",
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {
@@ -564,8 +718,8 @@
       "en": "Combined a film career with work on a radio-control method."
     },
     "biography": {
-      "de": "Die in Wien geborene Schauspielerin entwickelte mit George Antheil ein Frequenzsprungverfahren zur Torpedosteuerung. Das gemeinsame Patent wurde 1942 erteilt.",
-      "en": "The Vienna-born actor developed a frequency-hopping method for torpedo control with George Antheil. Their joint patent was granted in 1942."
+      "de": "Die in Wien geborene Schauspielerin Hedy Lamarr entwickelte gemeinsam mit dem Komponisten George Antheil ein Verfahren zur Funksteuerung von Torpedos. Sender und Empfänger sollten synchron ihre Frequenzen wechseln, um Störungen zu erschweren. Das 1942 erteilte Patent wurde von der US-Marine damals nicht umgesetzt. Die technische Arbeit begleitete ihre Filmkarriere.",
+      "en": "Vienna-born actor Hedy Lamarr developed a radio-control method for torpedoes together with composer George Antheil. Transmitter and receiver would change frequencies in synchrony to make interference more difficult. The patent granted in 1942 was not implemented by the US Navy at the time. This technical work accompanied her film career."
     },
     "highlights": [
       {
@@ -583,7 +737,7 @@
       {
         "title": "National Women’s History Museum — Hedy Lamarr",
         "url": "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {
@@ -621,10 +775,20 @@
       "en": "Calculated trajectories for the American space programme."
     },
     "biography": {
-      "de": "Johnson arbeitete bei NACA und NASA an Flugbahnen und orbitaler Mechanik. Ihre Berechnungen unterstützten Raumflüge mit Besatzung, darunter die Mission von John Glenn und das Apollo-Programm.",
-      "en": "Johnson worked at NACA and NASA on trajectories and orbital mechanics. Her calculations supported crewed spaceflight, including John Glenn’s mission and the Apollo programme."
+      "de": "Johnson arbeitete bei NACA und NASA an Flugbahnen und orbitaler Mechanik. Sie verband mathematische Berechnungen mit der Planung von Raumflügen mit Besatzung und überprüfte Computerergebnisse für John Glenns Erdumrundung. Gemeinsam mit Kolleg:innen veröffentlichte sie technische Berichte. Ihre Arbeit unterstützte auch das Apollo-Programm, insbesondere die Abstimmung zwischen Mondlandefähre und Raumschiff im Mondorbit.",
+      "en": "Johnson worked at NACA and NASA on trajectories and orbital mechanics. She connected mathematical calculations with crewed mission planning and checked computer results for John Glenn’s orbital flight. Working with colleagues, she published technical reports. Her calculations also supported Apollo, particularly coordination between the lunar module and the spacecraft in lunar orbit."
     },
     "highlights": [
+      {
+        "date": {
+          "year": 1960,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht mit Ted Skopinski einen Bericht zur Berechnung einer Umlaufbahn mit vorgegebenem Landepunkt.",
+          "en": "Coauthors a report with Ted Skopinski on calculating an orbital flight with a specified landing point."
+        }
+      },
       {
         "date": {
           "year": 1962,
@@ -640,7 +804,7 @@
       {
         "title": "NASA — Katherine Johnson Biography",
         "url": "https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {
@@ -679,10 +843,20 @@
       "en": "Fought apartheid and became president of South Africa."
     },
     "biography": {
-      "de": "Mandela gehörte zu den führenden Akteuren des südafrikanischen Befreiungskampfes. Nach 27 Jahren Haft wirkte er an Verhandlungen zum Ende der Apartheid mit und wurde 1994 Präsident.",
-      "en": "Mandela was a leading figure in South Africa’s liberation struggle. After 27 years in prison, he helped negotiate the end of apartheid and became president in 1994."
+      "de": "Mandela gehörte zu den prägenden Persönlichkeiten des südafrikanischen Kampfes gegen die Apartheid. Er engagierte sich im ANC und war am Aufbau dessen bewaffneten Widerstands beteiligt. Nach 27 Jahren Haft wirkte er an Verhandlungen zum Ende der weißen Minderheitsherrschaft mit. Als Präsident unterstützte er den demokratischen Übergang und schied nach einer Amtszeit aus.",
+      "en": "Mandela was a leading figure in South Africa’s struggle against apartheid. Active in the ANC, he helped establish its armed resistance. After 27 years in prison, he helped negotiate an end to white minority rule. As president, he supported the democratic transition and stepped down after a single term."
     },
     "highlights": [
+      {
+        "date": {
+          "year": 1990,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wird freigelassen und beteiligt sich an den Verhandlungen über das Ende der Apartheid.",
+          "en": "Is released from prison and participates in negotiations to end apartheid."
+        }
+      },
       {
         "date": {
           "year": 1994,
@@ -698,7 +872,7 @@
       {
         "title": "Nelson Mandela Foundation — Biography",
         "url": "https://www.nelsonmandela.org/biography",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {
@@ -737,10 +911,20 @@
       "en": "Connected environmental protection with women’s rights and democratic engagement."
     },
     "biography": {
-      "de": "Die kenianische Wissenschaftlerin gründete das Green Belt Movement. Das Pflanzen von Bäumen wurde mit gemeinschaftlichem Handeln, Existenzsicherung und politischer Teilhabe verbunden.",
-      "en": "The Kenyan scientist founded the Green Belt Movement. Tree planting became connected with community action, livelihoods and political participation."
+      "de": "Die kenianische Wissenschaftlerin Wangari Maathai verband ihre Arbeit in der Veterinäranatomie mit gesellschaftlichem Engagement. Das von ihr gegründete Green Belt Movement organisierte Baumpflanzungen mit Frauengruppen. Daraus entstanden Verbindungen zwischen Umweltschutz, Existenzsicherung und politischer Teilhabe. Maathai engagierte sich außerdem für demokratische Rechte und übernahm später ein Parlamentsmandat sowie ein Regierungsamt.",
+      "en": "Kenyan scientist Wangari Maathai connected her work in veterinary anatomy with public activism. The Green Belt Movement she founded organised tree planting with women’s groups, linking environmental protection with livelihoods and political participation. Maathai also campaigned for democratic rights and later served as a member of parliament and an assistant minister."
     },
     "highlights": [
+      {
+        "date": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gründet das Green Belt Movement im Umfeld des National Council of Women of Kenya.",
+          "en": "Founds the Green Belt Movement under the auspices of the National Council of Women of Kenya."
+        }
+      },
       {
         "date": {
           "year": 2004,
@@ -756,7 +940,12 @@
       {
         "title": "Nobel Prize — Wangari Maathai, biography",
         "url": "https://www.nobelprize.org/prizes/peace/2004/maathai/biographical/",
-        "accessed": "2026-11-26"
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Green Belt Movement — Who We Are",
+        "url": "https://www.greenbeltmovement.org/who-we-are/",
+        "accessed": "2026-11-27"
       }
     ],
     "portrait": {

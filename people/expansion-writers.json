@@ -1,0 +1,2379 @@
+[
+  {
+    "id": "homer",
+    "name": "Homer",
+    "aliases": [
+      "Homeros",
+      "Ὅμηρος"
+    ],
+    "birth": {
+      "precision": "unknown"
+    },
+    "death": {
+      "precision": "unknown"
+    },
+    "status": "unknown",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Traditioneller Name hinter den griechischen Epen Ilias und Odyssee.",
+      "en": "Traditional name associated with the Greek epics Iliad and Odyssey."
+    },
+    "biography": {
+      "de": "Unter dem Namen Homer sind Ilias und Odyssee überliefert. Die Epen erzählen von Krieg, Heimkehr und dem Verhältnis zwischen Menschen und Gottheiten. Sie entstanden aus mündlichen Erzähltraditionen und prägten die griechische Bildung. Ob eine historische Person beide Werke schuf, lässt sich aus den erhaltenen Quellen nicht sicher bestimmen.",
+      "en": "The Iliad and Odyssey are transmitted under Homer’s name. These epics explore warfare, homecoming and relations between humans and gods. They developed from oral storytelling traditions and became central to Greek education. Surviving evidence does not establish whether a single historical poet created both works."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Ilias und Odyssee werden traditionell Homer zugeschrieben; ein gesichertes Entstehungsjahr fehlt.",
+          "en": "The Iliad and Odyssey are traditionally attributed to Homer; no secure composition year is known."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Poetry Foundation — Homer",
+        "url": "https://www.poetryfoundation.org/poets/homer",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Identität und Lebensdaten sind ungesichert. Die traditionelle Einordnung ins 9. oder 8. Jahrhundert v. Chr. bezeichnet keine belegte Lebensspanne.",
+      "en": "Identity and life dates are uncertain. The traditional ninth- or eighth-century BCE setting is not a documented lifespan."
+    }
+  },
+  {
+    "id": "sappho",
+    "name": "Sappho",
+    "aliases": [
+      "Σαπφώ"
+    ],
+    "birth": {
+      "year": -630,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": -570,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Dichterin aus Lesbos, deren Lyrik vor allem in Fragmenten überliefert ist.",
+      "en": "Poet from Lesbos whose lyric poetry survives mainly in fragments."
+    },
+    "biography": {
+      "de": "Sappho schrieb auf Lesbos in äolischem Griechisch. Ihre Lieder gestalten Begehren, persönliche Beziehungen und religiöse Anrufungen mit sprachlicher und metrischer Präzision. Antike Zeugnisse belegen ihre literarische Wertschätzung, erlauben aber keine lückenlose Biographie. Der fragmentarische Erhalt ihrer Dichtung macht jede Rekonstruktion von Werk und Lebensumständen abhängig von der Überlieferung.",
+      "en": "Sappho wrote in Aeolic Greek on the island of Lesbos. Her songs explore desire, personal relationships and religious address through carefully shaped language and metre. Ancient testimony records her literary reputation but cannot supply a continuous biography. Fragmentary survival makes reconstructions of both her work and her circumstances dependent on transmission."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": -600,
+          "precision": "approximate"
+        },
+        "text": {
+          "de": "Dichtet auf Lesbos Lieder, die heute überwiegend in Fragmenten überliefert sind.",
+          "en": "Composes songs on Lesbos that now survive predominantly in fragments."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Oxford Classical Dictionary — Sappho, lyric poet, c. 630–c. 570 BCE",
+        "url": "https://academic.oup.com/edited-volume/61673/chapter-abstract/550496350",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Poetry Foundation — Sappho",
+        "url": "https://www.poetryfoundation.org/poets/sappho",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Cambridge University Press — Sappho: A New Translation of the Complete Works",
+        "url": "https://www.cambridge.org/highereducation/books/sappho/6AA37FEF8D846985479CF107B2E6CD16?chapterId=9781108917896%23PRE2",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Die ungefähren Jahre folgen dem Oxford Classical Dictionary. Die Poetry Foundation nennt abweichend etwa 620–550 v. Chr.; genaue Lebensdaten sind nicht gesichert.",
+      "en": "The approximate years follow the Oxford Classical Dictionary. The Poetry Foundation instead gives about 620–550 BCE; exact life dates are not established."
+    }
+  },
+  {
+    "id": "du-fu",
+    "name": "Du Fu",
+    "aliases": [
+      "Tu Fu",
+      "杜甫"
+    ],
+    "birth": {
+      "year": 712,
+      "precision": "year"
+    },
+    "death": {
+      "year": 770,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Dichter der Tang-Zeit, der Krieg, Vertreibung und Alltag miteinander verband.",
+      "en": "Tang poet who connected warfare, displacement and everyday life in verse."
+    },
+    "biography": {
+      "de": "Du Fu suchte zunächst eine Laufbahn im Staatsdienst, erlebte aber politische Umbrüche und wiederholte Ortswechsel. Die An-Lushan-Rebellion und ihre Folgen prägen viele seiner Gedichte. Mit genauer Beobachtung von Familienleben, Hunger und Landschaft verband er persönliche Erfahrungen mit gesellschaftlichen Fragen. Seine Dichtung nutzt anspruchsvolle Formen wie das regulierte Gedicht.",
+      "en": "Du Fu initially sought a career in government but experienced political upheaval and repeated displacement. The An Lushan rebellion and its aftermath shaped much of his poetry. Close attention to family life, hunger and landscape connected personal experience with social questions. His writing also developed demanding forms such as regulated verse."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Frühlingsblick gestaltet die Erfahrung einer vom Krieg gezeichneten Hauptstadt in einem regulierten Gedicht.",
+          "en": "Spring View presents a capital scarred by war through the formal structure of regulated verse."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Poetry Foundation — Du Fu",
+        "url": "https://www.poetryfoundation.org/poets/tu-fu",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Asia for Educators — The An Lushan Rebellion",
+        "url": "https://video.afe.easia.columbia.edu/playlist/tang-poets-du-fu/china-the-an-lushan-rebellion/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "li-bai",
+    "name": "Li Bai",
+    "aliases": [
+      "Li Po",
+      "Li Bo",
+      "李白"
+    ],
+    "birth": {
+      "year": 701,
+      "precision": "year"
+    },
+    "death": {
+      "year": 762,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Dichter der Tang-Zeit mit bildreicher Lyrik über Reisen, Natur und Freundschaft.",
+      "en": "Tang poet whose vivid verse explores travel, nature and friendship."
+    },
+    "biography": {
+      "de": "Li Bai wuchs in Sichuan auf und verbrachte große Teile seines Lebens auf Reisen. Zeitweilig arbeitete er am kaiserlichen Hof, später geriet er in politische Konflikte. Seine Gedichte verbinden auffällige Bilder und einen oft gesprächsnahen Ton. Mond, Landschaft, Freundschaft und die Erfahrung des Unterwegsseins kehren in ihnen wieder.",
+      "en": "Li Bai grew up in Sichuan and spent much of his life travelling. He briefly served at the imperial court and later became entangled in political conflict. His poetry combines striking images with a frequently conversational voice. Moonlight, landscape, friendship and the experience of being away from home recur throughout his writing."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 742,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wird an die Hanlin-Akademie am kaiserlichen Hof berufen.",
+          "en": "Receives an appointment to the Hanlin Academy at the imperial court."
+        }
+      },
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Gedanken in stiller Nacht verbindet Mondlicht und Heimweh; die genaue Entstehung wird hier nicht festgelegt.",
+          "en": "Quiet Night Thoughts connects moonlight with homesickness; its exact composition date is left unspecified."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Poetry Foundation — Li Bai",
+        "url": "https://www.poetryfoundation.org/poets/li-po",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "The Poetry Foundation — A Bird Translates Silence",
+        "url": "https://www.poetryfoundation.org/articles/158883/a-bird-translates-silence",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "murasaki-shikibu",
+    "name": "Murasaki Shikibu",
+    "aliases": [
+      "紫式部"
+    ],
+    "birth": {
+      "year": 978,
+      "precision": "approximate"
+    },
+    "death": {
+      "precision": "unknown"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Japanische Hofschriftstellerin und Verfasserin der Erzählung vom Prinzen Genji.",
+      "en": "Japanese court writer and author of The Tale of Genji."
+    },
+    "biography": {
+      "de": "Murasaki Shikibu schrieb am japanischen Hof der Heian-Zeit. Genji monogatari untersucht Beziehungen, Rang und Vergänglichkeit in einer vielschichtigen höfischen Welt. Ihr Tagebuch bietet einen anderen Blick auf diese Umgebung. Der überlieferte Name ist eine höfische Bezeichnung; ihr persönlicher Name und Teile ihres Lebensverlaufs sind nicht sicher bekannt.",
+      "en": "Murasaki Shikibu wrote in the courtly world of Heian Japan. Genji monogatari explores relationships, rank and impermanence through an intricate portrayal of court society. Her diary offers another perspective on that setting. The name by which she is known is a court designation; her personal name and parts of her biography remain uncertain."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1004,
+          "precision": "approximate"
+        },
+        "text": {
+          "de": "Genji monogatari entsteht im frühen 11. Jahrhundert; das Jahr dient nur als ungefähre Einordnung.",
+          "en": "Genji monogatari takes shape in the early eleventh century; the year is only an approximate placement."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bennington College — Murasaki Shikibu",
+        "url": "https://libraryguides.bennington.edu/courtly/shikibu",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "University of Wisconsin–Madison — Japan Studies Research Guide: Literature",
+        "url": "https://researchguides.library.wisc.edu/japanstudies/literature",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Geburtsjahr ist ungefähr. Bibliotheksführer nennen unterschiedliche Todesjahre um 1014 beziehungsweise 1030; der Endpunkt bleibt deshalb unbekannt.",
+      "en": "The birth year is approximate. Library guides give differing death dates around 1014 or 1030, so the endpoint remains unknown."
+    }
+  },
+  {
+    "id": "sei-shonagon",
+    "name": "Sei Shōnagon",
+    "aliases": [
+      "Sei Shonagon",
+      "清少納言"
+    ],
+    "birth": {
+      "earliest": 966,
+      "latest": 967,
+      "precision": "range"
+    },
+    "death": {
+      "precision": "unknown"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Japanische Hofschriftstellerin, deren Kopfkissenbuch Listen, Erinnerungen und Beobachtungen verbindet.",
+      "en": "Japanese court writer whose Pillow Book combines lists, recollections and observations."
+    },
+    "biography": {
+      "de": "Sei Shōnagon gehörte zum Umfeld der Kaiserin Teishi während der Heian-Zeit. Ihr Kopfkissenbuch sammelt Alltagsszenen, literarische Urteile und sorgfältig formulierte Listen. Witz und genaue Wahrnehmung machen höfische Umgangsformen sichtbar. Außerhalb ihrer Zeit am Hof ist ihr Leben nur bruchstückhaft belegt; auch ihr überlieferter Name ist eine Amtsbezeichnung.",
+      "en": "Sei Shōnagon served in the circle of Empress Teishi during the Heian period. The Pillow Book gathers everyday scenes, literary judgements and carefully composed lists. Wit and close observation reveal the conventions of court society. Her life beyond court is poorly documented, and her familiar name is itself a court designation."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Makura no sōshi, das Kopfkissenbuch, sammelt Beobachtungen aus dem höfischen Leben um die Jahrtausendwende.",
+          "en": "Makura no sōshi, The Pillow Book, collects observations of court life around the turn of the millennium."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bennington College — Sei Shōnagon",
+        "url": "https://libraryguides.bennington.edu/courtly/shonagon",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "University of Wisconsin–Madison — Japan Studies Research Guide: Literature",
+        "url": "https://researchguides.library.wisc.edu/japanstudies/literature",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Die Geburt wird auf 966 oder 967 datiert. Die Quellen nennen unterschiedliche spätere Lebensdaten; ein gesichertes Todesjahr fehlt.",
+      "en": "Birth is dated to 966 or 967. Sources disagree about her later life; no secure death year is available."
+    }
+  },
+  {
+    "id": "ferdowsi",
+    "name": "Ferdowsi",
+    "aliases": [
+      "Firdausi",
+      "Abu’l-Qāsem Ferdowsi"
+    ],
+    "birth": {
+      "year": 940,
+      "precision": "approximate"
+    },
+    "death": {
+      "earliest": 1019,
+      "latest": 1025,
+      "precision": "range"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Persischer Dichter des Schāhnāme, einer epischen Darstellung iranischer Überlieferungen.",
+      "en": "Persian poet of the Shahnameh, an epic treatment of Iranian traditions."
+    },
+    "biography": {
+      "de": "Ferdowsi lebte in der Region Tus und arbeitete über lange Zeit am Schāhnāme. Das Epos verbindet mythische Könige, Heldenerzählungen und historische Herrschaftsfolgen in persischer Versform. Es wurde zu einem wichtigen Bezugspunkt iranischer Literatur und Erinnerungskultur. Aussagen über sein Leben müssen von späteren Legenden über den Dichter unterschieden werden.",
+      "en": "Ferdowsi lived in the region of Tus and worked over many years on the Shahnameh. The epic joins mythical kings, heroic narratives and historical dynasties in Persian verse. It became an important reference point for Iranian literature and cultural memory. Accounts of his life must be distinguished from later legends about the poet."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1010,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Vollendet eine Fassung des Schāhnāme; spätere Überarbeitungen sind davon zu unterscheiden.",
+          "en": "Completes a version of the Shahnameh, distinct from subsequent revisions."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Encyclopaedia Iranica — FERDOWSI, ABU’L-QĀSEM i. Life",
+        "url": "https://www.iranicaonline.org/articles/ferdowsi-i/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Encyclopaedia Iranica — FERDOWSI, ABU’L-QĀSEM",
+        "url": "https://www.iranicaonline.org/articles/ferdowsi/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Die Geburt um 940 ist erschlossen. Als Todesjahr werden 1019 oder 1025 genannt; die Spanne bildet diese Alternativen ab.",
+      "en": "Birth around 940 is reconstructed. The proposed death years are 1019 or 1025; the range records these alternatives."
+    }
+  },
+  {
+    "id": "rumi",
+    "name": "Jalāl al-Dīn Rūmī",
+    "aliases": [
+      "Rumi",
+      "Dschalāl ad-Dīn Muhammad Rūmī"
+    ],
+    "birth": {
+      "year": 1207,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1273,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers",
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Persischsprachiger Dichter und Sufi-Lehrer, dessen Werke religiöse Erfahrung erzählerisch erkunden.",
+      "en": "Persian-language poet and Sufi teacher whose works explore religious experience through narrative."
+    },
+    "biography": {
+      "de": "Rumi wirkte als islamischer Gelehrter und Lehrer in Konya. Seine Begegnung mit Schams von Täbris wurde für seine Dichtung bedeutsam. In lyrischen Gedichten und im Mathnawi verbinden sich Erzählungen, Auslegung und Fragen nach Liebe und Gottesnähe. Die Texte stehen in einer islamischen Gelehrten- und Sufi-Tradition, die bei ihrer heutigen Lektüre zum Kontext gehört.",
+      "en": "Rumi worked as an Islamic scholar and teacher in Konya. His encounter with Shams of Tabriz became important to his poetry. His lyrics and the Mathnawi combine stories, interpretation and questions of love and nearness to God. These works belong to Islamic scholarly and Sufi traditions that remain relevant to understanding them today."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Das Mathnawi entfaltet religiöse und ethische Fragen durch ineinander verschachtelte Verserzählungen.",
+          "en": "The Mathnawi develops religious and ethical questions through interwoven verse narratives."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Poetry Foundation — Jalal al-Din Rumi",
+        "url": "https://www.poetryfoundation.org/poets/jalal-al-din-rumi",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Encyclopaedia Iranica — RUMI, JALĀL-AL-DIN",
+        "url": "https://www.iranicaonline.org/articles/rumi-jalal-al-din/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "dante-alighieri",
+    "name": "Dante Alighieri",
+    "aliases": [
+      "Dante"
+    ],
+    "birth": {
+      "year": 1265,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1321,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Florentinischer Dichter, der die Commedia in italienischer Volkssprache verfasste.",
+      "en": "Florentine poet who wrote the Commedia in the Italian vernacular."
+    },
+    "biography": {
+      "de": "Dante beteiligte sich am politischen Leben von Florenz und verbrachte später viele Jahre im Exil. Die Commedia gestaltet eine Reise durch Hölle, Läuterungsberg und Paradies. Dabei verbindet sie Theologie, persönliche Begegnungen und Urteile über Politik. Seine volkssprachliche Dichtung und seine Überlegungen zur Sprache wirkten weit über seine Lebenszeit hinaus.",
+      "en": "Dante participated in Florentine political life and later spent many years in exile. The Commedia presents a journey through Hell, Purgatory and Paradise, combining theology, personal encounters and political judgements. His vernacular poetry and reflections on language had a lasting influence on literature well beyond his own lifetime."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1292,
+          "precision": "approximate"
+        },
+        "text": {
+          "de": "Die Vita nuova verbindet Gedichte mit Prosa über Liebe und Erinnerung.",
+          "en": "The Vita nuova joins poems with prose reflecting on love and memory."
+        }
+      },
+      {
+        "date": {
+          "year": 1321,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Bis zu seinem Todesjahr arbeitet Dante an der Commedia.",
+          "en": "Dante works on the Commedia into the year of his death."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Poetry Foundation — Dante Alighieri",
+        "url": "https://www.poetryfoundation.org/poets/dante-alighieri",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "geoffrey-chaucer",
+    "name": "Geoffrey Chaucer",
+    "aliases": [],
+    "birth": {
+      "earliest": 1340,
+      "latest": 1345,
+      "precision": "range"
+    },
+    "death": {
+      "year": 1400,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Englischer Dichter, der in den Canterbury Tales vielfältige Erzählstimmen versammelt.",
+      "en": "English poet who brought diverse storytelling voices together in The Canterbury Tales."
+    },
+    "biography": {
+      "de": "Chaucer arbeitete im königlichen Dienst, in der Zollverwaltung und auf diplomatischen Reisen. Seine mittelenglische Dichtung verarbeitete französische und italienische Literatur. In den Canterbury Tales erzählen Pilger:innen Geschichten aus unterschiedlichen sozialen Perspektiven. Das unvollendete Werk verbindet Unterhaltung, religiöse Fragen und Satire; andere Texte behandeln Liebe, Übersetzung und astronomisches Wissen.",
+      "en": "Chaucer worked in royal service, customs administration and diplomacy. His Middle English poetry drew on French and Italian writing. In The Canterbury Tales, pilgrims tell stories from contrasting social perspectives. The unfinished collection combines entertainment, religious questions and satire, while his other writings address love, translation and astronomical knowledge."
+    },
+    "highlights": [
+      {
+        "date": {
+          "earliest": 1387,
+          "latest": 1392,
+          "precision": "range"
+        },
+        "text": {
+          "de": "Beginnt in diesem Zeitraum mit den Canterbury Tales.",
+          "en": "Begins work on The Canterbury Tales within this period."
+        }
+      },
+      {
+        "date": {
+          "earliest": 1391,
+          "latest": 1392,
+          "precision": "range"
+        },
+        "text": {
+          "de": "Verfasst den Grundtext des Treatise on the Astrolabe; spätere Ergänzungen folgen.",
+          "en": "Writes the main text of A Treatise on the Astrolabe, followed by later additions."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Poetry Foundation — Geoffrey Chaucer",
+        "url": "https://www.poetryfoundation.org/poets/geoffrey-chaucer",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Harvard — A Brief Chronology of Chaucer’s Life and Times",
+        "url": "https://chaucer.fas.harvard.edu/pages/brief-chronology-chaucers-life-and-times-0",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Westminster Abbey — Geoffrey Chaucer",
+        "url": "https://www.westminster-abbey.org/abbey-commemorations/commemorations/geoffrey-chaucer",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Geburtsjahr liegt nach der Harvard-Chronologie zwischen 1340 und 1345; mehrere Werkdaten lassen sich ebenfalls nur eingrenzen.",
+      "en": "Harvard’s chronology places his birth between 1340 and 1345; several work dates can likewise only be bounded."
+    }
+  },
+  {
+    "id": "miguel-de-cervantes",
+    "name": "Miguel de Cervantes",
+    "aliases": [
+      "Miguel de Cervantes Saavedra"
+    ],
+    "birth": {
+      "year": 1547,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1616,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Spanischer Schriftsteller, der mit Don Quijote Formen des Romans erweiterte.",
+      "en": "Spanish writer whose Don Quixote expanded the possibilities of the novel."
+    },
+    "biography": {
+      "de": "Cervantes schrieb in einer Epoche, in der Ritterromane ein bekanntes literarisches Bezugssystem bildeten. Don Quijote lässt ihre Vorstellungen auf eine widersprüchliche Alltagswelt treffen. Die beiden Romanteile spielen mit Erzählinstanzen, Lektüre und der Wahrnehmung von Wirklichkeit. Zwischen Komik und ernsten Konflikten werden dabei auch die Voraussetzungen des Erzählens selbst zum Thema.",
+      "en": "Cervantes wrote in a period when romances of chivalry provided a familiar literary framework. Don Quixote brings their imagined world into collision with contradictory everyday experience. Its two parts play with narrators, reading and perceptions of reality. Moving between comedy and serious conflict, the novel also examines the conditions of storytelling itself."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1605,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der erste Teil von Don Quijote erscheint.",
+          "en": "The first part of Don Quixote is published."
+        }
+      },
+      {
+        "date": {
+          "year": 1615,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der zweite Teil von Don Quijote setzt die Geschichte fort und reflektiert ihre Bekanntheit.",
+          "en": "The second part continues Don Quixote’s story while reflecting on its fame."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Centro Virtual Cervantes — Resumen cronológico de la vida de Cervantes",
+        "url": "https://cvc.cervantes.es/literatura/clasicos/quijote/introduccion/resumen/default.htm",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Centro Virtual Cervantes — Cultura",
+        "url": "https://cvc.cervantes.es/actcult/calderon/cultura.htm",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Centro Virtual Cervantes — Don Quijote de la Mancha: Segunda parte, Lectura del capítulo I",
+        "url": "https://cvc.cervantes.es/literatura/clasicos/quijote/edicion/parte2/cap01/nota_cap_01.htm",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "william-shakespeare",
+    "name": "William Shakespeare",
+    "aliases": [],
+    "birth": {
+      "year": 1564,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1616,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Englischer Dramatiker und Dichter, dessen Bühnenwerke in vielen Formen weiterleben.",
+      "en": "English dramatist and poet whose plays continue to be adapted in many forms."
+    },
+    "biography": {
+      "de": "Shakespeare schrieb für das englische Theater der frühen Neuzeit. Seine Komödien, Historien und Tragödien bringen Fragen nach Macht, Sprache und menschlichen Beziehungen auf die Bühne. Ein großer Teil dieser Werke ist durch die Sammlung des First Folio überliefert, die zwei Theaterkollegen nach seinem Tod herausgaben und damit für spätere Aufführungen bewahrten.",
+      "en": "Shakespeare wrote for the theatre of early modern England. His comedies, histories and tragedies bring questions of power, language and human relationships onto the stage. Much of this work survives through the First Folio, a collection prepared by two theatrical colleagues after his death that preserved plays for subsequent readers and performers."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1623,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der First Folio erscheint posthum mit 36 Dramen, zusammengestellt von John Heminges und Henry Condell.",
+          "en": "The posthumous First Folio collects 36 plays, assembled by John Heminges and Henry Condell."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Shakespeare Birthplace Trust — When Was Shakespeare Born?",
+        "url": "https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/william-shakespeare/when-was-shakespeare-born/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Shakespeare Birthplace Trust — Shakespeare’s First Folio",
+        "url": "https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/shakespeares-works/shakespeares-first-folio/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Geburtsjahr 1564 ist belegt; der oft genannte 23. April ist als Geburtstag nicht gesichert.",
+      "en": "The birth year 1564 is documented; the frequently cited birthday of 23 April is not certain."
+    }
+  },
+  {
+    "id": "moliere",
+    "name": "Molière",
+    "aliases": [
+      "Jean-Baptiste Poquelin"
+    ],
+    "birth": {
+      "year": 1622,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1673,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers",
+      "artists"
+    ],
+    "summary": {
+      "de": "Französischer Dramatiker und Schauspieler, der gesellschaftliche Rollen komisch untersuchte.",
+      "en": "French playwright and actor who examined social roles through comedy."
+    },
+    "biography": {
+      "de": "Molière, geboren als Jean-Baptiste Poquelin, leitete eine Schauspieltruppe und trat selbst auf. Seine Komödien untersuchen Heuchelei, gesellschaftliche Ansprüche und das Verhalten von Menschen in Familien und Institutionen. Die Zusammenarbeit mit Musikschaffenden führte auch zu Ballettkomödien. Hofpatronage ermöglichte Aufführungen, schützte seine Stücke aber nicht durchgehend vor Verboten und Auseinandersetzungen.",
+      "en": "Molière, born Jean-Baptiste Poquelin, led a theatre company and performed as an actor. His comedies examine hypocrisy, social ambition and behaviour within families and institutions. Collaboration with musicians also produced comedy-ballets. Court patronage made performances possible but did not consistently protect his plays from prohibition and controversy."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1669,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die endgültige Fassung von Tartuffe wird nach früheren Verboten zur Aufführung zugelassen.",
+          "en": "The final version of Tartuffe is permitted after earlier prohibitions."
+        }
+      },
+      {
+        "date": {
+          "year": 1673,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Le Malade imaginaire wird aufgeführt.",
+          "en": "Le Malade imaginaire is performed."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Comédie-Française — Molière",
+        "url": "https://www.comedie-francaise.fr/moliere",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Comédie-Française — Chronologie",
+        "url": "https://www.comedie-francaise.fr/chronologie",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "johann-wolfgang-von-goethe",
+    "name": "Johann Wolfgang von Goethe",
+    "aliases": [
+      "Goethe"
+    ],
+    "birth": {
+      "year": 1749,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1832,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers",
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Schriftsteller und Naturforscher mit einem Werk aus Lyrik, Drama und Prosa.",
+      "en": "Writer and natural researcher whose work spans poetry, drama and prose."
+    },
+    "biography": {
+      "de": "Goethe verband schriftstellerische Arbeit mit naturkundlichen Interessen und politischen Aufgaben in Weimar. Die Leiden des jungen Werthers machten ihn früh einem großen Lesepublikum bekannt. Der Briefroman untersucht individuelle Gefühle im Konflikt mit sozialen Erwartungen. Seine spätere Überarbeitung zeigt zugleich, dass auch ein erfolgreiches Werk für Goethe Gegenstand weiterer gestalterischer Arbeit blieb.",
+      "en": "Goethe combined literary work with natural research and governmental responsibilities in Weimar. The Sorrows of Young Werther brought him a wide readership early in his career. This epistolary novel explores individual feeling in conflict with social expectations. His later revision also shows how an already successful book remained open to further artistic work."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1774,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Leiden des jungen Werthers erscheinen erstmals.",
+          "en": "The Sorrows of Young Werther is first published."
+        }
+      },
+      {
+        "date": {
+          "year": 1787,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Eine überarbeitete Fassung des Werther erscheint.",
+          "en": "A revised version of Werther is published."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Klassik Stiftung Weimar — Reale Personen",
+        "url": "https://goethe.klassik-stiftung.de/de/katalog/quellen/personen/reale-personen/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Klassik Stiftung Weimar — Werther",
+        "url": "https://goethe.klassik-stiftung.de/de/uber-das-portal/experimente-und-use-cases/werther/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "jane-austen",
+    "name": "Jane Austen",
+    "aliases": [],
+    "birth": {
+      "year": 1775,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1817,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Englische Romanautorin, die Beziehungen mit Eigentum, Ansehen und sozialer Stellung verknüpfte.",
+      "en": "English novelist who connected relationships with property, reputation and social position."
+    },
+    "biography": {
+      "de": "Austen wuchs in Hampshire auf und arbeitete wiederholt an frühen Romanentwürfen weiter. Ihre Bücher untersuchen die Handlungsspielräume von Frauen in einer Gesellschaft, in der Heirat und Vermögen eng verbunden waren. Präzise Dialoge und Ironie zeigen Unterschiede zwischen Selbstbild und Verhalten. Stolz und Vorurteil entstand aus dem früheren Manuskript First Impressions.",
+      "en": "Austen grew up in Hampshire and repeatedly returned to early novel drafts. Her books examine women’s choices in a society where marriage and wealth were closely connected. Precise dialogue and irony expose differences between self-image and behaviour. Pride and Prejudice developed from the earlier manuscript First Impressions through substantial revision."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1813,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Pride and Prejudice erscheint zunächst ohne ihren Namen auf dem Titelblatt.",
+          "en": "Pride and Prejudice appears without her name on the title page."
+        }
+      },
+      {
+        "date": {
+          "year": 1815,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Emma erscheint im Dezember mit der Jahreszahl 1816 auf dem Titelblatt.",
+          "en": "Emma appears in December with an 1816 date on its title page."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Jane Austen’s House — A Timeline of Jane Austen’s Life and Works",
+        "url": "https://janeaustens.house/jane-austen/timeline/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Jane Austen’s House — Pride and Prejudice",
+        "url": "https://janeaustens.house/jane-austen/novels/pride-and-prejudice/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "charlotte-bronte",
+    "name": "Charlotte Brontë",
+    "aliases": [
+      "Currer Bell"
+    ],
+    "birth": {
+      "year": 1816,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1855,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Romanautorin, deren Jane Eyre weibliche Selbstbestimmung und soziale Abhängigkeit verhandelt.",
+      "en": "Novelist whose Jane Eyre explores women’s autonomy and social dependence."
+    },
+    "biography": {
+      "de": "Charlotte Brontë wuchs im Pfarrhaus von Haworth auf und arbeitete als Lehrerin und Gouvernante. Mit ihren Geschwistern erfand sie schon früh literarische Welten. Sie veröffentlichte zunächst unter dem Namen Currer Bell. Jane Eyre verbindet die Lebensgeschichte einer jungen Frau mit moralischen Konflikten, ungleichen Machtverhältnissen und Elementen des Schauerromans.",
+      "en": "Charlotte Brontë grew up at Haworth Parsonage and worked as a teacher and governess. She and her siblings invented literary worlds from an early age. Initially publishing as Currer Bell, she brought a young woman’s life story together with moral conflict, unequal power and Gothic elements in Jane Eyre."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1847,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Jane Eyre erscheint unter dem Pseudonym Currer Bell.",
+          "en": "Jane Eyre is published under the pseudonym Currer Bell."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Poetry Foundation — Charlotte Brontë",
+        "url": "https://www.poetryfoundation.org/poets/charlotte-bronte",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Brontë Parsonage Museum — An introduction to the Brontës",
+        "url": "https://www.bronte.org.uk/the-lives-of-the-brontes",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Brontë Parsonage Museum — The Brontë novels",
+        "url": "https://www.bronte.org.uk/the-lives-of-the-brontes/the-bronte-novels",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "emily-bronte",
+    "name": "Emily Brontë",
+    "aliases": [
+      "Ellis Bell"
+    ],
+    "birth": {
+      "year": 1818,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1848,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Dichterin und Autorin von Wuthering Heights, einem Roman über Bindung und Gewalt.",
+      "en": "Poet and author of Wuthering Heights, a novel about attachment and violence."
+    },
+    "biography": {
+      "de": "Emily Brontë lebte in Yorkshire und entwickelte mit Anne die imaginäre Welt Gondal. Zunächst stand Lyrik im Mittelpunkt ihrer Arbeit. Als Ellis Bell veröffentlichte sie Wuthering Heights, dessen Landschaften und intensive Beziehungen Motive ihrer Gedichte aufgreifen. Ihre Biographie ist nur teilweise dokumentiert.",
+      "en": "Emily Brontë lived in Yorkshire and developed the imaginary world of Gondal with Anne. Poetry was initially central to her work. As Ellis Bell she published Wuthering Heights, whose landscapes and intense relationships connect with her verse. Documentation of her personal life remains incomplete."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1846,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht Gedichte gemeinsam mit Charlotte und Anne als Currer, Ellis and Acton Bell.",
+          "en": "Publishes poems with Charlotte and Anne under the names Currer, Ellis and Acton Bell."
+        }
+      },
+      {
+        "date": {
+          "year": 1847,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wuthering Heights erscheint erstmals.",
+          "en": "Wuthering Heights is first published."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Poetry Foundation — Emily Brontë",
+        "url": "https://www.poetryfoundation.org/poets/emily-bronte",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "george-eliot",
+    "name": "George Eliot",
+    "aliases": [
+      "Mary Ann Evans",
+      "Marian Evans"
+    ],
+    "birth": {
+      "year": 1819,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1880,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Romanautorin, die individuelle Entscheidungen in ihren sozialen Verflechtungen untersuchte.",
+      "en": "Novelist who examined individual choices within networks of social relationships."
+    },
+    "biography": {
+      "de": "Mary Ann Evans arbeitete in London als Autorin und Redakteurin der Westminster Review, bevor sie unter dem Namen George Eliot Romane veröffentlichte. Erinnerungen an Warwickshire flossen in ihre Prosa ein. Ihre Erzählungen verbinden persönliche Hoffnungen mit gesellschaftlichen Bindungen und moralischen Entscheidungen. Middlemarch entfaltet diese Beziehungen innerhalb einer ganzen provinziellen Gemeinschaft.",
+      "en": "Mary Ann Evans worked in London as a writer and editor of the Westminster Review before publishing novels as George Eliot. Memories of Warwickshire informed her fiction. Her narratives connect personal aspirations with social obligations and moral decisions. Middlemarch develops these relationships across an entire provincial community."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1859,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Adam Bede erscheint als ihr erster Roman.",
+          "en": "Adam Bede appears as her first novel."
+        }
+      },
+      {
+        "date": {
+          "year": 1872,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Veröffentlichung von Middlemarch, begonnen 1871, wird abgeschlossen.",
+          "en": "Publication of Middlemarch, begun in 1871, is completed."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Penguin Random House — George Eliot",
+        "url": "https://www.penguinrandomhouse.com/authors/7953/george-eliot/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "University of Warwick — A negotiation in Middlemarch",
+        "url": "https://wrap.warwick.ac.uk/id/eprint/146007/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "charles-dickens",
+    "name": "Charles Dickens",
+    "aliases": [],
+    "birth": {
+      "year": 1812,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1870,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Englischer Romancier und Journalist, der Armut und soziale Macht literarisch untersuchte.",
+      "en": "English novelist and journalist who explored poverty and social power in fiction."
+    },
+    "biography": {
+      "de": "Dickens schrieb Romane, journalistische Texte und Erzählungen für ein breites Publikum. Viele seiner Bücher erschienen zunächst in Fortsetzungen. Figuren aus armen und arbeitenden Familien machen in ihnen die Folgen ungleicher Machtverhältnisse sichtbar. Mit satirischer Zuspitzung und anschaulichen Stadtszenen widersprach er Vorstellungen, die Armut allein als persönliches moralisches Versagen erklärten.",
+      "en": "Dickens wrote novels, journalism and stories for a broad readership. Many of his books first appeared in instalments. Characters from poor and working families reveal the consequences of unequal power. Through satire and vivid urban scenes, he challenged explanations that treated poverty simply as an individual moral failure."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1839,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die seit 1837 laufende Fortsetzungsveröffentlichung von Oliver Twist endet.",
+          "en": "The serial publication of Oliver Twist, begun in 1837, concludes."
+        }
+      },
+      {
+        "date": {
+          "year": 1843,
+          "precision": "year"
+        },
+        "text": {
+          "de": "A Christmas Carol erscheint.",
+          "en": "A Christmas Carol is published."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Charles Dickens Museum — About Us",
+        "url": "https://dickensmuseum.com/en-de/pages/about-us",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Charles Dickens Museum — A Very Dickens Birthday",
+        "url": "https://dickensmuseum.com/blogs/charles-dickens-museum/a-very-dickens-birthday",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Charles Dickens Museum — Oliver Twist monthly parts",
+        "url": "https://www.collections.dickensmuseum.com/object--lib-5172",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Charles Dickens Museum — First edition of A Christmas Carol",
+        "url": "https://dickensmuseum.com/en-de/blogs/explore/first-edition-of-a-christmas-carol",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "leo-tolstoy",
+    "name": "Lew Tolstoi",
+    "aliases": [
+      "Leo Tolstoy",
+      "Lev Nikolayevich Tolstoy",
+      "Лев Николаевич Толстой"
+    ],
+    "birth": {
+      "year": 1828,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1910,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Russischer Schriftsteller, der Familiengeschichten, Krieg und ethische Fragen miteinander verband.",
+      "en": "Russian writer who connected family narratives, warfare and ethical questions."
+    },
+    "biography": {
+      "de": "Tolstoi lebte lange auf dem Familiengut Jasnaja Poljana. Seine Romane beschreiben aristokratische Gesellschaft ebenso wie bäuerliches Leben und historische Konflikte. In späteren Essays entwickelte er religiöse und ethische Positionen gegen staatliche Gewalt und soziale Ungerechtigkeit. Literarische Beobachtung und die Suche nach einer vertretbaren Lebensführung blieben in seinem Werk miteinander verbunden.",
+      "en": "Tolstoy spent much of his life at the family estate of Yasnaya Polyana. His novels depict aristocratic society alongside peasant life and historical conflict. In later essays he developed religious and ethical arguments against state violence and social injustice. Literary observation remained connected with his search for an acceptable way of living."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1869,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Krieg und Frieden wird abgeschlossen; die letzten Bände erscheinen.",
+          "en": "War and Peace is completed and its final volumes are published."
+        }
+      },
+      {
+        "date": {
+          "year": 1877,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Anna Karenina wird abgeschlossen.",
+          "en": "Anna Karenina is completed."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Institut d’études slaves — Fonds Documentaires Léon Tolstoï",
+        "url": "https://fond-documentaire.institut-etudes-slaves.fr/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Oxford World’s Classics — Anna Karenina: A Chronology of Leo Tolstoy",
+        "url": "https://api.pageplace.de/preview/DT0400.9780191662232_A23595859/preview-9780191662232_A23595859.pdf",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "fyodor-dostoevsky",
+    "name": "Fjodor Dostojewski",
+    "aliases": [
+      "Fyodor Dostoevsky",
+      "Fyodor Dostoyevsky",
+      "Фёдор Михайлович Достоевский"
+    ],
+    "birth": {
+      "year": 1821,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1881,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Russischer Romancier, der Schuld, Glauben und menschliche Entscheidungen literarisch untersuchte.",
+      "en": "Russian novelist who explored guilt, belief and human decision-making in fiction."
+    },
+    "biography": {
+      "de": "Dostojewski begann seine literarische Laufbahn in Russland mit Arme Leute. Seine Verhaftung und Haft unter dem Zaren unterbrachen diese Arbeit und prägten spätere Texte. In den großen Romanen verschränken sich religiöse Fragen mit persönlichen Konflikten und gesellschaftlichen Spannungen. Seine Figuren setzen unterschiedliche Auffassungen von Verantwortung und Lebensführung miteinander in Beziehung.",
+      "en": "Dostoevsky began his literary career in Russia with Poor Folk. Arrest and imprisonment under the tsar interrupted that work and shaped later writing. His major novels bring religious questions into contact with personal conflict and social tensions. Their characters place differing understandings of responsibility and ways of living in dialogue."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1866,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Schuld und Sühne erscheint.",
+          "en": "Crime and Punishment is published."
+        }
+      },
+      {
+        "date": {
+          "year": 1880,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die 1879 begonnene Veröffentlichung der Brüder Karamasow wird abgeschlossen.",
+          "en": "Publication of The Brothers Karamazov, begun in 1879, is completed."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Penguin Random House — Fyodor Dostoevsky",
+        "url": "https://www.penguinrandomhouse.com/authors/7324/fyodor-dostoevsky/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "anton-chekhov",
+    "name": "Anton Tschechow",
+    "aliases": [
+      "Anton Chekhov",
+      "Anton Pavlovich Chekhov",
+      "Антон Павлович Чехов"
+    ],
+    "birth": {
+      "year": 1860,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1904,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Russischer Erzähler, Dramatiker und Arzt, der das Ungesagte im Alltag gestaltete.",
+      "en": "Russian storyteller, playwright and physician who gave form to everyday life’s unspoken tensions."
+    },
+    "biography": {
+      "de": "Tschechow praktizierte als Arzt und schrieb zugleich Erzählungen und Theaterstücke. Seine Dramen verlagern Aufmerksamkeit von äußerer Handlung auf Atmosphäre, Beziehungen und nur indirekt erkennbare Konflikte. Die Möwe wurde zunächst ablehnend aufgenommen, bevor eine neue Inszenierung am Moskauer Künstlertheater Erfolg hatte. Diese Zusammenarbeit führte zur Aufführung weiterer seiner bedeutenden Stücke.",
+      "en": "Chekhov practised medicine while writing short stories and plays. His drama shifts attention from overt action towards atmosphere, relationships and conflicts that emerge indirectly. The Seagull initially received a hostile reception before a Moscow Art Theatre revival succeeded. That collaboration brought further important plays to the stage."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1896,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Möwe wird erstmals aufgeführt.",
+          "en": "The Seagull receives its first production."
+        }
+      },
+      {
+        "date": {
+          "year": 1898,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Das Moskauer Künstlertheater bringt Die Möwe in einer erfolgreichen Neuinszenierung auf die Bühne.",
+          "en": "The Moscow Art Theatre stages a successful revival of The Seagull."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Penguin Random House — Anton Chekhov",
+        "url": "https://www.penguinrandomhouse.com/authors/4761/anton-chekhov/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "franz-kafka",
+    "name": "Franz Kafka",
+    "aliases": [],
+    "birth": {
+      "year": 1883,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1924,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Deutschsprachiger Autor, dessen Erzählungen und nachgelassene Romane vielfältig weiterwirken.",
+      "en": "German-language author whose stories and posthumous novels have had a wide-ranging influence."
+    },
+    "biography": {
+      "de": "Kafka schrieb Erzählungen und Romane, von denen zu Lebzeiten nur ein Teil erschien. Die Verwandlung gehört zu den damals veröffentlichten Texten. Nach seinem Tod bewahrte Max Brod Manuskripte trotz Kafkas Vernichtungswunsch und bereitete mehrere Bücher für den Druck vor. Diese editorischen Entscheidungen gehören zur Geschichte der überlieferten Werke und ihrer internationalen Rezeption.",
+      "en": "Kafka wrote stories and novels, only some of which appeared during his lifetime. The Metamorphosis was among the texts published then. After his death, Max Brod preserved manuscripts despite Kafka’s request for their destruction and prepared several books for print. Those editorial decisions form part of the works’ transmission and international reception."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1915,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Verwandlung erscheint zuerst in einer Zeitschrift und anschließend als Buch.",
+          "en": "The Metamorphosis appears first in a periodical and then as a book."
+        }
+      },
+      {
+        "date": {
+          "year": 1925,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der Process erscheint posthum, herausgegeben von Max Brod.",
+          "en": "The Trial is published posthumously, edited by Max Brod."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "University of Oxford — Oxford Kafka 2024",
+        "url": "https://www.ox.ac.uk/news/2024-03-04-oxford-kafka-2024",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "FranzKafka.de — Die Verwandlung",
+        "url": "https://www.franzkafka.de/werk/saemtliche-titel/die-verwandlung",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Bodleian Libraries — Franz Kafka’s papers and the Bodleian Libraries",
+        "url": "https://visit.bodleian.ox.ac.uk/franz-kafka-and-the-bodleian-libraries",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "St Edmund Hall — Comparative Literature",
+        "url": "https://webdev.seh.ox.ac.uk/subjects/visiting-students/comparative-literature",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "marcel-proust",
+    "name": "Marcel Proust",
+    "aliases": [],
+    "birth": {
+      "year": 1871,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1922,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Französischer Romancier, der Erinnerung und gesellschaftliche Wahrnehmung zum Gegenstand des Erzählens machte.",
+      "en": "French novelist who made memory and social perception central subjects of fiction."
+    },
+    "biography": {
+      "de": "Proust kannte die Pariser Salonwelt aus eigener Erfahrung und verwandelte ihre Rangordnungen und Sprachgewohnheiten in Literatur. An Auf der Suche nach der verlorenen Zeit arbeitete er über viele Jahre und überarbeitete Manuskripte umfangreich. Der Romanzyklus untersucht Erinnerung und gesellschaftliche Wahrnehmung. Ein Teil der Bände erschien erst nach seinem Tod.",
+      "en": "Proust knew Parisian salon society through personal experience and transformed its hierarchies and habits of speech into literature. He worked on In Search of Lost Time over many years, extensively revising manuscripts. The novel sequence examines memory and social perception. Some of its volumes appeared only after his death."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1913,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Du côté de chez Swann eröffnet die Veröffentlichung der Recherche.",
+          "en": "Swann’s Way begins the publication of In Search of Lost Time."
+        }
+      },
+      {
+        "date": {
+          "year": 1927,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Mit Le Temps retrouvé wird die Veröffentlichung des Zyklus posthum abgeschlossen.",
+          "en": "Time Regained completes publication of the sequence posthumously."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bibliothèque nationale de France — À la recherche du temps perdu",
+        "url": "https://catalogue.bnf.fr/ark%3A/12148/cb11940457r",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Bibliothèque nationale de France — Les modèles de Marcel Proust dans les collections du département des Manuscrits",
+        "url": "https://www.bnf.fr/fr/les-modeles-de-marcel-proust-dans-les-collections-du-departement-des-manuscrits",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Bibliothèque nationale de France — In looking back one learns to see",
+        "url": "https://catalogue.bnf.fr/ark%3A/12148/cb43831208f",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "virginia-woolf",
+    "name": "Virginia Woolf",
+    "aliases": [
+      "Adeline Virginia Stephen"
+    ],
+    "birth": {
+      "year": 1882,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1941,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Britische Schriftstellerin, die Wahrnehmung, Zeit und die Bedingungen weiblichen Schreibens untersuchte.",
+      "en": "British writer who explored perception, time and the conditions of women’s writing."
+    },
+    "biography": {
+      "de": "Woolf gehörte zum Bloomsbury-Kreis und gründete mit Leonard Woolf die Hogarth Press. Ihre Romane erproben Formen, in denen innere Wahrnehmung und äußere Umgebung ineinandergreifen. In Essays untersuchte sie auch materielle und gesellschaftliche Voraussetzungen literarischer Arbeit. Ein eigenes Zimmer verbindet diese Frage ausdrücklich mit ungleichen Bildungs- und Erwerbsmöglichkeiten von Frauen.",
+      "en": "Woolf belonged to the Bloomsbury circle and founded the Hogarth Press with Leonard Woolf. Her novels experiment with the interaction of inner experience and external surroundings. Her essays also examine the material and social conditions of literary work. A Room of One’s Own explicitly connects that question with women’s unequal educational and economic opportunities."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1925,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Mrs Dalloway erscheint bei der Hogarth Press.",
+          "en": "Mrs Dalloway is published by the Hogarth Press."
+        }
+      },
+      {
+        "date": {
+          "year": 1929,
+          "precision": "year"
+        },
+        "text": {
+          "de": "A Room of One’s Own entwickelt Vorträge über Frauen und Literatur zu einem Essay weiter.",
+          "en": "A Room of One’s Own develops lectures on women and fiction into an extended essay."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Trust — Who was Virginia Woolf?",
+        "url": "https://www.nationaltrust.org.uk/visit/sussex/monks-house/who-was-virginia-woolf",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Smith College Libraries — Mrs. Dalloway",
+        "url": "https://www.smith.edu/libraries/libs/rarebook/exhibitions/conway/dalloway.htm",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Smith College Libraries — A Room of One’s Own",
+        "url": "https://www.smith.edu/libraries/libs/rarebook/exhibitions/conway/room.htm",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "toni-morrison",
+    "name": "Toni Morrison",
+    "aliases": [
+      "Chloe Anthony Wofford Morrison"
+    ],
+    "birth": {
+      "year": 1931,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2019,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "US-amerikanische Romanautorin, die Schwarze Lebensgeschichten und historische Erfahrungen erzählte.",
+      "en": "American novelist who explored Black lives and historical experience."
+    },
+    "biography": {
+      "de": "Morrison wuchs in Ohio auf, studierte und lehrte Literatur und arbeitete als Verlagslektorin. In ihren Romanen stehen Erfahrungen Schwarzer Menschen in den USA im Mittelpunkt. Unterschiedliche Erzählperspektiven verbinden individuelle Lebenswege mit Geschichte und gesellschaftlichen Bedingungen. Ihre Arbeit untersucht auch, wie Erinnerung, Verletzung und Beziehungen die Möglichkeiten eines Lebens prägen.",
+      "en": "Morrison grew up in Ohio, studied and taught literature, and worked as a publishing editor. Her novels centre Black experience in the United States. Different narrative perspectives connect individual lives with history and social conditions. Her work also examines how memory, injury and relationships shape the possibilities of a life."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1970,
+          "precision": "year"
+        },
+        "text": {
+          "de": "The Bluest Eye erscheint als ihr erster Roman.",
+          "en": "The Bluest Eye appears as her first novel."
+        }
+      },
+      {
+        "date": {
+          "year": 1987,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Beloved erscheint.",
+          "en": "Beloved is published."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Toni Morrison – Facts – NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/literature/1993/morrison/facts/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Toni Morrison – Bibliography – NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/literature/1993/morrison/bibliography/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "james-baldwin",
+    "name": "James Baldwin",
+    "aliases": [],
+    "birth": {
+      "year": 1924,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1987,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "US-amerikanischer Autor, der Rassismus, Religion und intime Beziehungen miteinander verknüpfte.",
+      "en": "American writer who connected racism, religion and intimate relationships in his work."
+    },
+    "biography": {
+      "de": "Baldwin schrieb Romane, Essays und Theaterstücke und lebte zeitweise in Frankreich. Seine Texte untersuchen die psychischen und gesellschaftlichen Folgen von Rassismus sowie familiäre und sexuelle Beziehungen. Erfahrungen aus Harlem und religiöse Konflikte prägen Go Tell It on the Mountain. Seine Essays griffen zugleich in Debatten der US-amerikanischen Bürgerrechtsbewegung ein.",
+      "en": "Baldwin wrote novels, essays and plays and lived for periods in France. His work examines the psychological and social consequences of racism alongside family and sexual relationships. Harlem experience and religious conflict shape Go Tell It on the Mountain. His essays also intervened in debates surrounding the American civil rights movement."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1953,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Go Tell It on the Mountain erscheint.",
+          "en": "Go Tell It on the Mountain is published."
+        }
+      },
+      {
+        "date": {
+          "year": 1963,
+          "precision": "year"
+        },
+        "text": {
+          "de": "The Fire Next Time erscheint mit zwei Essays über Rassismus und Religion.",
+          "en": "The Fire Next Time appears with two essays on racism and religion."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Poetry Foundation — James Baldwin",
+        "url": "https://www.poetryfoundation.org/poets/james-baldwin",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "National Museum of African American History and Culture — Spreading the Word",
+        "url": "https://nmaahc.si.edu/explore/stories/spreading-word",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "chinua-achebe",
+    "name": "Chinua Achebe",
+    "aliases": [],
+    "birth": {
+      "year": 1930,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2013,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Nigerianischer Autor, der koloniale Begegnungen und nachkoloniale Gesellschaften literarisch untersuchte.",
+      "en": "Nigerian writer who examined colonial encounters and postcolonial societies through literature."
+    },
+    "biography": {
+      "de": "Achebe schrieb Romane, Erzählungen, Gedichte und Essays. Seine Arbeiten betrachten den Einfluss kolonialer Herrschaft sowie politische und gesellschaftliche Konflikte nach der Unabhängigkeit Nigerias. Als Herausgeber der African Writers Series unterstützte er zugleich die internationale Verbreitung afrikanischer Literatur. Er vermittelte Igbo-Erzähltraditionen und lehrte zuletzt an der Brown University.",
+      "en": "Achebe wrote novels, stories, poems and essays. His work examines the impact of colonial rule and political and social conflict after Nigerian independence. As an editor of the African Writers Series, he also supported the international circulation of African literature. He helped communicate Igbo narrative traditions and later taught at Brown University."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1958,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Things Fall Apart erscheint und untersucht eine Igbo-Gesellschaft im kolonialen Umbruch.",
+          "en": "Things Fall Apart is published, examining an Igbo society during colonial upheaval."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Brown University — Chinua Achebe to receive 2010 Gish Prize",
+        "url": "https://archive2.news.brown.edu/2007-2015/articles/2010/09/achebe.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Brown University — Chinua Achebe: Writer, critic, social historian",
+        "url": "https://archive2.news.brown.edu/2007-2015/articles/2013/03/achebe.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "ngugi-wa-thiongo",
+    "name": "Ngũgĩ wa Thiong’o",
+    "aliases": [
+      "Ngugi wa Thiongo",
+      "James Thiong’o Ngũgĩ"
+    ],
+    "birth": {
+      "year": 1938,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2025,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Kenianischer Autor, der Sprache, Kolonialherrschaft und kulturelle Selbstbestimmung untersuchte.",
+      "en": "Kenyan writer who examined language, colonial rule and cultural self-determination."
+    },
+    "biography": {
+      "de": "Ngũgĩ erlebte als Jugendlicher die Gewalt der britischen Kolonialherrschaft in Kenia. Er schrieb Romane, Theaterstücke und Essays auf Englisch und Gikuyu. Nach politisch kritischen Veröffentlichungen wurde er ohne Prozess inhaftiert und lebte später im Exil. Seine Arbeit verband literarische Formen mit Fragen nach Sprachwahl, Macht und kultureller Freiheit.",
+      "en": "Ngũgĩ experienced the violence of British colonial rule in Kenya as a teenager. He wrote novels, plays and essays in English and Gikuyu. Following politically critical publications, he was imprisoned without trial and later lived in exile. His work connected literary form with questions of language choice, power and cultural freedom."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1964,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Weep Not, Child erscheint.",
+          "en": "Weep Not, Child is published."
+        }
+      },
+      {
+        "date": {
+          "year": 1986,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Decolonising the Mind untersucht die politische Bedeutung literarischer Sprachen.",
+          "en": "Decolonising the Mind examines the political significance of literary languages."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "UC Irvine — An eloquent voice for freedom",
+        "url": "https://news.uci.edu/2025/05/29/an-eloquent-voice-for-freedom/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "UC Irvine — Ngugi wa Thiong’o: Faculty profile and publications",
+        "url": "https://faculty.uci.edu/profile/?facultyId=4914",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "naguib-mahfouz",
+    "name": "Nagib Mahfuz",
+    "aliases": [
+      "Naguib Mahfouz",
+      "نجيب محفوظ"
+    ],
+    "birth": {
+      "year": 1911,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2006,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Ägyptischer Romancier, der gesellschaftlichen Wandel häufig aus Kairoer Lebenswelten erzählte.",
+      "en": "Egyptian novelist who often explored social change through the lives of Cairo’s inhabitants."
+    },
+    "biography": {
+      "de": "Mahfuz studierte Philosophie und arbeitete lange im ägyptischen Staatsdienst neben seiner schriftstellerischen Tätigkeit. Kairo wurde zum zentralen Schauplatz vieler Bücher. Seine Romane und Erzählungen untersuchen Wandel, gesellschaftliche Normen, Glauben und Vernunft. Die Kairo-Trilogie verbindet diese Fragen mit einer Familiengeschichte; andere Werke verwenden stärker symbolische oder metaphysische Erzählweisen.",
+      "en": "Mahfouz studied philosophy and worked for many years in Egyptian public service alongside his writing. Cairo became the central setting of many books. His novels and stories explore change, social norms, faith and reason. The Cairo Trilogy connects these questions with family history, while other works use more symbolic or metaphysical approaches."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1956,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Bayn al-qasrayn eröffnet die Veröffentlichung der Kairo-Trilogie.",
+          "en": "Palace Walk begins publication of the Cairo Trilogy."
+        }
+      },
+      {
+        "date": {
+          "year": 1957,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Qasr al-shawq und al-Sukkariya vervollständigen die Trilogie.",
+          "en": "Palace of Desire and Sugar Street complete the trilogy."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Naguib Mahfouz – Facts – NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/literature/1988/mahfouz/facts/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "NobelPrize.org — Naguib Mahfouz: The Son of Two Civilizations",
+        "url": "https://www.nobelprize.org/prizes/literature/1988/mahfouz/article/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "gabriel-garcia-marquez",
+    "name": "Gabriel García Márquez",
+    "aliases": [
+      "Gabriel Garcia Marquez"
+    ],
+    "birth": {
+      "year": 1927,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2014,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Kolumbianischer Schriftsteller, der historische Erfahrungen mit fantastischen Erzählelementen verband.",
+      "en": "Colombian writer who combined historical experience with fantastic narrative elements."
+    },
+    "biography": {
+      "de": "García Márquez begann als Journalist und arbeitete auch als Auslandskorrespondent. Später lebte er überwiegend in Mexiko. Seine Romane verbinden konkret verortete Welten mit ungewöhnlichen oder übernatürlichen Ereignissen, die zum Alltag der Figuren gehören. Hundert Jahre Einsamkeit machte diese Erzählweise international bekannt; weitere Werke erkunden Herrschaft, Erinnerung und Liebe.",
+      "en": "García Márquez began as a journalist and also worked as a foreign correspondent. He later lived mainly in Mexico. His novels combine specifically located worlds with unusual or supernatural events that belong to characters’ everyday experience. One Hundred Years of Solitude brought this approach international attention; other works explore power, memory and love."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1967,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Cien años de soledad erscheint.",
+          "en": "One Hundred Years of Solitude is published."
+        }
+      },
+      {
+        "date": {
+          "year": 1985,
+          "precision": "year"
+        },
+        "text": {
+          "de": "El amor en los tiempos del cólera erscheint.",
+          "en": "Love in the Time of Cholera is published."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Gabriel García Márquez – Facts – NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/literature/1982/marquez/facts/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "jorge-luis-borges",
+    "name": "Jorge Luis Borges",
+    "aliases": [],
+    "birth": {
+      "year": 1899,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1986,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Argentinischer Autor, der Erzählung, Essay und literarisches Gedankenexperiment miteinander verband.",
+      "en": "Argentine writer who brought together narrative, essay and literary thought experiment."
+    },
+    "biography": {
+      "de": "Borges schrieb Gedichte, Essays und kurze Erzählungen und leitete zeitweise die argentinische Nationalbibliothek. Er verarbeitete Literatur aus unterschiedlichen Sprachen ebenso wie Erfahrungen aus Buenos Aires. Seine Texte überschreiten häufig Gattungsgrenzen und reflektieren ihre eigenen Erzählverfahren. Die Sammlungen Ficciones und El Aleph wurden wichtige Bezugspunkte seiner internationalen Rezeption.",
+      "en": "Borges wrote poems, essays and short fiction and served as director of Argentina’s National Library. He drew on writing in different languages as well as the world of Buenos Aires. His texts often cross genre boundaries and reflect on their own narrative methods. Ficciones and The Aleph became important reference points in his international reception."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1944,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Ficciones erscheint.",
+          "en": "Ficciones is published."
+        }
+      },
+      {
+        "date": {
+          "year": 1949,
+          "precision": "year"
+        },
+        "text": {
+          "de": "El Aleph erscheint.",
+          "en": "The Aleph is published."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Poetry Foundation — Jorge Luis Borges",
+        "url": "https://www.poetryfoundation.org/poets/jorge-luis-borges",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Biblioteca Nacional Mariano Moreno — 24 de agosto de 1899: nace Jorge Luis Borges",
+        "url": "https://museo.bn.gov.ar/noticias/24-de-agosto-de-1899-nace-jorge-luis-borges",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Instituto Cervantes — Chronology of his works",
+        "url": "https://nyork.cervantes.es/en/library_spanish/Borges_english/Borges_works.htm",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "octavio-paz",
+    "name": "Octavio Paz",
+    "aliases": [],
+    "birth": {
+      "year": 1914,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1998,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Mexikanischer Dichter und Essayist, der Sprache, Geschichte und kulturelle Identität untersuchte.",
+      "en": "Mexican poet and essayist who explored language, history and cultural identity."
+    },
+    "biography": {
+      "de": "Paz begann als junger Mann Gedichte zu veröffentlichen und arbeitete später auch als Journalist, Übersetzer und Diplomat. Seine Essays untersuchen mexikanische Geschichte und kulturelle Selbstbilder. Unterschiedliche literarische und philosophische Traditionen prägten sein Denken. Neben den eigenen Büchern schuf er mit Literaturzeitschriften Räume für Debatten; Liebe und Erotik wurden wichtige Themen späterer Texte.",
+      "en": "Paz began publishing poetry as a young man and also worked as a journalist, translator and diplomat. His essays examine Mexican history and cultural self-images. Different literary and philosophical traditions informed his thinking. Alongside his books, he created forums for discussion through literary magazines; love and eroticism became important subjects in later writing."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1933,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sein erster Gedichtband Luna silvestre erscheint.",
+          "en": "His first poetry collection, Luna silvestre, is published."
+        }
+      },
+      {
+        "date": {
+          "year": 1950,
+          "precision": "year"
+        },
+        "text": {
+          "de": "El laberinto de la soledad erscheint als Essaysammlung.",
+          "en": "The Labyrinth of Solitude is published as a collection of essays."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Octavio Paz – Facts – NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/literature/1990/paz/facts/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "pablo-neruda",
+    "name": "Pablo Neruda",
+    "aliases": [],
+    "birth": {
+      "year": 1904,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1973,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers",
+      "politicians"
+    ],
+    "summary": {
+      "de": "Chilenischer Dichter, dessen Werk Liebeslyrik und politisch geprägte Geschichtsbilder umfasst.",
+      "en": "Chilean poet whose work includes love poetry and politically shaped visions of history."
+    },
+    "biography": {
+      "de": "Neruda schrieb schon als Jugendlicher und arbeitete später als Diplomat in Asien und Europa. Er war außerdem Senator der Kommunistischen Partei Chiles. Seine Dichtung umfasst Liebesgedichte, verdichtete Erfahrungen von Fremdheit und umfangreiche historische Darstellungen. Persönliche Wahrnehmung und politische Überzeugungen greifen dabei ineinander; sie kennzeichnen unterschiedliche Phasen seines Werks.",
+      "en": "Neruda began writing as a teenager and later served as a diplomat in Asia and Europe. He was also a senator for Chile’s Communist Party. His poetry ranges from love lyrics and concentrated experiences of estrangement to expansive historical writing. Personal perception and political commitments intersect across different phases of his work."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1924,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veinte poemas de amor y una canción desesperada erscheint erstmals.",
+          "en": "Twenty Love Poems and a Song of Despair is first published."
+        }
+      },
+      {
+        "date": {
+          "year": 1950,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Canto general erscheint in Mexiko.",
+          "en": "Canto General is published in Mexico."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pablo Neruda – Facts – NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/literature/1971/neruda/facts/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Biblioteca Nacional de Chile — Veinte poemas de amor y una canción desesperada",
+        "url": "https://www.memoriachilena.gob.cl/602/w3-article-98108.html",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Biblioteca Nacional de Chile — Portada de Canto general, 1950",
+        "url": "https://www.memoriachilena.gob.cl/602/w3-article-72284.html",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "gabriela-mistral",
+    "name": "Gabriela Mistral",
+    "aliases": [
+      "Lucila Godoy Alcayaga"
+    ],
+    "birth": {
+      "year": 1889,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1957,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Chilenische Dichterin und Pädagogin, die Lyrik mit gesellschaftlichem Engagement verband.",
+      "en": "Chilean poet and educator who combined literary work with social engagement."
+    },
+    "biography": {
+      "de": "Mistral, geboren als Lucila Godoy Alcayaga, arbeitete zunächst als Lehrerin. Später übernahm sie internationale Bildungsaufgaben und konsularische Tätigkeiten. Ihre Gedichte behandeln unter anderem Verlust, Natur, Reisen und Beziehungen zu Kindern. Neben Lyrik schrieb sie Zeitungsbeiträge zu gesellschaftlichen Fragen. Ihre klare Sprache verbindet persönliche Empfindungen mit unterschiedlichen Formen poetischer Gestaltung.",
+      "en": "Mistral, born Lucila Godoy Alcayaga, initially worked as a teacher. She later undertook international educational assignments and consular duties. Her poems address loss, nature, travel and relationships with children. Alongside poetry, she wrote newspaper commentary on social questions. Direct language connects personal feeling with varied forms of poetic expression."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1922,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Desolación erscheint.",
+          "en": "Desolación is published."
+        }
+      },
+      {
+        "date": {
+          "year": 1938,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Tala erscheint und erweitert ihre lyrischen Ausdrucksformen.",
+          "en": "Tala is published, extending the range of her poetic expression."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Gabriela Mistral – Facts – NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/literature/1945/mistral/facts/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "clarice-lispector",
+    "name": "Clarice Lispector",
+    "aliases": [],
+    "birth": {
+      "year": 1920,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1977,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Brasilianische Schriftstellerin, die innere Wahrnehmung mit eigenwilligen Erzählformen erschloss.",
+      "en": "Brazilian writer who explored inner experience through distinctive narrative forms."
+    },
+    "biography": {
+      "de": "Lispector war eine brasilianische Autorin ukrainischer Herkunft. Schon ihr erster Roman fiel durch eine ungewöhnliche Gestaltung von Wahrnehmung und Sprache auf. Sie schrieb Romane, Erzählungen, Kolumnen und Kinderbücher. Ihre Prosa nutzt Bewusstseinsströme und eigenwillige Satzformen; A hora da estrela verbindet die Geschichte einer Schreibkraft mit der des Erzählens selbst.",
+      "en": "Lispector was a Brazilian writer of Ukrainian origin. Her first novel already attracted attention through its unusual treatment of perception and language. She wrote novels, stories, newspaper columns and children’s books. Her prose uses streams of consciousness and distinctive syntax; The Hour of the Star joins a typist’s story with the process of telling it."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1943,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Perto do coração selvagem erscheint als ihr erster Roman.",
+          "en": "Near to the Wild Heart appears as her first novel."
+        }
+      },
+      {
+        "date": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "text": {
+          "de": "A hora da estrela erscheint.",
+          "en": "The Hour of the Star is published."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Instituto Moreira Salles — Clarice Lispector",
+        "url": "https://correio.ims.com.br/perfil/clarice-lispector/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Instituto Moreira Salles — Clarice Lispector: Livro a livro",
+        "url": "https://site.claricelispector.ims.com.br/livro-a-livro/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "sor-juana-ines-de-la-cruz",
+    "name": "Sor Juana Inés de la Cruz",
+    "aliases": [
+      "Juana Inés de Asbaje y Ramírez de Santillana",
+      "Sor Juana"
+    ],
+    "birth": {
+      "earliest": 1648,
+      "latest": 1651,
+      "precision": "range"
+    },
+    "death": {
+      "year": 1695,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Schriftstellerin und Ordensfrau in Neuspanien, die den Bildungsanspruch von Frauen verteidigte.",
+      "en": "Writer and nun in New Spain who defended women’s intellectual education."
+    },
+    "biography": {
+      "de": "Sor Juana lebte im kolonialen Mexiko und schrieb Gedichte, Theaterstücke und gelehrte Prosa. Das Kloster bot ihr einen Ort für umfangreiche Lektüre und literarische Arbeit. In einer Auseinandersetzung mit kirchlichen Autoritäten verteidigte sie ihre Beschäftigung mit Wissen. Ihre Antwort an Sor Filotea verbindet persönliche Rückschau mit Argumenten für die geistige Bildung von Frauen.",
+      "en": "Sor Juana lived in colonial Mexico and wrote poetry, plays and learned prose. Convent life provided a setting for extensive reading and literary work. In a dispute with ecclesiastical authorities, she defended her pursuit of knowledge. Her reply to Sor Filotea combines personal reflection with arguments for women’s intellectual education."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1691,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Verfasst die Respuesta a Sor Filotea de la Cruz zur Verteidigung ihrer geistigen Arbeit.",
+          "en": "Writes the Reply to Sor Filotea de la Cruz in defence of her intellectual work."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Poetry Foundation — Sor Juana Inés de la Cruz",
+        "url": "https://www.poetryfoundation.org/poets/sor-juana",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "UNAM — Carta atenagórica; Respuesta a Sor Filotea",
+        "url": "https://sibila.iib.unam.mx/index.php/Detail/Object/Show/object_id/2596",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "UNAM — Sor Juana ante la muerte",
+        "url": "https://historicas.unam.mx/publicaciones/publicadigital/libros/775/sorjuana_ante.html",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Die Quellen nennen 1648 oder 1651 als Geburtsjahr. Die Spanne hält diese Alternativen fest; 1695 als Todesjahr ist gesichert.",
+      "en": "Sources give either 1648 or 1651 as the birth year. The range preserves these alternatives; the death year 1695 is established."
+    }
+  },
+  {
+    "id": "lu-xun",
+    "name": "Lu Xun",
+    "aliases": [
+      "鲁迅"
+    ],
+    "birth": {
+      "year": 1881,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1936,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Chinesischer Autor, der soziale Konventionen durch moderne Erzählformen und Satire befragte.",
+      "en": "Chinese writer who questioned social conventions through modern narrative forms and satire."
+    },
+    "biography": {
+      "de": "Lu Xuns Erzählungen wurden zu wichtigen Bezugspunkten moderner chinesischer Literatur. Er verband Elemente überlieferter Erzählkunst mit neuen sprachlichen und formalen Möglichkeiten. Tagebuch eines Verrückten arbeitet mit einer verstörten Ich-Perspektive, um gesellschaftliche Normen zu befragen. Andere Geschichten untersuchen Selbsttäuschung, soziale Abhängigkeit und den Alltag von Menschen in einer Gesellschaft im Umbruch.",
+      "en": "Lu Xun’s stories became important reference points in modern Chinese literature. He combined inherited storytelling practices with new linguistic and formal possibilities. A Madman’s Diary uses a disturbed first-person perspective to question social norms. Other stories examine self-deception, social dependence and everyday experience within a society undergoing upheaval."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1918,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Tagebuch eines Verrückten erscheint in der Zeitschrift New Youth.",
+          "en": "A Madman’s Diary is published in the journal New Youth."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "ChinaCulture — Lu Xun’s Fictions",
+        "url": "https://en.chinaculture.org/library/2008-01/09/content_41679.htm",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "yasunari-kawabata",
+    "name": "Yasunari Kawabata",
+    "aliases": [
+      "Kawabata Yasunari",
+      "川端康成"
+    ],
+    "birth": {
+      "year": 1899,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1972,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Japanischer Schriftsteller, dessen Romane moderne literarische Formen und genaue Wahrnehmung verbinden.",
+      "en": "Japanese writer whose novels combine modern literary forms with close attention to perception."
+    },
+    "biography": {
+      "de": "Kawabata studierte in Tokio und gehörte zu den Gründern der Literaturzeitschrift Bungei Jidai. Diese bot einem neuen literarischen Ansatz ein Forum. Er schrieb Erzählungen und Romane und übernahm später Aufgaben im japanischen PEN-Club. Schneeland machte ihn einem breiten Lesepublikum bekannt; weitere Bücher erschienen zunächst in Fortsetzungen.",
+      "en": "Kawabata studied in Tokyo and helped found the literary magazine Bungei Jidai, which provided a forum for a new approach to writing. He produced stories and novels and later held office in Japan’s PEN Club. Snow Country established a wider readership for his work; several subsequent books began as serial publications."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1937,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Eine erste Buchfassung von Yukiguni, Schneeland, erscheint.",
+          "en": "An initial book version of Yukiguni, Snow Country, is published."
+        }
+      },
+      {
+        "date": {
+          "year": 1947,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Schließt die weitere Arbeit an Schneeland ab.",
+          "en": "Completes further work on Snow Country."
+        }
+      },
+      {
+        "date": {
+          "year": 1962,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Koto, Die alte Hauptstadt, erscheint.",
+          "en": "Koto, The Old Capital, is published."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Yasunari Kawabata – Facts – NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/literature/1968/kawabata/facts/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "National Diet Library — KAWABATA Yasunari",
+        "url": "https://www.ndl.go.jp/portrait/e/datas/6086/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "wislawa-szymborska",
+    "name": "Wisława Szymborska",
+    "aliases": [
+      "Wislawa Szymborska"
+    ],
+    "birth": {
+      "year": 1923,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2012,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "writers"
+    ],
+    "summary": {
+      "de": "Polnische Dichterin, die große Fragen aus alltäglichen Beobachtungen entwickelte.",
+      "en": "Polish poet who developed large questions from everyday observations."
+    },
+    "biography": {
+      "de": "Szymborska lebte überwiegend in Krakau und arbeitete als Redakteurin, Kolumnistin und Übersetzerin französischer Lyrik. Ihre Gedichte nähern sich Fragen menschlicher Existenz mit konzentrierter Sprache, überraschenden Wendungen und Ironie. Kleine Beobachtungen können dabei weite zeitliche oder historische Perspektiven öffnen. Neben Gedichtbänden veröffentlichte sie auch literarische Besprechungen und Essays.",
+      "en": "Szymborska lived mainly in Kraków and worked as an editor, columnist and translator of French poetry. Her poems approach questions of human existence through concentrated language, unexpected turns and irony. Small observations can open broad temporal or historical perspectives. Alongside poetry collections, she also published literary reviews and essays."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1957,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wołanie do Yeti erscheint.",
+          "en": "Calling Out to Yeti is published."
+        }
+      },
+      {
+        "date": {
+          "year": 1993,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Koniec i początek erscheint.",
+          "en": "The End and the Beginning is published."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Wisława Szymborska – Facts – NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/literature/1996/szymborska/facts/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Wisława Szymborska – Biographical – NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/literature/1996/szymborska/biographical/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  }
+]

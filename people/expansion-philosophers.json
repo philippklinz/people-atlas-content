@@ -1,0 +1,1917 @@
+[
+  {
+    "id": "socrates",
+    "name": "Sokrates",
+    "aliases": [
+      "Socrates"
+    ],
+    "birth": {
+      "year": -469,
+      "precision": "year"
+    },
+    "death": {
+      "year": -399,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Prüfte Vorstellungen von Wissen und gutem Handeln im Gespräch.",
+      "en": "Examined claims about knowledge and right conduct through dialogue."
+    },
+    "biography": {
+      "de": "Sokrates führte in Athen Gespräche über Tugend, Wissen und die richtige Lebensführung. Er hinterließ keine eigenen Schriften; sein Denken ist durch unterschiedliche Darstellungen etwa bei Platon und Xenophon überliefert. Die Schwierigkeit, diese Stimmen vom historischen Sokrates zu unterscheiden, gehört selbst zur Forschung über ihn.",
+      "en": "Socrates questioned people in Athens about virtue, knowledge and how to live. He left no writings of his own; accounts by Plato, Xenophon and others present differing pictures of his thought. Distinguishing their literary portrayals from the historical person remains a central problem for scholarship."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": -399,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Sein Prozess und seine Verteidigung werden Gegenstand späterer sokratischer Schriften.",
+          "en": "His trial and defence become subjects of later Socratic writings."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Socrates",
+        "url": "https://plato.stanford.edu/entries/socrates/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "plato",
+    "name": "Platon",
+    "aliases": [
+      "Plato"
+    ],
+    "birth": {
+      "year": -429,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": -347,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers",
+      "writers"
+    ],
+    "summary": {
+      "de": "Erkundete Erkenntnis, Gerechtigkeit und Wirklichkeit in philosophischen Dialogen.",
+      "en": "Explored knowledge, justice and reality through philosophical dialogues."
+    },
+    "biography": {
+      "de": "Platon gehörte zur intellektuellen Welt Athens und machte das Gespräch zu einer literarischen Form philosophischer Untersuchung. Viele seiner Dialoge lassen Sokrates auftreten. Sie verbinden Fragen nach einem guten Gemeinwesen mit Überlegungen zu Wissen, Seele und Ideen; wie einheitlich Platons eigene Positionen darin sind, bleibt umstritten.",
+      "en": "Plato belonged to the intellectual world of Athens and made dialogue a literary form of philosophical inquiry. Many works feature Socrates. They connect questions about a just community with investigations of knowledge, the soul and forms; how consistently the dialogues express a single doctrine remains debated."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die Politeia untersucht Gerechtigkeit und die Ordnung eines Gemeinwesens.",
+          "en": "The Republic investigates justice and the organization of a community."
+        }
+      },
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Der Phaidon verbindet Fragen zur Seele mit philosophischer Argumentation.",
+          "en": "The Phaedo develops philosophical arguments concerning the soul."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Plato",
+        "url": "https://plato.stanford.edu/entries/plato/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Geburtsjahr folgt der ungefähren Angabe 429 v. u. Z. in der Stanford Encyclopedia; die Dialoge sind nicht sicher auf einzelne Jahre datierbar.",
+      "en": "The birth year follows the Stanford Encyclopedia’s approximate 429 BCE; individual dialogues cannot be securely assigned exact years."
+    }
+  },
+  {
+    "id": "confucius",
+    "name": "Konfuzius",
+    "aliases": [
+      "Confucius",
+      "Kongzi",
+      "Kong Qiu",
+      "Kong Fuzi"
+    ],
+    "birth": {
+      "year": -551,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": -479,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Verband moralische Selbstbildung mit Ritualen und verantwortlicher Regierung.",
+      "en": "Connected moral self-cultivation with ritual and responsible government."
+    },
+    "biography": {
+      "de": "Konfuzius wurde in späteren Überlieferungen als Lehrer, Berater und Erneuerer gesellschaftlicher Ordnung beschrieben. Die Gespräche im Lunyu betonen Menschlichkeit, angemessenes Verhalten und Lernen. Seine Lehren wurden von verschiedenen Schulen weiterentwickelt; die überlieferten Texte vermitteln daher kein unmittelbares, einheitliches Protokoll seines Lebens oder Denkens.",
+      "en": "Later traditions portrayed Confucius as a teacher, adviser and reformer of social life. Conversations in the Analects emphasize humane conduct, appropriate ritual and learning. Different schools developed his teachings, so the surviving texts do not provide a single, direct transcript of either his life or his thought."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die nach seinem Leben überlieferten Analekten sammeln Lehrgespräche und Aussprüche.",
+          "en": "The Analects, transmitted after his lifetime, collect teaching conversations and sayings."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Confucius",
+        "url": "https://plato.stanford.edu/entries/confucius/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "551–479 v. u. Z. sind traditionelle Lebensdaten; frühe Berichte wurden über längere Zeit zusammengestellt.",
+      "en": "551–479 BCE are traditional life dates; early accounts were assembled over an extended period."
+    }
+  },
+  {
+    "id": "laozi",
+    "name": "Laozi",
+    "aliases": [
+      "Lao-tzu",
+      "Laotse",
+      "Lao Dan"
+    ],
+    "birth": {
+      "precision": "unknown"
+    },
+    "death": {
+      "precision": "unknown"
+    },
+    "status": "unknown",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Traditioneller Name hinter dem Daodejing und seinen Fragen nach dem Dao.",
+      "en": "The traditional figure associated with the Daodejing and its account of the Dao."
+    },
+    "biography": {
+      "de": "Laozi nimmt in daoistischen Traditionen eine zentrale Stellung ein. Das ihm zugeschriebene Daodejing untersucht den Weg, Natürlichkeit und Handeln ohne erzwungene Eingriffe. Ob hinter dem Namen eine einzelne historische Person steht und wann sie lebte, ist nicht gesichert; biografische Erzählungen sind von der Textgeschichte zu unterscheiden.",
+      "en": "Laozi occupies a central place in Daoist traditions. The Daodejing attributed to him examines the Way, naturalness and action without coercive interference. Whether the name identifies one historical person, and when that person lived, remain uncertain. Biographical traditions must therefore be distinguished from the history of the text."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Das Daodejing wird Laozi traditionell zugeschrieben; Autorschaft und Entstehungszeit sind umstritten.",
+          "en": "The Daodejing is traditionally attributed to Laozi; its authorship and composition remain disputed."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Laozi",
+        "url": "https://plato.stanford.edu/entries/laozi/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Historische Identität sowie Geburts- und Todesdaten sind nicht gesichert. Auch die Entstehungszeit des zugeschriebenen Textes ist umstritten.",
+      "en": "The historical identity and dates of birth and death are not established. The dating of the attributed text is also disputed."
+    }
+  },
+  {
+    "id": "zhuangzi",
+    "name": "Zhuangzi",
+    "aliases": [
+      "Zhuang Zhou",
+      "Chuang-tzu"
+    ],
+    "birth": {
+      "year": -369,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": -286,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers",
+      "writers"
+    ],
+    "summary": {
+      "de": "Nutzte Geschichten, um Perspektiven, Sprache und Gewissheiten zu hinterfragen.",
+      "en": "Used stories to question perspectives, language and certainty."
+    },
+    "biography": {
+      "de": "Zhuangzi wird mit den frühen Schichten des gleichnamigen daoistischen Werkes verbunden. Dessen Erzählungen und überraschende Perspektivwechsel prüfen, wie Sprache und Gewohnheiten unser Urteil lenken. Das erhaltene Buch enthält jedoch auch Texte anderer Autor:innen; nicht jede seiner Positionen lässt sich dem historischen Zhuang Zhou zuschreiben.",
+      "en": "Zhuangzi is associated with early layers of the Daoist text bearing his name. Its stories and shifts of perspective examine how language and habit shape judgment. The surviving collection also contains other authors’ writings, however, so not every position in it can be assigned to the historical Zhuang Zhou."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die ihm zugeordneten Texte arbeiten mit Parabeln, Dialogen und wechselnden Standpunkten.",
+          "en": "Texts associated with him develop arguments through parables, dialogues and shifting viewpoints."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Zhuangzi",
+        "url": "https://plato.stanford.edu/entries/zhuangzi/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Princeton University Press — Chinese chronology, introductory excerpt",
+        "url": "https://pup-assets.imgix.net/onix/images/9780691276465/9780691276465.pdf",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Die Lebensjahre sind konventionelle Näherungen; über das Leben ist nur wenig zuverlässig bekannt.",
+      "en": "The life years are conventional approximations; little biographical information is securely known."
+    }
+  },
+  {
+    "id": "mozi",
+    "name": "Mozi",
+    "aliases": [
+      "Mo Di",
+      "Mo Tzu"
+    ],
+    "birth": {
+      "year": -470,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": -391,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Begründete eine Ethik unparteiischer Fürsorge und kritisierte Angriffskriege.",
+      "en": "Developed an ethic of impartial concern and criticized aggressive warfare."
+    },
+    "biography": {
+      "de": "Mozi gab einer philosophischen und sozialen Bewegung im alten China ihren Namen. Mohistische Argumente bewerten Handlungen nach ihrem Nutzen für die Gemeinschaft und wenden sich gegen Verschwendung und militärische Aggression. Die Sammlung Mozi enthält verschiedene Textschichten; spätere technische und logische Untersuchungen gehören zur Schule, nicht automatisch zu seiner eigenen Arbeit.",
+      "en": "Mozi gave his name to a philosophical and social movement in ancient China. Mohist arguments assess conduct through its benefit to the community and oppose waste and military aggression. The Mozi collection contains multiple layers; later technical and logical investigations belong to the school rather than automatically to its founder."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": -430,
+          "precision": "approximate"
+        },
+        "text": {
+          "de": "Lehrt unparteiische Fürsorge und begründet moralische Urteile durch ihren gesellschaftlichen Nutzen.",
+          "en": "Teaches impartial concern and argues for evaluating conduct through social benefit."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Mohism",
+        "url": "https://plato.stanford.edu/entries/mohism/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Internet Encyclopedia of Philosophy — Chinese Philosophy: Overview of History",
+        "url": "https://iep.utm.edu/chinese-philosophy-overview-of-history/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Die ungefähren Lebensjahre folgen der IEP; die Stanford Encyclopedia nennt als Wirkungszeit etwa 430 v. u. Z.",
+      "en": "Approximate life years follow the IEP; the Stanford Encyclopedia places his activity around 430 BCE."
+    }
+  },
+  {
+    "id": "mencius",
+    "name": "Mengzi",
+    "aliases": [
+      "Mencius",
+      "Meng Ke",
+      "Meng-tzu"
+    ],
+    "birth": {
+      "year": -372,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": -289,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Untersuchte moralische Anlagen, Mitgefühl und die Verantwortung von Herrschenden.",
+      "en": "Examined moral dispositions, compassion and the responsibilities of rulers."
+    },
+    "biography": {
+      "de": "Mengzi entwickelte die konfuzianische Tradition in einer Zeit konkurrierender chinesischer Staaten weiter. Er argumentierte, dass Menschen Anlagen zu moralischem Handeln besitzen, die gepflegt werden müssen. Das nach ihm benannte Werk überliefert Gespräche und Streitgespräche; es wurde wahrscheinlich in seinem Umfeld oder von späteren Angehörigen seiner Schule zusammengestellt.",
+      "en": "Mencius developed the Confucian tradition during an era of competing Chinese states. He argued that people possess dispositions toward moral conduct that require cultivation. The work bearing his name preserves conversations and debates, probably assembled by his disciples or their successors rather than written as a single treatise by him."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Das Mengzi erläutert moralische Entwicklung anhand von Mitgefühl und anderen grundlegenden Anlagen.",
+          "en": "The Mengzi explains moral development through compassion and other basic dispositions."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Mencius",
+        "url": "https://plato.stanford.edu/entries/mencius/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Internet Encyclopedia of Philosophy — Chinese Philosophy: Overview of History",
+        "url": "https://iep.utm.edu/chinese-philosophy-overview-of-history/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Die Lebensjahre sind ungefähre traditionelle Angaben.",
+      "en": "The life years are approximate traditional dates."
+    }
+  },
+  {
+    "id": "xunzi",
+    "name": "Xunzi",
+    "aliases": [
+      "Xun Kuang",
+      "Hsün-tzu"
+    ],
+    "birth": {
+      "year": -310,
+      "precision": "approximate"
+    },
+    "death": {
+      "precision": "unknown"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Betonte Lernen, Rituale und bewusste Arbeit an moralischem Verhalten.",
+      "en": "Emphasized learning, ritual and deliberate cultivation of moral conduct."
+    },
+    "biography": {
+      "de": "Xunzi vertrat innerhalb der konfuzianischen Tradition eine andere Sicht auf die menschliche Natur als Mengzi. Gute Ordnung entsteht für ihn durch Lernen, Rituale und bewusste Gestaltung. Seine überlieferten Essays untersuchen auch Sprache und Erkenntnis. Sie wurden nach seinem Tod zusammengestellt; die Einzelheiten seines Lebens bleiben unsicher.",
+      "en": "Within the Confucian tradition, Xunzi offered an account of human nature different from Mencius’s. Good order requires learning, ritual and deliberate cultivation. His surviving essays also examine language and knowledge. They were assembled after his death, while the details of his life remain uncertain and sometimes contradictory."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die Essays des Xunzi untersuchen Erziehung, Sprache und gesellschaftliche Ordnung.",
+          "en": "The Xunzi essays investigate education, language and social order."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Xunzi",
+        "url": "https://plato.stanford.edu/entries/xunzi/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Seine Geburt wird um 310 v. u. Z. angesetzt; das Todesjahr ist unbekannt. Er lebte noch nach 238 v. u. Z.",
+      "en": "His birth is placed around 310 BCE; the death year is unknown. He was still alive after 238 BCE."
+    }
+  },
+  {
+    "id": "nagarjuna",
+    "name": "Nāgārjuna",
+    "aliases": [
+      "Nagarjuna"
+    ],
+    "birth": {
+      "precision": "unknown"
+    },
+    "death": {
+      "precision": "unknown"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Entwickelte Madhyamaka-Argumente über Leerheit und abhängiges Entstehen.",
+      "en": "Developed Madhyamaka arguments about emptiness and dependent arising."
+    },
+    "biography": {
+      "de": "Nāgārjuna war ein buddhistischer Denker, dessen Arbeiten die Madhyamaka-Tradition prägten. Er untersuchte, ob Dinge eine von Beziehungen unabhängige Eigennatur besitzen können. Über sein Leben ist wenig gesichert, und zahlreiche später zugeschriebene Texte stammen möglicherweise von anderen Autor:innen. Seine Argumente wurden in mehreren asiatischen philosophischen Traditionen weiterentwickelt.",
+      "en": "Nāgārjuna was a Buddhist thinker whose arguments shaped the Madhyamaka tradition. He examined whether anything could possess an intrinsic nature independent of relations. Little about his life is secure, and many later attributions may concern other authors. His arguments were developed further across several Asian philosophical traditions."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die Mūlamadhyamakakārikā untersucht unter anderem Ursache, Veränderung und Leerheit.",
+          "en": "The Mūlamadhyamakakārikā examines causation, change and emptiness."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Nāgārjuna",
+        "url": "https://plato.stanford.edu/entries/nagarjuna/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Er wird gewöhnlich im 2. bis 3. Jahrhundert verortet; gesicherte Geburts- und Todesjahre fehlen.",
+      "en": "He is usually placed in the second to third centuries; secure birth and death years are unavailable."
+    }
+  },
+  {
+    "id": "shankara",
+    "name": "Śaṅkara",
+    "aliases": [
+      "Shankara",
+      "Adi Shankara",
+      "Shankaracharya"
+    ],
+    "birth": {
+      "year": 700,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 750,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Formulierte die Nichtdualität von Selbst und Brahman im Advaita Vedānta.",
+      "en": "Articulated the nonduality of self and Brahman in Advaita Vedānta."
+    },
+    "biography": {
+      "de": "Śaṅkara legte Texte der Upanishaden und des Vedānta aus und entwickelte Argumente über Bewusstsein, Wissen und Befreiung. Seine Lehre versteht das grundlegende Selbst nicht als getrennt von Brahman. Spätere Lebensbeschreibungen sind stark hagiografisch geprägt; für die Rekonstruktion seines Denkens sind deshalb seine philosophischen Werke wichtiger als Reiselegenden.",
+      "en": "Śaṅkara interpreted Upanishadic and Vedānta texts and developed arguments about consciousness, knowledge and liberation. His teaching understands the fundamental self as non-separate from Brahman. Later biographies are strongly hagiographical, making his philosophical writings more reliable evidence for his thought than stories about his travels and debates."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Sein Kommentar zu den Brahma-Sūtras entfaltet eine nichtdualistische Interpretation des Vedānta.",
+          "en": "His commentary on the Brahma Sūtras develops a nondual interpretation of Vedānta."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Śaṅkara",
+        "url": "https://plato.stanford.edu/entries/shankara/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Die ungefähre Datierung 700–750 folgt einer in der Stanford Encyclopedia diskutierten Rekonstruktion; dort werden auch spätere und frühere Chronologien genannt.",
+      "en": "The approximate 700–750 dating follows one reconstruction discussed by the Stanford Encyclopedia, which also records earlier and later chronologies."
+    }
+  },
+  {
+    "id": "ramanuja",
+    "name": "Rāmānuja",
+    "aliases": [
+      "Ramanuja",
+      "Ramanujacharya"
+    ],
+    "birth": {
+      "year": 1017,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 1137,
+      "precision": "approximate"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Verband Vedānta mit persönlicher Gottesverehrung und der Wirklichkeit individueller Wesen.",
+      "en": "Connected Vedānta with devotion and the reality of individual beings."
+    },
+    "biography": {
+      "de": "Rāmānuja arbeitete in den südindischen Traditionen des Sanskrit und tamilischer Vishnu-Verehrung. Seine Philosophie verbindet die Einheit des Wirklichen mit bleibenden Unterschieden zwischen Personen und Dingen. Er begründete die Bedeutung von Hingabe und deutete klassische Texte neu. Über sein Leben berichten überwiegend religiöse Überlieferungen, deren Chronologie umstritten ist.",
+      "en": "Rāmānuja worked within South Indian traditions of Sanskrit learning and Tamil devotion to Vishnu. His philosophy combines the unity of reality with enduring distinctions among persons and things. He defended the importance of devotion and reinterpreted classical texts. Accounts of his life are largely religious traditions with disputed chronology."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Der Śrī Bhāṣya kommentiert die Brahma-Sūtras aus einer theistischen Vedānta-Perspektive.",
+          "en": "The Śrī Bhāṣya interprets the Brahma Sūtras through a theistic Vedānta framework."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Internet Encyclopedia of Philosophy — Rāmānuja",
+        "url": "https://iep.utm.edu/ramanuja/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "1017–1137 sind traditionelle Näherungsangaben. Die IEP diskutiert auch 1077–1157; die Chronologie und die traditionell angenommene Lebensdauer sind umstritten.",
+      "en": "1017–1137 are approximate traditional dates. The IEP also discusses 1077–1157; the chronology and traditionally claimed lifespan are disputed."
+    }
+  },
+  {
+    "id": "al-farabi",
+    "name": "Al-Fārābī",
+    "aliases": [
+      "Al-Farabi",
+      "Abu Nasr al-Farabi"
+    ],
+    "birth": {
+      "year": 870,
+      "precision": "approximate"
+    },
+    "death": {
+      "earliest": 950,
+      "latest": 951,
+      "precision": "range"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Verknüpfte Logik, Wissenschaftssystematik, Politik und Musiktheorie.",
+      "en": "Connected logic, the classification of knowledge, politics and musical theory."
+    },
+    "biography": {
+      "de": "Al-Fārābī arbeitete unter anderem in Bagdad und Damaskus. Er untersuchte Sprache und Logik sowie die Beziehungen zwischen den Wissenschaften. Seine politischen Schriften fragen nach einem guten Gemeinwesen; sein großes Musikbuch verbindet musikalische Praxis mit theoretischer Analyse. Viele Einzelheiten seines Lebens und die Reihenfolge seiner Werke sind nicht gesichert.",
+      "en": "Al-Fārābī worked in places including Baghdad and Damascus. He investigated language, logic and relations among the sciences. His political writings examine the conditions of a good community, while his major musical treatise combines practice with theoretical analysis. Many biographical details and the sequence of his writings remain uncertain."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die Aufzählung der Wissenschaften ordnet verschiedene Formen des Wissens.",
+          "en": "The Enumeration of the Sciences organizes different branches of knowledge."
+        }
+      },
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Das Große Buch der Musik untersucht musikalische Praxis und Theorie.",
+          "en": "The Great Book of Music examines musical practice and theory."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — al-Farabi",
+        "url": "https://plato.stanford.edu/entries/al-farabi/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Geburt wahrscheinlich um 870; Tod nach der verwendeten Quelle im Dezember 950 oder Januar 951.",
+      "en": "Probably born around 870; the source places his death in December 950 or January 951."
+    }
+  },
+  {
+    "id": "al-ghazali",
+    "name": "al-Ghazālī",
+    "aliases": [
+      "Al-Ghazali",
+      "Abu Hamid al-Ghazali",
+      "Algazel"
+    ],
+    "birth": {
+      "year": 1056,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 1111,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Verknüpfte islamische Theologie, philosophische Kritik und spirituelle Praxis.",
+      "en": "Connected Islamic theology, philosophical criticism and spiritual practice."
+    },
+    "biography": {
+      "de": "Al-Ghazālī lehrte in Bagdad, bevor eine persönliche Krise ihn zum Rückzug aus dem Lehrbetrieb veranlasste. Seine Schriften verbinden Fragen religiöser Erkenntnis mit Ethik und spiritueller Übung. Er kritisierte bestimmte philosophische Lehrsätze, übernahm jedoch zugleich logische Verfahren und prägte damit die weitere islamische Theologie.",
+      "en": "Al-Ghazali taught in Baghdad before a personal crisis led him to leave academic life. His writings connect religious knowledge with ethics and spiritual practice. While criticizing particular philosophical doctrines, he also adopted logical methods, helping shape subsequent Islamic theology rather than simply rejecting philosophical inquiry."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1095,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Gibt seine Lehrstelle in Bagdad auf und beginnt eine Phase spiritueller Neuorientierung.",
+          "en": "Leaves his Baghdad teaching post and begins a period of spiritual reorientation."
+        }
+      },
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die Inkohärenz der Philosophen prüft und kritisiert philosophische Lehrsätze.",
+          "en": "The Incoherence of the Philosophers examines and challenges philosophical doctrines."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Al-Ghazali",
+        "url": "https://plato.stanford.edu/entries/al-ghazali/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Das Geburtsjahr folgt der ungefähren Rekonstruktion 1056; ältere Überlieferungen nennen 1058 oder 1059.",
+      "en": "The approximate birth year follows the reconstruction of 1056; older accounts give 1058 or 1059."
+    }
+  },
+  {
+    "id": "ibn-rushd",
+    "name": "Ibn Ruschd",
+    "aliases": [
+      "Ibn Rushd",
+      "Averroes",
+      "Abu al-Walid Muhammad ibn Ahmad ibn Rushd"
+    ],
+    "birth": {
+      "year": 1126,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1198,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers",
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Verfasste Aristoteles-Kommentare und untersuchte das Verhältnis von Vernunft und Religion.",
+      "en": "Wrote Aristotle commentaries and examined the relationship between reason and religion."
+    },
+    "biography": {
+      "de": "Ibn Ruschd wirkte im islamischen Westen als Richter, Arzt und Philosoph. Seine Kommentare erklären Aristoteles für unterschiedliche Zielgruppen und wurden später auch in hebräischen und lateinischen Fassungen gelesen. Daneben behandelte er Medizin, Recht und die Bedingungen, unter denen philosophische Untersuchung und religiöse Auslegung miteinander vereinbar sind.",
+      "en": "Ibn Rushd worked in the Islamic West as a judge, physician and philosopher. His commentaries explained Aristotle for different audiences and later circulated in Hebrew and Latin. He also wrote on medicine, law and the conditions under which philosophical investigation could coexist with religious interpretation."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die Entscheidende Abhandlung erörtert die religiöse Legitimität philosophischer Untersuchung.",
+          "en": "The Decisive Treatise considers the religious legitimacy of philosophical inquiry."
+        }
+      },
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Aristoteles-Kommentare erläutern Logik, Naturphilosophie und Metaphysik.",
+          "en": "Commentaries on Aristotle examine logic, natural philosophy and metaphysics."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Ibn Rushd [Averroes]",
+        "url": "https://plato.stanford.edu/entries/ibn-rushd/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "ibn-khaldun",
+    "name": "Ibn Chaldūn",
+    "aliases": [
+      "Ibn Khaldun",
+      "Abd al-Rahman ibn Khaldun"
+    ],
+    "birth": {
+      "year": 1332,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1406,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers",
+      "politicians",
+      "scientists"
+    ],
+    "summary": {
+      "de": "Untersuchte gesellschaftliche Bedingungen von Herrschaft und historischem Wandel.",
+      "en": "Examined the social conditions of political power and historical change."
+    },
+    "biography": {
+      "de": "Ibn Chaldūn wurde in Tunis geboren und übernahm politische und juristische Ämter in Nordafrika und später in Kairo. Seine Geschichtsschreibung fragt nach den sozialen Bedingungen politischer Ordnungen. Die Muqaddima verbindet Quellenkritik mit Überlegungen zu Zusammenhalt, Lebensweisen und dem Aufstieg und Niedergang von Herrschaften.",
+      "en": "Born in Tunis, Ibn Khaldun held political and judicial offices in North Africa and later Cairo. His historical writing investigates the social conditions underlying political orders. The Muqaddimah combines criticism of historical reports with an account of solidarity, ways of life and the rise and decline of ruling powers."
+    },
+    "highlights": [
+      {
+        "date": {
+          "earliest": 1375,
+          "latest": 1379,
+          "precision": "range"
+        },
+        "text": {
+          "de": "Verfasst die Muqaddima als grundlegende Untersuchung historischer und gesellschaftlicher Zusammenhänge.",
+          "en": "Writes the Muqaddimah, an investigation of historical and social relationships."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "R. Kevin Jaques — Ibn Khaldun (Encyclopedia of Islam and the Muslim World)",
+        "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/ibn-khaldun-1332-1406",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "thomas-aquinas",
+    "name": "Thomas von Aquin",
+    "aliases": [
+      "Thomas Aquinas",
+      "Thomas d’Aquin"
+    ],
+    "birth": {
+      "year": 1225,
+      "precision": "approximate"
+    },
+    "death": {
+      "year": 1274,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Verband aristotelische Philosophie mit systematischer christlicher Theologie.",
+      "en": "Connected Aristotelian philosophy with systematic Christian theology."
+    },
+    "biography": {
+      "de": "Thomas von Aquin trat dem Dominikanerorden bei und lehrte unter anderem in Paris. Er setzte sich mit Aristoteles sowie arabischen und jüdischen philosophischen Traditionen auseinander. Seine Untersuchungen zu Erkenntnis, Handeln und Naturrecht verbinden philosophische Argumente mit theologischen Fragen, unterscheiden aber auch verschiedene Wege und Grenzen menschlicher Erkenntnis.",
+      "en": "Thomas Aquinas joined the Dominican order and taught in Paris among other places. He engaged with Aristotle as well as Arabic and Jewish thinkers. His accounts of knowledge, action and natural law connect philosophical argument with theological questions while distinguishing different routes and limits of human understanding."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1256,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Beginnt seine erste Lehrtätigkeit als Magister der Theologie in Paris.",
+          "en": "Begins his first period as a master of theology in Paris."
+        }
+      },
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die Summa theologiae ordnet Fragen zu Gott, menschlichem Handeln und christlicher Lehre.",
+          "en": "The Summa theologiae organizes questions about God, human action and Christian teaching."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Thomas Aquinas",
+        "url": "https://plato.stanford.edu/entries/aquinas/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "augustine-of-hippo",
+    "name": "Augustinus von Hippo",
+    "aliases": [
+      "Augustine of Hippo",
+      "Aurelius Augustinus"
+    ],
+    "birth": {
+      "year": 354,
+      "precision": "year"
+    },
+    "death": {
+      "year": 430,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Untersuchte Zeit, Erinnerung und Willen im Horizont christlichen Denkens.",
+      "en": "Investigated time, memory and the will within Christian thought."
+    },
+    "biography": {
+      "de": "Augustinus stammte aus dem römischen Nordafrika und arbeitete zunächst als Rhetoriklehrer. Nach seiner Hinwendung zum Christentum wurde er Bischof von Hippo. Seine Schriften verbinden autobiographische Reflexion, philosophische Argumentation und religiöse Auseinandersetzung; wiederkehrende Fragen betreffen Erinnerung, Zeit, Freiheit und die Voraussetzungen menschlichen Handelns.",
+      "en": "Augustine came from Roman North Africa and initially worked as a teacher of rhetoric. After embracing Christianity, he became bishop of Hippo. His writings combine autobiographical reflection, philosophical argument and religious controversy, repeatedly examining memory, time, freedom and the conditions of human action."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die Confessiones verbinden persönliche Lebensgeschichte mit Untersuchungen zu Erinnerung und Zeit.",
+          "en": "The Confessions connect personal history with investigations of memory and time."
+        }
+      },
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "De civitate Dei untersucht menschliche Gemeinschaft, Geschichte und christliche Hoffnung.",
+          "en": "The City of God examines human communities, history and Christian hope."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Augustine of Hippo",
+        "url": "https://plato.stanford.edu/entries/augustine/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "hildegard-of-bingen",
+    "name": "Hildegard von Bingen",
+    "aliases": [
+      "Hildegard of Bingen"
+    ],
+    "birth": {
+      "year": 1098,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1179,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers",
+      "naturalists",
+      "artists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Verband religiöses Denken mit Naturkunde, Heilkunde und musikalischem Schaffen.",
+      "en": "Connected religious thought with natural knowledge, medicine and music."
+    },
+    "biography": {
+      "de": "Hildegard von Bingen leitete eine Gemeinschaft von Ordensfrauen und gründete Klöster am Rhein. Ihre visionären Schriften deuten Mensch und Welt innerhalb einer christlichen Ordnung. Hinzu kommen Kompositionen sowie überlieferte naturkundliche und medizinische Texte, deren genaue Autorschaft und Entstehung teilweise Gegenstand der Forschung bleiben.",
+      "en": "Hildegard of Bingen led a religious community and founded monasteries on the Rhine. Her visionary writings interpret humanity and the world within a Christian order. Her legacy also includes music and transmitted works on nature and medicine, whose precise authorship and development remain partly matters of scholarly investigation."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1151,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Schließt Scivias ab, eine Sammlung religiöser Visionen und ihrer Deutung.",
+          "en": "Completes Scivias, a collection of religious visions and their interpretation."
+        }
+      },
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Physica und Causae et curae überliefern ihr zugeschriebenes Natur- und Heilwissen.",
+          "en": "Physica and Causae et curae preserve natural and medical knowledge attributed to her."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Abtei St. Hildegard — Hildegard",
+        "url": "https://abtei-st-hildegard.de/en_hildegard/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "anne-conway",
+    "name": "Anne Conway",
+    "aliases": [
+      "Anne Finch",
+      "Anne Finch Conway"
+    ],
+    "birth": {
+      "year": 1631,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1679,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Entwarf eine Metaphysik lebendiger Natur jenseits strenger Geist-Körper-Trennung.",
+      "en": "Developed a metaphysics of living nature beyond a strict mind–body divide."
+    },
+    "biography": {
+      "de": "Anne Conway erhielt ihre philosophische Ausbildung außerhalb der Universitäten, unter anderem im Austausch mit Henry More. Sie entwickelte eine Auffassung der geschaffenen Natur als lebendig und veränderlich. Damit widersprach sie einer starren Trennung von Geist und Materie; ihr erst nach dem Tod veröffentlichtes Werk wurde auch von Leibniz rezipiert.",
+      "en": "Anne Conway pursued philosophy outside the universities, including through correspondence with Henry More. She understood created nature as living and capable of transformation, challenging a rigid separation of mind and matter. Her philosophical treatise appeared after her death and became part of the intellectual context encountered by Leibniz."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1690,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Principles of the Most Ancient and Modern Philosophy erscheinen posthum auf Latein.",
+          "en": "The Principles of the Most Ancient and Modern Philosophy appear posthumously in Latin."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Anne Conway",
+        "url": "https://plato.stanford.edu/entries/conway/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "baruch-spinoza",
+    "name": "Baruch de Spinoza",
+    "aliases": [
+      "Benedictus de Spinoza",
+      "Benedict Spinoza"
+    ],
+    "birth": {
+      "year": 1632,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1677,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Entwickelte eine Philosophie von Natur, Affekten und menschlicher Freiheit.",
+      "en": "Developed a philosophy of nature, emotions and human freedom."
+    },
+    "biography": {
+      "de": "Spinoza wurde in Amsterdam geboren und später aus seiner jüdischen Gemeinde ausgeschlossen. Seine Philosophie behandelt Gott und Natur innerhalb einer einheitlichen Wirklichkeit. Freiheit bedeutet darin nicht Willkür, sondern ein vertieftes Verständnis der Ursachen unseres Handelns. Seine politischen Schriften verteidigen zudem Denkfreiheit und untersuchen religiöse Autorität.",
+      "en": "Born in Amsterdam, Spinoza was later expelled from his Jewish community. His philosophy treats God and nature within a unified reality. Freedom involves understanding the causes of human action rather than acting without causes. His political writings also defend freedom of thought and examine the authority claimed by religious institutions."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1670,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der Theologisch-politische Traktat untersucht Bibelauslegung, Staat und Denkfreiheit.",
+          "en": "The Theological-Political Treatise examines biblical interpretation, government and freedom of thought."
+        }
+      },
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die Ethik entwickelt seine Lehre von Natur, Affekten und Freiheit.",
+          "en": "The Ethics develops his account of nature, emotions and freedom."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Baruch Spinoza",
+        "url": "https://plato.stanford.edu/entries/spinoza/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "john-locke",
+    "name": "John Locke",
+    "aliases": [],
+    "birth": {
+      "year": 1632,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1704,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Untersuchte Erfahrung, Wissen und die Rechtfertigung politischer Herrschaft.",
+      "en": "Examined experience, knowledge and the justification of political authority."
+    },
+    "biography": {
+      "de": "John Locke arbeitete in philosophischen, medizinischen und politischen Zusammenhängen. Seine Erkenntnistheorie fragt, wie Erfahrung unsere Vorstellungen prägt und wo Wissen an Grenzen stößt. In politischen und religiösen Schriften behandelte er Zustimmung, Rechte und Toleranz. Diese Argumente entstanden in den Konflikten um Herrschaft und Religion im England seiner Zeit.",
+      "en": "John Locke worked across philosophical, medical and political settings. His account of knowledge asks how experience shapes ideas and where understanding reaches its limits. His political and religious writings examine consent, rights and toleration, developing these arguments amid struggles over government and religion in seventeenth-century England."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1689,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der Essay Concerning Human Understanding erscheint und untersucht Ursprung und Grenzen des Wissens.",
+          "en": "An Essay Concerning Human Understanding appears, examining the origins and limits of knowledge."
+        }
+      },
+      {
+        "date": {
+          "precision": "unknown"
+        },
+        "text": {
+          "de": "Die Two Treatises of Government untersuchen politische Autorität, Rechte und Zustimmung.",
+          "en": "The Two Treatises of Government examine political authority, rights and consent."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — John Locke",
+        "url": "https://plato.stanford.edu/entries/locke/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "david-hume",
+    "name": "David Hume",
+    "aliases": [],
+    "birth": {
+      "year": 1711,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1776,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Erklärte Überzeugungen und Moral aus Erfahrung, Gewohnheit und Gefühl.",
+      "en": "Explained belief and morality through experience, habit and feeling."
+    },
+    "biography": {
+      "de": "David Hume gehörte zur schottischen Aufklärung und schrieb über menschliches Denken, Geschichte und Religion. Er untersuchte, wie Erfahrungen und Gewohnheiten Erwartungen bilden, etwa unsere Annahmen über Ursachen. Seine Moralphilosophie betont Gefühle und zwischenmenschliche Anteilnahme und stellt damit rein vernunftbezogene Erklärungen moralischer Urteile infrage.",
+      "en": "David Hume belonged to the Scottish Enlightenment and wrote on human thought, history and religion. He investigated how experience and habit shape expectations, including beliefs about causation. His moral philosophy emphasizes feeling and sympathy between people, challenging accounts that explain moral judgment through reason alone."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1739,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die ersten beiden Bücher des Treatise of Human Nature erscheinen.",
+          "en": "The first two books of A Treatise of Human Nature appear."
+        }
+      },
+      {
+        "date": {
+          "year": 1748,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Enquiry Concerning Human Understanding untersucht unter anderem Erfahrung und Kausalität.",
+          "en": "An Enquiry Concerning Human Understanding examines experience and causation among other topics."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — David Hume",
+        "url": "https://plato.stanford.edu/entries/hume/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "georg-wilhelm-friedrich-hegel",
+    "name": "Georg Wilhelm Friedrich Hegel",
+    "aliases": [
+      "G. W. F. Hegel",
+      "Hegel"
+    ],
+    "birth": {
+      "year": 1770,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1831,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Untersuchte Freiheit und Erkenntnis als geschichtliche und gesellschaftliche Prozesse.",
+      "en": "Examined freedom and knowledge as historical and social processes."
+    },
+    "biography": {
+      "de": "Hegel studierte in Tübingen und lehrte später unter anderem in Jena und Berlin. Sein philosophisches System verbindet Logik, Natur und gesellschaftliches Leben. Erkenntnis und Freiheit erscheinen darin als Entwicklungen, die durch Widersprüche und soziale Beziehungen geprägt werden; seine Begriffe wurden in sehr unterschiedlichen politischen und philosophischen Richtungen weitergeführt.",
+      "en": "Hegel studied in Tübingen and later taught in Jena and Berlin among other places. His philosophical system connects logic, nature and social life. Knowledge and freedom develop through contradictions and relationships between people, and his concepts subsequently informed markedly different political and philosophical traditions."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1807,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Phänomenologie des Geistes untersucht Entwicklungen von Bewusstsein und Selbstbewusstsein.",
+          "en": "The Phenomenology of Spirit examines developments of consciousness and self-consciousness."
+        }
+      },
+      {
+        "date": {
+          "year": 1817,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Enzyklopädie der philosophischen Wissenschaften stellt sein System im Zusammenhang dar.",
+          "en": "The Encyclopaedia of the Philosophical Sciences presents an integrated account of his system."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Georg Wilhelm Friedrich Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "karl-marx",
+    "name": "Karl Marx",
+    "aliases": [],
+    "birth": {
+      "year": 1818,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1883,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers",
+      "politicians",
+      "scientists"
+    ],
+    "summary": {
+      "de": "Untersuchte kapitalistische Produktionsverhältnisse, Klassenkonflikte und gesellschaftlichen Wandel.",
+      "en": "Examined capitalist production, class conflict and social change."
+    },
+    "biography": {
+      "de": "Karl Marx verband philosophische Kritik mit ökonomischer Forschung, Journalismus und politischem Engagement. Im Exil arbeitete er lange mit Friedrich Engels zusammen. Seine Texte untersuchen Entfremdung, Arbeit und die historischen Bedingungen gesellschaftlicher Ordnungen. Unterschiedliche spätere marxistische Bewegungen griffen seine Argumente auf, entwickelten sie weiter und stritten über ihre Bedeutung.",
+      "en": "Karl Marx combined philosophical criticism with economic research, journalism and political activism. Living in exile, he worked closely with Friedrich Engels. His writings examine alienation, labour and the historical conditions of social orders. Later Marxist movements adopted, developed and disputed these arguments in substantially different ways."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1848,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht mit Friedrich Engels das Manifest der Kommunistischen Partei.",
+          "en": "Publishes the Manifesto of the Communist Party with Friedrich Engels."
+        }
+      },
+      {
+        "date": {
+          "year": 1867,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der erste Band von Das Kapital analysiert kapitalistische Produktion.",
+          "en": "The first volume of Capital analyzes capitalist production."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Karl Marx",
+        "url": "https://plato.stanford.edu/entries/marx/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Marx/Engels Library — Selected Works",
+        "url": "https://www.marxists.org/archive/marx/works/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "friedrich-nietzsche",
+    "name": "Friedrich Nietzsche",
+    "aliases": [],
+    "birth": {
+      "year": 1844,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1900,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Untersuchte die geschichtlichen Voraussetzungen von Moral, Religion und Kultur.",
+      "en": "Examined the historical foundations of morality, religion and culture."
+    },
+    "biography": {
+      "de": "Friedrich Nietzsche begann als klassischer Philologe in Basel und schrieb später außerhalb der Universität. Seine oft aphoristischen Werke untersuchen die Herkunft moralischer Wertungen und kritisieren christliche sowie zeitgenössische kulturelle Ideale. Fragen nach Selbstgestaltung, Perspektive und den Bedingungen einer bejahenden Haltung zum Leben durchziehen sein Denken.",
+      "en": "Friedrich Nietzsche began as a classical philologist in Basel and later wrote outside the university. His frequently aphoristic works investigate the origins of moral values and criticize Christian and contemporary cultural ideals. Questions about self-formation, perspective and the possibility of affirming life run through his thought."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1886,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Jenseits von Gut und Böse kritisiert Voraussetzungen überlieferter Philosophie und Moral.",
+          "en": "Beyond Good and Evil challenges assumptions in inherited philosophy and morality."
+        }
+      },
+      {
+        "date": {
+          "year": 1887,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Zur Genealogie der Moral untersucht die Entstehung moralischer Wertungen.",
+          "en": "On the Genealogy of Morality investigates the emergence of moral values."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "simone-weil",
+    "name": "Simone Weil",
+    "aliases": [],
+    "birth": {
+      "year": 1909,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1943,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Verband soziale Kritik mit einer Ethik der Aufmerksamkeit und Verpflichtung.",
+      "en": "Connected social criticism with an ethics of attention and obligation."
+    },
+    "biography": {
+      "de": "Simone Weil war Philosophielehrerin, politische Aktivistin und zeitweise Fabrikarbeiterin. Erfahrungen von Arbeit, Krieg und Exil prägten ihre Überlegungen zu Macht, Leiden und Gerechtigkeit. Ihre späteren Schriften verbinden religiöse Fragen mit der Forderung, die Bedürfnisse anderer Menschen aufmerksam wahrzunehmen; viele dieser Texte erschienen erst nach ihrem Tod.",
+      "en": "Simone Weil taught philosophy, engaged in political activism and spent time working in factories. Experiences of labour, war and exile informed her thinking about power, suffering and justice. Her later writings connect religious questions with attentive responsibility for other people’s needs; many appeared only after her death."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1943,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Verfasst in London den Text, der später als Die Verwurzelung erscheint.",
+          "en": "Writes in London the text later published as The Need for Roots."
+        }
+      },
+      {
+        "date": {
+          "year": 1949,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Verwurzelung erscheint posthum und untersucht menschliche Bedürfnisse und Verpflichtungen.",
+          "en": "The Need for Roots appears posthumously, examining human needs and obligations."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Simone Weil",
+        "url": "https://plato.stanford.edu/entries/simone-weil/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "hannah-arendt",
+    "name": "Hannah Arendt",
+    "aliases": [],
+    "birth": {
+      "year": 1906,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1975,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Untersuchte Totalitarismus, politisches Handeln und persönliche Urteilskraft.",
+      "en": "Examined totalitarianism, political action and individual judgment."
+    },
+    "biography": {
+      "de": "Hannah Arendt floh als Jüdin aus dem nationalsozialistischen Deutschland und gelangte über Frankreich in die USA. Ihre politische Theorie untersucht, wie gemeinsame öffentliche Räume entstehen und zerstört werden. Erfahrungen von Verfolgung und Staatenlosigkeit stehen hinter ihren Fragen nach Rechten, Verantwortung und den Bedingungen eigenständigen Urteilens.",
+      "en": "Hannah Arendt fled Nazi Germany as a Jewish refugee and reached the United States after years in France. Her political theory examines how shared public spaces emerge and are destroyed. Persecution and statelessness informed her questions about rights, responsibility and the conditions for independent judgment."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1951,
+          "precision": "year"
+        },
+        "text": {
+          "de": "The Origins of Totalitarianism untersucht Antisemitismus, Imperialismus und totalitäre Herrschaft.",
+          "en": "The Origins of Totalitarianism examines antisemitism, imperialism and totalitarian rule."
+        }
+      },
+      {
+        "date": {
+          "year": 1958,
+          "precision": "year"
+        },
+        "text": {
+          "de": "The Human Condition unterscheidet Arbeiten, Herstellen und politisches Handeln.",
+          "en": "The Human Condition distinguishes labour, work and political action."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Hannah Arendt",
+        "url": "https://plato.stanford.edu/entries/arendt/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "ludwig-wittgenstein",
+    "name": "Ludwig Wittgenstein",
+    "aliases": [],
+    "birth": {
+      "year": 1889,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1951,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Untersuchte, wie Sprache Bedeutung erhält und philosophische Probleme entstehen.",
+      "en": "Examined how language acquires meaning and philosophical problems arise."
+    },
+    "biography": {
+      "de": "Ludwig Wittgenstein begann mit technischen Studien und wandte sich in Cambridge der Philosophie zu. Der frühe Tractatus untersucht die logische Beziehung zwischen Sprache und Welt. Später rückte er den alltäglichen Sprachgebrauch in den Mittelpunkt und betrachtete philosophische Arbeit als Klärung der Verwirrungen, die unsere Begriffe hervorrufen können.",
+      "en": "Ludwig Wittgenstein began with engineering studies before turning to philosophy in Cambridge. His early Tractatus investigates the logical relationship between language and the world. Later he focused on ordinary uses of language, treating philosophy as clarification of the confusions that can arise through the concepts people employ."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1921,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Logisch-philosophische Abhandlung erscheint erstmals auf Deutsch.",
+          "en": "The work later known as the Tractatus first appears in German."
+        }
+      },
+      {
+        "date": {
+          "year": 1953,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Philosophischen Untersuchungen erscheinen posthum und erkunden Sprache im Gebrauch.",
+          "en": "The Philosophical Investigations appear posthumously, exploring language in use."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Ludwig Wittgenstein",
+        "url": "https://plato.stanford.edu/entries/wittgenstein/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "bertrand-russell",
+    "name": "Bertrand Russell",
+    "aliases": [
+      "Bertrand Arthur William Russell"
+    ],
+    "birth": {
+      "year": 1872,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1970,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers",
+      "mathematicians",
+      "writers"
+    ],
+    "summary": {
+      "de": "Arbeitete an mathematischer Logik, Sprachanalyse und gesellschaftlicher Kritik.",
+      "en": "Worked on mathematical logic, analysis of language and social criticism."
+    },
+    "biography": {
+      "de": "Bertrand Russell verband mathematische und philosophische Forschung mit einem umfangreichen öffentlichen Wirken. Er untersuchte logische Grundlagen der Mathematik und die Struktur sprachlicher Aussagen. Gemeinsam mit Alfred North Whitehead schrieb er die Principia Mathematica. Als Essayist und politischer Aktivist äußerte er sich zudem zu Krieg, Freiheit und Erziehung.",
+      "en": "Bertrand Russell combined mathematical and philosophical research with extensive public activity. He investigated the logical foundations of mathematics and the structure of statements in language. With Alfred North Whitehead he wrote Principia Mathematica. As an essayist and political activist, he also addressed war, liberty and education."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1905,
+          "precision": "year"
+        },
+        "text": {
+          "de": "On Denoting entwickelt eine logische Analyse bestimmter Kennzeichnungen.",
+          "en": "On Denoting develops a logical analysis of definite descriptions."
+        }
+      },
+      {
+        "date": {
+          "year": 1910,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der erste Band der mit Whitehead verfassten Principia Mathematica erscheint.",
+          "en": "The first volume of Principia Mathematica, written with Whitehead, appears."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Bertrand Russell",
+        "url": "https://plato.stanford.edu/entries/russell/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "karl-popper",
+    "name": "Karl Popper",
+    "aliases": [
+      "Karl Raimund Popper"
+    ],
+    "birth": {
+      "year": 1902,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1994,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Betonte widerlegbare Theorien, kritische Prüfung und offene politische Institutionen.",
+      "en": "Emphasized falsifiable theories, critical testing and open political institutions."
+    },
+    "biography": {
+      "de": "Karl Popper wuchs in Wien auf und entwickelte eine Wissenschaftsphilosophie, die aus Fehlern zu lernen versucht. Wissenschaftliche Theorien sollen nach seiner Auffassung an möglichen Gegenbelegen geprüft werden. Seine politische Philosophie verbindet diese Fehlbarkeit menschlichen Wissens mit Kritik an geschlossenen Weltbildern und mit Institutionen, die friedliche Korrekturen ermöglichen.",
+      "en": "Karl Popper grew up in Vienna and developed a philosophy of science centered on learning from error. He argued that scientific theories should face tests capable of challenging them. His political philosophy connects the fallibility of knowledge with criticism of closed worldviews and institutions allowing peaceful correction."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1934,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Logik der Forschung erscheint und entwickelt seine Auffassung wissenschaftlicher Prüfung und Falsifizierbarkeit.",
+          "en": "Logik der Forschung appears, developing his account of scientific testing and falsifiability."
+        }
+      },
+      {
+        "date": {
+          "year": 1945,
+          "precision": "year"
+        },
+        "text": {
+          "de": "The Open Society and Its Enemies verbindet politische Kritik mit der Verteidigung offener Gesellschaften.",
+          "en": "The Open Society and Its Enemies connects political criticism with a defence of open societies."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Karl Popper",
+        "url": "https://plato.stanford.edu/entries/popper/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "University of Bologna, APICe — Logik der Forschung",
+        "url": "https://apice.unibo.it/bin/view/Publication/LogikderforschungPopper1934",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Logik der Forschung erschien 1934 mit dem Druckjahr 1935 auf dem Titelblatt.",
+      "en": "Logik der Forschung appeared in 1934 with 1935 printed on its title page."
+    }
+  },
+  {
+    "id": "elisabeth-of-bohemia",
+    "name": "Elisabeth von der Pfalz",
+    "aliases": [
+      "Elisabeth of Bohemia",
+      "Elisabeth, Princess of Bohemia",
+      "Elisabeth von Böhmen"
+    ],
+    "birth": {
+      "year": 1618,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1680,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers",
+      "mathematicians",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Untersuchte Geist und Körper und bearbeitete Probleme der algebraischen Geometrie.",
+      "en": "Investigated mind and body and worked on problems in algebraic geometry."
+    },
+    "biography": {
+      "de": "Elisabeth von der Pfalz entwickelte philosophische und mathematische Argumente in einem weitreichenden Briefnetzwerk. Ihre Fragen an Descartes machten Schwierigkeiten der Wechselwirkung von Geist und Körper sichtbar. Sie bearbeitete außerdem geometrische Probleme und diskutierte naturphilosophische Erklärungen. Später leitete sie das Stift Herford, während sie ihre intellektuellen Kontakte fortsetzte.",
+      "en": "Elisabeth of Bohemia developed philosophical and mathematical arguments through an extensive correspondence network. Her questions to Descartes exposed difficulties in explaining interaction between mind and body. She also worked on geometry and discussed explanations of natural phenomena. Later she headed Herford Abbey while continuing her intellectual exchanges."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1643,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Eröffnet den Briefwechsel mit Descartes über die Wechselwirkung von Geist und Körper.",
+          "en": "Begins corresponding with Descartes about interaction between mind and body."
+        }
+      },
+      {
+        "date": {
+          "year": 1643,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Erarbeitet eine von Descartes gelobte Lösung des geometrischen Dreikreiseproblems.",
+          "en": "Develops a solution to the geometrical three-circle problem praised by Descartes."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Elisabeth, Princess of Bohemia",
+        "url": "https://plato.stanford.edu/entries/elisabeth-bohemia/",
+        "accessed": "2026-11-27"
+      }
+    ],
+    "dateNote": {
+      "de": "Ihre geometrische Lösung ist nicht erhalten; Descartes’ Antwort dokumentiert die Arbeit.",
+      "en": "Her geometrical solution does not survive; Descartes’s response documents the work."
+    }
+  },
+  {
+    "id": "edith-stein",
+    "name": "Edith Stein",
+    "aliases": [
+      "Teresa Benedicta a Cruce",
+      "Teresia Benedicta vom Kreuz"
+    ],
+    "birth": {
+      "year": 1891,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1942,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Untersuchte Einfühlung, Personsein und die Beziehungen zwischen Menschen.",
+      "en": "Examined empathy, personhood and relationships between people."
+    },
+    "biography": {
+      "de": "Edith Stein studierte in Breslau und Göttingen und arbeitete nach ihrer Promotion für Edmund Husserl. Ihre phänomenologischen Untersuchungen fragen, wie wir andere Menschen als erlebende Personen verstehen. Später verband sie diese Arbeit mit christlicher Philosophie. Als Jüdin verfolgt, wurde die Karmelitin 1942 in Auschwitz ermordet.",
+      "en": "Edith Stein studied in Breslau and Göttingen and worked for Edmund Husserl after her doctorate. Her phenomenological research asks how we understand others as persons with experiences of their own. She later connected this work with Christian philosophy. Persecuted as a Jew, the Carmelite nun was murdered at Auschwitz in 1942."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1916,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Schließt ihre Promotion mit einer Untersuchung zum Problem der Einfühlung ab.",
+          "en": "Completes her doctorate with an investigation of the problem of empathy."
+        }
+      },
+      {
+        "date": {
+          "year": 1917,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Teile ihrer Dissertation erscheinen als Zum Problem der Einfühlung.",
+          "en": "Parts of her dissertation appear as On the Problem of Empathy."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Edith Stein",
+        "url": "https://plato.stanford.edu/entries/stein/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "elizabeth-anscombe",
+    "name": "Elizabeth Anscombe",
+    "aliases": [
+      "G. E. M. Anscombe",
+      "Gertrude Elizabeth Margaret Anscombe"
+    ],
+    "birth": {
+      "year": 1919,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2001,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Prägte die Philosophie des Handelns und die Debatte über Tugendethik.",
+      "en": "Shaped the philosophy of action and debates about virtue ethics."
+    },
+    "biography": {
+      "de": "Elizabeth Anscombe lehrte in Oxford und Cambridge und war Schülerin, Übersetzerin und Herausgeberin Wittgensteins. Ihre eigene Arbeit untersucht, was absichtliches Handeln von bloßen Ereignissen unterscheidet. In der Moralphilosophie hinterfragte sie verbreitete Begriffe von Pflicht und Konsequenzen und trug zur erneuten Auseinandersetzung mit Tugenden und menschlichem Handeln bei.",
+      "en": "Elizabeth Anscombe taught at Oxford and Cambridge and studied, translated and edited Wittgenstein. Her own work investigates what distinguishes intentional actions from mere happenings. In moral philosophy she questioned prevailing accounts of obligation and consequences, contributing to renewed attention to virtues and the character of human action."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1957,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Intention untersucht absichtliches Handeln und das praktische Wissen handelnder Personen.",
+          "en": "Intention examines intentional action and the practical knowledge of those who act."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Gertrude Elizabeth Margaret Anscombe",
+        "url": "https://plato.stanford.edu/entries/anscombe/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "philippa-foot",
+    "name": "Philippa Foot",
+    "aliases": [
+      "Philippa Ruth Foot",
+      "Philippa Ruth Bosanquet"
+    ],
+    "birth": {
+      "year": 1920,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2010,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers"
+    ],
+    "summary": {
+      "de": "Untersuchte objektive moralische Gründe und die Bedeutung menschlicher Tugenden.",
+      "en": "Investigated objective moral reasons and the significance of human virtues."
+    },
+    "biography": {
+      "de": "Philippa Foot studierte in Oxford und lehrte später dort sowie in den USA. Sie wandte sich gegen die Vorstellung, moralische Urteile seien lediglich Ausdruck persönlicher Einstellungen. Ihre Ethik fragt nach Tugenden, praktischer Vernunft und gutem menschlichem Leben; ihre Gedankenexperimente untersuchen zudem Unterschiede zwischen Handlungen und ihren Folgen.",
+      "en": "Philippa Foot studied at Oxford and later taught there and in the United States. She challenged the idea that moral judgments merely express personal attitudes. Her ethics examines virtues, practical reason and a good human life, while her thought experiments investigate distinctions between actions and their consequences."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1967,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Ein Aufsatz zur doppelten Wirkung führt das später berühmte Straßenbahnbeispiel ein.",
+          "en": "An essay on double effect introduces the later famous trolley example."
+        }
+      },
+      {
+        "date": {
+          "year": 2001,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Natural Goodness entwickelt ihre Auffassung natürlicher Grundlagen ethischer Beurteilung.",
+          "en": "Natural Goodness develops her account of natural foundations for ethical judgment."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Philippa Foot",
+        "url": "https://plato.stanford.edu/entries/philippa-foot/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "simone-de-beauvoir",
+    "name": "Simone de Beauvoir",
+    "aliases": [],
+    "birth": {
+      "year": 1908,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1986,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "philosophers",
+      "writers"
+    ],
+    "summary": {
+      "de": "Untersuchte Freiheit, Geschlechterverhältnisse und die gesellschaftliche Formung von Lebensmöglichkeiten.",
+      "en": "Examined freedom, gender relations and the social shaping of life possibilities."
+    },
+    "biography": {
+      "de": "Simone de Beauvoir verband philosophische Essays, Romane, autobiographisches Schreiben und feministisches Engagement. Ihre Untersuchungen fragen, wie Menschen unter konkreten gesellschaftlichen Bedingungen frei handeln können. Das andere Geschlecht analysiert die Herstellung weiblicher Unterordnung; andere Werke behandeln Beziehungen, Verantwortung und Altern als zugleich persönliche und gesellschaftliche Erfahrungen.",
+      "en": "Simone de Beauvoir combined philosophical essays, fiction, autobiography and feminist activism. She investigated how people can act freely within concrete social conditions. The Second Sex analyzes the production of women’s subordination, while other works explore relationships, responsibility and ageing as experiences that are both personal and social."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1943,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Der Roman Sie kam und blieb untersucht Beziehungen und Konflikte zwischen freien Personen.",
+          "en": "The novel She Came to Stay explores relationships and conflicts between free individuals."
+        }
+      },
+      {
+        "date": {
+          "year": 1949,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Das andere Geschlecht untersucht die gesellschaftliche und historische Stellung von Frauen.",
+          "en": "The Second Sex examines women’s social and historical position."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy — Simone de Beauvoir",
+        "url": "https://plato.stanford.edu/entries/beauvoir/",
+        "accessed": "2026-11-27"
+      }
+    ]
+  }
+]

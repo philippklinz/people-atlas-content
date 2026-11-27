@@ -1,0 +1,22 @@
+[
+  {
+    "id": "karl-marx",
+    "addCategories": [
+      "scientists"
+    ],
+    "reason": "Seine Quellen belegen ökonomische Forschung und historische Gesellschaftsanalyse; mit der nun ausdrücklich sozialwissenschaftlichen Kategorie sollte er neben Philosophie und Politik auch dort auffindbar sein. Das ist eine redaktionelle Zuordnung, kein Urteil über die Gültigkeit seiner Theorien.",
+    "sourceUrl": "https://plato.stanford.edu/entries/marx/",
+    "status": "applied",
+    "applied": "2026-11-27"
+  },
+  {
+    "id": "ibn-khaldun",
+    "addCategories": [
+      "scientists"
+    ],
+    "reason": "Die Muqaddima entwickelt eine Untersuchung gesellschaftlicher und historischer Zusammenhänge. Die Kategorie umfasst Forschung zu Mensch und Gesellschaft; die Zuordnung ist eine heutige Navigationshilfe und behauptet keine moderne Berufsbezeichnung oder Alleinbegründung der Soziologie.",
+    "sourceUrl": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/ibn-khaldun-1332-1406",
+    "status": "applied",
+    "applied": "2026-11-27"
+  }
+]
