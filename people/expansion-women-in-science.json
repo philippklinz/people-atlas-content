@@ -1340,5 +1340,85 @@
         "accessed": "2026-11-27"
       }
     ]
+  },
+  {
+    "id": "emma-castelnuovo",
+    "name": "Emma Castelnuovo",
+    "aliases": [],
+    "birth": {
+      "year": 1913,
+      "precision": "year"
+    },
+    "death": {
+      "year": 2014,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Entwickelte einen anschaulichen Mathematikunterricht, in dem Lernende Zusammenhänge selbst untersuchen.",
+      "en": "Developed mathematics teaching in which learners investigate relationships through concrete experience."
+    },
+    "biography": {
+      "de": "Emma Castelnuovo studierte Mathematik in Rom. Die antisemitischen Gesetze des faschistischen Italien versperrten ihr 1938 den Zugang zum staatlichen Schuldienst; sie unterrichtete anschließend an einer jüdischen Schule. Nach dem Krieg arbeitete sie an der römischen Schule Torquato Tasso. Ihr Unterricht führte von Gegenständen und veränderbaren Modellen zu mathematischen Begriffen und Begründungen. Lernende sollten beobachten, vergleichen, Vermutungen entwickeln und ihre Entdeckungen erklären. Bücher wie Geometria intuitiva, gemeinsame Ausstellungen mit ihren Klassen und die internationale Zusammenarbeit mit Lehrkräften verbreiteten diesen Ansatz über Italien hinaus.",
+      "en": "Emma Castelnuovo studied mathematics in Rome. Fascist Italy’s antisemitic laws barred her from state-school teaching in 1938; she subsequently taught at a Jewish school. After the war she worked at Rome’s Torquato Tasso school. Her teaching moved from objects and adjustable models towards mathematical concepts and reasoned arguments. Learners were encouraged to observe, compare, form conjectures and explain their discoveries. Books such as Geometria intuitiva, exhibitions developed with her classes and international collaboration with teachers carried this approach beyond Italy."
+    },
+    "dateNote": {
+      "de": "Für Geometria intuitiva nennt MacTutor das Erscheinungsjahr 1948. Die ausführliche Treccani-Biografie datiert die Niederschrift auf 1948 und die Veröffentlichung auf 1949. Deshalb ist hier 1948–1949 angegeben.",
+      "en": "MacTutor dates the publication of Geometria intuitiva to 1948. The detailed Treccani biography dates its writing to 1948 and its publication to 1949. The date is therefore shown here as 1948–1949."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1946,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Beschreibt in Un metodo attivo nell’insegnamento della geometria intuitiva einen aktiven Zugang zum Geometrieunterricht.",
+          "en": "Describes an active approach to teaching intuitive geometry in Un metodo attivo nell’insegnamento della geometria intuitiva."
+        }
+      },
+      {
+        "date": {
+          "earliest": 1948,
+          "latest": 1949,
+          "precision": "range"
+        },
+        "text": {
+          "de": "Geometria intuitiva verbindet anschauliche Aufgaben mit dem Aufbau geometrischen Verständnisses.",
+          "en": "Geometria intuitiva connects concrete problems with the development of geometrical understanding."
+        }
+      },
+      {
+        "date": {
+          "year": 1976,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Veröffentlicht mit Mario Barra Matematica nella realtà über mathematische Zusammenhänge in der Lebenswelt.",
+          "en": "Publishes Matematica nella realtà with Mario Barra, exploring mathematics in everyday surroundings."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "MacTutor History of Mathematics — Emma Castelnuovo (1913–2014)",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Castelnuovo_Emma/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "ICMI Newsletter 27 (July 2014) — Emma Castelnuovo, In Memoriam",
+        "url": "https://www.mathunion.org/fileadmin/ICMI/News/2014/Newsletter27.pdf",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Carla Degli Esposti and Nicoletta Lanciano — CASTELNUOVO, Emma (Treccani, Dizionario Biografico)",
+        "url": "https://www.treccani.it/enciclopedia/emma-castelnuovo_(Dizionario-Biografico)/",
+        "accessed": "2026-11-27"
+      }
+    ]
   }
 ]

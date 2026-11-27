@@ -1,6 +1,6 @@
 # People Atlas content
 
-A growing curated collection of 382 people and 11 overlapping categories, from antiquity to the modern era. Each entry includes an original German/English biography, life dates, works or contributions, category memberships and external sources. Portraits are included where attribution and reuse terms have been recorded.
+A growing curated collection of 383 people and 11 overlapping categories, from antiquity to the modern era. Each entry includes an original German/English biography, life dates, works or contributions, category memberships and external sources. Portraits are included where attribution and reuse terms have been recorded.
 
 The collection is read by [people-atlas-engine](https://github.com/philippklinz/people-atlas-engine), but has no dependency on the engine's rendering code.
 
@@ -20,9 +20,9 @@ There is no content compilation step. Publish the JSON files and images as stati
 
 ## Editorial scope
 
-The November 2026 expansion adds 354 people to the original 28 and expands the original profiles. Coverage spans more regions, eras and disciplines, including social research, engineering and performing arts. This is an introductory selection, not a complete or representative history; gaps and further candidates are recorded in the research notes. Categories are contemporary navigational aids, and combining them never creates duplicate people.
+The November 2026 expansion adds 355 people to the original 28 and expands the original profiles. Coverage spans more regions, eras and disciplines, including social research, engineering and performing arts. This is an introductory selection, not a complete or representative history; gaps and further candidates are recorded in the research notes. Categories are contemporary navigational aids, and combining them never creates duplicate people.
 
-Women in science and research is an additional cross-disciplinary category with 78 entries, including all 28 mathematicians identified in that selection. Every person also retains their subject categories. German category and group labels use gender-inclusive wording.
+Women in science and research is an additional cross-disciplinary category with 79 entries, including all 29 mathematicians identified in that selection. Every person also retains their subject categories. German category and group labels use gender-inclusive wording.
 
 Dates are represented at year resolution. Approximate and disputed dates are explicitly marked; unknown endpoints remain unknown. People without a plottable lifespan remain available in the list and through their permanent person links. Individual notes explain important calendar differences. A life overlap does not imply a meeting, collaboration or influence.
 

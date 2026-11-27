@@ -1,21 +1,21 @@
 # Coverage and roster — 27 November 2026
 
-This edition contains **382 unique people**, up from 28, across 11 overlapping categories and 14 data files. Every entry has German and English summaries and biographies. There are 612 works, contributions or events (573 with a date or documented date range), 619 source references and 614 distinct source URLs.
+This edition contains **383 unique people**, up from 28, across 11 overlapping categories and 14 data files. Every entry has German and English summaries and biographies. There are 615 works, contributions or events (576 with a date or documented date range), 622 source references and 617 distinct source URLs.
 
-Women in science and research includes 78 people, including all 28 women currently assigned to mathematics. The selection retains each person’s subject categories.
+Women in science and research includes 79 people, including all 29 women currently assigned to mathematics. The selection retains each person’s subject categories.
 
-374 lives have plottable endpoints. The other 8 remain available in the list and through person links; an unknown endpoint is never supplied for visual convenience. Approximate and disputed dates retain their qualifiers.
+375 lives have plottable endpoints. The other 8 remain available in the list and through person links; an unknown endpoint is never supplied for visual convenience. Approximate and disputed dates retain their qualifiers.
 
 Counts include descendants of a selected category. They must not be added together: people may belong to multiple categories, while the application displays their union once.
 
 | Category | Unique people | Women in science and research |
 | --- | ---: | ---: |
-| Scientists | 202 | 74 |
-| Mathematicians | 83 | 28 |
+| Scientists | 203 | 75 |
+| Mathematicians | 84 | 29 |
 | Physicists & astronomers | 71 | 23 |
 | Natural scientists | 57 | 27 |
 | Computer scientists | 36 | 14 |
-| Women in science and research | 78 | 78 |
+| Women in science and research | 79 | 79 |
 | Philosophers | 58 | 7 |
 | Inventors | 54 | 8 |
 | Political figures | 48 | 5 |
@@ -133,6 +133,7 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Elizabeth Anscombe](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=elizabeth-anscombe) | 1919 → 2001 | Philosophers |
 | [Emil Leon Post](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=emil-post) | 1897 → 1954 | Mathematicians, Computer scientists |
 | [Emily Brontë](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=emily-bronte) | 1818 → 1848 | Writers |
+| [Emma Castelnuovo](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=emma-castelnuovo) | 1913 → 2014 | Mathematicians, Women in science and research |
 | [Emmeline Pankhurst](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=emmeline-pankhurst) | 1858 → 1928 | Political figures |
 | [Emmy Noether](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=emmy-noether) | 1882 → 1935 | Mathematicians, Physicists & astronomers, Women in science and research |
 | [Enrico Fermi](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=enrico-fermi) | 1901 → 1954 | Physicists & astronomers |
