@@ -1,22 +1,22 @@
 # Coverage and roster — 27 November 2026
 
-This edition contains **381 unique people**, up from 28, across 11 overlapping categories and 14 data files. Every entry has German and English summaries and biographies. There are 608 works, contributions or events (569 with a date or documented date range), 616 source references and 611 distinct source URLs.
+This edition contains **382 unique people**, up from 28, across 11 overlapping categories and 14 data files. Every entry has German and English summaries and biographies. There are 612 works, contributions or events (573 with a date or documented date range), 619 source references and 614 distinct source URLs.
 
-Women in science and research includes 77 people, including all 27 women currently assigned to mathematics. The selection retains each person’s subject categories.
+Women in science and research includes 78 people, including all 28 women currently assigned to mathematics. The selection retains each person’s subject categories.
 
-373 lives have plottable endpoints. The other 8 remain available in the list and through person links; an unknown endpoint is never supplied for visual convenience. Approximate and disputed dates retain their qualifiers.
+374 lives have plottable endpoints. The other 8 remain available in the list and through person links; an unknown endpoint is never supplied for visual convenience. Approximate and disputed dates retain their qualifiers.
 
 Counts include descendants of a selected category. They must not be added together: people may belong to multiple categories, while the application displays their union once.
 
 | Category | Unique people | Women in science and research |
 | --- | ---: | ---: |
-| Scientists | 201 | 73 |
-| Mathematicians | 82 | 27 |
-| Physicists & astronomers | 70 | 22 |
+| Scientists | 202 | 74 |
+| Mathematicians | 83 | 28 |
+| Physicists & astronomers | 71 | 23 |
 | Natural scientists | 57 | 27 |
 | Computer scientists | 36 | 14 |
-| Women in science and research | 77 | 77 |
-| Philosophers | 57 | 6 |
+| Women in science and research | 78 | 78 |
+| Philosophers | 58 | 7 |
 | Inventors | 54 | 8 |
 | Political figures | 48 | 5 |
 | Artists | 48 | 4 |
@@ -176,6 +176,7 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Grace Murray Hopper](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=grace-hopper) | 1906 → 1992 | Computer scientists, Mathematicians, Women in science and research |
 | [Granville Woods](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=granville-woods) | 1856 → 1910 | Inventors |
 | [Gregor Mendel](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=gregor-mendel) | 1822 → 1884 | Natural scientists |
+| [Grete Hermann](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=grete-hermann) | 1901 → 1984 | Mathematicians, Physicists & astronomers, Philosophers, Women in science and research |
 | [Guglielmo Marconi](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=guglielmo-marconi) | 1874 → 1937 | Inventors, Physicists & astronomers |
 | [Gustav Klimt](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=gustav-klimt) | 1862 → 1918 | Artists |
 | [Hannah Arendt](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=hannah-arendt) | 1906 → 1975 | Philosophers |

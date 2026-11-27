@@ -1250,5 +1250,95 @@
         "accessed": "2026-11-27"
       }
     ]
+  },
+  {
+    "id": "grete-hermann",
+    "name": "Grete Hermann",
+    "aliases": [
+      "Grete Henry",
+      "Grete Henry-Hermann"
+    ],
+    "birth": {
+      "year": 1901,
+      "precision": "year"
+    },
+    "death": {
+      "year": 1984,
+      "precision": "year"
+    },
+    "status": "deceased",
+    "categories": [
+      "mathematicians",
+      "physicists",
+      "philosophers",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Verband algebraische Rechenverfahren mit philosophischen Fragen zur Quantenmechanik und demokratischer Bildung.",
+      "en": "Connected algebraic procedures with philosophical questions about quantum mechanics and democratic education."
+    },
+    "biography": {
+      "de": "Grete Hermann studierte in Göttingen Mathematik, Physik und Philosophie und promovierte 1925 bei Emmy Noether. Ihre Arbeiten zu Polynomidealen untersuchten Rechenverfahren mit endlich vielen Schritten. Als Mitarbeiterin Leonard Nelsons wandte sie sich der Erkenntnistheorie zu. In Diskussionen mit Werner Heisenberg erforschte sie Kausalität und Vorhersagbarkeit in der Quantenmechanik. Dabei kritisierte sie die Reichweite von John von Neumanns Argument gegen verborgene Variablen. Sie engagierte sich gegen den Nationalsozialismus, lebte im Exil und wirkte nach dem Krieg in Bremen an der Lehrkräftebildung und demokratischen Bildungsreformen mit.",
+      "en": "Grete Hermann studied mathematics, physics and philosophy in Göttingen, completing her doctorate with Emmy Noether in 1925. Her work on polynomial ideals investigated procedures requiring finitely many computational steps. As Leonard Nelson’s assistant, she turned to epistemology. In discussions with Werner Heisenberg, she explored causality and predictability in quantum mechanics, criticizing the scope of John von Neumann’s argument against hidden variables. She opposed National Socialism, lived in exile and, after the war, contributed to teacher education and democratic educational reform in Bremen."
+    },
+    "highlights": [
+      {
+        "date": {
+          "year": 1925,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Promoviert in Göttingen bei Emmy Noether über Polynomideale.",
+          "en": "Completes her doctorate on polynomial ideals with Emmy Noether in Göttingen."
+        }
+      },
+      {
+        "date": {
+          "year": 1926,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die Frage der endlich vielen Schritte in der Theorie der Polynomideale erscheint in den Mathematischen Annalen.",
+          "en": "Her dissertation on finite computational procedures in polynomial ideal theory is published in Mathematische Annalen."
+        }
+      },
+      {
+        "date": {
+          "year": 1935,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Die naturphilosophischen Grundlagen der Quantenmechanik untersucht Kausalität, Messung und Vorhersagbarkeit.",
+          "en": "Natural-Philosophical Foundations of Quantum Mechanics examines causality, measurement and predictability."
+        }
+      },
+      {
+        "date": {
+          "year": 1950,
+          "precision": "year"
+        },
+        "text": {
+          "de": "Wird Professorin für Mathematik, Philosophie und Physik an der Pädagogischen Hochschule Bremen.",
+          "en": "Becomes professor of mathematics, philosophy and physics at Bremen’s teacher training college."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Andrea Reichenberger — Grete Hermann’s ethical philosophy of physics (Physics Today, 2024)",
+        "url": "https://physicstoday.aip.org/features/grete-hermanns-ethical-philosophy-of-physics",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Guido Bacciagaluppi — Physics and Beyond (Journal for General Philosophy of Science, 2020)",
+        "url": "https://link.springer.com/article/10.1007/s10838-020-09529-z",
+        "accessed": "2026-11-27"
+      },
+      {
+        "title": "Grete Hermann — Die Frage der endlich vielen Schritte in der Theorie der Polynomideale (Mathematische Annalen, 1926)",
+        "url": "https://link.springer.com/article/10.1007/BF01206635",
+        "accessed": "2026-11-27"
+      }
+    ]
   }
 ]
