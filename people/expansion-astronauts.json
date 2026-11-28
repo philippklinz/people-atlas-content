@@ -207,6 +207,295 @@
     ]
   },
   {
+    "id": "gus-grissom",
+    "name": "Gus Grissom",
+    "aliases": [
+      "Virgil Ivan Grissom",
+      "Virgil Grissom",
+      "Virgil I. Grissom"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1926
+    },
+    "death": {
+      "precision": "year",
+      "year": 1967
+    },
+    "status": "deceased",
+    "categories": [
+      "astronauts"
+    ],
+    "summary": {
+      "de": "Grissom flog mit Liberty Bell 7 ins All, kommandierte Gemini 3 und übernahm das Kommando für Apollo 1 (AS-204).",
+      "en": "Grissom flew into space aboard Liberty Bell 7 and commanded both Gemini 3 and the crew of Apollo 1 (AS-204)."
+    },
+    "biography": {
+      "de": "Gus Grissom war Testpilot und gehörte zu den sieben Männern, die die NASA 1959 für das Mercury-Programm auswählte. Sein erster Raumflug in der kleinen Kapsel Liberty Bell 7 dauerte vom Start bis zur Wasserung rund eine Viertelstunde. Vier Jahre später teilte er sich das Cockpit von Gemini 3 mit John Young. Am Ende der ersten Erdumrundung zündete Grissom die Triebwerke und senkte die Umlaufbahn ab. Für den ersten Apollo-Flug mit Besatzung trainierte er mit Ed White und Roger Chaffee.",
+      "en": "A test pilot, Gus Grissom was one of the seven men NASA chose for Project Mercury in 1959. His first journey into space in the small Liberty Bell 7 capsule lasted about fifteen minutes from launch to splashdown. Four years later he shared the Gemini 3 cockpit with John Young. At the end of their first lap around Earth, Grissom fired the thrusters to lower their orbit. He went on to train with Ed White and Roger Chaffee for the first crewed Apollo flight."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1961
+        },
+        "text": {
+          "de": "Fliegt am 21. Juli mit Liberty Bell 7 auf einer suborbitalen Bahn und landet im Atlantik.",
+          "en": "Flies a suborbital trajectory aboard Liberty Bell 7 on 21 July and splashes down in the Atlantic."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1965
+        },
+        "text": {
+          "de": "Umrundet am 23. März mit John Young dreimal die Erde. Es ist der erste Flug des Gemini-Programms mit Besatzung.",
+          "en": "Circles Earth three times with John Young on 23 March, on the Gemini program’s first crewed flight."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1967
+        },
+        "text": {
+          "de": "Kommt am 27. Januar mit White und Chaffee ums Leben, als bei einer Startsimulation auf Rampe 34 in Cape Kennedy das Apollo-Kommandomodul in Brand gerät.",
+          "en": "Dies with White and Chaffee on 27 January when the Apollo command module catches fire during a simulated launch on Pad 34 at Cape Kennedy."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Virgil I. “Gus” Grissom",
+        "url": "https://www.nasa.gov/image-article/virgil-i-gus-grissom/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Gemini III",
+        "url": "https://www.nasa.gov/mission/gemini-iii/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Apollo 1 — Apollo by the Numbers",
+        "url": "https://www.nasa.gov/wp-content/uploads/static/history/SP-4029/Apollo_01a_Summary.htm",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Apollo 1",
+        "url": "https://www.nasa.gov/mission/apollo-1/",
+        "accessed": "2026-11-28"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/gus-grissom.jpg",
+      "alt": {
+        "de": "Gus Grissom im dunklen Anzug neben der US-Flagge.",
+        "en": "Gus Grissom in a dark suit beside the U.S. flag."
+      },
+      "credit": "NASA",
+      "license": "Public domain in the United States",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NASA",
+      "source": "https://commons.wikimedia.org/wiki/File:Gus_Grissom_in_1964.jpg",
+      "originalFile": "Gus Grissom in 1964.jpg"
+    }
+  },
+  {
+    "id": "ed-white",
+    "name": "Ed White",
+    "aliases": [
+      "Edward Higgins White II",
+      "Edward H. White II",
+      "Edward White"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1930
+    },
+    "death": {
+      "precision": "year",
+      "year": 1967
+    },
+    "status": "deceased",
+    "categories": [
+      "astronauts"
+    ],
+    "summary": {
+      "de": "Bei Gemini 4 unternahm White den ersten Weltraumausstieg eines US-Amerikaners. Bei Apollo 1 (AS-204) sollte er als Senior Pilot fliegen.",
+      "en": "White made the first American spacewalk during Gemini 4 and was assigned to Apollo 1 (AS-204) as senior pilot."
+    },
+    "biography": {
+      "de": "Ed White studierte Luftfahrttechnik an der University of Michigan und arbeitete vor seiner Auswahl durch die NASA als Testpilot. Bei Gemini 4 blieb sein Kommandant James McDivitt in der Kapsel, während White durch die Luke ins All schwebte. Eine Leine verband ihn mit dem Raumschiff. Mit einem kleinen, handgeführten Gerät konnte er Gas ausstoßen und so seine Bewegung steuern. Später bereitete er sich mit Gus Grissom und Roger Chaffee auf den ersten Apollo-Flug mit Besatzung vor.",
+      "en": "Ed White studied aeronautical engineering at the University of Michigan and worked as a test pilot before joining NASA. On Gemini 4 his commander, James McDivitt, stayed in the capsule while White floated out through the hatch. A tether connected him to the spacecraft. A small device in his hand let him release jets of gas to steer himself. He later trained with Gus Grissom and Roger Chaffee for the first crewed Apollo flight."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1962
+        },
+        "text": {
+          "de": "Wird in die zweite Astronautengruppe der NASA aufgenommen.",
+          "en": "Joins NASA’s second group of astronauts."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1965
+        },
+        "text": {
+          "de": "Verbringt am 3. Juni bei seinem Ausstieg aus Gemini 4 rund 21 Minuten außerhalb der Kapsel.",
+          "en": "Spends about 21 minutes outside the Gemini 4 capsule during his spacewalk on 3 June."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1967
+        },
+        "text": {
+          "de": "Stirbt am 27. Januar mit Grissom und Chaffee beim Brand im Apollo-Kommandomodul während eines Tests auf der Startrampe.",
+          "en": "Dies with Grissom and Chaffee on 27 January when fire breaks out in the Apollo command module during a test on the launch pad."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Former Astronaut Edward H. White, II",
+        "url": "https://www.nasa.gov/former-astronaut-edward-h-white-ii/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Gemini IV",
+        "url": "https://www.nasa.gov/mission/gemini-iv/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Apollo 1 — Apollo by the Numbers",
+        "url": "https://www.nasa.gov/wp-content/uploads/static/history/SP-4029/Apollo_01a_Summary.htm",
+        "accessed": "2026-11-28"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/ed-white.jpg",
+      "alt": {
+        "de": "Ed White in blauer Uniform neben der US-Flagge.",
+        "en": "Ed White in a blue uniform beside the U.S. flag."
+      },
+      "credit": "NASA",
+      "license": "Public domain in the United States",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NASA",
+      "source": "https://commons.wikimedia.org/wiki/File:EdwardWhite.jpeg",
+      "originalFile": "EdwardWhite.jpeg"
+    }
+  },
+  {
+    "id": "roger-chaffee",
+    "name": "Roger Chaffee",
+    "aliases": [
+      "Roger Bruce Chaffee",
+      "Roger B. Chaffee"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1935
+    },
+    "death": {
+      "precision": "year",
+      "year": 1967
+    },
+    "status": "deceased",
+    "categories": [
+      "astronauts"
+    ],
+    "summary": {
+      "de": "Bei Gemini 4 hielt Chaffee von Houston aus Funkkontakt mit der Besatzung. Als Pilot von Apollo 1 (AS-204) sollte er zum ersten Mal selbst ins All fliegen.",
+      "en": "Chaffee spoke to the Gemini 4 crew from Mission Control in Houston. His assignment as pilot of Apollo 1 (AS-204) was to be his first spaceflight."
+    },
+    "biography": {
+      "de": "Roger Chaffee studierte Luftfahrttechnik an der Purdue University und flog für die US Navy. Im Apollo-Programm arbeitete er an Instrumenten und an den Kommunikationssystemen der Flugkontrolle. Schon bei Gemini 4 war er einer der Astronauten, die in Houston den Sprechfunk übernahmen. Er gab Informationen der Flugleitung an James McDivitt und Ed White im Orbit weiter und übermittelte ihre Antworten. Mit White und Gus Grissom übte er später für seinen eigenen Flug. Er kam beim Brand auf der Startrampe ums Leben, bevor er ins All fliegen konnte.",
+      "en": "Roger Chaffee studied aeronautical engineering at Purdue University and flew for the U.S. Navy. In the Apollo program he worked on instruments and flight control communications. He had already served as one of the astronauts on the radio in Houston during Gemini 4, passing information from flight control to James McDivitt and Ed White in orbit and relaying their replies. He later trained alongside White and Gus Grissom for his own mission. He died in the launch pad fire before he could fly in space."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1963
+        },
+        "text": {
+          "de": "Gehört im Oktober zur dritten Astronautengruppe der NASA.",
+          "en": "Is selected for NASA’s third group of astronauts in October."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1965
+        },
+        "text": {
+          "de": "Arbeitet bei Gemini 4 als Capsule Communicator (Capcom) im Kontrollzentrum in Houston.",
+          "en": "Serves as a capsule communicator (Capcom) for Gemini 4 at Mission Control in Houston."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1966
+        },
+        "text": {
+          "de": "Wird am 21. März als Pilot für den ersten Apollo-Flug mit Besatzung ausgewählt.",
+          "en": "Is named pilot for the first crewed Apollo flight on 21 March."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1967
+        },
+        "text": {
+          "de": "Stirbt am 27. Januar mit Grissom und White bei einer Startsimulation für Apollo 1.",
+          "en": "Dies with Grissom and White on 27 January during a simulated launch for Apollo 1."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Former Astronaut Roger B. Chaffee",
+        "url": "https://www.nasa.gov/former-astronaut-roger-b-chaffee/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Detailed Biographies of the Apollo 1 Crew",
+        "url": "https://www.nasa.gov/history/detailed-biographies-of-the-apollo-1-crew/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Roger B. Chaffee (Lieutenant Commander, USN)",
+        "url": "https://www.nasa.gov/wp-content/uploads/2016/01/chaffee_roger_0.pdf",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Apollo 1",
+        "url": "https://www.nasa.gov/mission/apollo-1/",
+        "accessed": "2026-11-28"
+      }
+    ],
+    "portrait": {
+      "path": "assets/portraits/roger-chaffee.jpg",
+      "alt": {
+        "de": "Roger Chaffee im Anzug mit einem Raketenmodell in den Händen.",
+        "en": "Roger Chaffee in a suit, holding a model rocket."
+      },
+      "credit": "NASA",
+      "license": "Public domain in the United States",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NASA",
+      "source": "https://commons.wikimedia.org/wiki/File:RogerChaffee.1964.ws.jpg",
+      "originalFile": "RogerChaffee.1964.ws.jpg"
+    }
+  },
+  {
     "id": "neil-armstrong",
     "name": "Neil Armstrong",
     "aliases": [

@@ -1,10 +1,10 @@
 # Coverage and roster — 28 November 2026
 
-This edition contains **410 unique people**, up from 28, across 12 overlapping categories and 15 data files. Every entry has German and English summaries and biographies. There are 675 works, contributions or events (636 with a date or documented date range), 688 source references and 677 distinct source URLs.
+This edition contains **413 unique people**, up from 28, across 12 overlapping categories and 15 data files. Every entry has German and English summaries and biographies. There are 685 works, contributions or events (646 with a date or documented date range), 699 source references and 686 distinct source URLs.
 
 Women in science and research includes 89 people, including all 29 women currently assigned to mathematics. The selection retains each person’s subject categories.
 
-402 lives have plottable endpoints. The other 8 remain available in the list and through person links. Approximate and disputed dates retain their qualifiers.
+405 lives have plottable endpoints. The other 8 remain available in the list and through person links. Approximate and disputed dates retain their qualifiers.
 
 Counts include descendants of a selected category. They must not be added together: people may belong to multiple categories, while the application displays their union once.
 
@@ -16,7 +16,7 @@ Counts include descendants of a selected category. They must not be added togeth
 | Natural scientists | 64 | 32 |
 | Computer scientists | 37 | 14 |
 | Women in science and research | 89 | 89 |
-| Astronauts | 27 | 10 |
+| Astronauts | 30 | 10 |
 | Philosophers | 58 | 7 |
 | Inventors | 54 | 8 |
 | Political figures | 53 | 7 |
@@ -129,6 +129,7 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Douglas Engelbart](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=douglas-engelbart) | 1925 → 2013 | Computer scientists, Inventors |
 | [Dschingis Khan](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=genghis-khan) | c. 1162 → 1227 | Political figures |
 | [Du Fu](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=du-fu) | 712 → 770 | Writers |
+| [Ed White](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=ed-white) | 1930 → 1967 | Astronauts |
 | [Edith Stein](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=edith-stein) | 1891 → 1942 | Philosophers |
 | [Edmond Halley](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=edmond-halley) | c. 1656 → 1742 | Physicists & astronomers, Mathematicians |
 | [Edsger Wybe Dijkstra](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=edsger-dijkstra) | 1930 → 2002 | Computer scientists, Mathematicians |
@@ -186,6 +187,7 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Gregor Mendel](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=gregor-mendel) | 1822 → 1884 | Natural scientists |
 | [Grete Hermann](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=grete-hermann) | 1901 → 1984 | Mathematicians, Physicists & astronomers, Philosophers, Women in science and research |
 | [Guglielmo Marconi](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=guglielmo-marconi) | 1874 → 1937 | Inventors, Physicists & astronomers |
+| [Gus Grissom](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=gus-grissom) | 1926 → 1967 | Astronauts |
 | [Gustav Klimt](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=gustav-klimt) | 1862 → 1918 | Artists |
 | [Hannah Arendt](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=hannah-arendt) | 1906 → 1975 | Philosophers |
 | [Harrison Schmitt](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=harrison-schmitt) | 1935 → living | Astronauts, Natural scientists, Political figures |
@@ -369,6 +371,7 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Rita Levi-Montalcini](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=rita-levi-montalcini) | 1909 → 2012 | Natural scientists, Political figures, Women in science and research |
 | [Robert Hooke](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=robert-hooke) | 1635 → 1703 | Physicists & astronomers, Natural scientists, Inventors |
 | [Robert Koch](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=robert-koch) | 1843 → 1910 | Natural scientists |
+| [Roger Chaffee](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=roger-chaffee) | 1935 → 1967 | Astronauts |
 | [Rosa Luxemburg](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=rosa-luxemburg) | 1871 → 1919 | Political figures, Scientists, Women in science and research |
 | [Rosalind Franklin](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=rosalind-franklin) | 1920 → 1958 | Natural scientists, Women in science and research |
 | [Rudolf Diesel](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=rudolf-diesel) | 1858 → 1913 | Inventors |
