@@ -5,7 +5,7 @@
     "de": "People Atlas — Menschen und ihre Zeit",
     "en": "People Atlas — Explore lives through time"
   },
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "license": "GPL-2.0-only",
   "languages": [
     "de",
@@ -26,7 +26,8 @@
     "people/expansion-artists.json",
     "people/expansion-writers.json",
     "people/expansion-women-in-science.json",
-    "people/expansion-scientists.json"
+    "people/expansion-scientists.json",
+    "people/expansion-astronauts.json"
   ],
   "featured": [
     "rene-descartes",

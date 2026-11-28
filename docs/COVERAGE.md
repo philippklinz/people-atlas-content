@@ -1,26 +1,27 @@
-# Coverage and roster — 27 November 2026
+# Coverage and roster — 28 November 2026
 
-This edition contains **383 unique people**, up from 28, across 11 overlapping categories and 14 data files. Every entry has German and English summaries and biographies. There are 615 works, contributions or events (576 with a date or documented date range), 622 source references and 617 distinct source URLs.
+This edition contains **410 unique people**, up from 28, across 12 overlapping categories and 15 data files. Every entry has German and English summaries and biographies. There are 675 works, contributions or events (636 with a date or documented date range), 688 source references and 677 distinct source URLs.
 
-Women in science and research includes 79 people, including all 29 women currently assigned to mathematics. The selection retains each person’s subject categories.
+Women in science and research includes 89 people, including all 29 women currently assigned to mathematics. The selection retains each person’s subject categories.
 
-375 lives have plottable endpoints. The other 8 remain available in the list and through person links; an unknown endpoint is never supplied for visual convenience. Approximate and disputed dates retain their qualifiers.
+402 lives have plottable endpoints. The other 8 remain available in the list and through person links. Approximate and disputed dates retain their qualifiers.
 
 Counts include descendants of a selected category. They must not be added together: people may belong to multiple categories, while the application displays their union once.
 
 | Category | Unique people | Women in science and research |
 | --- | ---: | ---: |
-| Scientists | 203 | 75 |
+| Scientists | 218 | 83 |
 | Mathematicians | 84 | 29 |
-| Physicists & astronomers | 71 | 23 |
-| Natural scientists | 57 | 27 |
-| Computer scientists | 36 | 14 |
-| Women in science and research | 79 | 79 |
+| Physicists & astronomers | 72 | 24 |
+| Natural scientists | 64 | 32 |
+| Computer scientists | 37 | 14 |
+| Women in science and research | 89 | 89 |
+| Astronauts | 27 | 10 |
 | Philosophers | 58 | 7 |
 | Inventors | 54 | 8 |
-| Political figures | 48 | 5 |
-| Artists | 48 | 4 |
-| Writers | 51 | 2 |
+| Political figures | 53 | 7 |
+| Artists | 49 | 4 |
+| Writers | 53 | 3 |
 
 ## Complete roster
 
@@ -49,6 +50,7 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Alexander Graham Bell](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=alexander-graham-bell) | 1847 → 1922 | Inventors |
 | [Alexander Luria](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=alexander-luria) | 1902 → 1977 | Scientists |
 | [Alexander von Humboldt](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=alexander-von-humboldt) | 1769 → 1859 | Natural scientists |
+| [Alexei Leonow](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=alexei-leonov) | 1934 → 2019 | Astronauts, Artists |
 | [Alfred Russel Wallace](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=alfred-russel-wallace) | 1823 → 1913 | Natural scientists |
 | [Alice Ball](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=alice-ball) | 1892 → 1916 | Natural scientists, Women in science and research |
 | [Alice Hamilton](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=alice-hamilton) | 1869 → 1970 | Natural scientists, Women in science and research |
@@ -66,6 +68,7 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Apollonios von Perge](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=apollonius-of-perga) | c. 262 BCE → c. 190 BCE | Mathematicians |
 | [Archimedes](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=archimedes) | c. 287 BCE → 212 BCE | Mathematicians, Physicists & astronomers, Inventors |
 | [Aristoteles](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=aristotle) | 384 BCE → 322 BCE | Philosophers, Natural scientists |
+| [Arnaldo Tamayo Méndez](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=arnaldo-tamayo-mendez) | 1942 → living | Astronauts |
 | [Artemisia Gentileschi](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=artemisia-gentileschi) | 1593 → unknown | Artists |
 | [Aryabhata](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=aryabhata) | 476 → c. 550 | Mathematicians, Physicists & astronomers |
 | [Ashoka](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=ashoka) | c. 304 BCE → c. 232 BCE | Political figures |
@@ -88,6 +91,7 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Blaise Pascal](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=blaise-pascal) | 1623 → 1662 | Mathematicians, Physicists & astronomers, Philosophers, Inventors |
 | [Brahmagupta](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=brahmagupta) | 598 → c. 670 | Mathematicians, Physicists & astronomers |
 | [Bronisław Malinowski](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=bronislaw-malinowski) | 1884 → 1942 | Scientists |
+| [Buzz Aldrin](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=buzz-aldrin) | 1930 → living | Astronauts, Scientists |
 | [C. V. Raman](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=c-v-raman) | 1888 → 1970 | Physicists & astronomers |
 | [Cai Lun](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=cai-lun) | 61–63 → 121 | Inventors |
 | [Carl Benz](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=karl-benz) | 1844 → 1929 | Inventors |
@@ -101,8 +105,10 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Charles Lyell](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=charles-lyell) | 1797 → 1875 | Natural scientists |
 | [Charles Spearman](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=charles-spearman) | 1863 → 1945 | Mathematicians |
 | [Charlotte Brontë](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=charlotte-bronte) | 1816 → 1855 | Writers |
+| [Chiaki Mukai](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=chiaki-mukai) | 1952 → living | Astronauts, Natural scientists, Women in science and research |
 | [Chien-Shiung Wu](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=chien-shiung-wu) | 1912 → 1997 | Physicists & astronomers, Women in science and research |
 | [Chinua Achebe](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=chinua-achebe) | 1930 → 2013 | Writers |
+| [Chris Hadfield](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=chris-hadfield) | 1959 → living | Astronauts, Writers |
 | [Christiaan Huygens](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=christiaan-huygens) | 1629 → 1695 | Physicists & astronomers, Mathematicians, Inventors |
 | [Clara Schumann](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=clara-schumann) | 1819 → 1896 | Artists |
 | [Clarice Lispector](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=clarice-lispector) | 1920 → 1977 | Writers |
@@ -153,6 +159,7 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Francisco de Goya](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=francisco-goya) | 1746 → 1828 | Artists |
 | [Franz Boas](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=franz-boas) | 1858 → 1942 | Scientists |
 | [Franz Kafka](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=franz-kafka) | 1883 → 1924 | Writers |
+| [Franz Viehböck](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=franz-viehboeck) | 1960 → living | Astronauts, Scientists |
 | [Frida Kahlo](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=frida-kahlo) | 1907 → 1954 | Artists |
 | [Friedrich Nietzsche](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=friedrich-nietzsche) | 1844 → 1900 | Philosophers |
 | [Gabriel García Márquez](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=gabriel-garcia-marquez) | 1927 → 2014 | Writers |
@@ -181,8 +188,10 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Guglielmo Marconi](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=guglielmo-marconi) | 1874 → 1937 | Inventors, Physicists & astronomers |
 | [Gustav Klimt](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=gustav-klimt) | 1862 → 1918 | Artists |
 | [Hannah Arendt](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=hannah-arendt) | 1906 → 1975 | Philosophers |
+| [Harrison Schmitt](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=harrison-schmitt) | 1935 → living | Astronauts, Natural scientists, Political figures |
 | [Hatschepsut](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=hatshepsut) | c. 1507 BCE → c. 1458 BCE | Political figures |
 | [Hedy Lamarr](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=hedy-lamarr) | 1914 → 2000 | Artists, Inventors, Women in science and research |
+| [Helen Sharman](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=helen-sharman) | 1963 → living | Astronauts, Natural scientists, Women in science and research |
 | [Henri Matisse](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=henri-matisse) | 1869 → 1954 | Artists |
 | [Henri Poincaré](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=henri-poincare) | 1854 → 1912 | Mathematicians, Physicists & astronomers, Philosophers |
 | [Henrietta Swan Leavitt](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=henrietta-leavitt) | 1868 → 1921 | Physicists & astronomers, Women in science and research |
@@ -234,6 +243,7 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Julia Robinson](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=julia-robinson) | 1919 → 1985 | Mathematicians, Computer scientists, Women in science and research |
 | [Julius Caesar](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=julius-caesar) | 100 BCE → 44 BCE | Political figures |
 | [Julius Nyerere](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=julius-nyerere) | 1922 → 1999 | Political figures |
+| [Juri Gagarin](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=yuri-gagarin) | 1934 → 1968 | Astronauts, Political figures |
 | [Kamal Ranadive](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=kamal-ranadive) | 1917 → 2001 | Natural scientists, Women in science and research |
 | [Kamala Sohonie](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=kamala-sohonie) | 1911–1912 → 1998 | Natural scientists, Women in science and research |
 | [Karl Marx](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=karl-marx) | 1818 → 1883 | Philosophers, Political figures, Scientists |
@@ -260,6 +270,7 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Linus Pauling](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=linus-pauling) | 1901 → 1994 | Natural scientists |
 | [Lise Meitner](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=lise-meitner) | 1878 → 1968 | Physicists & astronomers, Women in science and research |
 | [Liu Hui](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=liu-hui) | c. 220 → c. 280 | Mathematicians |
+| [Liu Yang](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=liu-yang) | 1978 → living | Astronauts, Women in science and research |
 | [Louis Pasteur](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=louis-pasteur) | 1822 → 1895 | Natural scientists |
 | [Lu Xun](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=lu-xun) | 1881 → 1936 | Writers |
 | [Ludwig Boltzmann](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=ludwig-boltzmann) | 1844 → 1906 | Physicists & astronomers, Mathematicians |
@@ -267,10 +278,12 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Ludwig Wittgenstein](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=ludwig-wittgenstein) | 1889 → 1951 | Philosophers |
 | [Lygia Clark](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=lygia-clark) | 1920 → 1988 | Artists |
 | [Madhava von Sangamagrama](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=madhava) | c. 1350 → c. 1425 | Mathematicians, Physicists & astronomers |
+| [Mae Jemison](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=mae-jemison) | 1956 → living | Astronauts, Natural scientists, Women in science and research |
 | [Mahatma Gandhi](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=mahatma-gandhi) | 1869 → 1948 | Political figures |
 | [Mansa Musa](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=mansa-musa) | c. 1280 → c. 1337 | Political figures |
 | [Mao Zedong](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=mao-zedong) | 1893 → 1976 | Political figures |
 | [Marcel Proust](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=marcel-proust) | 1871 → 1922 | Writers |
+| [Marcos Pontes](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=marcos-pontes) | 1963 → living | Astronauts, Political figures |
 | [Margaret E. Knight](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=margaret-e-knight) | 1838 → 1914 | Inventors, Women in science and research |
 | [Margaret Hamilton](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=margaret-hamilton) | 1936 → 2026 | Computer scientists, Women in science and research |
 | [Margaret Mead](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=margaret-mead) | 1901 → 1978 | Scientists, Women in science and research |
@@ -281,6 +294,7 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Marie Maynard Daly](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=marie-maynard-daly) | 1921 → 2003 | Natural scientists, Women in science and research |
 | [Marie Skłodowska Curie](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=marie-curie) | 1867 → 1934 | Physicists & astronomers, Women in science and research, Natural scientists |
 | [Marjorie Lee Browne](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=marjorie-lee-browne) | 1914 → 1979 | Mathematicians, Women in science and research |
+| [Mark Shuttleworth](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=mark-shuttleworth) | 1973 → living | Astronauts, Computer scientists |
 | [Martha Graham](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=martha-graham) | 1894 → 1991 | Artists |
 | [Marvin Minsky](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=marvin-minsky) | 1927 → 2016 | Computer scientists, Mathematicians |
 | [Mary Anderson](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=mary-anderson) | 1866 → 1953 | Inventors, Women in science and research |
@@ -297,10 +311,12 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Max Weber](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=max-weber) | 1864 → 1920 | Scientists |
 | [Mehmed II.](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=mehmed-ii) | 1432 → 1481 | Political figures |
 | [Mengzi](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=mencius) | c. 372 BCE → c. 289 BCE | Philosophers |
+| [Michael Collins](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=michael-collins) | 1930 → 2021 | Astronauts |
 | [Michael Faraday](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=michael-faraday) | 1791 → 1867 | Physicists & astronomers, Inventors |
 | [Michelangelo](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=michelangelo) | 1475 → 1564 | Artists |
 | [Michiyo Tsujimura](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=michiyo-tsujimura) | 1888 → 1969 | Natural scientists, Women in science and research |
 | [Miguel de Cervantes](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=miguel-de-cervantes) | 1547 → 1616 | Writers |
+| [Mirosław Hermaszewski](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=miroslaw-hermaszewski) | 1941 → 2022 | Astronauts |
 | [Molière](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=moliere) | 1622 → 1673 | Writers, Artists |
 | [Mozi](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=mozi) | c. 470 BCE → c. 391 BCE | Philosophers |
 | [Murasaki Shikibu](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=murasaki-shikibu) | c. 978 → unknown | Writers |
@@ -308,6 +324,7 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Nagib Mahfuz](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=naguib-mahfouz) | 1911 → 2006 | Writers |
 | [Napoleon Bonaparte](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=napoleon-bonaparte) | 1769 → 1821 | Political figures |
 | [Nāgārjuna](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=nagarjuna) | unknown → unknown | Philosophers |
+| [Neil Armstrong](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=neil-armstrong) | 1930 → 2012 | Astronauts, Scientists |
 | [Nelson Mandela](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=nelson-mandela) | 1918 → 2013 | Political figures |
 | [Ngũgĩ wa Thiong’o](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=ngugi-wa-thiongo) | 1938 → 2025 | Writers |
 | [Nicole-Reine Lepaute](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=nicole-reine-lepaute) | 1723 → 1788 | Mathematicians, Physicists & astronomers, Women in science and research |
@@ -329,6 +346,8 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Patricia Bath](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=patricia-bath) | 1942 → 2019 | Natural scientists, Inventors, Women in science and research |
 | [Paul Cézanne](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=paul-cezanne) | 1839 → 1906 | Artists |
 | [Paul Dirac](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=paul-dirac) | 1902 → 1984 | Physicists & astronomers, Mathematicians |
+| [Peggy Whitson](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=peggy-whitson) | 1960 → living | Astronauts, Natural scientists, Women in science and research |
+| [Phạm Tuân](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=pham-tuan) | 1947 → living | Astronauts |
 | [Philippa Foot](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=philippa-foot) | 1920 → 2010 | Philosophers |
 | [Pierre de Fermat](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=pierre-de-fermat) | 1601–1608 → 1665 | Mathematicians |
 | [Piet Mondrian](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=piet-mondrian) | 1872 → 1944 | Artists |
@@ -341,6 +360,8 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Raffael](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=raphael) | 1483 → 1520 | Artists |
 | [Raj Reddy](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=raj-reddy) | 1937 → living | Computer scientists |
 | [Raja Ravi Varma](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=raja-ravi-varma) | 1848 → 1906 | Artists |
+| [Rakesh Sharma](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=rakesh-sharma) | 1949 → living | Astronauts |
+| [Rayyanah Barnawi](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=rayyanah-barnawi) | 1988 → living | Astronauts, Natural scientists, Women in science and research |
 | [Rāmānuja](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=ramanuja) | c. 1017 → c. 1137 | Philosophers |
 | [Rembrandt](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=rembrandt) | 1606 → 1669 | Artists |
 | [René Descartes](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=rene-descartes) | 1596 → 1650 | Philosophers, Mathematicians |
@@ -353,12 +374,15 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Rudolf Diesel](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=rudolf-diesel) | 1858 → 1913 | Inventors |
 | [Rudolf Virchow](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=rudolf-virchow) | 1821 → 1902 | Natural scientists, Political figures |
 | [Ruth Benedict](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=ruth-benedict) | 1887 → 1948 | Scientists, Women in science and research |
+| [Sally Ride](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=sally-ride) | 1951 → 2012 | Astronauts, Physicists & astronomers, Women in science and research, Writers |
+| [Samantha Cristoforetti](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=samantha-cristoforetti) | 1977 → living | Astronauts, Scientists, Women in science and research |
 | [Samuel F. B. Morse](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=samuel-morse) | 1791 → 1872 | Inventors, Artists |
 | [Santiago Ramón y Cajal](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=santiago-ramon-y-cajal) | 1852 → 1934 | Natural scientists |
 | [Sappho](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=sappho) | c. 630 BCE → c. 570 BCE | Writers |
 | [Satyendra Nath Bose](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=satyendra-nath-bose) | 1894 → 1974 | Physicists & astronomers, Mathematicians |
 | [Sei Shōnagon](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=sei-shonagon) | 966–967 → unknown | Writers |
 | [Shen Zhou](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=shen-zhou) | 1427 → 1509 | Artists |
+| [Sigmund Jähn](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=sigmund-jaehn) | 1937 → 2019 | Astronauts, Natural scientists |
 | [Simone de Beauvoir](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=simone-de-beauvoir) | 1908 → 1986 | Philosophers, Writers |
 | [Simone Weil](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=simone-weil) | 1909 → 1943 | Philosophers |
 | [Simón Bolívar](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=simon-bolivar) | 1783 → 1830 | Political figures |
@@ -377,6 +401,8 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Sukarno](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=sukarno) | 1901 → 1970 | Political figures |
 | [Sun Yat-sen](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=sun-yat-sen) | 1866 → 1925 | Political figures |
 | [Süleyman I.](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=suleiman-i) | 1494–1495 → 1566 | Political figures |
+| [Swetlana Sawizkaja](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=svetlana-savitskaya) | 1948 → living | Astronauts, Women in science and research, Scientists, Political figures |
+| [Sławosz Uznański-Wiśniewski](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=slawosz-uznanski-wisniewski) | 1984 → living | Astronauts, Scientists |
 | [Śaṅkara](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=shankara) | c. 700 → c. 750 | Philosophers |
 | [Tanaka Hisashige](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=tanaka-hisashige) | 1799 → 1881 | Inventors |
 | [Tang Taizong](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=tang-taizong) | c. 599 → 649 | Political figures |
@@ -393,6 +419,7 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Vincent van Gogh](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=vincent-van-gogh) | 1853 → 1890 | Artists |
 | [Virginia Woolf](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=virginia-woolf) | 1882 → 1941 | Writers |
 | [W. E. B. Du Bois](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=w-e-b-du-bois) | 1868 → 1963 | Scientists, Philosophers, Writers |
+| [Walentina Tereschkowa](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=valentina-tereshkova) | 1937 → living | Astronauts, Women in science and research, Political figures |
 | [Wangari Maathai](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=wangari-maathai) | 1940 → 2011 | Natural scientists, Political figures, Women in science and research |
 | [Wassily Kandinsky](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=wassily-kandinsky) | 1866 → 1944 | Artists |
 | [Werner Heisenberg](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=werner-heisenberg) | 1901 → 1976 | Physicists & astronomers |
@@ -406,6 +433,7 @@ Names link to stable person addresses. Category labels below show direct assignm
 | [Wolfgang Amadeus Mozart](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=wolfgang-amadeus-mozart) | 1756 → 1791 | Artists |
 | [Xia Peisu](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=xia-peisu) | 1923 → 2014 | Computer scientists, Women in science and research |
 | [Xunzi](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=xunzi) | c. 310 BCE → unknown | Philosophers |
+| [Yang Liwei](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=yang-liwei) | 1965 → living | Astronauts |
 | [Yasunari Kawabata](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=yasunari-kawabata) | 1899 → 1972 | Writers |
 | [Zhang Heng](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=zhang-heng) | 78 → 139 | Inventors, Mathematicians, Physicists & astronomers |
 | [Zhao Mengfu](https://philipp-klinz.net/people-atlas-engine/?lang=en&person=zhao-mengfu) | 1254 → 1322 | Artists |
