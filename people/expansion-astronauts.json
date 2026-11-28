@@ -1,0 +1,1759 @@
+[
+  {
+    "id": "yuri-gagarin",
+    "name": "Juri Gagarin",
+    "aliases": [
+      "Yuri Gagarin",
+      "Yuri Alekseyevich Gagarin",
+      "Juri Alexejewitsch Gagarin",
+      "Юрий Гагарин"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1934
+    },
+    "death": {
+      "precision": "year",
+      "year": 1968
+    },
+    "status": "deceased",
+    "categories": [
+      "astronauts",
+      "politicians"
+    ],
+    "summary": {
+      "de": "Der sowjetische Pilot umrundete 1961 mit Wostok 1 als erster Mensch im All die Erde.",
+      "en": "The Soviet pilot became the first human in space when Vostok 1 carried him around Earth in 1961."
+    },
+    "biography": {
+      "de": "Gagarin lernte während seiner technischen Ausbildung in Saratow in einem Fliegerklub fliegen. Sein Raumflug mit Wostok 1 dauerte 108 Minuten. Beim Wiedereintritt steuerte ein Computer die Kapsel. Für die Landung stieg Gagarin per Schleudersitz aus und erreichte den Boden am eigenen Fallschirm. Später war er Abgeordneter im Obersten Sowjet und trainierte als Ersatzpilot für Sojus 1.",
+      "en": "While studying at a technical school in Saratov, Gagarin learned to fly at a local club. His Vostok 1 flight lasted 108 minutes. A computer guided the capsule during re-entry. Gagarin ejected and made the final descent under his own parachute. He later served as a deputy to the Supreme Soviet and trained as backup pilot for Soyuz 1."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1960
+        },
+        "text": {
+          "de": "Wird mit 19 weiteren Piloten für das sowjetische Raumfahrtprogramm ausgewählt.",
+          "en": "Joins the first group of twenty Soviet cosmonaut trainees."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1961
+        },
+        "text": {
+          "de": "Startet am 12. April mit Wostok 1 in die Erdumlaufbahn.",
+          "en": "Reaches Earth orbit aboard Vostok 1 on 12 April."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Yuri Gagarin — ESA",
+        "url": "https://www.esa.int/articles/about-us/who-we-are/history/yuri-gagarin",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "April 1961 - First Human Entered Space — NASA",
+        "url": "https://www.nasa.gov/image-article/april-1961-first-human-entered-space/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "The flight of Vostok 1",
+        "url": "https://www.esa.int/articles/about-us/who-we-are/history/the-flight-of-vostok-1",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "valentina-tereshkova",
+    "name": "Walentina Tereschkowa",
+    "aliases": [
+      "Valentina Tereshkova",
+      "Valentina Vladimirovna Tereshkova",
+      "Валентина Терешкова"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1937
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts",
+      "women-in-science",
+      "politicians"
+    ],
+    "summary": {
+      "de": "Die Fallschirmspringerin flog mit Wostok 6 als erste Frau ins All. Ihre Aufnahmen des Horizonts dienten der Atmosphärenforschung.",
+      "en": "The parachutist became the first woman in space on Vostok 6. Her horizon photographs helped researchers study the atmosphere."
+    },
+    "biography": {
+      "de": "Tereschkowa arbeitete in einer Textilfabrik und sprang in ihrer Freizeit Fallschirm. Diese Erfahrung zählte bei der Auswahl der Besatzung, denn die Wostok-Kapseln hatten einen Schleudersitz für die Landung. Knapp drei Tage kreiste sie allein um die Erde. Ihre Fotos halfen später, Schichten feiner Schwebeteilchen in der Atmosphäre zu erkennen. Nach dem Flug übernahm sie politische Ämter in der Sowjetunion.",
+      "en": "Tereshkova worked in a textile mill and took up parachuting at a flying club. That experience mattered for a spacecraft whose pilot ejected before landing. She spent nearly three days alone in orbit. Researchers used her photographs to identify layers of airborne particles. She later held political office in the Soviet Union."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1962
+        },
+        "text": {
+          "de": "Wird als eine von fünf Frauen in die sowjetische Kosmonautenausbildung aufgenommen.",
+          "en": "Enters the Soviet cosmonaut training programme with four other women."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1963
+        },
+        "text": {
+          "de": "Startet am 16. Juni mit Wostok 6 und hält Funkkontakt zu Wostok 5.",
+          "en": "Launches on Vostok 6 on 16 June and makes radio contact with Vostok 5."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1974
+        },
+        "text": {
+          "de": "Wird in das Präsidium des Obersten Sowjets gewählt.",
+          "en": "Is elected to the Presidium of the Supreme Soviet."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "First woman in space: Valentina — ESA",
+        "url": "https://www.esa.int/About_Us/50_years_of_ESA/50_years_of_humans_in_space/First_woman_in_space_Valentina",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Valentina V. Tereshkova — New Mexico Museum of Space History",
+        "url": "https://nmspacemuseum.org/inductee/valentina-v-tereshkova/",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "alexei-leonov",
+    "name": "Alexei Leonow",
+    "aliases": [
+      "Alexei Leonov",
+      "Aleksei Leonov",
+      "Alexey Leonov",
+      "Алексей Леонов"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1934
+    },
+    "death": {
+      "precision": "year",
+      "year": 2019
+    },
+    "status": "deceased",
+    "categories": [
+      "astronauts",
+      "artists"
+    ],
+    "summary": {
+      "de": "Leonow unternahm den ersten Weltraumausstieg. Als Maler hielt er fest, wie die Erde aus dem All aussieht.",
+      "en": "Leonov made the first spacewalk. As a painter, he recorded how Earth looked from space."
+    },
+    "biography": {
+      "de": "Als Leonow Woschod 2 verließ, dehnte sich sein Raumanzug im Vakuum so stark aus, dass er kaum in die Luftschleuse zurückkam. Zehn Jahre später öffnete er eine andere Luke für eine Begegnung im All. Diesmal empfing die sowjetische Sojus-Besatzung ihre amerikanischen Apollo-Kollegen. Eindrücke seiner Flüge verarbeitete Leonow in Zeichnungen und Gemälden.",
+      "en": "When Leonov left Voskhod 2, his suit expanded in the vacuum until he could barely fit back through the airlock. Ten years later he opened a hatch for a meeting in space. His Soviet Soyuz crew welcomed their American Apollo counterparts aboard. He drew and painted scenes from his flights."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1965
+        },
+        "text": {
+          "de": "Verlässt am 18. März Woschod 2 für den ersten Außenbordeinsatz der Raumfahrt.",
+          "en": "Leaves Voskhod 2 on 18 March for the first spacewalk."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1975
+        },
+        "text": {
+          "de": "Kommandiert das sowjetische Raumschiff beim gemeinsamen Apollo-Sojus-Flug.",
+          "en": "Commands the Soviet spacecraft on the joint Apollo–Soyuz flight."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alexei Leonov, the first spacewalker, passes away — ESA",
+        "url": "https://www.esa.int/About_Us/50_years_of_ESA/Alexei_Leonov_the_first_spacewalker_passes_away",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Alexei Leonov: The artistic spaceman — ESA",
+        "url": "https://www.esa.int/articles/about-us/who-we-are/history/alexei-leonov-the-artistic-spaceman",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "neil-armstrong",
+    "name": "Neil Armstrong",
+    "aliases": [
+      "Neil Alden Armstrong"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1930
+    },
+    "death": {
+      "precision": "year",
+      "year": 2012
+    },
+    "status": "deceased",
+    "categories": [
+      "astronauts",
+      "scientists"
+    ],
+    "summary": {
+      "de": "Der Forschungspilot kommandierte Gemini 8 und Apollo 11. Er betrat als erster Mensch den Mond.",
+      "en": "The research pilot commanded Gemini 8 and Apollo 11 and became the first person to set foot on the Moon."
+    },
+    "biography": {
+      "de": "Vor seinen Raumflügen testete Armstrong Forschungsflugzeuge. Mit David Scott gelang ihm auf Gemini 8 die erste Kopplung zweier Fahrzeuge im All. Bei Apollo 11 landete er mit Buzz Aldrin im Mondmodul Eagle, während Michael Collins im Orbit blieb. Armstrong und Aldrin sammelten Gesteinsproben für die Rückreise. Später lehrte und forschte Armstrong an der University of Cincinnati.",
+      "en": "Armstrong tested research aircraft before flying in space. On Gemini 8, he and David Scott completed the first docking of two vehicles in orbit. On Apollo 11, he and Buzz Aldrin landed in the lunar module Eagle while Michael Collins remained in orbit. They collected rock samples for the return journey. Armstrong later taught and conducted research at the University of Cincinnati."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1966
+        },
+        "text": {
+          "de": "Koppelt Gemini 8 mit David Scott an ein unbemanntes Agena-Zielfahrzeug.",
+          "en": "Docks Gemini 8 with an uncrewed Agena target vehicle alongside David Scott."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1969
+        },
+        "text": {
+          "de": "Steigt bei Apollo 11 als erster Mensch auf die Mondoberfläche.",
+          "en": "Steps onto the lunar surface as commander of Apollo 11."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Who Was Neil Armstrong? — NASA",
+        "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/who-was-neil-armstrong/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Apollo 11 — NASA",
+        "url": "https://www.nasa.gov/mission/apollo-11/",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "buzz-aldrin",
+    "name": "Buzz Aldrin",
+    "aliases": [
+      "Edwin Eugene Aldrin Jr.",
+      "Edwin Aldrin"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1930
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts",
+      "scientists"
+    ],
+    "summary": {
+      "de": "Der Ingenieur erforschte, wie sich zwei Raumfahrzeuge im Orbit treffen, und flog als Pilot der Mondfähre von Apollo 11.",
+      "en": "The engineer studied how spacecraft could meet in orbit and flew as lunar module pilot on Apollo 11."
+    },
+    "biography": {
+      "de": "In seiner Doktorarbeit am MIT untersuchte Aldrin, wie eine Besatzung ein anderes Fahrzeug anhand der Sichtlinie im Orbit ansteuern kann. Auf Gemini 12 arbeitete er bei Außenbordeinsätzen am Raumschiff. Mit Neil Armstrong landete er später im Mondmodul Eagle. Als zweiter Mensch betrat er den Mond und sammelte mit Armstrong Material für die Untersuchung auf der Erde.",
+      "en": "Aldrin’s MIT dissertation examined how a crew could guide a spacecraft towards another vehicle by observing its line of sight. On Gemini 12 he worked outside the spacecraft during spacewalks. He later landed with Neil Armstrong in the lunar module Eagle. The second person to set foot on the Moon, Aldrin helped collect samples for study back on Earth."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1963
+        },
+        "text": {
+          "de": "Schließt am MIT seine Dissertation über Rendezvousmanöver im Orbit ab.",
+          "en": "Completes his MIT dissertation on guidance for orbital rendezvous."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1966
+        },
+        "text": {
+          "de": "Unternimmt bei Gemini 12 Außenbordeinsätze.",
+          "en": "Works outside the spacecraft on Gemini 12."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1969
+        },
+        "text": {
+          "de": "Landet bei Apollo 11 mit der Mondfähre Eagle auf dem Mond.",
+          "en": "Lands on the Moon aboard Eagle on Apollo 11."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Former Astronaut Edwin “Buzz” Aldrin — NASA",
+        "url": "https://www.nasa.gov/former-astronaut-edwin-buzz-aldrin/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Line-of-sight guidance techniques for manned orbital rendezvous — MIT",
+        "url": "https://dspace.mit.edu/entities/publication/2ecaec20-d748-493a-aeeb-583af210cd73",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "The Apollo 11 crew — ESA",
+        "url": "https://www.esa.int/articles/about-us/who-we-are/history/the-apollo-11-crew",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "michael-collins",
+    "name": "Michael Collins",
+    "aliases": [
+      "Mike Collins"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1930
+    },
+    "death": {
+      "precision": "year",
+      "year": 2021
+    },
+    "status": "deceased",
+    "categories": [
+      "astronauts"
+    ],
+    "summary": {
+      "de": "Bei Apollo 11 steuerte Collins das Kommandomodul Columbia. Während der ersten Mondlandung blieb er allein im Mondorbit.",
+      "en": "On Apollo 11 Collins piloted the command module Columbia, flying alone in lunar orbit during the first Moon landing."
+    },
+    "biography": {
+      "de": "Während Armstrong und Aldrin auf dem Mond arbeiteten, hielt Collins das Schiff für die gemeinsame Heimreise bereit. Nach dem Aufstieg der Mondfähre trafen sich Eagle und Columbia im Orbit, wo seine Kollegen wieder zu ihm an Bord kamen. Später leitete Collins das National Air and Space Museum in Washington und setzte sich für das neue Museumsgebäude ein, das 1976 eröffnete.",
+      "en": "While Armstrong and Aldrin worked on the Moon, Collins kept their ride home ready in lunar orbit. After Eagle lifted off, the two spacecraft met and his crewmates rejoined him aboard Columbia. Collins later directed the National Air and Space Museum in Washington and helped secure the funding for its new building, which opened in 1976."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1966
+        },
+        "text": {
+          "de": "Verlässt bei Gemini 10 für Außenarbeiten die Kapsel. John Young kommandiert die Mission.",
+          "en": "Leaves the Gemini 10 capsule for work outside. John Young commands the mission."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1969
+        },
+        "text": {
+          "de": "Hält Columbia im Mondorbit für die Rückkehr von Armstrong und Aldrin bereit.",
+          "en": "Keeps Columbia in lunar orbit for Armstrong and Aldrin’s return."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1976
+        },
+        "text": {
+          "de": "Eröffnet als Museumsdirektor das neue Gebäude an der National Mall in Washington.",
+          "en": "Opens the museum’s new building on Washington’s National Mall as its director."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Apollo 11 crew — ESA",
+        "url": "https://www.esa.int/articles/about-us/who-we-are/history/the-apollo-11-crew",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Former Astronaut Michael Collins — NASA",
+        "url": "https://www.nasa.gov/former-astronaut-michael-collins/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "NASA Johnson Space Center Director Statement on the Passing of Michael Collins",
+        "url": "https://www.nasa.gov/news-release/nasa-johnson-space-center-director-statement-on-the-passing-of-michael-collins/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Remembering Michael Collins — National Air and Space Museum",
+        "url": "https://www.smithsonianmag.com/blogs/air-space-museum/2021/04/29/remembering-michael-collins/",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "harrison-schmitt",
+    "name": "Harrison Schmitt",
+    "aliases": [
+      "Harrison Hagan Schmitt",
+      "Jack Schmitt"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1935
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts",
+      "naturalists",
+      "politicians"
+    ],
+    "summary": {
+      "de": "Der Geologe untersuchte bei Apollo 17 das Taurus-Littrow-Tal und entdeckte dort mit Eugene Cernan orangefarbenen Mondboden.",
+      "en": "The geologist explored the Taurus–Littrow valley on Apollo 17, where he and Eugene Cernan found orange soil."
+    },
+    "biography": {
+      "de": "Beim US Geological Survey kartierte Schmitt die Mondoberfläche und arbeitete Methoden für die geologische Feldarbeit auf dem Mond aus. Bei Apollo 17 konnte er sie am Landeplatz selbst einsetzen. Er und Eugene Cernan beschrieben das Gelände, fotografierten Fundstellen und nahmen Gesteins- und Bodenproben. Nach seiner Zeit bei der NASA vertrat Schmitt New Mexico im US-Senat.",
+      "en": "At the US Geological Survey, Schmitt helped map the Moon and developed methods for geological fieldwork there. Apollo 17 gave him a chance to use them at the landing site. He and Eugene Cernan described the terrain, photographed their finds and collected rock and soil. After leaving NASA he represented New Mexico in the US Senate."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1965
+        },
+        "text": {
+          "de": "Wird in eine NASA-Gruppe aufgenommen, die Forschende für Raumflüge ausbildet.",
+          "en": "Is selected for a NASA class that trains scientists for spaceflight."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1972
+        },
+        "text": {
+          "de": "Erkundet mit Cernan bei drei Außenbordeinsätzen das Taurus-Littrow-Tal.",
+          "en": "Explores Taurus–Littrow with Cernan on three lunar excursions."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1976
+        },
+        "text": {
+          "de": "Wird für New Mexico in den US-Senat gewählt.",
+          "en": "Wins election to the US Senate for New Mexico."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Harrison H. Schmitt — U.S. Geological Survey",
+        "url": "https://www.usgs.gov/centers/astrogeology-science-center/harrison-h-schmitt",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Harrison H. Schmitt — NASA Biographical Data",
+        "url": "https://www.nasa.gov/wp-content/uploads/2016/01/schmitt_harrison.pdf",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "miroslaw-hermaszewski",
+    "name": "Mirosław Hermaszewski",
+    "aliases": [
+      "Miroslaw Hermaszewski"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1941
+    },
+    "death": {
+      "precision": "year",
+      "year": 2022
+    },
+    "status": "deceased",
+    "categories": [
+      "astronauts"
+    ],
+    "summary": {
+      "de": "Der erste Pole im All flog 1978 als Bordingenieur mit Sojus 30 zur Raumstation Saljut 6.",
+      "en": "The first Pole in space flew as flight engineer aboard Soyuz 30 to the Salyut 6 station in 1978."
+    },
+    "biography": {
+      "de": "Vom Segelflug kam Hermaszewski zur Pilotenausbildung in Dęblin. Mit dem Kommandanten Pjotr Klimuk startete er von Baikonur und arbeitete auf Saljut 6 am Forschungsprogramm der Mission. Nach seiner Rückkehr besuchte er Schulen in ganz Polen. Dort erzählte er von den knapp acht Tagen, in denen die Besatzung 126-mal die Erde umrundet hatte.",
+      "en": "Hermaszewski started with gliders and went on to train as a pilot in Dęblin. He launched from Baikonur with commander Pyotr Klimuk and carried out the mission’s research programme on Salyut 6. Back in Poland he visited schools across the country, telling students about the 126 orbits his crew had made in just under eight days."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1978
+        },
+        "text": {
+          "de": "Startet am 27. Juni mit Sojus 30 zu seinem Raumflug.",
+          "en": "Launches aboard Soyuz 30 on 27 June."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1986
+        },
+        "text": {
+          "de": "Übernimmt den Vorsitz der Polnischen Astronautischen Gesellschaft.",
+          "en": "Becomes president of the Polish Astronautical Society."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Zmarł gen. Mirosław Hermaszewski – pierwszy Polak, który wziął udział w misji kosmicznej. — POLSA",
+        "url": "https://polsa.gov.pl/wydarzenia/zmarl-gen-miroslaw-hermaszewski-pierwszy-polak-ktory-wzial-udzial-w-misji-kosmicznej/",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "sigmund-jaehn",
+    "name": "Sigmund Jähn",
+    "aliases": [
+      "Sigmund Jaehn"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1937
+    },
+    "death": {
+      "precision": "year",
+      "year": 2019
+    },
+    "status": "deceased",
+    "categories": [
+      "astronauts",
+      "naturalists"
+    ],
+    "summary": {
+      "de": "Der erste Deutsche im All fotografierte die Erde von Saljut 6 aus mit einer Multispektralkamera.",
+      "en": "The first German in space used a multispectral camera to photograph Earth from Salyut 6."
+    },
+    "biography": {
+      "de": "Jähn flog 1978 für die DDR mit Waleri Bykowski zur sowjetischen Raumstation Saljut 6. Die Kamera MKF-6M nahm dieselbe Landschaft in mehreren Spektralbereichen auf. Zurück auf der Erde setzte Jähn die Arbeit an der Fernerkundung fort. In den 1990er-Jahren begleitete er für das DLR und die ESA die Ausbildung in der Nähe von Moskau.",
+      "en": "Jähn flew for East Germany with Valery Bykovsky to the Soviet station Salyut 6. The MKF-6M camera recorded the same landscape in several spectral bands. Back on Earth, Jähn continued to work on remote sensing. In the 1990s he helped the German Aerospace Center and ESA prepare astronauts for flights through training near Moscow."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1978
+        },
+        "text": {
+          "de": "Startet mit Sojus 31 und kehrt in der Kapsel Sojus 29 zurück.",
+          "en": "Launches aboard Soyuz 31 and returns in the Soyuz 29 capsule."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1983
+        },
+        "text": {
+          "de": "Promoviert mit einer Arbeit zur Fernerkundung der Erde.",
+          "en": "Earns a doctorate for work on remote sensing of Earth."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sigmund Jähn — DLR",
+        "url": "https://www.dlr.de/de/forschung-und-transfer/projekte-und-missionen/deutsche-astronautinnen-astronauten/sigmund-jaehn",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Alles Gute, Sigmund Jähn! — GFZ",
+        "url": "https://www.gfz.de/presse/meldungen/detailansicht/alles-gute-sigmund-jaehn",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "pham-tuan",
+    "name": "Phạm Tuân",
+    "aliases": [
+      "Pham Tuan"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1947
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts"
+    ],
+    "summary": {
+      "de": "Vietnams erster Raumfahrer fotografierte sein Land aus dem Orbit und untersuchte auf Saljut 6 schwimmende Wasserfarne.",
+      "en": "Vietnam’s first space traveller photographed his country from orbit and studied floating water ferns on Salyut 6."
+    },
+    "biography": {
+      "de": "Auf Saljut 6 sah Phạm Tuân die Flüsse und Küsten Vietnams aus einer für ihn neuen Perspektive. Mit seinem sowjetischen Kollegen Wiktor Gorbatko fotografierte er das Land für die Erdbeobachtung. Für ein biologisches Experiment beobachtete er das Wachstum von Azolla, einem kleinen Wasserfarn. In der vietnamesischen Landwirtschaft spielt die Pflanze im Reisanbau eine Rolle.",
+      "en": "From Salyut 6, Phạm Tuân saw Vietnam’s rivers and coast from a new vantage point. He and his Soviet crewmate Viktor Gorbatko photographed the country for Earth observation. For a biology experiment he tracked the growth of Azolla, a small floating fern used in Vietnamese rice farming."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1977
+        },
+        "text": {
+          "de": "Beginnt sein Studium an der sowjetischen Luftwaffenakademie Juri Gagarin.",
+          "en": "Begins studying at the Soviet Gagarin Air Force Academy."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1980
+        },
+        "text": {
+          "de": "Erreicht Saljut 6 mit Sojus 37 und kehrt mit Sojus 36 zur Erde zurück.",
+          "en": "Arrives at Salyut 6 on Soyuz 37 and returns to Earth on Soyuz 36."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ngày này 35 năm trước: Dấu chân Việt Nam in vào vũ trụ",
+        "url": "https://baochinhphu.vn/ngay-nay-35-nam-truoc-dau-chan-viet-nam-in-vao-vu-tru-102187128.htm",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Mir Hardware Heritage, Part 2: Almaz/Salyut/Mir — NASA",
+        "url": "https://historycollection.jsc.nasa.gov/history/shuttle-mir/references/documents/mirhh-part2.pdf",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Report on the INSFFER Azolla study tour in Vietnam : 20 january-4 february 1982",
+        "url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2024-04/01651.pdf",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "arnaldo-tamayo-mendez",
+    "name": "Arnaldo Tamayo Méndez",
+    "aliases": [
+      "Arnaldo Tamayo",
+      "Arnaldo Tamayo-Méndez"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1942
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts"
+    ],
+    "summary": {
+      "de": "Der kubanische Pilot erreichte mit Sojus 38 als erster Mensch aus Lateinamerika und als erster Schwarzer Mensch den Weltraum.",
+      "en": "Aboard Soyuz 38, the Cuban pilot became the first Latin American and the first Black person to travel into space."
+    },
+    "biography": {
+      "de": "Tamayo Méndez arbeitete als Jugendlicher unter anderem als Tischlergehilfe, bevor er Pilot wurde. Im Interkosmos-Programm flog er mit Juri Romanenko zur Raumstation Saljut 6. Kubanische Forschungsteams hatten dafür Versuche vorbereitet, die auch für die Zuckerindustrie des Landes von Interesse waren. Im Orbit untersuchte die Besatzung, wie Zuckerkristalle in der Schwerelosigkeit wachsen.",
+      "en": "Tamayo Méndez worked as a carpenter’s assistant as a boy before becoming a pilot. The Interkosmos programme brought him to Salyut 6 with Yuri Romanenko. Cuban research teams had designed experiments of interest to the country’s sugar industry. In orbit, the crew studied how sugar crystals grow in weightlessness."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1980
+        },
+        "text": {
+          "de": "Startet am 18. September mit Sojus 38. Am nächsten Tag erreicht die Besatzung Saljut 6.",
+          "en": "Launches on Soyuz 38 on 18 September. The crew reaches Salyut 6 the next day."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Black in space: Arnaldo Tamayo and the Cuban cosmic revolution — The British Journal for the History of Science",
+        "url": "https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/black-in-space-arnaldo-tamayo-and-the-cuban-cosmic-revolution/4B1D250F90C2B85C82D8FE8C1107768E",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Arnaldo Tamayo Méndez — Cub@fro, año 1, n.º 2",
+        "url": "https://www.clacso.org/wp-content/uploads/2022/08/Boleti%CC%81n-Cub%40fro-An%CC%83o-1-No.2-diciembre-2021-1.pdf",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Mir Hardware Heritage, Part 2: Almaz/Salyut/Mir — NASA",
+        "url": "https://historycollection.jsc.nasa.gov/history/shuttle-mir/references/documents/mirhh-part2.pdf",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Historia de la física en Cuba (siglo XX), §4.2: Experimentos en el Cosmos",
+        "url": "https://www.mpiwg-berlin.mpg.de/sites/default/files/P491_0.pdf",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "svetlana-savitskaya",
+    "name": "Swetlana Sawizkaja",
+    "aliases": [
+      "Svetlana Savitskaya",
+      "Svetlana Yevgenyevna Savitskaya",
+      "Swetlana Sawitskaja",
+      "Светлана Савицкая"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1948
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts",
+      "women-in-science",
+      "scientists",
+      "politicians"
+    ],
+    "summary": {
+      "de": "Die sowjetische Testpilotin unternahm den ersten Außenbordeinsatz einer Frau und erprobte dabei Schweißarbeiten im Weltraum.",
+      "en": "The Soviet test pilot became the first woman to make a spacewalk, testing welding equipment outside Salyut 7."
+    },
+    "biography": {
+      "de": "Sawizkaja gewann die Weltmeisterschaft im Kunstflug und arbeitete als Testpilotin. Zweimal flog sie auf die sowjetische Raumstation Saljut 7. Beim zweiten Besuch stieg sie mit Wladimir Dschanibekow aus der Station, um zu untersuchen, wie sich Metall im freien Weltraum bearbeiten lässt. Später gehörte sie dem russischen Parlament an.",
+      "en": "An aerobatic world champion and test pilot, Savitskaya flew twice to the Soviet station Salyut 7. On her second visit she went outside with Vladimir Dzhanibekov to test how metal could be worked in open space. After her flying career she served in the Russian parliament."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1970
+        },
+        "text": {
+          "de": "Gewinnt die Weltmeisterschaft im Kunstflug.",
+          "en": "Wins the world aerobatics championship."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1982
+        },
+        "text": {
+          "de": "Reist mit Sojus T-7 zum ersten Mal nach Saljut 7.",
+          "en": "Makes her first visit to Salyut 7 on Soyuz T-7."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1984
+        },
+        "text": {
+          "de": "Erprobt bei einem Außenbordeinsatz im Juli das Schweißen im All.",
+          "en": "Tests welding in space during a July spacewalk."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Svetlana Y. Savitskaya — New Mexico Museum of Space History",
+        "url": "https://nmspacemuseum.org/inductee/svetlana-y-savitskaya/",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "sally-ride",
+    "name": "Sally Ride",
+    "aliases": [
+      "Sally Kristen Ride"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1951
+    },
+    "death": {
+      "precision": "year",
+      "year": 2012
+    },
+    "status": "deceased",
+    "categories": [
+      "astronauts",
+      "physicists",
+      "women-in-science",
+      "writers"
+    ],
+    "summary": {
+      "de": "Die Physikerin bediente bei STS-7 den Roboterarm der Challenger. Später konnten Schulklassen dank ihrer Idee die Erde aus dem All fotografieren.",
+      "en": "The physicist operated Challenger’s robotic arm on STS-7 and later gave schoolchildren a way to photograph Earth from orbit."
+    },
+    "biography": {
+      "de": "Auf STS-7 setzte Ride mit dem kanadischen Roboterarm eine Experimentierplattform aus und fing sie wieder ein. Später lehrte sie Physik in San Diego und schrieb Wissenschaftsbücher für junge Leser:innen. Ihre Idee für EarthKAM machte aus einer Kamera im Orbit ein Instrument für den Unterricht. Schulklassen konnten selbst auswählen, welchen Ort auf der Erde sie fotografieren wollten.",
+      "en": "On STS-7, Ride used the Canadian robotic arm to release an experiment platform and capture it again. She later taught physics in San Diego and wrote science books for young readers. Her idea for EarthKAM turned an orbiting camera into a classroom instrument. Students could choose which place on Earth they wanted to photograph."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1983
+        },
+        "text": {
+          "de": "Fliegt mit der Challenger bei STS-7 als erste US-Amerikanerin ins All.",
+          "en": "Flies on Challenger’s STS-7 as the first American woman in space."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1984
+        },
+        "text": {
+          "de": "Kehrt für die Mission STS-41G an Bord der Challenger zurück.",
+          "en": "Returns to Challenger for STS-41G."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Who Was Sally Ride? - NASA",
+        "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/who-was-sally-ride/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "40 Years Ago: STS-7 and the Flight of Sally Ride - NASA",
+        "url": "https://www.nasa.gov/history/40-years-ago-sts-7-and-the-flight-of-sally-ride/",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "rakesh-sharma",
+    "name": "Rakesh Sharma",
+    "aliases": [],
+    "birth": {
+      "precision": "year",
+      "year": 1949
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts"
+    ],
+    "summary": {
+      "de": "Der indische Testpilot beobachtete auf Saljut 7 die Erde und arbeitete an Experimenten zur Materialverarbeitung in der Schwerelosigkeit.",
+      "en": "The Indian test pilot observed Earth from Salyut 7 and took part in experiments on materials processing in weightlessness."
+    },
+    "biography": {
+      "de": "Sharma wurde in Patiala geboren und begann seine Laufbahn bei der indischen Luftwaffe. Eine indisch-sowjetische Mission brachte ihn 1984 als ersten Inder ins All. Ein Teil seines Versuchsprogramms galt der Erdbeobachtung mit Blick auf Indien. Auf derselben Reise erprobte er Yoga in der Schwerelosigkeit und arbeitete an Versuchen zum Schmelzen von Silizium.",
+      "en": "Born in Patiala, Sharma began his flying career in the Indian Air Force. An Indian–Soviet mission made him the first Indian in space in 1984. Part of his programme involved observing India from Earth orbit. The same flight also gave him an opportunity to try yoga in weightlessness and to take part in experiments on melting silicon."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1970
+        },
+        "text": {
+          "de": "Tritt als Pilot in den Dienst der indischen Luftwaffe.",
+          "en": "Joins the Indian Air Force as a pilot officer."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1984
+        },
+        "text": {
+          "de": "Startet am 3. April mit Sojus T-11 zur Raumstation Saljut 7.",
+          "en": "Departs for Salyut 7 aboard Soyuz T-11 on 3 April."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Cadet Corps, Air Force, Senior Division/Senior Wing: Rakesh Sharma",
+        "url": "https://www.cbse.gov.in/cbsenew/ebooks/ANO-SDSW-FINAL.pdf",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "40 Years Since Rakesh Sharma’s Space Flight — Rediff",
+        "url": "https://www.rediff.com/news/report/40-years-since-rakesh-sharmas-space-flight/20240404.htm",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "helen-sharman",
+    "name": "Helen Sharman",
+    "aliases": [
+      "Helen Patricia Sharman"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1963
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts",
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Die britische Chemikerin untersuchte auf der Mir, wie Kartoffelwurzeln in der Schwerelosigkeit wachsen.",
+      "en": "The British chemist studied how potato roots grow in weightlessness aboard Mir."
+    },
+    "biography": {
+      "de": "Sharman arbeitete in der Forschung für einen Süßwarenhersteller, als sie im Radio den Aufruf zur Bewerbung für das Projekt Juno hörte. Auf der Mir untersuchte sie unter anderem die Wuchsrichtung von Kartoffelwurzeln und die Keimung von Weizen. Saatgut brachte sie wieder zur Erde. Britische Schulklassen konnten es aussäen und mit Samen vergleichen, die auf der Erde geblieben waren.",
+      "en": "Sharman was doing research for a confectionery company when she heard a radio advertisement for Project Juno. Aboard Mir she examined the direction in which potato roots grew and how wheat germinated. She brought seeds back so that British pupils could grow them alongside seeds that had stayed on Earth."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1989
+        },
+        "text": {
+          "de": "Wird für die Ausbildung im britisch-sowjetischen Projekt Juno ausgewählt.",
+          "en": "Is selected for training under the British–Soviet Project Juno."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1991
+        },
+        "text": {
+          "de": "Erreicht als erster Mensch aus Großbritannien den Weltraum und arbeitet auf der Mir.",
+          "en": "Becomes the first Briton in space and carries out experiments aboard Mir."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Helen Sharman — Science Museum Group",
+        "url": "https://collection.sciencemuseumgroup.org.uk/people/cp38842/helen-sharman",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Former astronaut Helen Sharman finds a new space at Imperial — Imperial College London",
+        "url": "https://www.imperial.ac.uk/news/168110/former-astronaut-helen-sharman-finds-space/",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "franz-viehboeck",
+    "name": "Franz Viehböck",
+    "aliases": [
+      "Franz Viehboeck"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1960
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts",
+      "scientists"
+    ],
+    "summary": {
+      "de": "Österreichs erster Raumfahrer brachte bei Austromir ’91 ein Wiener Trainings- und Messgerät auf die Raumstation Mir.",
+      "en": "Austria’s first space traveller took a Viennese exercise and measuring device to Mir on the Austromir ’91 mission."
+    },
+    "biography": {
+      "de": "An der TU Wien arbeitete der Elektrotechniker Viehböck in der elektronischen Messtechnik. Bei Austromir ’91 flog er mit Sojus TM-13 zur Mir. Zu den 15 Experimenten der Mission gehörte Motomir, ein an der Universität Wien entwickeltes Ergometer. Damit konnte die Besatzung Arme und Beine trainieren und zugleich messen, wie sich die Muskelleistung in der Schwerelosigkeit veränderte.",
+      "en": "An electrical engineer, Viehböck worked on electronic measurement at the Vienna University of Technology. Soyuz TM-13 took him to Mir for Austromir ’91. One of the mission’s fifteen experiments used Motomir, an exercise machine developed at the University of Vienna. It let the crew train their arms and legs and measure changes in muscle performance in weightlessness."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1989
+        },
+        "text": {
+          "de": "Beginnt mit dem Arzt Clemens Lothaller die Ausbildung für den sowjetisch-österreichischen Raumflug.",
+          "en": "Begins training alongside physician Clemens Lothaller for the joint Soviet–Austrian spaceflight."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1991
+        },
+        "text": {
+          "de": "Startet am 2. Oktober zu Austromir und kehrt am 10. Oktober zur Erde zurück.",
+          "en": "Launches for Austromir on 2 October and returns to Earth on 10 October."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Astronauten — ESA Österreich",
+        "url": "https://www.esa.int/Space_in_Member_States/Austria/Astronauten",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Wie uns „Austromir“ Experimente bis heute nützen — Austria in Space",
+        "url": "https://austria-in-space.at/de/geschichte/austromir-experimente.php",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Viehböck, Franz — Österreichisches Personenlexikon",
+        "url": "https://austria-forum.org/af/Kunst_und_Kultur/B%C3%BCcher/%C3%96sterreichisches_Personenlexikon_1992/Viehb%C3%B6ck%2C_Franz",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Weltraumflug — Franz Viehböck",
+        "url": "https://www.franzviehboeck.com/weltraumflug-1",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "mae-jemison",
+    "name": "Mae Jemison",
+    "aliases": [
+      "Mae Carol Jemison",
+      "Mae C. Jemison"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1956
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts",
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Die Ärztin flog mit STS-47 als erste Schwarze Frau ins All. Auf der Endeavour untersuchte sie, wie Knochenzellen auf den Raumflug reagieren.",
+      "en": "The physician became the first Black woman in space on STS-47 and investigated how bone cells respond to spaceflight aboard Endeavour."
+    },
+    "biography": {
+      "de": "Jemison studierte Chemieingenieurwesen und Medizin. Als Ärztin des Peace Corps arbeitete sie in Sierra Leone und Liberia. Bei der gemeinsamen amerikanisch-japanischen Spacelab-Mission STS-47 war sie an einem Versuch über Knochenzellen beteiligt. Peggy Whitson, die später selbst ins All flog, hatte am Boden an der Entwicklung dieses Experiments gearbeitet.",
+      "en": "Jemison studied chemical engineering and medicine. As a Peace Corps medical officer, she worked in Sierra Leone and Liberia. On the joint US–Japanese Spacelab mission STS-47 she was a co-investigator on a bone-cell experiment. Peggy Whitson, who would later fly in space herself, had helped develop that experiment on the ground."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1981
+        },
+        "text": {
+          "de": "Schließt ihr Medizinstudium an der Cornell University ab.",
+          "en": "Earns her medical degree at Cornell University."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1992
+        },
+        "text": {
+          "de": "Arbeitet auf STS-47 im Spacelab der Raumfähre Endeavour.",
+          "en": "Works in the Spacelab laboratory aboard Endeavour during STS-47."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Former Astronaut Mae C. Jemison - NASA",
+        "url": "https://www.nasa.gov/former-astronaut-mae-c-jemison/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Dr. Mae C. Jemison — U.S. National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/exhibition/changing-the-face-of-medicine/physicians/biography_mae_jemison.html",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Peggy A. Whitson (Ph.D.) — NASA Astronaut Biography",
+        "url": "https://www.nasa.gov/wp-content/uploads/2016/01/whitson.pdf",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "chiaki-mukai",
+    "name": "Chiaki Mukai",
+    "aliases": [
+      "Mukai Chiaki",
+      "向井千秋"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1952
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts",
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Die japanische Herzchirurgin flog zweimal als Nutzlastspezialistin und forschte zur Physiologie des Menschen im All.",
+      "en": "The Japanese heart surgeon flew twice as a payload specialist and studied human physiology in space."
+    },
+    "biography": {
+      "de": "Mukai kam über die Herz- und Gefäßchirurgie zur Raumfahrt. Sie arbeitete am Johnson Space Center über die Physiologie des Kreislaufs. Bei ihrem ersten Flug auf der Columbia wurde sie die erste Japanerin im All. Ihr zweiter Shuttleflug führte sie mit John Glenn zusammen. Später leitete sie bei der japanischen Raumfahrtagentur JAXA ein Zentrum für angewandte Raumfahrtmedizin.",
+      "en": "Mukai came to spaceflight through cardiovascular surgery. At Johnson Space Center she studied the physiology of the circulatory system. Her first flight aboard Columbia made her the first Japanese woman in space. She flew alongside John Glenn on her second shuttle mission and later directed JAXA’s centre for applied space medicine and human research."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1994
+        },
+        "text": {
+          "de": "Arbeitet auf STS-65 im zweiten Internationalen Mikrogravitationslabor an biologischen und physikalischen Experimenten.",
+          "en": "Conducts life and physical science experiments in the second International Microgravity Laboratory on STS-65."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 1998
+        },
+        "text": {
+          "de": "Kehrt mit STS-95 für weitere Untersuchungen zur Raumfahrtmedizin ins All zurück.",
+          "en": "Returns to orbit on STS-95 for further space medicine research."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "MUKAI Chiaki — JAXA",
+        "url": "https://humans-in-space.jaxa.jp/en/astronaut/mukai-chiaki/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Profile of Astronaut Mukai — JAXA",
+        "url": "https://iss.jaxa.jp/shuttle/flight/sts95/sts95mukai_profile_e.html",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "chris-hadfield",
+    "name": "Chris Hadfield",
+    "aliases": [
+      "Christopher Hadfield"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1959
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts",
+      "writers"
+    ],
+    "summary": {
+      "de": "Der kanadische Astronaut bediente den Roboterarm des Space Shuttles und half später, dessen Nachfolger Canadarm2 an der ISS zu installieren.",
+      "en": "The Canadian astronaut operated the shuttle’s robotic arm and later helped install its successor, Canadarm2, on the ISS."
+    },
+    "biography": {
+      "de": "Auf dem Flug der Atlantis zur Mir steuerte Hadfield den Canadarm vom Shuttle aus. Sechs Jahre später arbeitete er auf der anderen Seite der Luke. Bei zwei Außenbordeinsätzen half er, den neuen Roboterarm der Internationalen Raumstation (ISS) zu montieren. Später kommandierte er die Station und veröffentlichte das Buch An Astronaut’s Guide to Life on Earth.",
+      "en": "When Atlantis visited Mir, Hadfield operated Canadarm from inside the shuttle. Six years later he worked on the other side of the hatch. During two spacewalks he helped install a new robotic arm on the International Space Station (ISS). He later commanded the station and wrote An Astronaut’s Guide to Life on Earth."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1995
+        },
+        "text": {
+          "de": "Bedient bei STS-74 den Canadarm beim Flug zur Mir.",
+          "en": "Operates Canadarm on the STS-74 mission to Mir."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 2001
+        },
+        "text": {
+          "de": "Hilft bei STS-100, Canadarm2 an der ISS zu installieren.",
+          "en": "Helps install Canadarm2 on the ISS during STS-100."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 2013
+        },
+        "text": {
+          "de": "Übernimmt als erster Kanadier das Kommando auf der ISS.",
+          "en": "Becomes the first Canadian to command the ISS."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Astronaut Chris Hadfield’s biography — Canadian Space Agency",
+        "url": "https://www.asc-csa.gc.ca/eng/astronauts/canadian/retired/bio-chris-hadfield.asp",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "mark-shuttleworth",
+    "name": "Mark Shuttleworth",
+    "aliases": [
+      "Mark Richard Shuttleworth"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1973
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts",
+      "computing"
+    ],
+    "summary": {
+      "de": "Der südafrikanische Softwareunternehmer nahm als selbstzahlender Raumfahrer Experimente südafrikanischer Universitäten mit zur ISS.",
+      "en": "The South African software entrepreneur flew to the ISS as a self-funded participant with experiments from South African universities."
+    },
+    "biography": {
+      "de": "Shuttleworth gründete die Zertifizierungsstelle Thawte und finanzierte später seinen Flug zur Internationalen Raumstation selbst. Auf der ISS führte er vier Experimente südafrikanischer Universitäten durch. Für eines davon gab er eine eigene Speichelprobe ab. Nach dem Flug gründete er Canonical, das Unternehmen hinter der Linux-Distribution Ubuntu.",
+      "en": "Shuttleworth founded the certificate authority Thawte and went on to pay for his own flight to the International Space Station. On board he conducted four experiments developed by South African universities. For one of them he contributed a sample of his own saliva. After the flight he founded Canonical, the company behind the Ubuntu Linux distribution."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 2002
+        },
+        "text": {
+          "de": "Fliegt mit Sojus TM-34 als erster Südafrikaner ins All.",
+          "en": "Travels aboard Soyuz TM-34 as the first South African in space."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 2004
+        },
+        "text": {
+          "de": "Gründet Canonical zur Unterstützung freier Softwareprojekte wie Ubuntu.",
+          "en": "Founds Canonical to support free software projects including Ubuntu."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Space Station 20th – Space Flight Participants - NASA",
+        "url": "https://www.nasa.gov/history/space-station-20th-space-flight-participants/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Mark Shuttleworth — London International Youth Science Forum",
+        "url": "https://www.liysf.org.uk/liysf/principal-stem-lectures/mark-shuttleworth",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "peggy-whitson",
+    "name": "Peggy Whitson",
+    "aliases": [
+      "Peggy Annette Whitson",
+      "Peggy A. Whitson"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1960
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts",
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Die Biochemikerin betreute als erste Wissenschaftsoffizierin der NASA die Forschung auf der ISS und übernahm später das Kommando der Station.",
+      "en": "The biochemist became NASA’s first ISS science officer and later commanded the station."
+    },
+    "biography": {
+      "de": "Am Johnson Space Center arbeitete Whitson an dem Knochenzellversuch, den Mae Jemison bei STS-47 im All betreute. Ein Jahrzehnt später war sie bei Expedition 5 selbst für die wissenschaftliche Arbeit auf der ISS mitverantwortlich. Als Kommandantin von Expedition 16 begleitete sie den weiteren Ausbau der Station. Bei der privaten Mission Ax-2 führte sie erneut eine Besatzung dorthin.",
+      "en": "At Johnson Space Center, Whitson helped develop the bone-cell experiment that Mae Jemison worked on during STS-47. A decade later Whitson was on the ISS herself, overseeing research on Expedition 5. She went on to command Expedition 16 during the station’s expansion and later led another crew there on the private Ax-2 mission."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 2002
+        },
+        "text": {
+          "de": "Wird bei Expedition 5 zur ersten ISS-Wissenschaftsoffizierin der NASA ernannt.",
+          "en": "Is appointed NASA’s first ISS science officer during Expedition 5."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 2007
+        },
+        "text": {
+          "de": "Übernimmt bei Expedition 16 als erste Frau das Kommando der ISS.",
+          "en": "Becomes the first woman to command the ISS on Expedition 16."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 2023
+        },
+        "text": {
+          "de": "Kommandiert Ax-2 mit der saudischen Forscherin Rayyanah Barnawi an Bord.",
+          "en": "Commands Ax-2 with Saudi researcher Rayyanah Barnawi aboard."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Former Astronaut Peggy Whitson - NASA",
+        "url": "https://www.nasa.gov/former-astronaut-peggy-whitson/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Peggy A. Whitson (Ph.D.) — NASA Astronaut Biography",
+        "url": "https://www.nasa.gov/wp-content/uploads/2016/01/whitson.pdf",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Former Astronaut Mae C. Jemison - NASA",
+        "url": "https://www.nasa.gov/former-astronaut-mae-c-jemison/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Watch the Ax-2 On-Orbit Science Briefing — Axiom Space",
+        "url": "https://axiomspace.com/mission-blog/ax2-science-briefing",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "yang-liwei",
+    "name": "Yang Liwei",
+    "aliases": [
+      "杨利伟",
+      "楊利偉"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1965
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts"
+    ],
+    "summary": {
+      "de": "Yang flog 2003 mit Shenzhou 5 auf Chinas erstem bemannten Raumflug vierzehnmal um die Erde.",
+      "en": "Yang orbited Earth fourteen times on Shenzhou 5, China’s first crewed spaceflight, in 2003."
+    },
+    "biography": {
+      "de": "Yang war Pilot, als China begann, Besatzungen für sein Shenzhou-Programm auszubilden. Beim ersten bemannten Start des Programms saß er allein in der Kapsel. Zwischen dem Start in Jiuquan und der Rückkehr zur Erde vergingen rund 21 Stunden. Spätere Shenzhou-Besatzungen wie die von Liu Yang flogen bereits zu Laboren im Orbit.",
+      "en": "Yang was a pilot when China began training crews for its Shenzhou programme. On its first crewed launch he was alone in the capsule. About 21 hours passed between liftoff from Jiuquan and his return to Earth. Later Shenzhou crews, including Liu Yang’s, travelled to laboratories already in orbit."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 1998
+        },
+        "text": {
+          "de": "Wird in Chinas erste Ausbildungsgruppe für Raumfahrer aufgenommen.",
+          "en": "Is chosen for China’s first group of astronaut trainees."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 2003
+        },
+        "text": {
+          "de": "Startet am 15. Oktober mit Shenzhou 5 zu seinem Alleinflug.",
+          "en": "Launches aboard Shenzhou 5 on 15 October for his solo flight."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Yang Liwei — China Manned Space",
+        "url": "https://en.cmse.gov.cn/constitutes/astronautsystem/Taikonauts/201504/t20150417_21579.html",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Dr Yang Liwei — The Chinese University of Hong Kong",
+        "url": "https://www.cuhk.edu.hk/cpr/pressrelease/041209Yang_e.htm",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Liu Yang — China Manned Space",
+        "url": "https://en.cmse.gov.cn/constitutes/astronautsystem/Taikonauts/201504/t20150417_21586.html",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "marcos-pontes",
+    "name": "Marcos Pontes",
+    "aliases": [
+      "Marcos César Pontes"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1963
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts",
+      "politicians"
+    ],
+    "summary": {
+      "de": "Brasiliens erster Raumfahrer ließ auf der ISS Bohnen keimen. Schulklassen begleiteten das Experiment auf der Erde.",
+      "en": "Brazil’s first space traveller germinated beans on the ISS while schoolchildren ran the same experiment on Earth."
+    },
+    "biography": {
+      "de": "Der Ingenieur und Testpilot Pontes flog bei der Missão Centenário mit brasilianischen Experimenten zur ISS. Für das Projekt Seeds beobachtete er Bohnen auf feuchter Watte. In São José dos Campos setzten Schulklassen denselben Versuch an, sodass sich das Wachstum am Boden mit dem in der Schwerelosigkeit vergleichen ließ. Später wurde Pontes für São Paulo in den brasilianischen Senat gewählt.",
+      "en": "An engineer and test pilot, Pontes took Brazilian experiments to the ISS on the Missão Centenário. For the Seeds project, he observed beans on moist cotton. Pupils in São José dos Campos set up the same experiment so they could compare growth on Earth and in weightlessness. He later won election to Brazil’s Senate for São Paulo."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 2006
+        },
+        "text": {
+          "de": "Führt bei der Missão Centenário auf der ISS das Schulexperiment mit Bohnensamen durch.",
+          "en": "Runs the school experiment with bean seeds on the ISS during the Missão Centenário."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 2022
+        },
+        "text": {
+          "de": "Wird für den Bundesstaat São Paulo in den Senat gewählt.",
+          "en": "Is elected to the Senate for the state of São Paulo."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Currículo resumido - Astronauta Marcos Pontes",
+        "url": "https://marcospontes.com/imprensa/curriculo-resumido/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Astronauta brasileiro diz que passa bem e que já iniciou duas experiências | Agência Brasil",
+        "url": "https://memoria.ebc.com.br/agenciabrasil//noticia/2006-04-01/astronauta-brasileiro-diz-que-passa-bem-e-que-ja-iniciou-duas-experiencias",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Senador Astronauta Marcos Pontes - Senado Federal",
+        "url": "https://www25.senado.leg.br/pt_BR/web/senadores/senador/-/perfil/6009",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "liu-yang",
+    "name": "Liu Yang",
+    "aliases": [
+      "刘洋",
+      "劉洋"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1978
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Chinas erste Frau im All betreute medizinische Experimente auf Shenzhou 9 und arbeitete später außen an der Raumstation Tiangong.",
+      "en": "China’s first woman in space ran medical experiments on Shenzhou 9 and later worked outside the Tiangong space station."
+    },
+    "biography": {
+      "de": "Die Pilotin Liu gehörte zur Besatzung von Shenzhou 9, die am Raumlabor Tiangong 1 anlegte. An Bord war sie für die medizinischen Experimente zuständig. Zehn Jahre später stieg sie mit Chen Dong aus dem Labormodul Wentian der Raumstation Tiangong aus. Sie montierten unter anderem eine Pumpe für das Kühlsystem und richteten eine Panoramakamera neu aus.",
+      "en": "A pilot, Liu was part of the Shenzhou 9 crew that docked with the Tiangong 1 space laboratory. She was responsible for the medical experiments on board. Ten years later she and Chen Dong stepped outside the Wentian module of the Tiangong space station. They installed pump equipment for its cooling system and repositioned a panoramic camera."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 2012
+        },
+        "text": {
+          "de": "Fliegt mit Shenzhou 9 zum Raumlabor Tiangong 1.",
+          "en": "Flies to the Tiangong 1 space laboratory on Shenzhou 9."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 2022
+        },
+        "text": {
+          "de": "Verlässt bei Shenzhou 14 für Außenarbeiten die Luftschleuse des Wentian-Moduls.",
+          "en": "Uses Wentian’s airlock for a spacewalk during Shenzhou 14."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Liu Yang — China Manned Space",
+        "url": "https://en.cmse.gov.cn/constitutes/astronautsystem/Taikonauts/201504/t20150417_21586.html",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Women in Science: Liu Yang — Chandra X-ray Center",
+        "url": "https://chandra.si.edu/women/images/liu.pdf",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "China’s Shenzhou 14 crew performs 1st spacewalk from new module — Space.com",
+        "url": "https://www.space.com/china-astronauts-spacewalk-from-new-module",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "samantha-cristoforetti",
+    "name": "Samantha Cristoforetti",
+    "aliases": [],
+    "birth": {
+      "precision": "year",
+      "year": 1977
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts",
+      "scientists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Die italienische Ingenieurin flog mit Futura und Minerva zur ISS und übernahm als erste Europäerin das Kommando der Station.",
+      "en": "The Italian engineer flew to the ISS on Futura and Minerva and became the first European woman to command the station."
+    },
+    "biography": {
+      "de": "Cristoforetti studierte Maschinenbau in München und forschte während eines Aufenthalts in Toulouse zur Aerodynamik. Zwischen ihren beiden Raumflügen leitete sie eine Gruppe am Europäischen Astronautenzentrum, die Technik für künftige Mondmissionen erprobte. Bei Minerva koordinierte sie die Arbeiten im US-geführten Teil der ISS. Dazu gehören auch die europäischen, japanischen und kanadischen Anlagen.",
+      "en": "Cristoforetti studied mechanical engineering in Munich and worked on an aerodynamics experiment in Toulouse. Between her two spaceflights she led a team at the European Astronaut Centre working on technology for future Moon missions. During Minerva she oversaw work in the US-led section of the ISS, which includes European, Japanese and Canadian hardware."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 2014
+        },
+        "text": {
+          "de": "Startet im November zur Mission Futura und verbringt bis Juni 2015 rund 200 Tage im All.",
+          "en": "Launches in November for Futura and spends about 200 days in space before returning in June 2015."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 2022
+        },
+        "text": {
+          "de": "Unternimmt auf Minerva einen Außenbordeinsatz und übernimmt später das Kommando der ISS.",
+          "en": "Makes a spacewalk on Minerva and later takes command of the ISS."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Samantha Cristoforetti — ESA",
+        "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/samantha-cristoforetti",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "rayyanah-barnawi",
+    "name": "Rayyanah Barnawi",
+    "aliases": [
+      "ريانة برناوي"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1988
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts",
+      "naturalists",
+      "women-in-science"
+    ],
+    "summary": {
+      "de": "Die saudische Biomedizinerin brachte ihre Erfahrung aus der Stammzellforschung als Missionsspezialistin von Ax-2 auf die ISS.",
+      "en": "The Saudi biomedical researcher brought her experience in stem-cell research to the ISS as a mission specialist on Ax-2."
+    },
+    "biography": {
+      "de": "Barnawi arbeitete in Riad an einem Forschungszentrum, das Stammzellen und Brustkrebs untersucht. Auf der ISS gehörte sie zur vierköpfigen Ax-2-Besatzung unter Peggy Whitsons Kommando. Zum saudischen Forschungsprogramm gehörten Versuche zu Immunzellen und Experimente, an denen Schulklassen auf der Erde teilnahmen. In einer Live-Schaltung berichtete Barnawi mit der Besatzung aus dem Labor im Orbit.",
+      "en": "Barnawi worked at a research centre in Riyadh studying stem cells and breast cancer. She joined Peggy Whitson’s four-person Ax-2 crew on the ISS. The Saudi programme included studies of immune cells and experiments involving schoolchildren on Earth. Barnawi and her crewmates discussed their research in a live broadcast from the orbiting laboratory."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 2022
+        },
+        "text": {
+          "de": "Trainiert in Saudi-Arabien in der Zentrifuge als Teil ihrer Vorbereitung auf den Raumflug.",
+          "en": "Undertakes centrifuge training in Saudi Arabia in preparation for spaceflight."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 2023
+        },
+        "text": {
+          "de": "Fliegt im Mai mit Ax-2 als erste Saudi-Araberin ins All.",
+          "en": "Flies on Ax-2 in May as the first Saudi woman in space."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rayyanah Barnawi — Axiom Space",
+        "url": "https://www.axiomspace.com/astronaut/rayyanah-barnawi",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Rayyanah Barnawi - Saudipedia",
+        "url": "https://saudipedia.com/en/rayyanah-barnawi",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Watch the Ax-2 On-Orbit Science Briefing — Axiom Space",
+        "url": "https://axiomspace.com/mission-blog/ax2-science-briefing",
+        "accessed": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "slawosz-uznanski-wisniewski",
+    "name": "Sławosz Uznański-Wiśniewski",
+    "aliases": [
+      "Sławosz Uznański",
+      "Slawosz Uznanski",
+      "Slawosz Uznanski-Wisniewski"
+    ],
+    "birth": {
+      "precision": "year",
+      "year": 1984
+    },
+    "death": null,
+    "status": "living",
+    "categories": [
+      "astronauts",
+      "scientists"
+    ],
+    "summary": {
+      "de": "Der polnische Elektronikingenieur untersuchte am CERN die Strahlenfestigkeit von Bauteilen und testete bei der Mission Ignis ein Strahlungsmessgerät auf der ISS.",
+      "en": "The Polish electronics engineer studied how components withstand radiation at CERN and tested a radiation monitor on the ISS during Ignis."
+    },
+    "biography": {
+      "de": "Am CERN arbeitete Uznański-Wiśniewski daran, die Stromversorgung des Teilchenbeschleunigers LHC auch unter Strahlung zuverlässig zu steuern. Auf der ISS setzte er diese Arbeit im Orbit fort. Für die ESA-Mission Ignis erprobte er das Messgerät SpaceRadMon-NG und führte Experimente polnischer Forschungseinrichtungen und Unternehmen durch. Die Reise war Teil der Mission Axiom 4.",
+      "en": "At CERN, Uznański-Wiśniewski worked on reliable controls for the Large Hadron Collider’s power distribution in a radiation environment. He took that interest into orbit on the ESA mission Ignis. On the ISS he tested the SpaceRadMon-NG radiation monitor and ran experiments proposed by Polish institutions and companies. The flight was part of Axiom Mission 4."
+    },
+    "highlights": [
+      {
+        "date": {
+          "precision": "year",
+          "year": 2011
+        },
+        "text": {
+          "de": "Promoviert über strahlungsfeste Elektronik für Raumfahrtanwendungen und wechselt ans CERN.",
+          "en": "Completes a doctorate on radiation-tolerant designs for space and joins CERN."
+        }
+      },
+      {
+        "date": {
+          "precision": "year",
+          "year": 2025
+        },
+        "text": {
+          "de": "Testet während Ignis auf der Internationalen Raumstation das Gerät SpaceRadMon-NG.",
+          "en": "Tests SpaceRadMon-NG aboard the International Space Station during Ignis."
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sławosz Uznański-Wiśniewski — ESA",
+        "url": "https://www.esa.int/pl/articles/about-us/who-we-are/member-states/poland/slawosz-uznanski-wisniewski",
+        "accessed": "2026-11-28"
+      },
+      {
+        "title": "Welcome back to Earth, Sławosz! — CERN",
+        "url": "https://home.cern/welcome-back-earth-slawosz/",
+        "accessed": "2026-11-28"
+      }
+    ]
+  }
+]

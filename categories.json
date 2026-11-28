@@ -78,6 +78,19 @@
     }
   },
   {
+    "id": "astronauts",
+    "parent": null,
+    "icon": "physics",
+    "name": {
+      "de": "Astronaut:innen",
+      "en": "Astronauts"
+    },
+    "description": {
+      "de": "Wer flog ins All und mit welcher Aufgabe? Von den ersten Erdumrundungen über die Mondlandungen bis zur Forschung auf Raumstationen.",
+      "en": "Who went into space, and what did they do there? Explore the first orbits, the Moon landings and research aboard space stations."
+    }
+  },
+  {
     "id": "philosophers",
     "parent": null,
     "icon": "philosophy",

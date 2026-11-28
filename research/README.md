@@ -21,3 +21,7 @@ The women-in-science audit now covers 77 records, including all 27 women assigne
 The following results describe the 381-person release. The subsequent additions of [Grete Hermann](grete-hermann.md) and [Emma Castelnuovo](emma-castelnuovo.md) bring the collection to 383 people, including 79 women in science and research and 29 women in mathematics. Current counts and the complete roster are maintained in [docs/COVERAGE.md](../docs/COVERAGE.md).
 
 After all category handoffs, all 14 collections were registered and the translation source fingerprint was reconciled. The complete 381-person catalogue passes `tools/check.py`, the versioned JSON Schemas with URI/date format checks, and the normalized name/alias duplicate audit. The engine's contract tests and browser journeys pass with the full collection at 1440, 768, 390 and 320 px widths. All 381 people are accessible in the list; 373 have plottable life endpoints. These final results supersede the pre-integration counts and pending fingerprint checks in individual category notes. They do not change the pending independent historical and language review status.
+
+## Astronauts, 28 November 2026
+
+The [astronaut collection](astronauts.md) adds 27 people, bringing the atlas to 410. Ten also appear in Women in science and research. The [coverage index](../docs/COVERAGE.md) lists each person and their direct memberships.
