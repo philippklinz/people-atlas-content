@@ -1,6 +1,6 @@
 # People Atlas content
 
-A growing curated collection of 410 people and 12 overlapping categories, from antiquity to the modern era. Each entry includes an original German/English biography, life dates, works or contributions, category memberships and external sources. Portraits are included where attribution and reuse terms have been recorded.
+A growing curated collection of 413 people and 12 overlapping categories, from antiquity to the modern era. Each entry includes an original German/English biography, life dates, works or contributions, category memberships and external sources. Portraits are included where attribution and reuse terms have been recorded.
 
 The collection is read by [people-atlas-engine](https://github.com/philippklinz/people-atlas-engine), but has no dependency on the engine's rendering code.
 
@@ -20,7 +20,7 @@ There is no content compilation step. Publish the JSON files and images as stati
 
 ## Editorial scope
 
-The November 2026 additions brought the collection from 28 to 410 people and expanded the original profiles. Coverage spans more regions, eras and disciplines, including social research, engineering and performing arts. The [astronaut collection](research/astronauts.md) follows 27 people from Vostok 1 to joint research missions aboard space stations. Research notes record gaps and further candidates. Each person has a single record across all their categories.
+The November 2026 additions brought the collection from 28 to 413 people and expanded the original profiles. Coverage spans more regions, eras and disciplines, including social research, engineering and performing arts. The [astronaut collection](research/astronauts.md) follows 30 people from Vostok 1 to joint research missions aboard space stations. It includes the three astronauts who trained for Apollo 1. Research notes record gaps and further candidates. Each person has a single record across all their categories.
 
 Women in science and research is an additional cross-disciplinary category with 89 entries, including all 29 mathematicians identified in that selection. Every person also retains their subject categories. German category and group labels use gender-inclusive wording.
 

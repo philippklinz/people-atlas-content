@@ -24,4 +24,4 @@ After all category handoffs, all 14 collections were registered and the translat
 
 ## Astronauts, 28 November 2026
 
-The [astronaut collection](astronauts.md) adds 27 people, bringing the atlas to 410. Ten also appear in Women in science and research. The [coverage index](../docs/COVERAGE.md) lists each person and their direct memberships.
+The [astronaut collection](astronauts.md) adds 30 people, including the three members of the Apollo 1 crew, bringing the atlas to 413. Ten also appear in Women in science and research. The [coverage index](../docs/COVERAGE.md) lists each person and their direct memberships.
